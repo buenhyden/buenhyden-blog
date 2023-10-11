@@ -1,9 +1,9 @@
 ---
 layout:     post 
-title:      "Welcome to Zhaohuabing Blog"
+title:      "Welcome to Hyden Dev Story"
 subtitle:   "Hello World, Hello Blog"
 date:       2017-11-04
-author:     "赵化冰"
+author:     "hyden"
 URL: "/2017/11/03/hello-world/"
 image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
 ---
