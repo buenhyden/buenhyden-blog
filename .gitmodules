@@ -25,3 +25,16 @@
 [submodule "themes/digitalgarden"]
 	path = themes/digitalgarden
 	url = https://github.com/apvarun/digital-garden-hugo-theme.git
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/hugo-theme-cleanwhite"]
+	path = themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hugo-toha/toha.git
