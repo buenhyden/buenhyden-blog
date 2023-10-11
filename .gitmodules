@@ -7,3 +7,21 @@
 [submodule ".\\themes\\blackburn"]
 	path = .\\themes\\blackburn
 	url = https://github.com/yoshiharuyamashita/blackburn.git
+[submodule ".\\themes\\hugo-theme-stack"]
+	path = .\\themes\\hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack-starter.git
+[submodule ".\\themes\\hugo-theme-stack-starter"]
+	path = .\\themes\\hugo-theme-stack-starter
+	url = https://github.com/CaiJimmy/hugo-theme-stack-starter.git
+[submodule ".\\themes\\tranquilpeak"]
+	path = .\\themes\\tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule ".\\themes\\PaperMod"]
+	path = .\\themes\\PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule ".\\themes\\paper"]
+	path = .\\themes\\paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "themes/digitalgarden"]
+	path = themes/digitalgarden
+	url = https://github.com/apvarun/digital-garden-hugo-theme.git
