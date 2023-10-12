@@ -5,9 +5,8 @@ theme = "hugo-theme-cleanwhite"
 author = "Hyunyoun Jo"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-RBYWSZ3QZX"
 preserveTaxonomyNames = true
-
 
 canonifyurls = true
 paginate = 10
@@ -125,6 +124,18 @@ notAlternative = true
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"] 
+
+ [params.giscus]
+  data_repo="buenhyden/buenhyden-blog"
+  data_repo_id="R_kgDOKeOkIg"
+  data_category="Announcements"
+  data_category_id="DIC_kwDOKeOkIs4CaDqD"
+  data_mapping="title"
+  data_reactions_enabled="1"
+  data_emit_metadata="0"
+  data_theme="light"
+  data_lang="ko"
+  crossorigin="anonymous"
 
 [markup]
   [markup.tableOfContents]
