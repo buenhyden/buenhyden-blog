@@ -17,3 +17,6 @@
 [submodule "themes/hugo-theme-bootstrap"]
 	path = themes/hugo-theme-bootstrap
 	url = https://github.com/razonyang/hugo-theme-bootstrap
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
