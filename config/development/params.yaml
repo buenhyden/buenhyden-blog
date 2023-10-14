@@ -1,0 +1,78 @@
+pwa:
+  caches:
+    font:
+      strategy: network-first
+    image:
+      strategy: network-first
+    script:
+      strategy: network-first
+    style:
+      strategy: network-first
+
+hb:
+  # js_bundle_name: main # the JS bundle name.
+  # css_bundle_name: main # the CSS bundle name.
+  header:
+    brand: Hyden's Dev Blog # the brand name, leave it empty to use site's title.
+    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    socials:
+      github: buenhyden
+      # twitter: razonyang
+      rss: false
+      # mastodon: https://techhub.social/@hbstack
+  footer:
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    socials:
+      _color: true # when false, remove the color of social icons.
+      # github: buenhyden
+      # twitter: razonyang
+      # rss: false
+      # mastodon: https://techhub.social/@hbstack
+  blog:
+    full_width: false # when true, the blog layout takes full width.
+    sidebar:
+      profile:
+        # title: Profile title other than site title.
+        # description: Profile description other than site description.
+        company: COMPANY
+        location: Earth
+        socials:
+          github: buenhyden
+          email: chochyjj@gmail.com
+          # mastodon: https://techhub.social/@hbstack
+          rss: false
+      posts:
+        recent_count: 5 # the number of recent posts.
+        featured_count: 5 # the number of featured posts.
+      taxonomies:
+        count: true # whether to show the number of posts associated to the item.
+        limit: 10 # the maximum number of the item.
+    paginate: 12 # paginate.
+    post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
+    # post_thumbnail: false # whether to show the thumbnails.
+    # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
+    home: # homepage settings.
+      # taxonomies: false # remove the taxonomies stat from the homepage.
+      featured_posts: 5 # the number of the featured posts.
+      main_sections: # leave it empty to include all regular pages.
+        - docs
+        - blog
+        - tutorials
+    giscus:
+      repo: buenhyden/buenhyden-blog
+      repo_id: R_kgDOKeOkIg
+      category_id: DIC_kwDOKeOkIs4CaDqD
+  docs:
+    giscus:
+      repo: buenhyden/buenhyden-blog
+      repo_id: R_kgDOKeOkIg
+      category_id: DIC_kwDOKeOkIs4CaDqD
+  content_panel:
+    repo:
+      service: github # github or gitlab.
+      repo: buenhyden/buenhyden-blog
+      branch: master
+      # subpath: exampleSite
+  # gallery:
+  #   thumbnail_size: "x640"
