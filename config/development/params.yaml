@@ -56,14 +56,19 @@ hb:
       # taxonomies: false # remove the taxonomies stat from the homepage.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
+        - technotes
         - docs
         - blog
-        - tutorials
     giscus:
       repo: buenhyden/buenhyden-blog
       repo_id: R_kgDOKeOkIg
       category_id: DIC_kwDOKeOkIs4CaDqD
   docs:
+    giscus:
+      repo: buenhyden/buenhyden-blog
+      repo_id: R_kgDOKeOkIg
+      category_id: DIC_kwDOKeOkIs4CaDqD
+  technotes:
     giscus:
       repo: buenhyden/buenhyden-blog
       repo_id: R_kgDOKeOkIg
