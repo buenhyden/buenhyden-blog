@@ -1,1 +1,15 @@
-metaRobots: "index, follow"
+metaRobots: 'index, follow'
+
+# See https://giscus.app
+giscus:
+  repo: 'buenhyden/buenhyden.github.io' # required.
+  repoId: 'R_kgDOKa2JLg' # required.
+  category: 'Announcements' # required.
+  categoryId: 'DIC_kwDOKa2JLs4CaDqJ' # required.
+  # theme: "dark" # Default to auto.
+  # mapping: "title" # Default to pathname.
+  # inputPosition: "bottom" # Default to top.
+  # reactions: false # Disable reactions.
+  # metadata: true # Emit discussion metadata.
+  # lang: "en" # Specify language, default to site language.
+  # lazyLoading: false # Default to true.

@@ -1,10 +1,10 @@
 baseURL: /
-title: Hugo Bootstrap Skeleton
+title: Hyden's Dev Story
 theme: hugo-theme-bootstrap
 copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
 defaultContentLanguage: en
 hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
-defaultContentLanguageInSubdir: true
+# defaultContentLanguageInSubdir: true
 # disableLanguages:
 #  - fr
 #  - zh-cn
@@ -14,7 +14,7 @@ paginate: 10
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: G-RBYWSZ3QZX
+# googleAnalytics: UA-123-45
 # disqusShortname: yourdiscussshortname
 
 blackfriday:

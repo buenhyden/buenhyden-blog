@@ -10914,7 +10914,7 @@ textarea.form-control-lg {
 }
 
 .fs-sm {
-  font-size: 0.925rem !important;
+  font-size: 0.9rem !important;
 }
 
 .fs-lg {
