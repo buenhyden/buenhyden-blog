@@ -1,4 +1,38 @@
 # Blog 제작
+## Windows Chocolatey 설치
+1. 관리자 모드로 PowerShell 실행
+2. Get-ExecutionPolicy로 권한 확인
+```
+$ Get-ExecutionPolicy
+```
+3. Restricted라면 AllSigned나 Bypass로 설정
+```
+# ExcutionPolicy를 AllSigned로 설정
+$ Set-ExecutionPolicy AllSigned
+
+# ExcutionPolicy를 Bypass로 설정
+$ Set-ExecutionPolicy Bypass -Scope Process
+```
+4. Chocolatey 공식 설치 스크립트 실행
+```
+$ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+```
+## Go & Hugo 설치
+* 위의 Chocolatey 설치가 되었다는 가정하
+1. GoLang 설치
+```
+choco install golang
+```
+2. hugo 설치
+```
+choco install hugo
+```
+3. hugo-extended 설치
+```
+choco install hugo-extended
+```
+
+
 - submodules
 ```
 git submodule update --init --remote --recursive
@@ -6,8 +40,6 @@ git submodule update --recursive
 
 ```
 
-- hugo-extended 설치 필요
 
-```
-choco install hugo-extended
-```
+
+- 
