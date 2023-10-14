@@ -1,4 +1,7 @@
-node_modules
+.hugo_build.lock
+hugo_stats.json
+package-json.lock
+public/
 
-.history
-
+node_modules/
+.history/
