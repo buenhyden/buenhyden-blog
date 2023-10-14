@@ -2,8 +2,9 @@
   "name": "Hyden's Blog",
   "description": "Hyden's Dev Story",
   "scripts": {
-    "dev": "hugo server --gc --disableFastRender --enableGitInfo -D",
-    "prod": "hugo server --gc --disableFastRender --enableGitInfo --renderToDisk --minify -e production -p 1314"
+    "dev": "hugo server --gc --disableFastRender --enableGitInfo -D -w",
+    "prod": "hugo server --gc --disableFastRender --enableGitInfo -D --renderToDisk --minify -e production",
+    "build": "hugo --gc -D --minify --enableGitInfo"
   },
   "repository": {
     "type": "git",
