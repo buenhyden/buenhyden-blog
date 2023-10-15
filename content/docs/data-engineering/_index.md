@@ -1,5 +1,7 @@
 ---
 title: Data Engineering
+date: 2023-10-15T12:46:00+09:00
+description: 원시 데이터(raw data)를 가져와 분석 및 머신러닝과 같은 다운스트림 사용 사례를 지원하고, 고품질의 일관된 정보를 생성하는 시스템과 프로세스의 개발, 구현 및 유지 관리
 linkTitle: Data Engineering
 nav_weight: 10
 nav_icon:
@@ -7,9 +9,13 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
-  - data-engineering.png
 series:  
  - Data Engineering
+categories:
+ - Data Engineering
+tags:
+ - Data Engineering
 ---
-<p align="center"><img src="State-of-Data-Engineering-2022-map.jpg"></p>
+![Data Engineering](data-engineering.png#center)
+## State of Data Engineering 2022 map
+![State of Data Engineering 2022 map](State-of-Data-Engineering-2022-map.jpg#center)

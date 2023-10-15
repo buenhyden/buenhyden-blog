@@ -1,5 +1,7 @@
 ---
 title: Design
+date: 2023-10-15T12:46:00+09:00
+description: 
 linkTitle: Design
 nav_weight: 2
 nav_icon:
@@ -7,9 +9,13 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
-  - frontend.png
+series:  
+ - Frontend
+ - Design
+categories:
+ - Frontend 
+ - Design
+tags:
+ - Frontend
+ - Design
 ---
-<p align="center">
-<iframe width="768" height="1024" src="https://roadmap.sh/ux-design?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
