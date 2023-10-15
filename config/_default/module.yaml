@@ -59,9 +59,11 @@ imports:
   # to remove unused modules, you need to replace the recommended module with modules your need.
   # see also https://hbstack.dev/en/2023/10/replace-meta-modules/.
   - path: github.com/hbstack/meta/recommended
-
-  - path: github.com/hugomods/katex
-  - path: github.com/hugomods/mermaid
+  - path: github.com/hbstack/bootstrap
+  - path: github.com/hbstack/mermaid
+  - path: github.com/hugomods/katex  
 
   - path: github.com/hugomods/code-block-panel
   - path: github.com/hugomods/pwa
+
+  - path: github.com/hbstack/blog/modules/breadcrumb

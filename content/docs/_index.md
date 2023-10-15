@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Notes
 menu:
   main:
     identifier: docs
@@ -10,4 +10,5 @@ menu:
         name: book
 ---
 
-The example of Docs layout.
+기억보다는 기록을!  
+기억은 완벽하지 않다.

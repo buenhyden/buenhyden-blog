@@ -2,7 +2,7 @@
 title: Series
 menu:
   main:
-    parent: blog
+    parent: docs
     params:
       icon:
         vendor: bs

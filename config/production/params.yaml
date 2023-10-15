@@ -11,28 +11,28 @@ hb:
     socials:
       github: buenhyden
       # twitter: razonyang
-      rss: false
+      # rss: false
       # mastodon: https://techhub.social/@hbstack
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
-      github: buenhyden
+      # github: buenhyden
       # twitter: razonyang
-      rss: false
+      # rss: false
       # mastodon: https://techhub.social/@hbstack
   blog:
     full_width: false # when true, the blog layout takes full width.
     sidebar:
       profile:
-        # title: Profile title other than site title.
-        # description: Profile description other than site description.
-        company: COMPANY
+        title: 기억보다는 기록을 위한
+        description: Python Back-End Developer
         location: Earth
         socials:
           github: buenhyden
+          email: chochyjj@gmail.com
           # mastodon: https://techhub.social/@hbstack
-          rss: false
+          # rss: false
       posts:
         recent_count: 5 # the number of recent posts.
         featured_count: 5 # the number of featured posts.
@@ -40,21 +40,21 @@ hb:
         count: true # whether to show the number of posts associated to the item.
         limit: 10 # the maximum number of the item.
     paginate: 12 # paginate.
-    post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
+    post_thumbnail_placeholder: # the text of thumbnail placeholder, default to site title.
     # post_thumbnail: false # whether to show the thumbnails.
-    # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
+    post_date_format: ':date_long' # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
       # taxonomies: false # remove the taxonomies stat from the homepage.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
         - docs
         - blog
-        - tutorials
     giscus:
       repo: buenhyden/buenhyden.github.io
       repo_id: R_kgDOKa2JLg
       category_id: DIC_kwDOKa2JLs4CaDqJ
   docs:
+    date_format: ':date_long' # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     giscus:
       repo: buenhyden/buenhyden.github.io
       repo_id: R_kgDOKa2JLg

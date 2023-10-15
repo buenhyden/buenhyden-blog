@@ -14,6 +14,7 @@ title_sections_depth_dir: end # when start, the depth is counting from the root 
 
 permalinks:
   blog: /blog/:year/:month/:title
+  docs: /docs/:year/:month/:title
 
 outputs:
   home:
@@ -24,7 +25,7 @@ outputs:
     - WebAppManifest # required by PWA module to make your site installable.
 
 taxonomies:
-  authors: authors # multiple authors.
+  # authors: authors # multiple authors.
   tags: tags
   categories: categories
   series: series
@@ -53,8 +54,6 @@ related:
       weight: 60
     - name: series
       weight: 60
-    - name: authors
-      weight: 10
     - name: date
       weight: 10
   threshold: 10 # for testing, increase it to suit your case.

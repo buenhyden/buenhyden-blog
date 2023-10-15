@@ -1,0 +1,18 @@
+---
+title: "NoSQL"
+linkTitle: NoSQL
+nav_weight: 1
+nav_icon:
+  vendor: bs
+  name: book
+  color: indigo
+featured: true
+series:  
+ - Backend
+ - Database
+ - NoSQL
+categories:
+ - NoSQL
+tags:
+ - NoSQL
+---

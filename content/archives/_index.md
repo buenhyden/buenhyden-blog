@@ -2,7 +2,7 @@
 title: Archives
 menu:
   main:
-    parent: blog
+    weight: 3
     params:
       icon:
         vendor: bs
