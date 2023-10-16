@@ -1,6 +1,6 @@
 ---
 date: 2023-10-15T15:46:00+09:00
-title: Container Orchestration(CO)을 위해 많이 사용되는 도구
+title: Tools
 description: Container Orchestration(CO)을 위해 많이 사용되는 도구와 각 도구별 특성을 정리
 featured: true
 images:

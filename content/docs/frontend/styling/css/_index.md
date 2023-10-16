@@ -24,3 +24,6 @@ tags:
 ---
 
 ## Reference
+
+[css](https://developer.mozilla.org/ko/docs/Web/CSS)
+[ofcourse CSS](https://ofcourse.kr/css-course/CSS-%EC%9E%85%EB%AC%B8)

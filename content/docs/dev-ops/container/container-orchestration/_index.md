@@ -12,12 +12,15 @@ featured: true
 images:
 series:
   - Dev Ops
+  - Container
   - Container Orchestration(CO)
 categories:
   - Dev Ops
+  - Container
   - Container Orchestration(CO)
 tags:
   - Dev Ops
+  - Container
   - Container Orchestration(CO)
 ---
 

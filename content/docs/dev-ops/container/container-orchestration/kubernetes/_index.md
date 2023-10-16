@@ -11,14 +11,17 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
+  - Container
   - Container Orchestration(CO)
   - Kubernetes
 categories:
   - Dev Ops
+  - Container
   - Container Orchestration(CO)
   - Kubernetes
 tags:
   - Dev Ops
+  - Container
   - Container Orchestration(CO)
   - Kubernetes
 ---

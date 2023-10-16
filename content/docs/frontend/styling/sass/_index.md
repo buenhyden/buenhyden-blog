@@ -13,14 +13,19 @@ series:
   - Frontend
   - Styling
   - SASS
+  - SCSS
 categories:
   - Frontend
   - Styling
   - SASS
+  - SCSS
 tags:
   - Frontend
   - Styling
   - SASS
+  - SCSS
 ---
 
 ## Reference
+
+[SaSS Homepage](https://sass-lang.com/)

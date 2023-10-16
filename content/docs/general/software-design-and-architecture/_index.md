@@ -27,3 +27,5 @@ tags:
 </p>
 
 ## Reference
+
+[리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182?category=941866)
