@@ -9,17 +9,19 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series: 
- - Programming Language
- - Javascript
+series:
+  - Programming Language
+  - Javascript
 categories:
- - Programming Language
- - Javascript
+  - Programming Language
+  - Javascript
 tags:
- - Programming Language
- - Javascript
+  - Programming Language
+  - Javascript
 ---
+
 ## Roadmap
+
 <p align="center">
 <iframe width="768" height="1024" src="https://roadmap.sh/javascript?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>

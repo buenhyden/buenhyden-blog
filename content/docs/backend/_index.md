@@ -9,14 +9,20 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Backend
+series:
+  - Backend
 categories:
- - Backend
+  - Backend
 tags:
- - Backend 
+  - Backend
 ---
+
+## Web Application
+
+![Web Application](web-application.png?width=1280px#center)
+
 ## Roadmap
+
 <p align="center">
 <iframe width="768" height="1024" src="https://roadmap.sh/backend?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
