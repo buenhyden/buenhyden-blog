@@ -5,7 +5,7 @@
     "dev": "hugo server --gc --disableFastRender --enableGitInfo -D",
     "prod": "hugo server --gc --disableFastRender --enableGitInfo -D --renderToDisk --minify -e production",
     "build": "hugo --gc -D --minify --enableGitInfo",
-    "lint": "eslint ."
+    "lint": "eslint .  --fix"
   },
   "repository": {
     "type": "git",
@@ -18,11 +18,13 @@
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.7.5",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.51.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-prettier": "^5.0.1",
     "postcss-cli": "^10.1.0",
     "rtlcss": "^4.1.1"
   }

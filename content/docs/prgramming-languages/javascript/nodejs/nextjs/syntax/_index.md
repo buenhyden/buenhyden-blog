@@ -1,6 +1,6 @@
 ---
 title: Syntax
-description:
+description: Next.js 문법
 linkTitle: Syntax
 nav_weight: 1
 nav_icon:

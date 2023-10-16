@@ -1,6 +1,6 @@
 ---
 title: Syntax
-description: Typescript 문법
+description: Node.js 문법
 linkTitle: Syntax
 nav_weight: 1
 nav_icon:
@@ -10,12 +10,15 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Typescript
+  - Javascript
+  - Node.js
 categories:
   - Programming Language
-  - Typescript
+  - Javascript
+  - Node.js
 tags:
   - Programming Language
-  - Typescript
+  - Javascript
+  - Node.js
   - Syntax
 ---

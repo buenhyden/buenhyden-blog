@@ -1,6 +1,6 @@
 ---
 title: Node.js
-description:
+description: 확장성 있는 네트워크 애플리케이션 개발에 사용되는 소프트웨어 플랫폼
 linkTitle: Node.js
 nav_weight: 2
 nav_icon:
