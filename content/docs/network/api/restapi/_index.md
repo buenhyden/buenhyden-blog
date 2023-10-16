@@ -9,17 +9,20 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Network
- - API
- - REST API
+series:
+  - Network
+  - API
+  - REST API
 categories:
- - Network  
- - API
- - REST API
+  - Network
+  - API
+  - REST API
 tags:
- - Network 
- - API
- - REST API
+  - Network
+  - API
+  - REST API
 ---
+
 Representational State Transfer(REST)는 API 작동 방식에 대한 조건을 부과하는 소프트웨어 아키텍처
+
+## Reference

@@ -1,7 +1,7 @@
 ---
 title: Protocol
 date: 2023-10-15T12:46:00+09:00
-description: 
+description:
 linkTitle: Protocol
 nav_weight: 7
 nav_icon:
@@ -9,13 +9,15 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Network
- - Protocol
+series:
+  - Network
+  - Protocol
 categories:
- - Network 
- - Protocol
+  - Network
+  - Protocol
 tags:
- - Network
- - Protocol
+  - Network
+  - Protocol
 ---
+
+## Reference

@@ -9,13 +9,15 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Operating System
- - Linux
+series:
+  - Operating System
+  - Linux
 categories:
- - Operating System
- - Linux
+  - Operating System
+  - Linux
 tags:
- - Operating System
- - Linux
+  - Operating System
+  - Linux
 ---
+
+## Reference

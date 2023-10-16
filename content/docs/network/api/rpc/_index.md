@@ -9,16 +9,18 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Network
- - API
- - RPC
+series:
+  - Network
+  - API
+  - RPC
 categories:
- - Network  
- - API
- - RPC
+  - Network
+  - API
+  - RPC
 tags:
- - Network 
- - API
- - RPC
+  - Network
+  - API
+  - RPC
 ---
+
+## Reference

@@ -9,13 +9,18 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Data Engineering
+series:
+  - Data Engineering
 categories:
- - Data Engineering
+  - Data Engineering
 tags:
- - Data Engineering
+  - Data Engineering
 ---
+
 ![Data Engineering](data-engineering.png#center)
+
 ## State of Data Engineering 2022 map
+
 ![State of Data Engineering 2022 map](State-of-Data-Engineering-2022-map.jpg#center)
+
+## Reference

@@ -1,5 +1,5 @@
 ---
-title: "Continuous Integration(CI)"
+title: 'Continuous Integration(CI)'
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 통합
 linkTitle: Continuous Integration(CI)
@@ -9,17 +9,20 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Dev Ops
- - CI/CD
- - Continuous Integration(CI)
+series:
+  - Dev Ops
+  - CI/CD
+  - Continuous Integration(CI)
 categories:
- - Dev Ops
- - CI/CD
- - Continuous Integration(CI)
+  - Dev Ops
+  - CI/CD
+  - Continuous Integration(CI)
 tags:
- - Dev Ops
- - CI/CD
- - Continuous Integration(CI)
+  - Dev Ops
+  - CI/CD
+  - Continuous Integration(CI)
 ---
+
 ![CI](ci.png?width=512px#center)
+
+## Reference

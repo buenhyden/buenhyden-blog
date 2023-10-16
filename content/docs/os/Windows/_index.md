@@ -9,13 +9,15 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Operating System
- - Windows
+series:
+  - Operating System
+  - Windows
 categories:
- - Operating System
- - Windows
+  - Operating System
+  - Windows
 tags:
- - Operating System
- - Windows
+  - Operating System
+  - Windows
 ---
+
+## Reference

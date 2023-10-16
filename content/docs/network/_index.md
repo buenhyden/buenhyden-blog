@@ -8,11 +8,13 @@ nav_icon:
   vendor: bs
   name: book
   color: indigo
-featured: true  
-series:  
- - Network
+featured: true
+series:
+  - Network
 categories:
- - Network 
+  - Network
 tags:
- - Network
+  - Network
 ---
+
+## Reference

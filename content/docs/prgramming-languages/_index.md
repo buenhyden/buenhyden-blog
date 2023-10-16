@@ -9,10 +9,12 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series: 
- - Programming Language
+series:
+  - Programming Language
 categories:
- - Programming Language
+  - Programming Language
 tags:
- - Programming Language
+  - Programming Language
 ---
+
+## Reference

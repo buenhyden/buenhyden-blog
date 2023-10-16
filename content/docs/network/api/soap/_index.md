@@ -9,16 +9,18 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Network
- - API
- - SOAP
+series:
+  - Network
+  - API
+  - SOAP
 categories:
- - Network  
- - API
- - SOAP
+  - Network
+  - API
+  - SOAP
 tags:
- - Network 
- - API
- - SOAP
+  - Network
+  - API
+  - SOAP
 ---
+
+## Reference

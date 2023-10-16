@@ -28,6 +28,8 @@ tags:
   - Continuous Integration(CI)
   - Git
 featured: true
+images:
+  - /images/docs/git-init.jpg
 ---
 
 ## Git 설정하기
@@ -60,7 +62,6 @@ featured: true
         git config --global user.email johndoe@example.com
         ```
 
-
 ### 편집기 설정
 
     - Git에서 사용할 텍스트 편집기를 고른다.
@@ -73,6 +74,7 @@ featured: true
 ### 설정 확인
 
 - git config —list 명령을 실행하면 설정한 모든 것을 보여주어 확인 가능
+
   ```
   git config --list
   user.name=John Doe
@@ -82,4 +84,7 @@ featured: true
   color.interactive=auto
   color.diff=auto
   ```
+
   - git config <key> 명령으로 Git이 특정 Key에 대해 어떤 값을 사용하는지 확인할 수 있다.
+
+## Reference

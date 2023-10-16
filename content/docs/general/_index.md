@@ -1,7 +1,7 @@
 ---
 title: General
 date: 2023-10-15T12:46:00+09:00
-description: 
+description:
 linkTitle: General
 nav_weight: 1
 nav_icon:
@@ -9,12 +9,12 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - General
+series:
+  - General
 categories:
- - General 
+  - General
 tags:
- - General
+  - General
 ---
 
-
+## Reference

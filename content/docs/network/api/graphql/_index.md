@@ -9,16 +9,18 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Network
- - API
- - GraphQL
+series:
+  - Network
+  - API
+  - GraphQL
 categories:
- - Network  
- - API
- - GraphQL
+  - Network
+  - API
+  - GraphQL
 tags:
- - Network 
- - API
- - GraphQL
+  - Network
+  - API
+  - GraphQL
 ---
+
+## Reference

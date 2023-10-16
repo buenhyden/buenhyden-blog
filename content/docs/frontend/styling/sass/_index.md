@@ -9,16 +9,18 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Frontend
- - Styling
- - SASS
+series:
+  - Frontend
+  - Styling
+  - SASS
 categories:
- - Frontend 
- - Styling
- - SASS
+  - Frontend
+  - Styling
+  - SASS
 tags:
- - Frontend
- - Styling
- - SASS
+  - Frontend
+  - Styling
+  - SASS
 ---
+
+## Reference

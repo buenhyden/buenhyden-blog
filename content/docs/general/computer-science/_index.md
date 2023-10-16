@@ -9,17 +9,21 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - General
- - Computer Science
+series:
+  - General
+  - Computer Science
 categories:
- - General 
- - Computer Science
+  - General
+  - Computer Science
 tags:
- - General
- - Computer Science
+  - General
+  - Computer Science
 ---
+
 ## Roadmap
+
 <p align="center">
 <iframe width="768" height="1024" src="https://roadmap.sh/computer-science?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+## Reference

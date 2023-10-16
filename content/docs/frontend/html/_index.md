@@ -9,16 +9,18 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Frontend
- - Structuring
- - HTML
+series:
+  - Frontend
+  - Structuring
+  - HTML
 categories:
- - Frontend 
- - Structuring
- - HTML
+  - Frontend
+  - Structuring
+  - HTML
 tags:
- - Frontend
- - Structuring
- - HTML
+  - Frontend
+  - Structuring
+  - HTML
 ---
+
+## Reference

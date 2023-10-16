@@ -8,17 +8,19 @@ nav_icon:
   vendor: bs
   name: book
   color: indigo
-featured: true  
-series:  
- - Network
- - Protocol
- - Web Socket
+featured: true
+series:
+  - Network
+  - Protocol
+  - Web Socket
 categories:
- - Network 
- - Protocol
- - Web Socket
+  - Network
+  - Protocol
+  - Web Socket
 tags:
- - Network
- - Protocol
- - Web Socket
+  - Network
+  - Protocol
+  - Web Socket
 ---
+
+## Reference

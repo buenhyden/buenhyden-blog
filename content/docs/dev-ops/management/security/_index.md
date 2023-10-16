@@ -9,16 +9,18 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Dev Ops
- - Management for Infrastructure
- - IT Security
+series:
+  - Dev Ops
+  - Management for Infrastructure
+  - IT Security
 categories:
- - Dev Ops
- - Management for Infrastructure
- - IT Security
+  - Dev Ops
+  - Management for Infrastructure
+  - IT Security
 tags:
- - Dev Ops
- - Management for Infrastructure
- - IT Security
+  - Dev Ops
+  - Management for Infrastructure
+  - IT Security
 ---
+
+## Reference

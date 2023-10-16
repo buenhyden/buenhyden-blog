@@ -1,5 +1,5 @@
 ---
-title: "Continuous Deployment(CD)"
+title: 'Continuous Deployment(CD)'
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 배포
 linkTitle: Continuous Deployment(CD)
@@ -9,17 +9,20 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Dev Ops
- - CI/CD
- - Continuous Deployment(CD)
+series:
+  - Dev Ops
+  - CI/CD
+  - Continuous Deployment(CD)
 categories:
- - Dev Ops
- - CI/CD
- - Continuous Deployment(CD)
+  - Dev Ops
+  - CI/CD
+  - Continuous Deployment(CD)
 tags:
- - Dev Ops
- - CI/CD
- - Continuous Deployment(CD)
+  - Dev Ops
+  - CI/CD
+  - Continuous Deployment(CD)
 ---
+
 ![CD](cd.png?width=512px#center)
+
+## Reference

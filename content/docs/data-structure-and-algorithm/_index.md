@@ -1,5 +1,5 @@
 ---
-title: "Data Structure & Algorithm"
+title: 'Data Structure & Algorithm'
 date: 2023-10-15T12:46:00+09:00
 linkTitle: Data Structure & Algorithm
 nav_weight: 3
@@ -8,10 +8,12 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series: 
- - Data Structure & Algorithm
+series:
+  - Data Structure & Algorithm
 categories:
- - Data Structure & Algorithm
+  - Data Structure & Algorithm
 tags:
- - Data Structure & Algorithm
+  - Data Structure & Algorithm
 ---
+
+## Reference

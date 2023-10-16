@@ -9,13 +9,18 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Operating System
+series:
+  - Operating System
 categories:
- - Operating System
+  - Operating System
 tags:
- - Operating System
+  - Operating System
 ---
+
 ![OS](os.png#center)
+
 ## OS Components
+
 ![Operating System Components](os-components.png#center)
+
+## Reference

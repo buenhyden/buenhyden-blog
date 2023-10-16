@@ -9,17 +9,18 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - General
- - System Design & Architecture
- - System Architecture
+series:
+  - General
+  - System Design & Architecture
+  - System Architecture
 categories:
- - General
- - System Design & Architecture
- - System Architecture
+  - General
+  - System Design & Architecture
+  - System Architecture
 tags:
- - General
- - System Design & Architecture
- - System Architecture
+  - General
+  - System Design & Architecture
+  - System Architecture
 ---
 
+## Reference

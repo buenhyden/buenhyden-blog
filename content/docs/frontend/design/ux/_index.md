@@ -9,20 +9,29 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Frontend
- - Design 
- - UX
+series:
+  - Frontend
+  - Design
+  - UX
 categories:
- - Frontend 
- - Design 
- - UX
+  - Frontend
+  - Design
+  - UX
 tags:
- - Frontend
- - Design 
- - UX
+  - Frontend
+  - Design
+  - UX
 ---
+
+- UX : USER EXPERIENCE
+- UX는 사용자 경험의 약자로, 사용자가 어떠한 서비스/ 제품을 직간접적으로 이용하면서 느끼는 종합적인 만족을 의미
+- UX 디자인이란 사용자에게 만족스러운 경험을 제공하는 UI를 디자인 하는 것
+- 사용자가 만족할 수 있도록 사용자 중심적으로 설계된 디자인
+
 ## Roadmap
+
 <p align="center">
 <iframe width="768" height="1024" src="https://roadmap.sh/ux-design?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+## Reference

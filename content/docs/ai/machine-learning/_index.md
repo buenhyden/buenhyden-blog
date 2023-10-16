@@ -10,12 +10,14 @@ nav_icon:
   color: indigo
 featured: true
 series:
- - AI  
- - Machine Learning
+  - AI
+  - Machine Learning
 categories:
- - AI
- - Machine Learning
+  - AI
+  - Machine Learning
 tags:
- - AI
- - Machine Learning
+  - AI
+  - Machine Learning
 ---
+
+## Reference
