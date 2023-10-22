@@ -20,4 +20,6 @@ tags:
   - Algorithm
 ---
 
+![Data algorithms](Taxonomy-of-the-algorithms.png#center)
+
 ## Reference

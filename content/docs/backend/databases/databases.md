@@ -1,7 +1,7 @@
 ---
-title: 'Database 종류'
+title: 'Database 타입'
 date: 2023-10-16T16:26:00+09:00
-linkTitle: 관계형 데이터베이스와 NoSQL 데이터베이스
+linkTitle: Database 타입
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -9,18 +9,16 @@ nav_icon:
   color: indigo
 featured: true
 images:
+  - /images/docs/database-types.png
 series:
-  - Dev Ops
-  - Container
-  - Container Orchestration(CO)
+  - Backend
+  - Database
 categories:
-  - Dev Ops
-  - Container
-  - Container Orchestration(CO)
+  - Backend
+  - Database
 tags:
-  - Dev Ops
-  - Container
-  - Container Orchestration(CO)
+  - Backend
+  - Database
 ---
 
 ## 관계형 데이터베이스

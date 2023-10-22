@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: indigo
-featured: true
 series:
   - Data Structure & Algorithm
   - Data Structure
@@ -19,5 +18,5 @@ tags:
   - Data Structure & Algorithm
   - Data Structure
 ---
-
+![Data Structures](data-structures.png#center)
 ## Reference
