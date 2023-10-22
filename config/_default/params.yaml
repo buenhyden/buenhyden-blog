@@ -2,7 +2,7 @@ description: 기억보다는 기록을
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
-    icon: images/logo.png # use logo as favicon.
+    icon: favicon-32x32.png # use logo as favicon.
 
 # PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
 pwa:
