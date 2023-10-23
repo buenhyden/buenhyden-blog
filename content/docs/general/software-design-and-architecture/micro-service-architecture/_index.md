@@ -1,9 +1,9 @@
 ---
-title: Software Architecture
-date: 2023-10-15T12:46:00+09:00
-description: 소프트웨어 시스템의 구성방법에 대한 중대한 결정사항을 모아 놓은 것
-linkTitle: Software Architecture
-nav_weight: 2
+title: Micro Service Architecture
+date: 2023-10-23T07:08:00+09:00
+description: 단일 애플리케이션을 작은 서비스 모음으로 개발하는 접근 방식
+linkTitle: Micro Service Architecture
+nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
@@ -13,14 +13,20 @@ series:
   - General
   - Software Design & Architecture
   - Software Architecture
+  - Micro Service Architecture
+  - MSA
 categories:
   - General
   - Software Design & Architecture
   - Software Architecture
+  - Micro Service Architecture
+  - MSA
 tags:
   - General
   - Software Design & Architecture
   - Software Architecture
+  - Micro Service Architecture
+  - MSA
 ---
 
 ## Roadmap
