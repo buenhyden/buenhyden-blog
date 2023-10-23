@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: indigo
-featured: true
 series:
   - Backend
   - Database

@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: indigo
-featured: true
 series:
   - Data Engineering
 categories:
@@ -17,7 +16,9 @@ tags:
   - Data Engineering
 ---
 
-![Data Engineering](data-engineering.png#center)
+## Roadmap
+
+![Data Engineering Roadmap](data-engineering-roadmap.png?width=768px#center)
 
 ## State of Data Engineering 2022 map
 

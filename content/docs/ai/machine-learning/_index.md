@@ -20,4 +20,6 @@ tags:
   - Machine Learning
 ---
 
+![Machine Learning](ml-algorithms.webp)
+
 ## Reference
