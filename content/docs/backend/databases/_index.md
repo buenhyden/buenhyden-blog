@@ -18,5 +18,7 @@ tags:
   - Backend
   - Database
 ---
+![Where RDBMS and other DBMS technologies intersect](differencetypeofdbms2.png#center)
+
 
 ## Reference

@@ -25,6 +25,7 @@ tags:
   - NoSQL
   - MongoDB
 ---
+![Mongo DB](mongodb.png#center)
 
 ## Roadmap
 

@@ -22,5 +22,6 @@ tags:
   - Database
   - RDBMS
 ---
+![RDBMS](rdbms.png#center)
 
 ## Reference

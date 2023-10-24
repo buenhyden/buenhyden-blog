@@ -24,7 +24,7 @@ tags:
   - RDBMS
   - MySQL
 ---
-
+![MySQL DB](mysql.png#center)
 ## Roadmap
 
 <p align="center">

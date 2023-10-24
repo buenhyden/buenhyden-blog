@@ -24,5 +24,6 @@ tags:
   - RDBMS
   - MariaDB
 ---
+![Maria DB](mariadb.png#center)
 
 ## Reference

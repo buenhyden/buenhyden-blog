@@ -22,5 +22,5 @@ tags:
   - Database
   - NoSQL
 ---
-
+![Type of NoSQL Datastores](types-of-nosql-datastores.png#center)
 ## Reference
