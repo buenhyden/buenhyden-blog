@@ -9,10 +9,12 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - AI
+series:
+  - AI
 categories:
- - AI
+  - AI
 tags:
- - AI
+  - AI
 ---
+
+![What is Artificial Intelligence](what-is-artificial-intelligence-infographic.width-880.webp#center)

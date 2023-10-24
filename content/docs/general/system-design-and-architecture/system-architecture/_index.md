@@ -23,4 +23,6 @@ tags:
   - System Architecture
 ---
 
+![Enterprise System Architecture](Enterprise-system-architecture-1.png#center)
+
 ## Reference
