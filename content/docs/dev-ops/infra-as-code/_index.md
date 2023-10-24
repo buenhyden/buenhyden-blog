@@ -20,4 +20,6 @@ tags:
   - Infrastructure as Code
 ---
 
+![Infrastructure as Code](infra-as-code.png#center)
+
 ## Reference

@@ -23,6 +23,8 @@ tags:
   - CSS
 ---
 
+![CSS](css.png#center)
+
 ## Reference
 
 [css](https://developer.mozilla.org/ko/docs/Web/CSS)

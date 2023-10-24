@@ -24,6 +24,7 @@ tags:
   - Container Orchestration(CO)
 ---
 
+![Center Orchestration](automation-with-container-orchestration.png#center)
 여러 컨테이너의 배포 프로세스를 최적화하는 것을 목적으로 하며, 아래의 기능을 포함할 수 있다.
 
 - 컨테이너 자동 배치 및 복제

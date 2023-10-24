@@ -25,4 +25,6 @@ tags:
   - RabbitMQ
 ---
 
+![Kafka](rabbitmq.png#center)
+
 ## Reference

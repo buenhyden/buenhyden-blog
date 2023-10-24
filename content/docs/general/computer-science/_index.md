@@ -20,6 +20,8 @@ tags:
   - Computer Science
 ---
 
+![Computer Science](computer-science.png#center)
+
 ## Roadmap
 
 <p align="center">

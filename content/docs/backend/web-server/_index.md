@@ -20,4 +20,6 @@ tags:
   - Web Server
 ---
 
+![Web Server](web-server.webp#center)
+
 ## Reference

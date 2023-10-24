@@ -20,6 +20,8 @@ tags:
   - System Design & Architecture
 ---
 
+![System Design Master](system-design-master.webp#center)
+
 ## Roadmap
 
 <p align="center">

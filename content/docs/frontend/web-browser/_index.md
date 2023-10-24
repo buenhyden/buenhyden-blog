@@ -9,14 +9,17 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Frontend
- - Web Browser
+series:
+  - Frontend
+  - Web Browser
 categories:
- - Frontend 
- - Web Browser
+  - Frontend
+  - Web Browser
 tags:
- - Frontend
- - Web Browser
+  - Frontend
+  - Web Browser
 ---
+
+![Web Browser](web-browser.webp#center)
+
 ## Reference

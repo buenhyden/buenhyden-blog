@@ -21,4 +21,6 @@ tags:
   - Container
 ---
 
+![Container Strategy](container-strategy.jpg#center)
+
 ## Reference

@@ -25,4 +25,6 @@ tags:
   - Kafka
 ---
 
+![Kafka](kafka.png#center)
+
 ## Reference

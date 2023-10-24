@@ -23,4 +23,6 @@ tags:
   - HTML
 ---
 
+![HTML Page Structure](html-page-structure.png#center)
+
 ## Reference

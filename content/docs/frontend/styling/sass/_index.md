@@ -26,6 +26,8 @@ tags:
   - SCSS
 ---
 
+![SCSS-SASS](scss-sass.png#center)
+
 ## Reference
 
 [SaSS Homepage](https://sass-lang.com/)

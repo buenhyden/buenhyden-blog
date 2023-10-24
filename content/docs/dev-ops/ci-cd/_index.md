@@ -20,6 +20,7 @@ tags:
   - CI/CD
 ---
 
+![CI & CD2](ci-cd2.png?width=512px#center)
 ![CI & CD](ci-cd.png?width=512px#center)
 
 - 기능적인 소프트웨어 제공 시 문제 발생 위험을 줄이고자 코드를 `지속적으로`테스트하고 `배포하는 전술`

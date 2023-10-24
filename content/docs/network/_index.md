@@ -17,4 +17,6 @@ tags:
   - Network
 ---
 
+![Network](nettopo.webp#center)
+
 ## Reference

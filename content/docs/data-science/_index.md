@@ -17,6 +17,8 @@ tags:
   - Data Science
 ---
 
+![Data Science Lifecycle](data-science-lifecycle.png#center)
+
 ## Roadmap
 
 <p align="center">
