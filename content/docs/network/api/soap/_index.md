@@ -23,4 +23,6 @@ tags:
   - SOAP
 ---
 
+![Components of SOAP message](the_components_of_a_soap_message-f.png#center)
+
 ## Reference

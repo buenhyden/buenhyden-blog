@@ -20,6 +20,8 @@ tags:
   - Python
 ---
 
+![Python](python.png#center)
+
 ## Roadmap
 
 <p align="center">

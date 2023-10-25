@@ -19,6 +19,8 @@ tags:
   - Typescript
 ---
 
+![TypeScript](typescript.png#center)
+
 ## Roadmap
 
 <p align="center">

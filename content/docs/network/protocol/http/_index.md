@@ -23,6 +23,12 @@ tags:
   - HTTP
 ---
 
+![Fetching a Page](fetching_a_page.png#center)
+
+## HTTP Layers
+
+![HTTP Layers](http-layuers.png#center)
+
 ## Reference
 
 [Mozilla Web HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP)

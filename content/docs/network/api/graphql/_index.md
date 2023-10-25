@@ -23,4 +23,6 @@ tags:
   - GraphQL
 ---
 
+![What is GraphQL](what-is-graphql.png#center)
+
 ## Reference

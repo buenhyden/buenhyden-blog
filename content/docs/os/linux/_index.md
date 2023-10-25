@@ -20,4 +20,6 @@ tags:
   - Linux
 ---
 
+![Linux](linux.webp#center)
+
 ## Reference

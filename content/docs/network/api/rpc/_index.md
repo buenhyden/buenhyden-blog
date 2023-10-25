@@ -23,4 +23,6 @@ tags:
   - RPC
 ---
 
+![RPC mechanism](rpc-mechanism.png#center)
+
 ## Reference

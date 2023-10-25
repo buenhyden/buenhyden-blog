@@ -25,4 +25,6 @@ tags:
   - Next.js
 ---
 
+![Next JS](next-js.png#center)
+
 ## Reference

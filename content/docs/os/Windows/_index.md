@@ -20,4 +20,6 @@ tags:
   - Windows
 ---
 
+![Windows](windows.png#center)
+
 ## Reference
