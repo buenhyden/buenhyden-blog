@@ -27,7 +27,7 @@ tags:
 
 ## HTTP Layers
 
-![HTTP Layers](http-layuers.png#center)
+![HTTP Layers](http-layers.png#center)
 
 ## Reference
 
