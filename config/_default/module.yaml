@@ -61,9 +61,7 @@ imports:
   - path: github.com/hbstack/meta/recommended
   - path: github.com/hbstack/bootstrap
   - path: github.com/hbstack/mermaid
-  - path: github.com/hugomods/katex  
-
+  - path: github.com/hugomods/katex
   - path: github.com/hugomods/code-block-panel
   - path: github.com/hugomods/pwa
-
   - path: github.com/hbstack/blog/modules/breadcrumb
