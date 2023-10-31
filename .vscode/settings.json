@@ -1,0 +1,43 @@
+{
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "python.languageServer": "Pylance",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.analysis.autoImportCompletions": true,
+  "autoprefixer.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true
+  },
+  "extensions.experimental.affinity": {
+    "ms-python.python": 1,
+    "ms-python.vscode-pylance": 1
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "gitlens.codeLens.scopes": ["document"],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
