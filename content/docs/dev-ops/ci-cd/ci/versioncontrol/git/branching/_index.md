@@ -1,9 +1,9 @@
 ---
-title: "Git"
+title: "Git Branching"
 date: 2023-10-31T12:46:00+09:00
-description: 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 스냅샷 스트림 기반의 분산 버전 관리 시스템
-linkTitle: Git
-nav_weight: 1
+description:
+linkTitle: Git Branching
+nav_weight: 5
 nav_icon:
   vendor: bs
   name: book
@@ -29,10 +29,7 @@ tags:
   - Git
 ---
 
-## Git Version 관리
-
-![Git](git.png#center)
 
 ## Reference
 
-[Git](https://git-scm.com/book/ko/v2)
+[Git Branch](https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)

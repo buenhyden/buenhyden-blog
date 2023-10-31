@@ -1,9 +1,9 @@
 ---
-title: "Git"
+title: "Customizing Git"
 date: 2023-10-31T12:46:00+09:00
-description: 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 스냅샷 스트림 기반의 분산 버전 관리 시스템
-linkTitle: Git
-nav_weight: 1
+description:
+linkTitle: Customizing Git
+nav_weight: 10
 nav_icon:
   vendor: bs
   name: book
@@ -29,10 +29,6 @@ tags:
   - Git
 ---
 
-## Git Version 관리
-
-![Git](git.png#center)
-
 ## Reference
 
-[Git](https://git-scm.com/book/ko/v2)
+[Git 맞춤설정](https://git-scm.com/book/ko/v2/Git%EB%A7%9E%EC%B6%A4-Git-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)

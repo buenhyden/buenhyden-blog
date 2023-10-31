@@ -1,8 +1,8 @@
 ---
-date: 2023-10-16T11:52:00+09:00
 title: Git 설정하기
+date: 2023-10-16T11:52:00+09:00
 description: Git을 초기 설정해보자
-nav_weight: 2
+nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
@@ -88,3 +88,5 @@ images:
   - git config <key> 명령으로 Git이 특정 Key에 대해 어떤 값을 사용하는지 확인할 수 있다.
 
 ## Reference
+
+[Git 시작하기 - 최초 설정](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95)

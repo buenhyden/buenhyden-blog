@@ -1,8 +1,8 @@
 ---
-date: 2023-10-15T12:46:00+09:00
 title: Git 시작하기
+date: 2023-10-15T12:46:00+09:00
 description: Git을 시작해보자
-nav_weight: 1
+nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
@@ -51,3 +51,5 @@ images:
     |Staged|현재 수정한 파일을 곧 커밋할 것이라고 표시한 상태|
 
 ## Reference
+
+[시작하기 - Git 기초](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EA%B8%B0%EC%B4%88)
