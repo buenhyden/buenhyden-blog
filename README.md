@@ -55,4 +55,7 @@ git submodule update --recursive
 
 ```
 
--
+```bash
+npx mrm lint-staged
+
+```
