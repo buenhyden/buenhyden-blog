@@ -5,9 +5,8 @@
     "dev": "hugo server --gc --disableFastRender --enableGitInfo -D",
     "prod": "hugo server --gc --disableFastRender --enableGitInfo -D --renderToDisk --minify -e production",
     "build": "hugo --gc -D --minify --enableGitInfo",
-    "lint": "eslint .  --fix",
-    "lint:md": "remark . --quiet --frail",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "lint:md": "remark . --quiet --frail"
   },
   "repository": {
     "type": "git",
@@ -48,6 +47,9 @@
     ]
   },
   "lint-staged": {
-    "*.js": "eslint --cache --fix"
+    "*.{js,jsx}": [
+      "prettier --write",
+      "eslint --cache --fix"
+    ]
   }
 }
