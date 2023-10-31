@@ -1,5 +1,5 @@
 ---
-title: 'RabbitMQ'
+title: "RabbitMQ"
 date: 2023-10-15T02:46:00+09:00
 description: 오픈 소스 메시지 브로커 소프트웨어로서, AMQP를 구현
 linkTitle: RabbitMQ

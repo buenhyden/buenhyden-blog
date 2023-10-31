@@ -1,5 +1,5 @@
 ---
-title: 'Continuous Integration(CI)'
+title: "Continuous Integration(CI)"
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 통합
 linkTitle: Continuous Integration(CI)

@@ -22,6 +22,7 @@ tags:
   - Software Design & Architecture
   - Software Architecture
 ---
+
 ![Software Architecture](software-architecture.webp#center)
 
 ## Roadmap

@@ -9,17 +9,23 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:  
- - Dev Ops
- - Management for Infrastructure
+series:
+  - Dev Ops
+  - Management for Infrastructure
 categories:
- - Dev Ops
- - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 tags:
- - Dev Ops
- - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 ---
+
 ## Components of Infrastructure Management
+
 ![Components of Infrastructure Management](3-components-of-infrastructure-management.png?width=512px#center)
+
 ## Responsibilities of an Infrastructure Manager
-![](responsibilities-of-an-infrastructure-manager.png?width=512px#center)
+
+![Responsibilities of an Infrastructure Manager](responsibilities-of-an-infrastructure-manager.png?width=512px#center)
+
+

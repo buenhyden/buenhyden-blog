@@ -1,9 +1,9 @@
 ---
-title: "NoSQL"
-date: 2023-10-15T12:46:00+09:00
-description: 비관계형 데이터베이스 유형
-linkTitle: NoSQL
-nav_weight: 3
+title: "Time Series"
+date: 2023-10-31T07:46:00+09:00
+description:
+linkTitle: Time Series
+nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
@@ -13,16 +13,17 @@ series:
   - Backend
   - Database
   - NoSQL
+  - Time Series
 categories:
   - Backend
   - Database
   - NoSQL
+  - Time Series
 tags:
   - Backend
   - Database
   - NoSQL
+  - Time Series
 ---
-
-![Type of NoSQL Datastores](types-of-nosql-datastores.png#center)
 
 ## Reference

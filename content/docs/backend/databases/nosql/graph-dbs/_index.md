@@ -1,9 +1,9 @@
 ---
-title: "NoSQL"
-date: 2023-10-15T12:46:00+09:00
-description: 비관계형 데이터베이스 유형
-linkTitle: NoSQL
-nav_weight: 3
+title: "Graph DBs"
+date: 2023-10-31T07:46:00+09:00
+description:
+linkTitle: Graph DBs
+nav_weight: 6
 nav_icon:
   vendor: bs
   name: book
@@ -13,16 +13,17 @@ series:
   - Backend
   - Database
   - NoSQL
+  - Graph DBs
 categories:
   - Backend
   - Database
   - NoSQL
+  - Graph DBs
 tags:
   - Backend
   - Database
   - NoSQL
+  - Graph DBs
 ---
-
-![Type of NoSQL Datastores](types-of-nosql-datastores.png#center)
 
 ## Reference

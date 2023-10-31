@@ -1,5 +1,5 @@
 ---
-title: 'CI & CD'
+title: "CI & CD"
 date: 2023-10-15T12:46:00+09:00
 description:
 linkTitle: CI & CD

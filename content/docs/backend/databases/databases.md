@@ -1,5 +1,5 @@
 ---
-title: 'Database 타입'
+title: "Database 타입"
 date: 2023-10-16T16:26:00+09:00
 linkTitle: Database 타입
 nav_weight: 1

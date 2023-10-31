@@ -19,8 +19,11 @@ tags:
   - General
   - Software Design & Architecture
 ---
+
 ## Application Architecture
+
 ![Application Architecture](service-architecture.jpg#center)
+
 ## Roadmap
 
 <p align="center">
