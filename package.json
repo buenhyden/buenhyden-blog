@@ -1,5 +1,5 @@
 {
-  "name": "Hyden Blog",
+  "name": "buenhyden-blog",
   "description": "Hyden's Dev Story",
   "scripts": {
     "dev": "hugo server --gc --disableFastRender --enableGitInfo -D",
