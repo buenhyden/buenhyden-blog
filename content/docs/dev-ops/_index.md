@@ -1,23 +1,20 @@
 ---
-
 title: "Dev Ops"
 date: 2023-10-15T12:46:00+09:00
 description: 소프트웨어의 개발과 운영의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화
 linkTitle: Dev Ops
 nav_weight: 7
 nav_icon:
-vendor: bs
-name: book
-color: indigo
+  vendor: bs
+  name: book
+  color: indigo
 featured: true
 series:
-
-- Dev Ops
-  categories:
-- Dev Ops
-  tags:
-- Dev Ops
-
+  - Dev Ops
+categories:
+  - Dev Ops
+tags:
+  - Dev Ops
 ---
 
 ![Dev Ops](devops.png?width=512px#center)

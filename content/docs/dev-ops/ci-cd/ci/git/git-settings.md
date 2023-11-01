@@ -1,38 +1,35 @@
 ---
-
 title: Git 설정하기
 date: 2023-10-16T11:52:00+09:00
 description: Git을 초기 설정해보자
+featured: true
+images:
+  - /images/docs/git-init.jpg
 nav_weight: 3
 nav_icon:
-vendor: bs
-name: book
-color: indigo
+  vendor: bs
+  name: book
+  color: indigo
 authors:
-
-- Hyunyoun Jo
-  series:
-- Dev Ops
-- CI/CD
-- Version Control
-- Continuous Integration(CI)
-- Git
-  categories:
-- Dev Ops
-- CI/CD
-- Version Control
-- Continuous Integration(CI)
-- Git
-  tags:
-- Dev Ops
-- CI/CD
-- Version Control
-- Continuous Integration(CI)
-- Git
-  featured: true
-  images:
-- /images/docs/git-init.jpg
-
+  - Hyunyoun Jo
+series:
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
+categories:
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
+tags:
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
 ---
 
 ## Git 설정하기

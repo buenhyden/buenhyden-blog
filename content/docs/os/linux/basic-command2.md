@@ -1,29 +1,26 @@
 ---
-
 title: Linux 권한 설정 Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux 권한 설정 Command
 linkTitle: Linux 권한 설정 Command
 nav_weight: 3
 nav_icon:
-vendor: bs
-name: book
-color: indigo
+  vendor: bs
+  name: book
+  color: indigo
 featured: true
 series:
-
-- Operating System
-- Linux
-- Command
-  categories:
-- Operating System
-- Linux
-- Command
-  tags:
-- Operating System
-- Linux
-- Command
-
+  - Operating System
+  - Linux
+  - Command
+categories:
+  - Operating System
+  - Linux
+  - Command
+tags:
+  - Operating System
+  - Linux
+  - Command
 ---
 
 ![Linux Permissions](/images/docs/os/linux-permissions.jpg#center)

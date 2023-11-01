@@ -1,21 +1,11 @@
 ---
-
 title: Hyden's Dev Blog
-
-# menu
-
-# main
-
-# name: Home
-
-# weight: 1
-
-# params
-
-# icon
-
-# vendor: bs
-
-# name: house
-
+menu:
+  main:
+    name: Home
+    weight: 1
+    params:
+      icon:
+        vendor: bs
+        name: house
 ---

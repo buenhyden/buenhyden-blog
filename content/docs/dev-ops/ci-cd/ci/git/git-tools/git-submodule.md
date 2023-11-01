@@ -1,36 +1,33 @@
 ---
-
 title: Git Submodule
 date: 2023-10-31T07:46:00+09:00
 description: Git Submodule
 nav_weight: 3
 nav_icon:
-vendor: bs
-name: book
-color: indigo
+  vendor: bs
+  name: book
+  color: indigo
 authors:
-
-- Hyunyoun Jo
-  series:
-- Dev Ops
-- CI/CD
-- Version Control
-- Continuous Integration(CI)
-- Git
-  categories:
-- Dev Ops
-- CI/CD
-- Version Control
-- Continuous Integration(CI)
-- Git
-  tags:
-- Dev Ops
-- CI/CD
-- Version Control
-- Continuous Integration(CI)
-- Git
-  featured: true
-
+  - Hyunyoun Jo
+series:
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
+categories:
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
+tags:
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
+featured: true
 ---
 
 프로젝트 수행중 다른 프로젝트를 함께 사용해야할 경우가 종종 있다. 함께 사용할 다른 프로젝트는 외부에서 개발한 라이브러리라던가 내부 여러 프로젝트에서 공통으로 사용할 라이브러리일 수 있다.

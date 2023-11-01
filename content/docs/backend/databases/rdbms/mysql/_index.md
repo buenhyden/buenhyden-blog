@@ -1,31 +1,28 @@
 ---
-
-title: 'MySQL'
+title: "MySQL"
 date: 2023-10-15T12:46:00+09:00
 description: 오픈 소스 관계형 데이터베이스 관리 시스템
 nav_weight: 2
 nav_icon:
-vendor: bs
-name: book
-color: indigo
+  vendor: bs
+  name: book
+  color: indigo
 featured: true
 series:
-
-- Backend
-- Database
-- RDBMS
-- MySQL
-  categories:
-- Backend
-- Database
-- RDBMS
-- MySQL
-  tags:
-- Backend
-- Database
-- RDBMS
-- MySQL
-
+  - Backend
+  - Database
+  - RDBMS
+  - MySQL
+categories:
+  - Backend
+  - Database
+  - RDBMS
+  - MySQL
+tags:
+  - Backend
+  - Database
+  - RDBMS
+  - MySQL
 ---
 
 ![MySQL DB](mysql.png#center)

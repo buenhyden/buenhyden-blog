@@ -19,7 +19,7 @@ color: indigo
 series:
 
 - Docs
-  categories:
+categories:
 
 # -
 

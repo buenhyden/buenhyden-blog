@@ -1,26 +1,23 @@
 ---
-
 title: Javascript
 date: 2023-10-15T12:46:00+09:00
 description: 멀티-패러다임 언어로 명령형, 함수형, 객체 지향형 언어
 linkTitle: Javascript
 nav_weight: 2
 nav_icon:
-vendor: bs
-name: book
-color: indigo
+  vendor: bs
+  name: book
+  color: indigo
 featured: true
 series:
-
-- Programming Language
-- Javascript
-  categories:
-- Programming Language
-- Javascript
-  tags:
-- Programming Language
-- Javascript
-
+  - Programming Language
+  - Javascript
+categories:
+  - Programming Language
+  - Javascript
+tags:
+  - Programming Language
+  - Javascript
 ---
 
 ![Javascript](javascript.jpg#center)

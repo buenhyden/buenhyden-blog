@@ -1,29 +1,26 @@
 ---
-
 title: Linux Basic Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux에서 자주 사용하는 명령어 모음
 linkTitle: Linux Basic Command
 nav_weight: 2
 nav_icon:
-vendor: bs
-name: book
-color: indigo
+  vendor: bs
+  name: book
+  color: indigo
 featured: true
 series:
-
-- Operating System
-- Linux
-- Command
-  categories:
-- Operating System
-- Linux
-- Command
-  tags:
-- Operating System
-- Linux
-- Command
-
+  - Operating System
+  - Linux
+  - Command
+categories:
+  - Operating System
+  - Linux
+  - Command
+tags:
+  - Operating System
+  - Linux
+  - Command
 ---
 
 ## Linux Command

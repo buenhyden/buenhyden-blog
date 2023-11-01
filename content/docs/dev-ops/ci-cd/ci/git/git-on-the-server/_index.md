@@ -1,35 +1,32 @@
 ---
-
 title: "Git on the Server"
 date: 2023-10-31T12:46:00+09:00
 description:
 linkTitle: Git on the Server
 nav_weight: 6
 nav_icon:
-vendor: bs
-name: book
-color: indigo
+  vendor: bs
+  name: book
+  color: indigo
 featured: true
 series:
-
-- Dev Ops
-- CI/CD
-- Version Control
-- Continuous Integration(CI)
-- Git
-  categories:
-- Dev Ops
-- CI/CD
-- Version Control
-- Continuous Integration(CI)
-- Git
-  tags:
-- Dev Ops
-- CI/CD
-- Version Control
-- Continuous Integration(CI)
-- Git
-
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
+categories:
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
+tags:
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
 ---
 
 ## Reference

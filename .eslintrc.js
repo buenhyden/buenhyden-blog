@@ -5,9 +5,31 @@ module.exports = {
     commonjs: true,
     es2021: true,
   },
-  extends: ["eslint:recommended", "prettier", "plugin:prettier/recommended"],
-  plugins: ["prettier", "node", "import", "html"],
+  extends: ["eslint:recommended", "prettier", "plugin:prettier/recommended", "plugin:markdown/recommended"],
+  plugins: ["prettier", "node", "import", "html", "markdown"],
   overrides: [
+    {
+      // In v2, explicitly apply eslint-plugin-markdown's `markdown`
+      // processor on any Markdown files you want to lint.
+      files: ["**/*.md"],
+      processor: "markdown/markdown",
+    },
+    {
+      // In v2, configuration for fenced code blocks is separate from the
+      // containing Markdown file. Each code block has a virtual filename
+      // appended to the Markdown file's path.
+      files: ["**/*.md/*.js"],
+      // Configuration for fenced code blocks goes with the override for
+      // the code block's virtual filename, for example:
+      parserOptions: {
+        ecmaFeatures: {
+          impliedStrict: true,
+        },
+      },
+      rules: {
+        "no-console": "off",
+      },
+    },
     {
       env: {
         node: true,
