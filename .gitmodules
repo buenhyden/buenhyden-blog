@@ -1,9 +1,9 @@
-[submodule "themes/hugo-theme-bootstrap"]
-	path = themes/hugo-theme-bootstrap
-	url = https://github.com/razonyang/hugo-theme-bootstrap
-[submodule "themes/hugo-theme-stack"]
-	path = themes/hugo-theme-stack
-	url = https://github.com/CaiJimmy/hugo-theme-stack/
 [submodule "public"]
 	path = public
 	url = https://github.com/buenhyden/buenhyden.github.io.git
+[submodule "themes/hugo-theme-bootstrap"]
+	path = themes/hugo-theme-bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap
+[submodule "themes/hbstack-theme"]
+	path = themes/hbstack-theme
+	url = https://github.com/hbstack/theme
