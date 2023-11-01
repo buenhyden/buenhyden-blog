@@ -1,23 +1,26 @@
 ---
+
 title: "CI & CD"
 date: 2023-10-15T12:46:00+09:00
 description:
 linkTitle: CI & CD
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 featured: true
 series:
-  - Dev Ops
-  - CI/CD
-categories:
-  - Dev Ops
-  - CI/CD
-tags:
-  - Dev Ops
-  - CI/CD
+
+- Dev Ops
+- CI/CD
+  categories:
+- Dev Ops
+- CI/CD
+  tags:
+- Dev Ops
+- CI/CD
+
 ---
 
 ![CI & CD2](ci-cd2.png?width=512px#center)

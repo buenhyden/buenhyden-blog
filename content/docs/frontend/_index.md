@@ -1,20 +1,23 @@
 ---
+
 title: Frontend
 date: 2023-10-15T12:46:00+09:00
 description: 백엔드 API에서 가져온 데이터의 출력, 입력을 통한 비즈니스 로직 구성과 사용자와 대화하는 사용자 인터페이스 부분
 linkTitle: Frontend
-nav_weight: 9
+nav_weight: 10
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 featured: true
 series:
-  - Frontend
-categories:
-  - Frontend
-tags:
-  - Frontend
+
+- Frontend
+  categories:
+- Frontend
+  tags:
+- Frontend
+
 ---
 
 ## Web Application

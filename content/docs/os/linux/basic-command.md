@@ -1,26 +1,29 @@
 ---
+
 title: Linux Basic Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux에서 자주 사용하는 명령어 모음
 linkTitle: Linux Basic Command
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 featured: true
 series:
-  - Operating System
-  - Linux
-  - Command
-categories:
-  - Operating System
-  - Linux
-  - Command
-tags:
-  - Operating System
-  - Linux
-  - Command
+
+- Operating System
+- Linux
+- Command
+  categories:
+- Operating System
+- Linux
+- Command
+  tags:
+- Operating System
+- Linux
+- Command
+
 ---
 
 ## Linux Command
@@ -61,6 +64,7 @@ $ pwd
 ### ls
 
 - list segments의 약자로 현재 디렉터리의 파일과 디렉터리를 보여준다.
+
 - 보통 단독으로 잘 사용하지 않고 a,l 등의 옵션과 함께 사용
 
   | Option | Description                                                                                  |
@@ -291,6 +295,7 @@ RX bytes:349206971 (349.2 MB) TX bytes:349206971 (349.2 MB)
 ### ss
 
 - socket statistics의 약자로 네트워크 상태를 확인하는 데 사용.
+
 - nestat과 동일. 옵션으로 a, t, u, l, p, n 등이 있다.
   |Option|Description|
   |------|-----------|

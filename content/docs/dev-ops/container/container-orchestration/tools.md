@@ -1,26 +1,29 @@
 ---
+
 date: 2023-10-15T15:46:00+09:00
 title: Tools
 description: Container Orchestration(CO)을 위해 많이 사용되는 도구와 각 도구별 특성을 정리
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 featured: true
 images:
-  - /images/docs/co-tools.webp
-authors:
-  - Hyunyoun Jo
-series:
-  - Dev Ops
-  - Container Orchestration(CO)
-categories:
-  - Dev Ops
-  - Container Orchestration(CO)
-tags:
-  - Dev Ops
-  - Container Orchestration(CO)
+
+- /images/docs/co-tools.webp
+  authors:
+- Hyunyoun Jo
+  series:
+- Dev Ops
+- Container Orchestration(CO)
+  categories:
+- Dev Ops
+- Container Orchestration(CO)
+  tags:
+- Dev Ops
+- Container Orchestration(CO)
+
 ---
 
 ## 종류
@@ -63,7 +66,7 @@ tags:
 
 #### 구성
 
-- manager node (클러스터의 상태 유지 및 스케줄링 <worker 노드에 컨테이너 배포>)
+- manager node (클러스터의 상태 유지 및 스케줄링 \<worker 노드에 컨테이너 배포>)
 - worker node (애플리케이션이 실행되는 노드)
 
 ### Apache Mesos

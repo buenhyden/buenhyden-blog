@@ -1,32 +1,35 @@
 ---
+
 title: "Customizing Git"
 date: 2023-10-31T12:46:00+09:00
 description:
 linkTitle: Customizing Git
 nav_weight: 10
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 featured: true
 series:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-categories:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
+
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  categories:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  tags:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+
 ---
 
 ## Reference

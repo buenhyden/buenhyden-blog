@@ -1,34 +1,36 @@
 ---
+
 title: "Git의 기초"
 date: 2023-10-31T12:46:00+09:00
 description:
 linkTitle: Git의 기초
 nav_weight: 4
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 featured: true
 series:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-categories:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
----
 
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  categories:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  tags:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+
+---
 
 ## Reference
 

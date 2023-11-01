@@ -1,35 +1,38 @@
 ---
+
 title: Git 설정하기
 date: 2023-10-16T11:52:00+09:00
 description: Git을 초기 설정해보자
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 authors:
-  - Hyunyoun Jo
-series:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-categories:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-featured: true
-images:
-  - /images/docs/git-init.jpg
+
+- Hyunyoun Jo
+  series:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  categories:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  tags:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  featured: true
+  images:
+- /images/docs/git-init.jpg
+
 ---
 
 ## Git 설정하기
@@ -42,7 +45,7 @@ images:
     - /etc/gitconfig
       - 시스템의 모든 사용자와 모든 저장소에 적용되는 설정
       - git config —system 옵셥으로 이 파일을 읽고 쓸 수 있다
-    - ~/.gitconfig, ~/config/git/config
+    - \~/.gitconfig, ~/config/git/config
       - 특정 사용자에게만 적용되는 설정
       - git config —global 옵션으로 이 파일을 일고 쓸 수 있다.
       - 특정 사용자의 모든 저장소 설정에 적용
@@ -53,23 +56,27 @@ images:
 
 ### **사용자 정보**
 
-    - Git을 설치하고 나서 가장 먼저 해야 하는 것은 사용자 이름과 이메일 주소를 설정하는 것이다.
-        - Git은 커밋할 때마다 이 정보를 사용한다.
-        - 한번 커밋한 후에는 정보를 변경할 수 없다.
+````
+- Git을 설치하고 나서 가장 먼저 해야 하는 것은 사용자 이름과 이메일 주소를 설정하는 것이다.
+    - Git은 커밋할 때마다 이 정보를 사용한다.
+    - 한번 커밋한 후에는 정보를 변경할 수 없다.
 
-        ```
-        git config --global user.name "John Doe"
-        git config --global user.email johndoe@example.com
-        ```
+    ```
+    git config --global user.name "John Doe"
+    git config --global user.email johndoe@example.com
+    ```
+````
 
 ### 편집기 설정
 
-    - Git에서 사용할 텍스트 편집기를 고른다.
-    - 기본적으로 Git은 시스템의 기본 편집기를 사용한다
+````
+- Git에서 사용할 텍스트 편집기를 고른다.
+- 기본적으로 Git은 시스템의 기본 편집기를 사용한다
 
-    ```
-    git config --global core.editor emacs
-    ```
+```
+git config --global core.editor emacs
+```
+````
 
 ### 설정 확인
 

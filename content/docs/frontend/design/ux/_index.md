@@ -1,26 +1,29 @@
 ---
+
 title: UX
 date: 2023-10-15T12:46:00+09:00
 description: 사용자가 제품 또는 서비스에 대해 갖는 경험에 관한 것
 linkTitle: UX
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 featured: true
 series:
-  - Frontend
-  - Design
-  - UX
-categories:
-  - Frontend
-  - Design
-  - UX
-tags:
-  - Frontend
-  - Design
-  - UX
+
+- Frontend
+- Design
+- UX
+  categories:
+- Frontend
+- Design
+- UX
+  tags:
+- Frontend
+- Design
+- UX
+
 ---
 
 - UX : USER EXPERIENCE

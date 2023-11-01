@@ -1,20 +1,23 @@
 ---
+
 title: Backend
 date: 2023-10-15T12:46:00+09:00
 description: 프론트엔드에 있는 사용자들이 하고자 하는 행동을 처리하는 것
 linkTitle: Backend
-nav_weight: 5
+nav_weight: 6
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 featured: true
 series:
-  - Backend
-categories:
-  - Backend
-tags:
-  - Backend
+
+- Backend
+  categories:
+- Backend
+  tags:
+- Backend
+
 ---
 
 ## Web Application

@@ -1,35 +1,38 @@
 ---
+
 title: Git 시작하기
 date: 2023-10-15T12:46:00+09:00
 description: Git을 시작해보자
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 authors:
-  - Hyunyoun Jo
-series:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-categories:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-featured: true
-images:
-  - /images/docs/git-status.png
+
+- Hyunyoun Jo
+  series:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  categories:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  tags:
+- Dev Ops
+- CI/CD
+- Version Control
+- Continuous Integration(CI)
+- Git
+  featured: true
+  images:
+- /images/docs/git-status.png
+
 ---
 
 ### 특성

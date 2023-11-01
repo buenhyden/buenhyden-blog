@@ -1,26 +1,29 @@
 ---
+
 title: Linux 권한 설정 Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux 권한 설정 Command
 linkTitle: Linux 권한 설정 Command
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: indigo
+vendor: bs
+name: book
+color: indigo
 featured: true
 series:
-  - Operating System
-  - Linux
-  - Command
-categories:
-  - Operating System
-  - Linux
-  - Command
-tags:
-  - Operating System
-  - Linux
-  - Command
+
+- Operating System
+- Linux
+- Command
+  categories:
+- Operating System
+- Linux
+- Command
+  tags:
+- Operating System
+- Linux
+- Command
+
 ---
 
 ![Linux Permissions](/images/docs/os/linux-permissions.jpg#center)
@@ -45,7 +48,8 @@ tags:
     |User|파일을 만든 소유주|
     |Group|파일을 만든 소유주가 속한 그룹|
     |Other|기타 사용자|
-  - Permission은 4가지에 대하여 구분  
+
+  - Permission은 4가지에 대하여 구분\
     |Permission| | |
     |:----------:|----|-------|
     | |파일|디렉토리|
@@ -54,15 +58,20 @@ tags:
     |x|파일에 대한 실행 권한.</br>파일이 프로그램으로 처리되고 파일이 실행되도록 허용.</br>스크립트 언어에서 작성된 프로그램 파일들은 읽기 가능으로 설정 되어 있어야만 실행 가능|디렉토리 내에서 탐색을 위해 이동할 수 있도록 허용(디렉토리에 들어올 수 있도록 허용)
     |-|r,w,x에 대한 권한이 없음을 표시|r,w,x에 대한 권한이 없음을 표시|
 
-  - Permission  
+  - Permission\
     ![Linux File permissions](/images/docs/os/linux-file-permissions.jpg?width=512px)
 
 - number of hard links
+
 - Ownership: 각 파일이나 디렉토리를 소유할 사용자나 그룹을 지정
+
   - user(owner) name
   - group name
+
 - size
+
 - date/time last modified
+
 - filename
 
 - Example
