@@ -27,7 +27,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ## Go & Hugo 설치
 
-* 위의 Chocolatey 설치가 되었다는 가정하
+- 위의 Chocolatey 설치가 되었다는 가정하
 
 1. GoLang 설치
 
@@ -47,7 +47,7 @@ choco install hugo
 choco install hugo-extended
 ```
 
-* submodules
+- submodules
 
 ```bash
 git submodule update --init --remote --recursive

@@ -37,10 +37,15 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
   highlight:
     noClasses: false
     lineNos: true
     lineNumbersInTable: false
+    wrap: true
 
 # see https://gohugo.io/content-management/related/#configure-related-content
 related:

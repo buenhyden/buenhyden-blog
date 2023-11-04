@@ -35,7 +35,7 @@ hb:
       profile:
         title: 기억보다는 기록을 위한
         description: Python Back-End Developer
-        location: Earth
+        location: Seoul, Korea
         socials:
           github: buenhyden
           email: chochyjj@gmail.com
@@ -44,6 +44,8 @@ hb:
       posts:
         recent_count: 5 # the number of recent posts.
         featured_count: 5 # the number of featured posts.
+        fill: true
+        style: pills
       taxonomies:
         count: true # whether to show the number of posts associated to the item.
         limit: 10 # the maximum number of the item.
@@ -75,3 +77,14 @@ hb:
       # subpath: exampleSite
   # gallery:
   #   thumbnail_size: "x640"
+  progress_bar:
+    height: 2px
+    initial_width: 20
+    interval: 50
+    time: 2
+  scrollbar:
+    corner_bg: "#909294"
+    height: 12px
+    thumb_bg: "#909294"
+    track_bg: "#f8f9fa"
+    width: 12px

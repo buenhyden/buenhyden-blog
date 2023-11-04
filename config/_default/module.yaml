@@ -65,3 +65,4 @@ imports:
   - path: github.com/hugomods/code-block-panel
   - path: github.com/hugomods/pwa
   - path: github.com/hbstack/blog/modules/breadcrumb
+  - path: github.com/hugomods/aos
