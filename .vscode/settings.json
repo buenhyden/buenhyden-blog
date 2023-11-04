@@ -9,6 +9,7 @@
   "python.terminal.activateEnvInCurrentTerminal": true,
   "python.analysis.autoImportCompletions": true,
   "autoprefixer.formatOnSave": true,
+  "autoDocstring.generateDocstringOnEnter": true,
   "files.autoSave": "afterDelay",
   "editor.tokenColorCustomizations": {
     "comments": "#d39e93"
@@ -19,6 +20,8 @@
     "editor.formatOnSave": true
   },
   "extensions.experimental.affinity": {
+    "ms-toolsai.jupyter": 1,
+    "ms-toolsai.jupyter-renderers": 1,
     "ms-python.python": 1,
     "ms-python.vscode-pylance": 1
   },
@@ -46,5 +49,14 @@
     "editor.formatOnSave": true
   },
   "cSpell.enabled": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "commit-message-editor.view.tabSize": 2,
+  "yaml.customTags": [],
+  "yaml.format.proseWrap": "always",
+  "yaml.trace.server": "verbose",
+  "black-formatter.showNotifications": "onError",
+  "yaml.schemas": {
+    "url": "globPattern",
+    "Kubernetes": "globPattern"
+  }
 }
