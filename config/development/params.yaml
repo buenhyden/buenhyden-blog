@@ -14,7 +14,7 @@ hb:
   # css_bundle_name: main # the CSS bundle name.
   header:
     brand: Hyden's Dev Blog # the brand name, leave it empty to use site's title.
-    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    logo_bg: "#712cf9" # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       github: buenhyden
@@ -50,7 +50,7 @@ hb:
     paginate: 12 # paginate.
     post_thumbnail_placeholder: # the text of thumbnail placeholder, default to site title.
     # post_thumbnail: false # whether to show the thumbnails.
-    post_date_format: ':date_long' # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
+    post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
       # taxonomies: false # remove the taxonomies stat from the homepage.
       featured_posts: 5 # the number of the featured posts.
@@ -62,7 +62,7 @@ hb:
       repo_id: R_kgDOKeOkIg
       category_id: DIC_kwDOKeOkIs4CaDqD
   docs:
-    date_format: ':date_long' # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
+    date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     giscus:
       repo: buenhyden/buenhyden-blog
       repo_id: R_kgDOKeOkIg

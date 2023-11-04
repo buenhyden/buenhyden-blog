@@ -6,6 +6,6 @@ menu:
     weight: 1
     params:
       icon:
-      vendor: fas
-      name: blog
+        vendor: fas
+        name: blog
 ---
