@@ -4,3 +4,6 @@ package-json.lock
 
 node_modules/
 .history/
+.eslintcache
+.giscus-frame
+.giscus-frame2
