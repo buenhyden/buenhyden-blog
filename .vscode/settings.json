@@ -1,6 +1,6 @@
 {
   "workbench.colorTheme": "Material Theme Darker High Contrast",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "vscode-icons",
   "editor.formatOnSave": true,
   "editor.wordWrap": "on",
   "editor.tabSize": 2,
