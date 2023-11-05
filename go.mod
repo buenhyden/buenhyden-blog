@@ -21,6 +21,8 @@ require (
 	github.com/hbstack/gallery v0.5.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
 	github.com/hbstack/hb v0.7.1 // indirect
+	github.com/hbstack/header/modules/news v0.2.0 // indirect
+	github.com/hbstack/header/themes/tabs v0.1.0 // indirect
 	github.com/hbstack/heading-sign v0.1.3 // indirect
 	github.com/hbstack/meta/recommended v0.2.9 // indirect
 	github.com/hbstack/pagination v0.2.0 // indirect

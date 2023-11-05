@@ -1,6 +1,3 @@
 {
-  "recommendations": [
-    "redhat.vscode-yaml",
-    "yzhang.markdown-all-in-one"
-  ]
+  "recommendations": ["redhat.vscode-yaml", "yzhang.markdown-all-in-one", "ms-kubernetes-tools.vscode-kubernetes-tools"]
 }

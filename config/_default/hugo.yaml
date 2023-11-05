@@ -14,7 +14,7 @@ title_sections_depth_dir: end # when start, the depth is counting from the root 
 
 permalinks:
   blog: /blog/:year/:month/:title
-  docs: /docs/:year/:month/:title  
+  docs: /docs/:year/:month/:title
 
 outputs:
   home:
@@ -45,7 +45,6 @@ markup:
     noClasses: false
     lineNos: true
     lineNumbersInTable: false
-    wrap: true
 
 # see https://gohugo.io/content-management/related/#configure-related-content
 related:

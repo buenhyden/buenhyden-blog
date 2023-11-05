@@ -70,3 +70,19 @@ hugopress:
       hooks:
         hb-blog-sidebar:
           weight: 2
+    hb-docs:
+      attributes:
+        hb-main:
+          weight: 1
+      hooks:
+        head-begin:
+          weight: 3
+        hb-header-nav-begin:
+          weight: 2
+    hb-header-theme-toggle:
+      attributes:
+        document:
+          weight: 1
+      hooks:
+        hb-header-panel:
+          weight: 2

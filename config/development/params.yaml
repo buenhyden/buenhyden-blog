@@ -14,6 +14,9 @@ hb:
   # css_bundle_name: main # the CSS bundle name.
   header:
     brand: Hyden's Dev Blog # the brand name, leave it empty to use site's title.
+    breakpoint: lg
+    menus_alignment: start
+    sticky: true
     logo_bg: "#712cf9" # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
@@ -21,6 +24,14 @@ hb:
       # twitter: razonyang
       # rss: false
       # mastodon: https://techhub.social/@hbstack
+    news:
+      sections:
+        - blog
+        - docs
+      limit: 5
+      date_format: ":date_full"
+      icon_name: "bell-fill" # Use anohter Bootstrap icon, e.g. megaphone.
+      icon_vendor: "bootstrap" # Use icons vendor other than Bootstrap.
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
@@ -58,7 +69,6 @@ hb:
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
         - docs
-        - programming
         - blog
     giscus:
       repo: buenhyden/buenhyden-blog
