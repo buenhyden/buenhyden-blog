@@ -1,0 +1,100 @@
+main:
+  - name: Home
+    params:
+      icon:
+        name: house
+        vendor: bootstrap
+    url: /
+    weight: 1
+  - identifier: ordinary-life
+    name: Ordinary Life
+    params:
+      header: My Ordinary Life
+      icon:
+        name: rocket-takeoff
+        vendor: bootstrap
+    weight: 2
+  - identifier: docs
+    name: Notes
+    params:
+      header: My Dev Note
+      icon:
+        vendor: bs
+        name: book
+    weight: 3
+    url: "/docs"
+  - identifier: classifications
+    name: Classifications
+    params:
+      header: Blog's Classification
+      icon:
+        vendor: bs
+        name: menu-app
+    weight: 4
+  - identifier: archives
+    name: Archives
+    params:
+      header: Blog's History
+      icon:
+        vendor: bs
+        name: archive
+        className: text-primary-emphasis
+    weight: 5
+    url: "/archives"
+  - name: Diary
+    params:
+      description: 일상을 기록하다
+      icon:
+        name: pen
+        vendor: bs
+    parent: ordinary-life
+    url: "/diary"
+    weight: 1
+  - params:
+      divider: true
+    parent: ordinary-life
+    weight: 2
+  - name: Gallery
+    params:
+      description: 일상을 찍다
+      icon:
+        name: images
+        vendor: bs
+    parent: ordinary-life
+    url: "/gallery"
+    weight: 3
+  - name: Series
+    params:
+      description: Blog Series
+      icon:
+        vendor: bs
+        name: columns
+    weight: 1
+    parent: classifications
+    url: "/series"
+  - params:
+      divider: true
+    parent: ordinary-life
+    weight: 2
+  - name: Categories
+    params:
+      description: Blog Categories
+      icon:
+        vendor: bs
+        name: folder
+    parent: classifications
+    weight: 3
+    url: "/categories"
+  - params:
+      divider: true
+    parent: ordinary-life
+    weight: 4
+  - name: Tags
+    params:
+      description: Blog Tags
+      icon:
+        vendor: bs
+        name: tags
+    parent: classifications
+    weight: 5
+    url: "/tags"

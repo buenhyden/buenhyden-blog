@@ -26,7 +26,8 @@ hb:
       # mastodon: https://techhub.social/@hbstack
     news:
       sections:
-        - blog
+        - diary
+        - gallery
         - docs
       limit: 5
       date_format: ":date_full"
@@ -69,7 +70,8 @@ hb:
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
         - docs
-        - blog
+        - diary
+        - gallery
     giscus:
       repo: buenhyden/buenhyden-blog
       repo_id: R_kgDOKeOkIg
