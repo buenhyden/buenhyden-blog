@@ -1,6 +1,6 @@
 {
   "workbench.colorTheme": "Material Theme Darker High Contrast",
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "material-icon-theme",
   "editor.formatOnSave": true,
   "editor.wordWrap": "on",
   "editor.tabSize": 2,
@@ -45,7 +45,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[markdown]": {
-    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
     "editor.formatOnSave": true
   },
   "cSpell.enabled": false,
