@@ -1,9 +1,9 @@
 ---
-title: "Infrastructure Provisioning"
-date: 2023-10-31T07:46:00+09:00
+title: "Fluentd"
+date: 2023-11-04T12:52:00+09:00
 description:
-linkTitle: Infrastructure Provisioning
-nav_weight: 2
+linkTitle: Fluentd
+nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
@@ -12,15 +12,21 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
+  - Logging System
+  - Fluentd
+  - tools
 categories:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
+  - Logging System
+  - Fluentd
+  - tools
 tags:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
+  - Logging System
+  - Fluentd
+  - tools
 ---
 
 ## Reference

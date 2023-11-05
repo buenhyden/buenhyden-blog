@@ -1,9 +1,9 @@
 ---
-title: "Infrastructure Provisioning"
+title: "Configure Management"
 date: 2023-10-31T07:46:00+09:00
 description:
-linkTitle: Infrastructure Provisioning
-nav_weight: 2
+linkTitle: Configure Management
+nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
@@ -12,15 +12,15 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
+  - Configure Management
 categories:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
+  - Configure Management
 tags:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
+  - Configure Management
 ---
 
 ## Reference
