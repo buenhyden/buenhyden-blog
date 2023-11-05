@@ -13,9 +13,15 @@ title_sections_depth: 0 # the depth of sections on the title.
 title_sections_depth_dir: end # when start, the depth is counting from the root sections.
 
 permalinks:
-  docs: /docs/:year/:month/:title
   diary: /diary/:year/:month/:title
   gallery: /gallery/:title
+  notes: /notes/:year/:month/:title
+  programming: /programming/:year/:month/:title
+  ai: /ai/:year/:month/:title
+  backend: /backend/:year/:month/:title
+  frontend: /frontend/:year/:month/:title
+  dev-ops: /dev-ops/:year/:month/:title
+  data: /data/:year/:month/:title
 
 outputs:
   home:

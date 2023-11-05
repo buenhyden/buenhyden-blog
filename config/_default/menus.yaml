@@ -1,6 +1,7 @@
 main:
   - name: Home
     params:
+      header: Classification
       icon:
         name: house
         vendor: bootstrap
@@ -14,33 +15,69 @@ main:
         name: rocket-takeoff
         vendor: bootstrap
     weight: 2
-  - identifier: docs
+  - identifier: notes
     name: Notes
     params:
-      header: My Dev Note
+      header: My Dev Notes
       icon:
         vendor: bs
         name: book
     weight: 3
-    url: "/docs"
-  - identifier: classifications
-    name: Classifications
+    url: "/notes"
+  - identifier: programming
+    name: Programming
     params:
-      header: Blog's Classification
+      header: programming
       icon:
         vendor: bs
-        name: menu-app
+        name: book
     weight: 4
-  - identifier: archives
-    name: Archives
+    url: "/programming"
+  - identifier: backend
+    name: Backend
     params:
-      header: Blog's History
+      header: Backend
       icon:
         vendor: bs
-        name: archive
-        className: text-primary-emphasis
+        name: book
     weight: 5
-    url: "/archives"
+    url: "/backend"
+  - identifier: frontend
+    name: Frontend
+    params:
+      header: Frontend
+      icon:
+        vendor: bs
+        name: book
+    weight: 6
+    url: "/frontend"
+  - identifier: dev-ops
+    name: Dev Ops
+    params:
+      header: Dev Ops
+      icon:
+        vendor: bs
+        name: book
+    weight: 7
+    url: "/dev-ops"
+  - identifier: data
+    name: Data
+    params:
+      header: Data Handling
+      icon:
+        vendor: bs
+        name: book
+    weight: 8
+    url: "/data"
+  - identifier: ai
+    name: AI
+    params:
+      header: Artificial Intelligence
+      icon:
+        vendor: bs
+        name: book
+    weight: 9
+    url: "/ai"
   - name: Diary
     params:
       description: 일상을 기록하다
@@ -63,38 +100,357 @@ main:
     parent: ordinary-life
     url: "/gallery"
     weight: 3
+
+  - name: Archives
+    params:
+      description: Blog's History
+      icon:
+        vendor: bs
+        name: archive
+        className: text-primary-emphasis
+    weight: 1
+    parent: Home
+    url: "/archives"
+  - params:
+      divider: true
+    parent: Home
+    weight: 2
   - name: Series
     params:
       description: Blog Series
       icon:
         vendor: bs
         name: columns
-    weight: 1
-    parent: classifications
+    weight: 3
+    parent: Home
     url: "/series"
   - params:
       divider: true
-    parent: ordinary-life
-    weight: 2
+    parent: Home
+    weight: 4
   - name: Categories
     params:
       description: Blog Categories
       icon:
         vendor: bs
         name: folder
-    parent: classifications
-    weight: 3
+    parent: Home
+    weight: 5
     url: "/categories"
   - params:
       divider: true
-    parent: ordinary-life
-    weight: 4
+    parent: Home
+    weight: 6
   - name: Tags
     params:
       description: Blog Tags
       icon:
         vendor: bs
         name: tags
-    parent: classifications
-    weight: 5
+    parent: Home
+    weight: 7
     url: "/tags"
+
+  - name: General
+    params:
+      description: General
+      icon:
+        vendor: bootstrap
+        name: file-earmark-text
+    weight: 1
+    parent: notes
+    url: "/notes/general"
+  - params:
+      divider: true
+    parent: notes
+    weight: 2
+  - name: Data Structure and algorithm
+    params:
+      description: Data Structure & Algorithm
+      icon:
+        vendor: bootstrap
+        name: file-earmark-text
+    weight: 3
+    parent: notes
+    url: "/notes/data-structure-and-algorithm"
+  - params:
+      divider: true
+    parent: notes
+    weight: 4
+  - name: Network
+    params:
+      description: Network
+      icon:
+        vendor: bs
+        name: file-earmark-text
+    weight: 5
+    parent: notes
+    url: "/notes/network"
+  - params:
+      divider: true
+    parent: notes
+    weight: 6
+  - name: Operating System
+    params:
+      description: Operating System
+      icon:
+        vendor: bs
+        name: file-earmark-text
+    parent: notes
+    weight: 7
+    url: "/notes/os"
+
+  - name: Programming Basics
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: programming
+    url: "/programming/programming-basics"
+    weight: 1
+  - params:
+      divider: true
+    parent: programming
+    weight: 2
+  - name: Programming Languages
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: programming
+    url: "/programming/programming-languages"
+    weight: 3
+
+  - name: Databases
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: backend
+    url: "/backend/databases"
+    weight: 1
+  - params:
+      divider: true
+    parent: backend
+    weight: 2
+  - name: Message Broker
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: backend
+    url: "/backend/message-broker"
+    weight: 3
+  - params:
+      divider: true
+    parent: backend
+    weight: 4
+  - name: Search Engine
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: backend
+    url: "/backend/search-engine"
+    weight: 5
+  - params:
+      divider: true
+    parent: backend
+    weight: 6
+  - name: Web Server
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: backend
+    url: "/backend/web-server"
+    weight: 7
+
+  - name: Web Browser
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: frontend
+    url: "/frontend/web-browser"
+    weight: 1
+  - params:
+      divider: true
+    parent: frontend
+    weight: 2
+  - name: Design
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: frontend
+    url: "/frontend/design"
+    weight: 3
+  - params:
+      divider: true
+    parent: frontend
+    weight: 4
+  - name: HTML
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: frontend
+    url: "/frontend/html"
+    weight: 5
+  - params:
+      divider: true
+    parent: frontend
+    weight: 6
+  - name: Styling
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: frontend
+    url: "/frontend/styling"
+    weight: 7
+
+  - name: CI & CD
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: dev-ops
+    url: "/dev-ops/ci-cd"
+    weight: 1
+  - params:
+      divider: true
+    parent: dev-ops
+    weight: 2
+  - name: Code Editor
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: dev-ops
+    url: "/dev-ops/code-editor"
+    weight: 3
+  - params:
+      divider: true
+    parent: dev-ops
+    weight: 4
+  - name: Infrastructure as Code
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: dev-ops
+    url: "/dev-ops/infra-as-code"
+    weight: 5
+  - params:
+      divider: true
+    parent: dev-ops
+    weight: 6
+  - name: Container
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: dev-ops
+    url: "/dev-ops/container"
+    weight: 7
+  - params:
+      divider: true
+    parent: dev-ops
+    weight: 8
+  - name: Management for Infrastructure
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: dev-ops
+    url: "/dev-ops/management"
+    weight: 9
+
+  - name: Data Engineering
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: data
+    url: "/data/data-engineering"
+    weight: 1
+  - params:
+      divider: true
+    parent: data
+    weight: 2
+  - name: Data Science
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: data
+    url: "/data/data-science"
+    weight: 3
+
+  - name: Image Recognition
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: ai
+    url: "/ai/image-recognition"
+    weight: 1
+  - params:
+      divider: true
+    parent: ai
+    weight: 2
+  - name: Machine Learning
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: ai
+    url: "/ai/machine-learning"
+    weight: 3
+  - params:
+      divider: true
+    parent: ai
+    weight: 4
+  - name: Neural Networks
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: ai
+    url: "/ai/neural-networks"
+    weight: 5
+  - params:
+      divider: true
+    parent: ai
+    weight: 6
+  - name: Speech Recognition
+    params:
+      description:
+      icon:
+        name: file-earmark-text
+        vendor: bs
+    parent: ai
+    url: "/ai/speech-recognition"
+    weight: 7

@@ -28,7 +28,13 @@ hb:
       sections:
         - diary
         - gallery
-        - docs
+        - notes
+        - programming
+        - ai
+        - backend
+        - frontend
+        - data
+        - dev-ops
       limit: 5
       date_format: ":date_full"
       icon_name: "bell-fill" # Use anohter Bootstrap icon, e.g. megaphone.
@@ -69,9 +75,15 @@ hb:
       # taxonomies: false # remove the taxonomies stat from the homepage.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
-        - docs
         - diary
         - gallery
+        - notes
+        - programming
+        - ai
+        - backend
+        - frontend
+        - data
+        - dev-ops
     giscus:
       repo: buenhyden/buenhyden-blog
       repo_id: R_kgDOKeOkIg
@@ -88,8 +100,9 @@ hb:
       repo: buenhyden/buenhyden-blog
       branch: master
       # subpath: exampleSite
-  # gallery:
-  #   thumbnail_size: "x640"
+  gallery:
+    paginate: 24
+    thumbnail_size: x640
   progress_bar:
     height: 2px
     initial_width: 20

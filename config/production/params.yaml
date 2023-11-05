@@ -18,9 +18,15 @@ hb:
       # mastodon: https://techhub.social/@hbstack
     news:
       sections:
-        - blog
         - diary
         - gallery
+        - notes
+        - programming
+        - ai
+        - backend
+        - frontend
+        - data
+        - dev-ops
       limit: 5
       date_format: ":date_full"
       icon_name: "bell-fill" # Use anohter Bootstrap icon, e.g. megaphone.
@@ -61,9 +67,15 @@ hb:
       # taxonomies: false # remove the taxonomies stat from the homepage.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
-        - docs
         - diary
         - gallery
+        - notes
+        - programming
+        - ai
+        - backend
+        - frontend
+        - data
+        - dev-ops
     giscus:
       repo: buenhyden/buenhyden.github.io
       repo_id: R_kgDOKa2JLg
