@@ -10,11 +10,11 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Programming Language
+  - Programming Basics
 categories:
-  - Programming Language
+  - Programming Basics
 tags:
-  - Programming Language
+  - Programming Basics
 ---
 
 ## Reference
