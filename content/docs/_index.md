@@ -3,7 +3,7 @@ title: Notes
 menu:
   main:
     identifier: docs
-    weight: 2
+    weight: 3
     params:
       icon:
       vendor: bs

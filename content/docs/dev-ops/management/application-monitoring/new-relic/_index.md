@@ -1,9 +1,9 @@
 ---
-title: "Terraform"
+title: "New Relic"
 date: 2023-11-04T12:52:00+09:00
 description:
-linkTitle: Terraform
-nav_weight: 3
+linkTitle: New Relic
+nav_weight: 9
 nav_icon:
   vendor: bs
   name: book
@@ -12,20 +12,20 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
-  - Terraform
+  - Application Monitoring
+  - New Relic
   - tools
 categories:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
-  - Terraform
+  - Application Monitoring
+  - New Relic
   - tools
 tags:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
-  - Terraform
+  - Application Monitoring
+  - New Relic
   - tools
 ---
 

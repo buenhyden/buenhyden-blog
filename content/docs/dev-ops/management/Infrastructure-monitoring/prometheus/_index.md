@@ -1,9 +1,9 @@
 ---
-title: "Nagios"
+title: "Prometheus"
 date: 2023-11-04T12:52:00+09:00
 description:
-linkTitle: Nagios
-nav_weight: 6
+linkTitle: Prometheus
+nav_weight: 7
 nav_icon:
   vendor: bs
   name: book
@@ -12,20 +12,20 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Monitoring System
-  - Nagios
+  - Infrastructure Monitoring
+  - Prometheus
   - tools
 categories:
   - Dev Ops
   - Infrastructure as Code
-  - Monitoring System
-  - Nagios
+  - Infrastructure Monitoring
+  - Prometheus
   - tools
 tags:
   - Dev Ops
   - Infrastructure as Code
-  - Monitoring System
-  - Nagios
+  - Infrastructure Monitoring
+  - Prometheus
   - tools
 ---
 

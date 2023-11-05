@@ -1,9 +1,9 @@
 ---
-title: "Raygun"
+title: "Datadog"
 date: 2023-11-04T12:52:00+09:00
 description:
-linkTitle: Raygun
-nav_weight: 8
+linkTitle: Datadog
+nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
@@ -13,19 +13,19 @@ series:
   - Dev Ops
   - Infrastructure as Code
   - Monitoring System
-  - Raygun
+  - Datadog
   - tools
 categories:
   - Dev Ops
   - Infrastructure as Code
   - Monitoring System
-  - Raygun
+  - Datadog
   - tools
 tags:
   - Dev Ops
   - Infrastructure as Code
   - Monitoring System
-  - Raygun
+  - Datadog
   - tools
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "Terraform"
+title: "Infrastructure Monitoring"
 date: 2023-11-04T12:52:00+09:00
 description:
-linkTitle: Terraform
-nav_weight: 3
+linkTitle: Infrastructure Monitoring
+nav_weight: 9
 nav_icon:
   vendor: bs
   name: book
@@ -12,21 +12,15 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
-  - Terraform
-  - tools
+  - Infrastructure Monitoring
 categories:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
-  - Terraform
-  - tools
+  - Infrastructure Monitoring
 tags:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
-  - Terraform
-  - tools
+  - Infrastructure Monitoring
 ---
 
 ## Reference

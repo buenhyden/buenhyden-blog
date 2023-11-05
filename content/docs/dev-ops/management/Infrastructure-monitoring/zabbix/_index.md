@@ -1,9 +1,9 @@
 ---
-title: "Grafana"
+title: "Zabbix"
 date: 2023-11-04T12:52:00+09:00
 description:
-linkTitle: Grafana
-nav_weight: 4
+linkTitle: Zabbix
+nav_weight: 9
 nav_icon:
   vendor: bs
   name: book
@@ -12,20 +12,20 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Monitoring System
-  - Grafana
+  - Infrastructure Monitoring
+  - Zabbix
   - tools
 categories:
   - Dev Ops
   - Infrastructure as Code
-  - Monitoring System
-  - Grafana
+  - Infrastructure Monitoring
+  - Zabbix
   - tools
 tags:
   - Dev Ops
   - Infrastructure as Code
-  - Monitoring System
-  - Grafana
+  - Infrastructure Monitoring
+  - Zabbix
   - tools
 ---
 
