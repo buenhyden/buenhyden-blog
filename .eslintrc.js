@@ -5,8 +5,14 @@ module.exports = {
     commonjs: true,
     es2021: true,
   },
-  extends: ["eslint:recommended", "prettier", "plugin:prettier/recommended", "plugin:markdown/recommended"],
-  plugins: ["prettier", "node", "import", "html", "markdown"],
+  extends: [
+    "eslint:recommended",
+    "prettier",
+    "plugin:prettier/recommended",
+    "plugin:markdown/recommended",
+    "plugin:yaml/recommended",
+  ],
+  plugins: ["prettier", "node", "import", "html", "markdown", "yaml"],
   overrides: [
     {
       // In v2, explicitly apply eslint-plugin-markdown's `markdown`
