@@ -1,4 +1,4 @@
 export default {
-  delay: '1s'
+  delay: "1s",
   // ...
-}
+};
