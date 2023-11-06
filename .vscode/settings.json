@@ -45,7 +45,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[markdown]": {
-    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true
   },
   "cSpell.enabled": false,
@@ -54,7 +54,6 @@
   "yaml.customTags": [],
   "yaml.format.proseWrap": "always",
   "yaml.trace.server": "verbose",
-  "black-formatter.showNotifications": "onError",
   "yaml.schemas": {
     "url": "globPattern",
     "Kubernetes": "globPattern"
