@@ -54,8 +54,5 @@
   "yaml.customTags": [],
   "yaml.format.proseWrap": "always",
   "yaml.trace.server": "verbose",
-  "yaml.schemas": {
-    "url": "globPattern",
-    "Kubernetes": "globPattern"
-  }
+  "formattingToggle.affects": ["editor.codeActionsOnSave.source.fixAll.eslint"]
 }
