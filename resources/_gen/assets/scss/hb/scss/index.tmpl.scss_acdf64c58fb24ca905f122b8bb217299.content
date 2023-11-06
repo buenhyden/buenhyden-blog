@@ -1,6 +1,6 @@
 @charset "UTF-8";
 :root {
-  --hb-top-offset: 7.75rem; }
+  --hb-top-offset: 24px; }
 
 :root,
 [data-bs-theme="light"] {
@@ -5756,7 +5756,7 @@ textarea.form-control-lg {
 .ratio-21x9 {
   --hb-aspect-ratio: calc(9 / 21 * 100%); }
 
-.fixed-top, .hb-header-nav {
+.fixed-top {
   position: fixed;
   top: 0;
   right: 0;
@@ -11324,11 +11324,8 @@ a img {
   :root[data-bs-theme="dark"] {
     --hb-header-navbar-active-color: var(--hb-primary-text-emphasis); }
 
-html {
-  scroll-padding-top: var(--hb-top-offset); }
-
 .hb-header {
-  margin-bottom: calc(var(--hb-top-offset) + .5rem); }
+  margin-bottom: calc(var(--hb-top-offset) + 0.5rem); }
   .hb-header .dropdown-item {
     --hb-dropdown-item-padding-x: 0.5rem;
     --hb-dropdown-item-padding-y: 0.5rem; }
@@ -11369,14 +11366,14 @@ html {
 @media (min-width: 992px) {
   .hb-header-submenus[data-columns="2"] {
     -moz-column-count: 2;
-         column-count: 2; }
+    column-count: 2; }
     .hb-header-submenus[data-columns="2"] .hb-header-submenu {
       max-width: 35vw;
       overflow: hidden; } }
 
 .column-span-all {
   -moz-column-span: all;
-       column-span: all; }
+  column-span: all; }
 
 .header-news-items {
   --hb-dropdown-min-width: 20rem; }
