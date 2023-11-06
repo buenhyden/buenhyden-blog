@@ -1,6 +1,11 @@
 - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: "v4.4.0"
+    rev: "v4.5.0"
     hooks:
+      - id: check-json        
+        stages: [commit]
+      - id: pretty-format-json
+        args: [--autofix, --indent=2, --no-ensure-ascii ]
+        stages: [commit]
       - id: check-added-large-files
         args: [--maxkb=500000]
         stages: [commit]
@@ -13,18 +18,17 @@
       - id: end-of-file-fixer
         stages: [commit]
       - id: mixed-line-ending
+        args: [--fix=auto]
         stages: [commit]
       - id: trailing-whitespace
         args: [--markdown-linebreak-ext=md]
-        stages: [commit]
-
+        stages: [commit]      
 - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: "v0.37.0"
     hooks:
       - id: markdownlint
         args: ["-f"]
-        stages: [commit]        
-
+        stages: [commit]
 - repo: https://github.com/adrienverge/yamllint.git
     rev: v1.32.0
     hooks:
