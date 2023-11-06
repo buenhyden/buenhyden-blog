@@ -1,7 +1,7 @@
 .hugo_build.lock
 hugo_stats.json
 package-json.lock
-
+dist/
 node_modules/
 .history/
 .eslintcache
