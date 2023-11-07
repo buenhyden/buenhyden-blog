@@ -33,15 +33,16 @@
     "markdownlint": "^0.31.1",
     "markdownlint-cli": "^0.37.0",
     "postcss-cli": "^10.1.0",
-    "prettier": "3.0.3",
+    "prettier": "^3.0.3",
     "prettier-eslint": "^16.1.2",
+    "prettier-plugin-go-template": "^0.0.15",
     "rtlcss": "^4.1.1"
   },
   "lint-staged": {
     "*.{js,jsx}": [
       "prettier --write",
       "eslint --cache --fix"
-    ],    
+    ],
     "*.md": [
       "prettier --write",
       "eslint --cache --fix"
