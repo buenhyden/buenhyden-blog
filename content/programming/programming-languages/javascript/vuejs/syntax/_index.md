@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Syntax
 description: Vue.js 문법
 linkTitle: Syntax

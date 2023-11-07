@@ -1,4 +1,6 @@
 ---
+type: docs
+type: docs
 title: Go
 date: 2023-10-15T12:46:00+09:00
 description: 전통적인 컴파일, 링크 모델을 따르는 범용 프로그래밍 언어

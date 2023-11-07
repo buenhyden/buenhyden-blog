@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Linux 권한 설정 Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux 권한 설정 Command

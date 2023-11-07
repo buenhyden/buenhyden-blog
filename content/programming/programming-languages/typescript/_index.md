@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Typescript
 description: 자바스크립트의 단점을 보완하기 위해 만들어진 정적 타입 언어(static type language)
 linkTitle: Typescript

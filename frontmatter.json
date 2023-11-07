@@ -42,12 +42,103 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "Navigation weight",
+          "name": "weight",
+          "type": "number"
         }
       ]
     }
   ],
   "frontMatter.framework.id": "hugo",
-  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.publicFolder": {
+    "path": "assets/images",
+    "relative": true
+  },
   "frontMatter.preview.host": "http://localhost:1313",
-  "frontMatter.content.pageFolders": []
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/.history",
+      "excludeSubdir": true,
+      "title": ".history"
+    },
+    {
+      "path": "[[workspace]]/themes",
+      "excludeSubdir": true,
+      "title": "themes"
+    },
+    {
+      "title": "ai",
+      "path": "[[workspace]]/content/ai",
+      "contentTypes": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "backend",
+      "path": "[[workspace]]/content/backend",
+      "contentTypes": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "data",
+      "path": "[[workspace]]/content/data",
+      "contentTypes": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "dev-ops",
+      "path": "[[workspace]]/content/dev-ops",
+      "contentTypes": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "frontend",
+      "path": "[[workspace]]/content/frontend",
+      "contentTypes": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "notes",
+      "path": "[[workspace]]/content/notes",
+      "contentTypes": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "programming",
+      "path": "[[workspace]]/content/programming",
+      "contentTypes": [
+        "documentation"
+      ]
+    },
+    {
+      "title": "gallery",
+      "path": "[[workspace]]/content/gallery",
+      "contentTypes": [
+        "blog"
+      ]
+    },
+    {
+      "title": "diary",
+      "path": "[[workspace]]/content/diary",
+      "contentTypes": [
+        "blog"
+      ]
+    },
+    {
+      "path": "[[workspace]]/assets/images",
+      "title": "images"
+    },
+    {
+      "title": "kubernetes",
+      "path": "[[workspace]]/content/dev-ops/container/container-orchestration/kubernetes"
+    }
+  ],
+  "frontMatter.framework.startCommand": "npm run dev"
 }

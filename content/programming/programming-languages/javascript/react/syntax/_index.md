@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Syntax
 description: React 문법
 linkTitle: Syntax
