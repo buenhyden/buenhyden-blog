@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Syntax
 description: Node.js 문법
 linkTitle: Syntax
