@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Software Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 소프트웨어 시스템의 구성방법에 대한 중대한 결정사항을 모아 놓은 것

@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Git 시작하기
 date: 2023-10-15T12:46:00+09:00
 description: Git을 시작해보자

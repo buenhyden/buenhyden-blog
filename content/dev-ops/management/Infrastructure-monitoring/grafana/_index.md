@@ -1,4 +1,5 @@
 ---
+type: docs
 title: "Grafana"
 date: 2023-11-04T12:52:00+09:00
 description:

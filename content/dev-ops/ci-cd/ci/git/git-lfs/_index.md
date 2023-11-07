@@ -1,4 +1,5 @@
 ---
+type: docs
 title: "Git LFS"
 date: 2023-11-05T06:46:00+09:00
 description:

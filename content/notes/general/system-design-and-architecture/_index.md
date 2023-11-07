@@ -1,4 +1,5 @@
 ---
+type: docs
 title: System Design & Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 규모가 큰 시스템을 디자인 하는 것

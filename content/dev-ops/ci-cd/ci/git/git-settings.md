@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Git 설정하기
 date: 2023-10-16T11:52:00+09:00
 description: Git을 초기 설정해보자

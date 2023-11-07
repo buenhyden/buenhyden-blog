@@ -1,4 +1,5 @@
 ---
+type: docs
 title: "VisualStudio Code"
 date: 2023-11-01T00:46:00+09:00
 description:

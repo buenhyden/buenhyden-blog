@@ -1,4 +1,5 @@
 ---
+type: docs
 title: "Container Registry"
 date: 2023-11-05T00:46:00+09:00
 description:

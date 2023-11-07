@@ -1,4 +1,5 @@
 ---
+type: docs
 title: IT Security
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 및 통신에 관련된 보안

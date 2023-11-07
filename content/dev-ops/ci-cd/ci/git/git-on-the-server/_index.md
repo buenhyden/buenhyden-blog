@@ -1,4 +1,5 @@
 ---
+type: docs
 title: "Git on the Server"
 date: 2023-10-31T12:46:00+09:00
 description:

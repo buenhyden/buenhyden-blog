@@ -1,4 +1,5 @@
 ---
+type: docs
 title: System Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 시스템의 구조, 행위, 더 많은 뷰를 정의하는 개념적 모형

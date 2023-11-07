@@ -1,4 +1,5 @@
 ---
+type: docs
 title: "Service Mesh"
 date: 2023-11-05T01:46:00+09:00
 description:

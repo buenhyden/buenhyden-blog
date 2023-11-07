@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Relay Modern
 date: 2023-11-05T08:25:00+09:00
 description:

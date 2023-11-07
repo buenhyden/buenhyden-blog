@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Hypertext Transfer Protocol(HTTP)
 date: 2023-10-15T12:46:00+09:00
 description: W3 상에서 정보를 주고받을 수 있는 프로토콜

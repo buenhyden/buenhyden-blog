@@ -1,4 +1,5 @@
 ---
+type: docs
 title: Computer Science
 date: 2023-10-15T12:46:00+09:00
 description: 알고리즘 과정, 계산 기계 그리고 계산 자체에 대한 학문

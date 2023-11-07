@@ -1,4 +1,5 @@
 ---
+type: docs
 title: "Continuous Deployment(CD)"
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 배포
