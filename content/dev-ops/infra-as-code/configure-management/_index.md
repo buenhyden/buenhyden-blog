@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Configure Management"
+title: Configure Management
 date: 2023-10-31T07:46:00+09:00
-description:
+description: null
 linkTitle: Configure Management
 nav_weight: 1
 nav_icon:
@@ -22,6 +22,7 @@ tags:
   - Dev Ops
   - Infrastructure as Code
   - Configure Management
+lastmod: 2023-11-07T16:17:28.762Z
 ---
 
 ## Reference

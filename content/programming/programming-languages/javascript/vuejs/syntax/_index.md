@@ -22,6 +22,7 @@ tags:
   - Javascript
   - Vue.js
   - Syntax
+lastmod: 2023-11-07T16:20:03.816Z
 ---
 
 ## Reference

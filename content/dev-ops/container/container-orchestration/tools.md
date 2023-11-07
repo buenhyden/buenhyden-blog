@@ -22,6 +22,7 @@ categories:
 tags:
   - Dev Ops
   - Container Orchestration(CO)
+lastmod: 2023-11-07T16:17:13.718Z
 ---
 
 ## 종류

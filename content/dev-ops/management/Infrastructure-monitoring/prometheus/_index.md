@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Prometheus"
+title: Prometheus
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: Prometheus
 nav_weight: 7
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Infrastructure Monitoring
   - Prometheus
   - tools
+lastmod: 2023-11-07T16:17:48.778Z
 ---
 
 ## Reference

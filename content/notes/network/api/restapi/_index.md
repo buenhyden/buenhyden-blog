@@ -22,6 +22,7 @@ tags:
   - Network
   - API
   - REST API
+lastmod: 2023-11-07T16:19:20.739Z
 ---
 
 ![What is Rest API](what-is-rest-api.png#center)

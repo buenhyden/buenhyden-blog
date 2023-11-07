@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Realtime"
+title: Realtime
 date: 2023-10-31T07:46:00+09:00
-description:
+description: null
 linkTitle: Realtime
 nav_weight: 3
 nav_icon:
@@ -25,6 +25,7 @@ tags:
   - Database
   - NoSQL
   - Realtime
+lastmod: 2023-11-07T16:10:26.677Z
 ---
 
 ## Reference

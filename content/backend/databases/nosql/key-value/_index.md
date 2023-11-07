@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Key Value"
+title: Key Value
 date: 2023-10-31T07:46:00+09:00
-description:
+description: null
 linkTitle: Key Value
 nav_weight: 5
 nav_icon:
@@ -25,6 +25,7 @@ tags:
   - Database
   - NoSQL
   - Key Value
+lastmod: 2023-11-07T16:10:24.204Z
 ---
 
 ## Reference

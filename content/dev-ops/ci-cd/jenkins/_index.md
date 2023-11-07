@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Jenkins"
+title: Jenkins
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: Jenkins
 nav_weight: 3
 nav_icon:
@@ -22,4 +22,5 @@ tags:
   - Dev Ops
   - CI/CD
   - Jenkins
+lastmod: 2023-11-07T16:16:55.051Z
 ---

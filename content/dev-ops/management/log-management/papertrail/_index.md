@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Papertrail"
+title: Papertrail
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: Papertrail
 nav_weight: 9
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Log Management
   - Papertrail
   - tools
+lastmod: 2023-11-07T16:18:00.391Z
 ---
 
 ## Reference

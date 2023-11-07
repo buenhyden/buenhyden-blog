@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "Docker"
+title: Docker
 date: 2023-10-16T12:46:00+09:00
 description: 빠르게 애플리케이션을 구축, 테스트 및 배포할 수 있도록 도와주는 컨테이너 런타임 기술
 linkTitle: Docker
@@ -10,7 +10,7 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
+images: null
 series:
   - Dev Ops
   - Container
@@ -23,6 +23,7 @@ tags:
   - Dev Ops
   - Container
   - Docker
+lastmod: 2023-11-07T16:17:19.050Z
 ---
 
 ![Docker](docker.png?width=512px#center)

@@ -2,7 +2,7 @@
 type: docs
 title: Git Alias
 date: 2023-10-31T07:46:00+09:00
-description:
+description: null
 nav_weight: 7
 nav_icon:
   vendor: bs
@@ -29,6 +29,7 @@ tags:
   - Continuous Integration(CI)
   - Git
 featured: true
+lastmod: 2023-11-07T16:16:31.693Z
 ---
 
 ## Reference

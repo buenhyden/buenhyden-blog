@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Grafana"
+title: Grafana
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: Grafana
 nav_weight: 4
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Infrastructure Monitoring
   - Grafana
   - tools
+lastmod: 2023-11-07T16:17:45.911Z
 ---
 
 ## Reference

@@ -47,9 +47,6 @@
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
-    "editor.fontSize": 14,
-    "editor.lineHeight": 26,
-    "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 64,
     "editor.lineNumbers": "off",
     "editor.quickSuggestions": {
@@ -68,5 +65,6 @@
   "yaml.schemas": {
     "url": "globPattern",
     "Kubernetes": "globPattern"
-  }
+  },
+  "frontMatter.dashboard.openOnStart": false
 }

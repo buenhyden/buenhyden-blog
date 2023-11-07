@@ -19,6 +19,7 @@ tags:
   - Programming Language
   - Python
   - Syntax
+lastmod: 2023-11-07T16:20:08.782Z
 ---
 
 ## Reference

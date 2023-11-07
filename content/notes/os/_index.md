@@ -16,6 +16,7 @@ categories:
   - Operating System
 tags:
   - Operating System
+lastmod: 2023-11-07T16:19:39.876Z
 ---
 
 ![OS](os.png#center)

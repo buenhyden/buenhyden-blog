@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "Container Orchestration(CO)"
+title: Container Orchestration(CO)
 date: 2023-10-15T12:46:00+09:00
 description: 컨테이너의 프로비저닝, 배포, 네트워킹, 확장, 가용성, 라이프사이클 관리를 자동화
 linkTitle: Container Orchestration(CO)
@@ -10,7 +10,7 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
+images: null
 series:
   - Dev Ops
   - Container
@@ -23,6 +23,7 @@ tags:
   - Dev Ops
   - Container
   - Container Orchestration(CO)
+lastmod: 2023-11-07T16:17:11.755Z
 ---
 
 ![Center Orchestration](automation-with-container-orchestration.png#center)

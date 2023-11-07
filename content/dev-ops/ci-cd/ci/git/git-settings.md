@@ -31,6 +31,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
+lastmod: 2023-11-07T16:16:47.961Z
 ---
 
 ## Git 설정하기

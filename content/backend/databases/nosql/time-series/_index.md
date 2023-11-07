@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Time Series"
+title: Time Series
 date: 2023-10-31T07:46:00+09:00
-description:
+description: null
 linkTitle: Time Series
 nav_weight: 2
 nav_icon:
@@ -25,6 +25,7 @@ tags:
   - Database
   - NoSQL
   - Time Series
+lastmod: 2023-11-07T16:10:28.779Z
 ---
 
 ## Reference

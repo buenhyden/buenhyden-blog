@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Git tools"
+title: Git tools
 date: 2023-10-31T12:46:00+09:00
-description:
+description: null
 linkTitle: Git tools
 nav_weight: 9
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
+lastmod: 2023-11-07T16:16:44.002Z
 ---
 
 ## Reference

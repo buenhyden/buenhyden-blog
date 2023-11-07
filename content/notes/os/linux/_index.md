@@ -19,6 +19,7 @@ categories:
 tags:
   - Operating System
   - Linux
+lastmod: 2023-11-07T16:19:33.935Z
 ---
 
 ![Linux](linux.webp#center)

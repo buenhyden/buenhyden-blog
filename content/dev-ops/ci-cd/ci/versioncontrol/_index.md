@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "Version Control"
+title: Version Control
 date: 2023-10-15T12:46:00+09:00
 description: 동일한 정보에 대한 여러 버전을 관리하는 것
 linkTitle: Version Control
@@ -25,6 +25,7 @@ tags:
   - CI/CD
   - Continuous Integration(CI)
   - Version Control
+lastmod: 2023-11-07T16:16:50.898Z
 ---
 
 ## 로컬 버전관리(Local VCS)

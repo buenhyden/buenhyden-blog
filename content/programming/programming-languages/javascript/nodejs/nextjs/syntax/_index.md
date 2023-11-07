@@ -25,6 +25,7 @@ tags:
   - Node.js
   - Next.js
   - Syntax
+lastmod: 2023-11-07T16:19:53.031Z
 ---
 
 ## Reference

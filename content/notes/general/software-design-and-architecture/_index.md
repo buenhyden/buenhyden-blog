@@ -19,6 +19,7 @@ categories:
 tags:
   - General
   - Software Design & Architecture
+lastmod: 2023-11-07T16:19:06.754Z
 ---
 
 ## Application Architecture

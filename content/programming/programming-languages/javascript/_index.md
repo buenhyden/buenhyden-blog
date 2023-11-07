@@ -19,6 +19,7 @@ categories:
 tags:
   - Programming Language
   - Javascript
+lastmod: 2023-11-07T16:20:05.997Z
 ---
 
 ![Javascript](javascript.jpg#center)

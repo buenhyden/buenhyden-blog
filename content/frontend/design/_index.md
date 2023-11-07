@@ -2,7 +2,7 @@
 type: docs
 title: Design
 date: 2023-10-15T12:46:00+09:00
-description:
+description: null
 linkTitle: Design
 nav_weight: 2
 nav_icon:
@@ -19,6 +19,7 @@ categories:
 tags:
   - Frontend
   - Design
+lastmod: 2023-11-07T16:18:21.411Z
 ---
 
 ![UI&UX](ui-ux.jpg#center)

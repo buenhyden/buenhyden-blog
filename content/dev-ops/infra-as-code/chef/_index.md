@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Chef"
+title: Chef
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: Chef
 nav_weight: 6
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Configuration Management
   - Chef
   - tools
+lastmod: 2023-11-07T16:17:26.397Z
 ---
 
 ## Reference

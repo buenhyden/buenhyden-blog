@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Log Management"
+title: Log Management
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: Log Management
 nav_weight: 9
 nav_icon:
@@ -22,6 +22,7 @@ tags:
   - Dev Ops
   - Infrastructure as Code
   - Log Management
+lastmod: 2023-11-07T16:18:02.619Z
 ---
 
 ## Reference

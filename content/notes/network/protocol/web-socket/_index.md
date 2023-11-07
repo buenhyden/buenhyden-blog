@@ -22,6 +22,7 @@ tags:
   - Network
   - Protocol
   - Web Socket
+lastmod: 2023-11-07T16:19:29.584Z
 ---
 
 ![Web Socket](web-socket.png#center)

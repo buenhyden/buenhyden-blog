@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Customizing Git"
+title: Customizing Git
 date: 2023-10-31T12:46:00+09:00
-description:
+description: null
 linkTitle: Customizing Git
 nav_weight: 10
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
+lastmod: 2023-11-07T16:16:34.505Z
 ---
 
 ## Reference

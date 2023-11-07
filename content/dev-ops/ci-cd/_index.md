@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "CI & CD"
+title: CI & CD
 date: 2023-10-15T12:46:00+09:00
-description:
+description: null
 linkTitle: CI & CD
 nav_weight: 1
 nav_icon:
@@ -19,6 +19,7 @@ categories:
 tags:
   - Dev Ops
   - CI/CD
+lastmod: 2023-11-07T16:16:55.664Z
 ---
 
 ![CI & CD2](ci-cd2.png?width=512px#center)

@@ -1,10 +1,10 @@
 ---
 type: docs
-title: "Database 타입"
+title: Database 타입
 date: 2023-10-16T16:26:00+09:00
 linkTitle: Database 타입
 nav_weight: 1
-nav_icon:
+nav_icon: null
 vendor: bs
 name: book
 color: indigo
@@ -20,6 +20,7 @@ categories:
 tags:
   - Backend
   - Database
+lastmod: 2023-11-07T16:11:56.895Z
 ---
 
 ## 관계형 데이터베이스

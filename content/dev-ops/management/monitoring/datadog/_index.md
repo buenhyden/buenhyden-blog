@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Datadog"
+title: Datadog
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: Datadog
 nav_weight: 4
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Monitoring System
   - Datadog
   - tools
+lastmod: 2023-11-07T16:18:07.287Z
 ---
 
 ## Reference

@@ -19,6 +19,7 @@ categories:
 tags:
   - Frontend
   - Web Browser
+lastmod: 2023-11-07T16:18:33.654Z
 ---
 
 ![Web Browser](web-browser.webp#center)

@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "ArgoCD"
+title: ArgoCD
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: ArgoCD
 nav_weight: 4
 nav_icon:
@@ -22,4 +22,5 @@ tags:
   - Dev Ops
   - CI/CD
   - ArgoCD
+lastmod: 2023-11-07T16:16:26.060Z
 ---

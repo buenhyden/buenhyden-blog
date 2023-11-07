@@ -22,6 +22,7 @@ tags:
   - General
   - Software Design & Architecture
   - Software Architecture
+lastmod: 2023-11-07T16:19:05.289Z
 ---
 
 ![Software Architecture](software-architecture.webp#center)

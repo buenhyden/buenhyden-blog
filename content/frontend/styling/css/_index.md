@@ -22,6 +22,7 @@ tags:
   - Frontend
   - Styling
   - CSS
+lastmod: 2023-11-07T16:18:26.857Z
 ---
 
 ![CSS](css.png#center)

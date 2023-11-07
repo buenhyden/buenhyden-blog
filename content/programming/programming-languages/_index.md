@@ -16,6 +16,7 @@ categories:
   - Programming Language
 tags:
   - Programming Language
+lastmod: 2023-11-07T16:20:13.865Z
 ---
 
 ![Programming Language](programming-language.webp#center)

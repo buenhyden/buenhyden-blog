@@ -1,5 +1,6 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.extends": ["https://platen.io/frontmatter/platen.json"],
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -52,93 +53,43 @@
     }
   ],
   "frontMatter.framework.id": "hugo",
-  "frontMatter.content.publicFolder": {
-    "path": "assets/images",
-    "relative": true
-  },
+  "frontMatter.content.publicFolder": "static",
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "path": "[[workspace]]/.history",
-      "excludeSubdir": true,
-      "title": ".history"
+      "title": "content",
+      "path": "[[workspace]]/content",
+      "excludeSubdir": true
     },
     {
-      "path": "[[workspace]]/themes",
-      "excludeSubdir": true,
-      "title": "themes"
+      "title": "AI",
+      "path": "[[workspace]]/content/ai"
     },
     {
-      "title": "ai",
-      "path": "[[workspace]]/content/ai",
-      "contentTypes": [
-        "documentation"
-      ]
+      "title": "Backend",
+      "path": "[[workspace]]/content/backend"
     },
     {
-      "title": "backend",
-      "path": "[[workspace]]/content/backend",
-      "contentTypes": [
-        "documentation"
-      ]
+      "title": "Data",
+      "path": "[[workspace]]/content/data"
     },
     {
-      "title": "data",
-      "path": "[[workspace]]/content/data",
-      "contentTypes": [
-        "documentation"
-      ]
+      "title": "Dev Ops",
+      "path": "[[workspace]]/content/dev-ops"
     },
     {
-      "title": "dev-ops",
-      "path": "[[workspace]]/content/dev-ops",
-      "contentTypes": [
-        "documentation"
-      ]
+      "title": "Frontend",
+      "path": "[[workspace]]/content/frontend"
     },
     {
-      "title": "frontend",
-      "path": "[[workspace]]/content/frontend",
-      "contentTypes": [
-        "documentation"
-      ]
+      "title": "Notes",
+      "path": "[[workspace]]/content/notes"
     },
     {
-      "title": "notes",
-      "path": "[[workspace]]/content/notes",
-      "contentTypes": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "programming",
-      "path": "[[workspace]]/content/programming",
-      "contentTypes": [
-        "documentation"
-      ]
-    },
-    {
-      "title": "gallery",
-      "path": "[[workspace]]/content/gallery",
-      "contentTypes": [
-        "blog"
-      ]
-    },
-    {
-      "title": "diary",
-      "path": "[[workspace]]/content/diary",
-      "contentTypes": [
-        "blog"
-      ]
-    },
-    {
-      "path": "[[workspace]]/assets/images",
-      "title": "images"
-    },
-    {
-      "title": "kubernetes",
-      "path": "[[workspace]]/content/dev-ops/container/container-orchestration/kubernetes"
+      "title": "Programming",
+      "path": "[[workspace]]/content/programming"
     }
   ],
+  "frontMatter.media.supportedMimeTypes": ["image/*", "video/*", "audio/*"],
   "frontMatter.framework.startCommand": "npm run dev"
 }

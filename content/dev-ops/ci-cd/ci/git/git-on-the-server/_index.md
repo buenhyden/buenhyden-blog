@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Git on the Server"
+title: Git on the Server
 date: 2023-10-31T12:46:00+09:00
-description:
+description: null
 linkTitle: Git on the Server
 nav_weight: 6
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
+lastmod: 2023-11-07T16:16:41.832Z
 ---
 
 ## Reference

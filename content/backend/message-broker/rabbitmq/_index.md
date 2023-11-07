@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "RabbitMQ"
+title: RabbitMQ
 date: 2023-10-15T02:46:00+09:00
 description: 오픈 소스 메시지 브로커 소프트웨어로서, AMQP를 구현
 linkTitle: RabbitMQ
@@ -27,6 +27,7 @@ tags:
   - Message Broker
   - tools
   - RabbitMQ
+lastmod: 2023-11-07T16:12:03.996Z
 ---
 
 ![RabbitMQ](rabbitmq.png#center)

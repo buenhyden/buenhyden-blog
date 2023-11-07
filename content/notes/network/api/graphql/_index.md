@@ -22,6 +22,7 @@ tags:
   - Network
   - API
   - GraphQL
+lastmod: 2023-11-07T16:19:17.875Z
 ---
 
 ![What is GraphQL](what-is-graphql.png#center)

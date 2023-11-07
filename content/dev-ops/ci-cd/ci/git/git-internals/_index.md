@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Git Internals"
+title: Git Internals
 date: 2023-10-31T12:46:00+09:00
-description:
+description: null
 linkTitle: Git Internals
 nav_weight: 11
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
+lastmod: 2023-11-07T16:16:37.266Z
 ---
 
 ## Reference

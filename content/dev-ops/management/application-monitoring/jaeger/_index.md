@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Jaeger"
+title: Jaeger
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: Jaeger
 nav_weight: 9
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Application Monitoring
   - Jaeger
   - tools
+lastmod: 2023-11-07T16:17:37.976Z
 ---
 
 ## Reference

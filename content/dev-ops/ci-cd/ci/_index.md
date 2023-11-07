@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "Continuous Integration(CI)"
+title: Continuous Integration(CI)
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 통합
 linkTitle: Continuous Integration(CI)
@@ -22,6 +22,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Integration(CI)
+lastmod: 2023-11-07T16:16:52.130Z
 ---
 
 ![CI](ci.png?width=512px#center)

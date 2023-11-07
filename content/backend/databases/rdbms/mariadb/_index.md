@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "MariaDB"
+title: MariaDB
 date: 2023-10-15T12:46:00+09:00
 description: 오픈 소스 관계형 데이터베이스 관리 시스템
 nav_weight: 1
@@ -24,6 +24,7 @@ tags:
   - Database
   - RDBMS
   - MariaDB
+lastmod: 2023-11-07T16:11:47.964Z
 ---
 
 ![Maria DB](mariadb.png#center)

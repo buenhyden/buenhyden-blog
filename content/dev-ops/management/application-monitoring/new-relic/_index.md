@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "New Relic"
+title: New Relic
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: New Relic
 nav_weight: 9
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Application Monitoring
   - New Relic
   - tools
+lastmod: 2023-11-07T16:17:39.480Z
 ---
 
 ## Reference

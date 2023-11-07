@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "MongoDB"
+title: MongoDB
 date: 2023-10-15T12:46:00+09:00
 description: NoSQL 데이터베이스중 하나로 크로스 플랫폼 도큐먼트 지향 데이터베이스 시스템
 linkTitle: MongoDB
@@ -28,6 +28,7 @@ tags:
   - NoSQL
   - Document DBs
   - MongoDB
+lastmod: 2023-11-07T16:10:16.589Z
 ---
 
 ![Mongo DB](mongodb.png#center)

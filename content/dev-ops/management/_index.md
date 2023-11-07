@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "Management for Infrastructure"
+title: Management for Infrastructure
 date: 2023-10-15T12:46:00+09:00
 description: 인프라를 모니터링하고 유지하는 방법
 linkTitle: Management for Infrastructure
@@ -19,6 +19,7 @@ categories:
 tags:
   - Dev Ops
   - Management for Infrastructure
+lastmod: 2023-11-07T16:18:11.132Z
 ---
 
 ## Components of Infrastructure Management

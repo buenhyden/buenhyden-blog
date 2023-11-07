@@ -1,8 +1,8 @@
 ---
 type: docs
-title: "Nagios"
+title: Nagios
 date: 2023-11-04T12:52:00+09:00
-description:
+description: null
 linkTitle: Nagios
 nav_weight: 6
 nav_icon:
@@ -28,6 +28,7 @@ tags:
   - Infrastructure Monitoring
   - Nagios
   - tools
+lastmod: 2023-11-07T16:17:47.382Z
 ---
 
 ## Reference
