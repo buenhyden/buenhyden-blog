@@ -65,6 +65,5 @@
   "yaml.schemas": {
     "url": "globPattern",
     "Kubernetes": "globPattern"
-  },
-  "frontMatter.dashboard.openOnStart": false
+  }
 }

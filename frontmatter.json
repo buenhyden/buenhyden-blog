@@ -1,0 +1,28 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content",
+      "excludeSubdir": false
+    },
+    {
+      "title": "[content] AI",
+      "path": "[[workspace]]/content/ai",
+      "excludeSubdir": false
+    },
+    {
+      "title": "[content] Backend",
+      "path": "[[workspace]]/content/backend",
+      "excludeSubdir": false
+    },
+    {
+      "title": "[content] Frontend",
+      "path": "[[workspace]]/content/frontend",
+      "excludeSubdir": false
+    }
+  ]
+}
