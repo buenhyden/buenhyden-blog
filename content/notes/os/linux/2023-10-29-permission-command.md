@@ -1,9 +1,9 @@
 ---
 type: docs
-title: Linux 권한 설정 Command
+title: Linux Permission Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux 권한 설정 Command
-linkTitle: Linux 권한 설정 Command
+linkTitle: Linux Permission Command
 nav_weight: 3
 nav_icon:
   vendor: bs
