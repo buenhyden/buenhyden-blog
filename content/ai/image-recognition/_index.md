@@ -19,7 +19,7 @@ categories:
 tags:
   - AI
   - Image Recognition
-lastmod: 2023-11-07T16:08:17.209Z
+lastmod: 2023-11-09T11:56:46.113Z
 ---
 
 ## Reference

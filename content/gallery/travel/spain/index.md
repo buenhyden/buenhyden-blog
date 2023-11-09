@@ -12,5 +12,6 @@ resources:
     params:
       author: null
       source: null
-lastmod: 2023-11-07T16:18:43.004Z
+lastmod: 2023-11-09T11:35:16.154Z
+type: gallery
 ---

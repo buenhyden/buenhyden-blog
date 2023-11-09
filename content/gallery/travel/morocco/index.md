@@ -7,5 +7,6 @@ resources:
     params:
       author: null
       source: null
-lastmod: 2023-11-07T16:18:40.891Z
+lastmod: 2023-11-09T11:35:42.748Z
+type: gallery
 ---

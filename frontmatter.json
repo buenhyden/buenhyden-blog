@@ -1,17 +1,43 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.framework.id": "hugo",
-  "frontMatter.content.publicFolder": "assets/images",
+  "frontMatter.content.publicFolder": {
+    "path": "assets/images",
+    "relative": true
+  },
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
       "title": "content",
       "path": "[[workspace]]/content",
-      "excludeSubdir": true
+      "excludeSubdir": true,
+      "contentTypes": ["docs"]
     },
     {
       "title": "[content] AI",
       "path": "[[workspace]]/content/ai",
+      "excludeSubdir": true,
+      "contentTypes": ["docs"]
+    },
+    {
+      "title": "[AI] image-recognition",
+      "path": "[[workspace]]/content/ai/image-recognition",
+      "excludeSubdir": true,
+      "contentTypes": ["docs"]
+    },
+    {
+      "title": "[AI] machine-learning",
+      "path": "[[workspace]]/content/ai/machine-learning",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[AI] neural-networks",
+      "path": "[[workspace]]/content/ai/neural-networks",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[AI] speech-recognition",
+      "path": "[[workspace]]/content/ai/speech-recognition",
       "excludeSubdir": true
     },
     {
@@ -80,6 +106,10 @@
       "excludeSubdir": true
     },
     {
+      "title": "[RDBMS] postgresql",
+      "path": "[[workspace]]/content/backend/databases/rdbms/postgresql"
+    },
+    {
       "title": "[Backend] message-broker",
       "path": "[[workspace]]/content/backend/message-broker",
       "excludeSubdir": true
@@ -120,313 +150,298 @@
       "excludeSubdir": true
     },
     {
-      "title": "[AI] image-recognition",
-      "path": "[[workspace]]/content/ai/image-recognition",
+      "title": "[Content] data",
+      "path": "[[workspace]]/content/data",
       "excludeSubdir": true
     },
     {
-      "title": "[AI] machine-learning",
-      "path": "[[workspace]]/content/ai/machine-learning",
-      "excludeSubdir": true
-    },
-    {
-      "title": "[AI] neural-networks",
-      "path": "[[workspace]]/content/ai/neural-networks",
-      "excludeSubdir": true
-    },
-    {
-      "title": "[AI] speech-recognition",
-      "path": "[[workspace]]/content/ai/speech-recognition",
-      "excludeSubdir": true
-    },
-    {
-      "title": "data-engineering",
+      "title": "[Data] data-engineering",
       "path": "[[workspace]]/content/data/data-engineering",
       "excludeSubdir": true
     },
     {
-      "title": "airflow",
+      "title": "[Data Engineering] airflow",
       "path": "[[workspace]]/content/data/data-engineering/airflow",
       "excludeSubdir": true
     },
     {
-      "title": "data-science",
+      "title": "[Data] data-science",
       "path": "[[workspace]]/content/data/data-science",
       "excludeSubdir": true
     },
     {
-      "title": "dev-ops",
+      "title": "[Content] dev-ops",
       "path": "[[workspace]]/content/dev-ops",
       "excludeSubdir": true
     },
     {
-      "title": "ci-cd",
+      "title": "[Dev Ops] CI & CD",
       "path": "[[workspace]]/content/dev-ops/ci-cd",
       "excludeSubdir": true
     },
     {
-      "title": "argo-cd",
+      "title": "[CI & CD] argo-cd",
       "path": "[[workspace]]/content/dev-ops/ci-cd/argo-cd",
       "excludeSubdir": true
     },
     {
-      "title": "cd",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/cd",
-      "excludeSubdir": true
-    },
-    {
-      "title": "ci",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci",
-      "excludeSubdir": true
-    },
-    {
-      "title": "git",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git",
-      "excludeSubdir": true
-    },
-    {
-      "title": "basic",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/basic",
-      "excludeSubdir": true
-    },
-    {
-      "title": "branching",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/branching",
-      "excludeSubdir": true
-    },
-    {
-      "title": "customizing-git",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/customizing-git",
-      "excludeSubdir": true
-    },
-    {
-      "title": "distributed-git",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/distributed-git",
-      "excludeSubdir": true
-    },
-    {
-      "title": "git-internals",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-internals",
-      "excludeSubdir": true
-    },
-    {
-      "title": "git-lfs",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-lfs",
-      "excludeSubdir": true
-    },
-    {
-      "title": "git-on-the-server",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-on-the-server",
-      "excludeSubdir": true
-    },
-    {
-      "title": "git-tools",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-tools",
-      "excludeSubdir": true
-    },
-    {
-      "title": "github",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/github",
-      "excludeSubdir": true
-    },
-    {
-      "title": "versioncontrol",
-      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/versioncontrol",
-      "excludeSubdir": true
-    },
-    {
-      "title": "jenkins",
+      "title": "[CI & CD] jenkins",
       "path": "[[workspace]]/content/dev-ops/ci-cd/jenkins",
       "excludeSubdir": true
     },
     {
-      "title": "code-editor",
+      "title": "[CI & CD] CD",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/cd",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[CI & CD] CI",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[CI] versioncontrol",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/versioncontrol",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[CI] git",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Git] basic",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/basic",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Git] branching",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/branching",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Git] customizing-git",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/customizing-git",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Git] distributed-git",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/distributed-git",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Git] git-internals",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-internals",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Git] git-lfs",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-lfs",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Git] git-on-the-server",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-on-the-server",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Git] git-tools",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-tools",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Git] github",
+      "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/github",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Dev Ops] code-editor",
       "path": "[[workspace]]/content/dev-ops/code-editor",
       "excludeSubdir": true
     },
     {
-      "title": "vs-code",
+      "title": "[Code Editor] vs-code",
       "path": "[[workspace]]/content/dev-ops/code-editor/vs-code",
       "excludeSubdir": true
     },
     {
-      "title": "container",
+      "title": "[Dev Ops] container",
       "path": "[[workspace]]/content/dev-ops/container",
       "excludeSubdir": true
     },
     {
-      "title": "container-orchestration",
+      "title": "[Container] container-orchestration",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration",
       "excludeSubdir": true
     },
     {
-      "title": "kubernetes",
+      "title": "[Container Orchestration] kubernetes",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/kubernetes",
       "excludeSubdir": true
     },
     {
-      "title": "service-mesh",
+      "title": "[Container Orchestration] service-mesh",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/service-mesh",
       "excludeSubdir": true
     },
     {
-      "title": "envoy",
+      "title": "[Service Mesh] envoy",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/service-mesh/envoy",
       "excludeSubdir": true
     },
     {
-      "title": "istio",
+      "title": "[Service Mesh] istio",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/service-mesh/istio",
       "excludeSubdir": true
     },
     {
-      "title": "container-registry",
+      "title": "[Container] container-registry",
       "path": "[[workspace]]/content/dev-ops/container/container-registry",
       "excludeSubdir": true
     },
     {
-      "title": "harbor",
+      "title": "[Container Registry] harbor",
       "path": "[[workspace]]/content/dev-ops/container/container-registry/harbor",
       "excludeSubdir": true
     },
     {
-      "title": "docker",
+      "title": "[Container] docker",
       "path": "[[workspace]]/content/dev-ops/container/docker",
       "excludeSubdir": true
     },
     {
-      "title": "infra-as-code",
+      "title": "[Dev Ops] infra-as-code",
       "path": "[[workspace]]/content/dev-ops/infra-as-code",
       "excludeSubdir": true
     },
     {
-      "title": "ansible",
+      "title": "[Infra AS Code] ansible",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/ansible",
       "excludeSubdir": true
     },
     {
-      "title": "chef",
+      "title": "[Infra AS Code] chef",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/chef",
       "excludeSubdir": true
     },
     {
-      "title": "configure-management",
+      "title": "[Infra AS Code] configure-management",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/configure-management",
       "excludeSubdir": true
     },
     {
-      "title": "provisioning",
+      "title": "[Infra AS Code] provisioning",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/provisioning",
       "excludeSubdir": true
     },
     {
-      "title": "puppet",
+      "title": "[Infra AS Code] puppet",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/puppet",
       "excludeSubdir": true
     },
     {
-      "title": "terraform",
+      "title": "[Infra AS Code] terraform",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/terraform",
       "excludeSubdir": true
     },
     {
-      "title": "management",
+      "title": "[Dev Ops] management",
       "path": "[[workspace]]/content/dev-ops/management",
       "excludeSubdir": true
     },
     {
-      "title": "application-monitoring",
+      "title": "[Management] application-monitoring",
       "path": "[[workspace]]/content/dev-ops/management/application-monitoring",
       "excludeSubdir": true
     },
     {
-      "title": "jaeger",
+      "title": "[Application Monitoring] jaeger",
       "path": "[[workspace]]/content/dev-ops/management/application-monitoring/jaeger",
       "excludeSubdir": true
     },
     {
-      "title": "new-relic",
+      "title": "[Application Monitoring] new-relic",
       "path": "[[workspace]]/content/dev-ops/management/application-monitoring/new-relic",
       "excludeSubdir": true
     },
     {
-      "title": "Infrastructure-monitoring",
+      "title": "[Application Monitoring] open-telemetry",
+      "path": "[[workspace]]/content/dev-ops/management/application-monitoring/open-telemetry",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Management] Infrastructure-monitoring",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring",
       "excludeSubdir": true
     },
     {
-      "title": "grafana",
+      "title": "[Infrastructure Monitoring] grafana",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring/grafana",
       "excludeSubdir": true
     },
     {
-      "title": "nagios",
+      "title": "[Infrastructure Monitoring] nagios",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring/nagios",
       "excludeSubdir": true
     },
     {
-      "title": "prometheus",
+      "title": "[Infrastructure Monitoring] prometheus",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring/prometheus",
       "excludeSubdir": true
     },
     {
-      "title": "zabbix",
+      "title": "[Infrastructure Monitoring] zabbix",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring/zabbix",
       "excludeSubdir": true
     },
     {
-      "title": "log-management",
+      "title": "[Management] log-management",
       "path": "[[workspace]]/content/dev-ops/management/log-management",
       "excludeSubdir": true
     },
     {
-      "title": "fluentd",
+      "title": "[Log Management] fluentd",
       "path": "[[workspace]]/content/dev-ops/management/log-management/fluentd",
       "excludeSubdir": true
     },
     {
-      "title": "graylog",
+      "title": "[Log Management] graylog",
       "path": "[[workspace]]/content/dev-ops/management/log-management/graylog",
       "excludeSubdir": true
     },
     {
-      "title": "loki",
+      "title": "[Log Management] loki",
       "path": "[[workspace]]/content/dev-ops/management/log-management/loki",
       "excludeSubdir": true
     },
     {
-      "title": "papertrail",
+      "title": "[Log Management] papertrail",
       "path": "[[workspace]]/content/dev-ops/management/log-management/papertrail",
       "excludeSubdir": true
     },
     {
-      "title": "splunk",
+      "title": "[Log Management] splunk",
       "path": "[[workspace]]/content/dev-ops/management/log-management/splunk",
       "excludeSubdir": true
     },
     {
-      "title": "logging",
+      "title": "[Management] logging",
       "path": "[[workspace]]/content/dev-ops/management/logging",
       "excludeSubdir": true
     },
     {
-      "title": "monitoring",
+      "title": "[Management] monitoring",
       "path": "[[workspace]]/content/dev-ops/management/monitoring",
       "excludeSubdir": true
     },
     {
-      "title": "datadog",
+      "title": "[Monitoring] datadog",
       "path": "[[workspace]]/content/dev-ops/management/monitoring/datadog",
       "excludeSubdir": true
     },
     {
-      "title": "security",
+      "title": "[Management] security",
       "path": "[[workspace]]/content/dev-ops/management/security",
-      "excludeSubdir": true
-    },
-    {
-      "title": "diary",
-      "path": "[[workspace]]/content/diary",
       "excludeSubdir": true
     },
     {
@@ -435,295 +450,320 @@
       "excludeSubdir": true
     },
     {
-      "title": "design",
+      "title": "[Frontend] design",
       "path": "[[workspace]]/content/frontend/design",
       "excludeSubdir": true
     },
     {
-      "title": "ui",
+      "title": "[Design] ui",
       "path": "[[workspace]]/content/frontend/design/ui",
       "excludeSubdir": true
     },
     {
-      "title": "ux",
+      "title": "[Design] ux",
       "path": "[[workspace]]/content/frontend/design/ux",
       "excludeSubdir": true
     },
     {
-      "title": "html",
+      "title": "[Frontend] html",
       "path": "[[workspace]]/content/frontend/html",
       "excludeSubdir": true
     },
     {
-      "title": "styling",
+      "title": "[Frontend] styling",
       "path": "[[workspace]]/content/frontend/styling",
       "excludeSubdir": true
     },
     {
-      "title": "css",
+      "title": "[Styling] css",
       "path": "[[workspace]]/content/frontend/styling/css",
       "excludeSubdir": true
     },
     {
-      "title": "sass",
+      "title": "[Styling] sass",
       "path": "[[workspace]]/content/frontend/styling/sass",
       "excludeSubdir": true
     },
     {
-      "title": "web-browser",
+      "title": "[Frontend] web-browser",
       "path": "[[workspace]]/content/frontend/web-browser",
       "excludeSubdir": true
     },
     {
-      "title": "gallery",
-      "path": "[[workspace]]/content/gallery",
-      "excludeSubdir": true
-    },
-    {
-      "title": "ordinary-life",
-      "path": "[[workspace]]/content/gallery/ordinary-life",
-      "excludeSubdir": true
-    },
-    {
-      "title": "travel",
-      "path": "[[workspace]]/content/gallery/travel",
-      "excludeSubdir": true
-    },
-    {
-      "title": "morocco",
-      "path": "[[workspace]]/content/gallery/travel/morocco",
-      "excludeSubdir": true
-    },
-    {
-      "title": "spain",
-      "path": "[[workspace]]/content/gallery/travel/spain",
-      "excludeSubdir": true
-    },
-    {
-      "title": "notes",
+      "title": "[Content] notes",
       "path": "[[workspace]]/content/notes",
       "excludeSubdir": true
     },
     {
-      "title": "data-structure-and-algorithm",
+      "title": "[Notes] data-structure-and-algorithm",
       "path": "[[workspace]]/content/notes/data-structure-and-algorithm",
       "excludeSubdir": true
     },
     {
-      "title": "algorithm",
+      "title": "[Data Structure & Algorithm] algorithm",
       "path": "[[workspace]]/content/notes/data-structure-and-algorithm/algorithm",
       "excludeSubdir": true
     },
     {
-      "title": "data-structure",
+      "title": "[Data Structure & Algorithm] data-structure",
       "path": "[[workspace]]/content/notes/data-structure-and-algorithm/data-structure",
       "excludeSubdir": true
     },
     {
-      "title": "general",
+      "title": "[Notes] general",
       "path": "[[workspace]]/content/notes/general",
       "excludeSubdir": true
     },
     {
-      "title": "computer-science",
+      "title": "[General] computer-science",
       "path": "[[workspace]]/content/notes/general/computer-science",
       "excludeSubdir": true
     },
     {
-      "title": "programming-paradigm",
+      "title": "[General] programming-paradigm",
       "path": "[[workspace]]/content/notes/general/programming-paradigm",
       "excludeSubdir": true
     },
     {
-      "title": "qa-engineering",
+      "title": "[General] qa-engineering",
       "path": "[[workspace]]/content/notes/general/qa-engineering",
       "excludeSubdir": true
     },
     {
-      "title": "software-design-and-architecture",
+      "title": "[General] software-design-and-architecture",
       "path": "[[workspace]]/content/notes/general/software-design-and-architecture",
       "excludeSubdir": true
     },
     {
-      "title": "micro-service-architecture",
+      "title": "[Software Design & Architecture] micro-service-architecture",
       "path": "[[workspace]]/content/notes/general/software-design-and-architecture/micro-service-architecture",
       "excludeSubdir": true
     },
     {
-      "title": "software-architecture",
+      "title": "[Software Design & Architecture] software-architecture",
       "path": "[[workspace]]/content/notes/general/software-design-and-architecture/software-architecture",
       "excludeSubdir": true
     },
     {
-      "title": "system-design-and-architecture",
+      "title": "[General] system-design-and-architecture",
       "path": "[[workspace]]/content/notes/general/system-design-and-architecture",
       "excludeSubdir": true
     },
     {
-      "title": "system-architecture",
+      "title": "[System Design & Architecture] system-architecture",
       "path": "[[workspace]]/content/notes/general/system-design-and-architecture/system-architecture",
       "excludeSubdir": true
     },
     {
-      "title": "network",
+      "title": "[Notes] network",
       "path": "[[workspace]]/content/notes/network",
       "excludeSubdir": true
     },
     {
-      "title": "api",
+      "title": "[Network] api",
       "path": "[[workspace]]/content/notes/network/api",
       "excludeSubdir": true
     },
     {
-      "title": "graphql",
+      "title": "[API] graphql",
       "path": "[[workspace]]/content/notes/network/api/graphql",
       "excludeSubdir": true
     },
     {
-      "title": "relay-modern",
+      "title": "[GraphQL] apollo",
+      "path": "[[workspace]]/content/notes/network/api/graphql/apollo",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[GraphQL] relay-modern",
       "path": "[[workspace]]/content/notes/network/api/graphql/relay-modern",
       "excludeSubdir": true
     },
     {
-      "title": "restapi",
+      "title": "[API] restapi",
       "path": "[[workspace]]/content/notes/network/api/restapi",
       "excludeSubdir": true
     },
     {
-      "title": "soap",
+      "title": "[API] rpc",
+      "path": "[[workspace]]/content/notes/network/api/rpc",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[API] soap",
       "path": "[[workspace]]/content/notes/network/api/soap",
       "excludeSubdir": true
     },
     {
-      "title": "protocol",
+      "title": "[Network] protocol",
       "path": "[[workspace]]/content/notes/network/protocol",
       "excludeSubdir": true
     },
     {
-      "title": "http",
+      "title": "[Protocol] http",
       "path": "[[workspace]]/content/notes/network/protocol/http",
       "excludeSubdir": true
     },
     {
-      "title": "web-socket",
+      "title": "[Protocol] web-socket",
       "path": "[[workspace]]/content/notes/network/protocol/web-socket",
       "excludeSubdir": true
     },
     {
-      "title": "os",
+      "title": "[Notes] os",
       "path": "[[workspace]]/content/notes/os",
       "excludeSubdir": true
     },
     {
-      "title": "linux",
+      "title": "[OS] linux",
       "path": "[[workspace]]/content/notes/os/linux",
       "excludeSubdir": true
     },
     {
-      "title": "Windows",
+      "title": "[OS] Windows",
       "path": "[[workspace]]/content/notes/os/Windows",
       "excludeSubdir": true
     },
     {
-      "title": "programming",
+      "title": "[Content] programming",
       "path": "[[workspace]]/content/programming",
       "excludeSubdir": true
     },
     {
-      "title": "programming-basics",
+      "title": "[Programming] programming-basics",
       "path": "[[workspace]]/content/programming/programming-basics",
       "excludeSubdir": true
     },
     {
-      "title": "programming-languages",
+      "title": "[Programming] programming-languages",
       "path": "[[workspace]]/content/programming/programming-languages",
       "excludeSubdir": true
     },
     {
-      "title": "go",
+      "title": "[Programming Languages] go",
       "path": "[[workspace]]/content/programming/programming-languages/go",
       "excludeSubdir": true
     },
     {
-      "title": "syntax",
+      "title": "[Go] syntax",
       "path": "[[workspace]]/content/programming/programming-languages/go/syntax",
       "excludeSubdir": true
     },
     {
-      "title": "javascript",
+      "title": "[Programming Languages] javascript",
       "path": "[[workspace]]/content/programming/programming-languages/javascript",
       "excludeSubdir": true
     },
     {
-      "title": "nodejs",
-      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs",
-      "excludeSubdir": true
-    },
-    {
-      "title": "expressjs",
-      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/expressjs",
-      "excludeSubdir": true
-    },
-    {
-      "title": "syntax",
-      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/expressjs/syntax",
-      "excludeSubdir": true
-    },
-    {
-      "title": "syntax",
-      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nextjs/syntax",
-      "excludeSubdir": true
-    },
-    {
-      "title": "syntax",
-      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/syntax",
-      "excludeSubdir": true
-    },
-    {
-      "title": "react",
-      "path": "[[workspace]]/content/programming/programming-languages/javascript/react",
-      "excludeSubdir": true
-    },
-    {
-      "title": "syntax",
+      "title": "[JavaScript] syntax",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/syntax",
       "excludeSubdir": true
     },
     {
-      "title": "vuejs",
+      "title": "[JavaScript] nodejs",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[NodeJS] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/syntax",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[NodeJS] expressjs",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/expressjs",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[ExpressJS] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/expressjs/syntax",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[NodeJS] nextjs",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nextjs",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[NextJS] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nextjs/syntax",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[JavaScript] react",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/react",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[React] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/react/syntax",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[JavaScript] vuejs",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/vuejs",
       "excludeSubdir": true
     },
     {
-      "title": "syntax",
+      "title": "[VueJS] syntax",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/vuejs/syntax",
       "excludeSubdir": true
     },
     {
-      "title": "python",
+      "title": "[Programming Languages] python",
       "path": "[[workspace]]/content/programming/programming-languages/python",
       "excludeSubdir": true
     },
     {
-      "title": "syntax",
+      "title": "[Python] syntax",
       "path": "[[workspace]]/content/programming/programming-languages/python/syntax",
       "excludeSubdir": true
     },
     {
-      "title": "typescript",
+      "title": "[Programming Languages] typescript",
       "path": "[[workspace]]/content/programming/programming-languages/typescript",
       "excludeSubdir": true
     },
     {
-      "title": "syntax",
+      "title": "[TypeScript] syntax",
       "path": "[[workspace]]/content/programming/programming-languages/typescript/syntax",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Content] diary",
+      "path": "[[workspace]]/content/diary",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Content] gallery",
+      "path": "[[workspace]]/content/gallery",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Gallery] ordinary-life",
+      "path": "[[workspace]]/content/gallery/ordinary-life",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Gallery] travel",
+      "path": "[[workspace]]/content/gallery/travel",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Travel] morocco",
+      "path": "[[workspace]]/content/gallery/travel/morocco",
+      "excludeSubdir": true
+    },
+    {
+      "title": "[Travel] spain",
+      "path": "[[workspace]]/content/gallery/travel/spain",
       "excludeSubdir": true
     }
   ],
   "frontMatter.framework.startCommand": "npm run dev",
   "frontMatter.taxonomy.contentTypes": [
     {
-      "name": "default",
+      "name": "docs",
       "pageBundle": false,
       "fields": [
         {
@@ -810,12 +850,161 @@
           "name": "series",
           "type": "choice",
           "choices": [
-            "Operating System",
-            "Linux",
-            "Command"
+            "AI",
+            "Backend",
+            "Frontend",
+            "Data",
+            "Dev Ops",
+            "Programming",
+            "General",
+            "Network",
+            "OS",
+            "Data Structure & Algorithm"
           ]
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        }
+      ]
+    },
+    {
+      "name": "diary",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "boolean"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "featured",
+          "name": "featured",
+          "type": "datetime"
+        },
+        {
+          "title": "series",
+          "name": "series",
+          "type": "choice",
+          "choices": []
+        }
+      ]
+    },
+    {
+      "name": "gallery",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "boolean"
+        },
+        {
+          "title": "resources",
+          "name": "resources",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "src",
+              "name": "src",
+              "type": "string"
+            },
+            {
+              "title": "title",
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "title": "resources",
+              "name": "resources",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "author",
+                  "name": "author",
+                  "type": "string"
+                },
+                {
+                  "title": "source",
+                  "name": "source",
+                  "type": "string"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.dashboard.content.card.fields.title": "title"
 }
