@@ -46,18 +46,7 @@
   },
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true,
-    "editor.wordWrapColumn": 64,
-    "editor.lineNumbers": "off",
-    "editor.quickSuggestions": {
-      "comments": "off",
-      "strings": "off",
-      "other": "off"
-    },
-    "editor.minimap.enabled": false,
-    "editor.fontSize": 14,
-    "editor.lineHeight": 26,
-    "editor.wordWrap": "wordWrapColumn"
+    "editor.formatOnSave": true
   },
   "cSpell.enabled": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -68,5 +57,6 @@
   "yaml.schemas": {
     "url": "globPattern",
     "Kubernetes": "globPattern"
-  }
+  },
+  "frontMatter.dashboard.openOnStart": true
 }

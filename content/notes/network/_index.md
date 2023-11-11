@@ -16,7 +16,7 @@ categories:
   - Network
 tags:
   - Network
-lastmod: 2023-11-07T16:19:31.674Z
+lastmod: 2023-11-11T15:58:15.561Z
 ---
 
 ![Network](/notes/nettopo.webp#center)

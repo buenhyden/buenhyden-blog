@@ -19,6 +19,7 @@ categories:
 tags:
   - Programming Language
   - Python
+lastmod: 2023-11-11T15:56:03.878Z
 ---
 
 ![Python](/programming/python.png#center)

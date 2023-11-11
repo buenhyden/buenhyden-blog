@@ -18,6 +18,7 @@ categories:
 tags:
   - Programming Language
   - Typescript
+lastmod: 2023-11-11T15:55:56.696Z
 ---
 
 ![TypeScript](/programming/typescript.png#center)

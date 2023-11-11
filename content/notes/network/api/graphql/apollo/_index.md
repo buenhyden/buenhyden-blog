@@ -25,7 +25,7 @@ tags:
   - API
   - GraphQL
   - null
-lastmod: 2023-11-07T16:19:15.430Z
+lastmod: 2023-11-11T15:58:42.002Z
 ---
 
 ## Reference

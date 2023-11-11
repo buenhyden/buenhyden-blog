@@ -16,7 +16,7 @@ categories:
   - Dev Ops
 tags:
   - Dev Ops
-lastmod: 2023-11-07T16:18:13.273Z
+lastmod: 2023-11-11T15:09:28.960Z
 ---
 
 ![Dev Ops](/dev-ops/devops.png?width=512px#center)

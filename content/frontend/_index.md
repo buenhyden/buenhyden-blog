@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-11-07T16:18:34.640Z
+lastmod: 2023-11-11T15:59:15.992Z
 ---
 
 ## Web Application

@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Infrastructure as Code
   - Application Monitoring
-lastmod: 2023-11-07T16:17:43.045Z
+lastmod: 2023-11-11T16:01:39.139Z
 ---
 
 ## Reference

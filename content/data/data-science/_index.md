@@ -16,7 +16,7 @@ categories:
   - Data Science
 tags:
   - Data Science
-lastmod: 2023-11-07T16:16:20.156Z
+lastmod: 2023-11-11T15:11:30.471Z
 ---
 
 ![Data Science Lifecycle](/data/data-science-lifecycle.png#center)

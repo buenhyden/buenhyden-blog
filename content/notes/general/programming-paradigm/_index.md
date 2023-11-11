@@ -19,9 +19,9 @@ categories:
 tags:
   - General
   - Programming Paradigm
-lastmod: 2023-11-07T16:18:58.317Z
+lastmod: 2023-11-11T15:59:03.571Z
 ---
 
-<p align="center"><img src="prg-paradigms.png"></p>
+![Programming Paradigm](/notes/prg-paradigms.png#center)
 
 ## Reference

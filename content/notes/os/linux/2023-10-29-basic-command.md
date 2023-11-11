@@ -22,6 +22,7 @@ tags:
   - Operating System
   - Linux
   - Command
+lastmod: 2023-11-11T15:58:00.794Z
 ---
 
 ## Linux Command

@@ -25,7 +25,7 @@ tags:
   - Search Engine
   - tools
   - Elasticsearch
-lastmod: 2023-11-07T16:12:10.042Z
+lastmod: 2023-11-11T16:02:29.193Z
 ---
 
 ![ELK](/backend/elk.jpg#center)

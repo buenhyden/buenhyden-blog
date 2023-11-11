@@ -19,7 +19,7 @@ categories:
 tags:
   - Data Structure & Algorithm
   - Algorithm
-lastmod: 2023-11-07T16:18:48.228Z
+lastmod: 2023-11-11T15:59:08.114Z
 ---
 
 ![Data algorithms](/notes/Taxonomy-of-the-algorithms.png#center)

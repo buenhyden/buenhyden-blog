@@ -19,7 +19,7 @@ tags:
   - Programming Language
   - Typescript
   - Syntax
-lastmod: 2023-11-07T16:20:11.368Z
+lastmod: 2023-11-11T15:55:59.888Z
 ---
 
 ## Reference

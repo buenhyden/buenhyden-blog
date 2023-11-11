@@ -20,7 +20,7 @@ categories:
 tags:
   - Dev Ops
   - Container
-lastmod: 2023-11-07T16:17:20.966Z
+lastmod: 2023-11-11T16:02:15.897Z
 ---
 
 ![Container Strategy](/dev-ops/container-strategy.jpg#center)

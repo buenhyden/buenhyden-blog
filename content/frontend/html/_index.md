@@ -6,7 +6,6 @@ description: 웹사이트의 모습을 기술하기 위한 마크업 언어(Hype
 linkTitle: HTML
 nav_weight: 3
 nav_icon:
-nav_icon:
   vendor: bs
   name: book
   color: indigo
@@ -22,6 +21,7 @@ tags:
   - Frontend
   - Structuring
   - HTML
+lastmod: 2023-11-11T15:59:48.852Z
 ---
 
 ![HTML Page Structure](/frontend/html-page-structure.png#center)

@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Monitoring System
-lastmod: 2023-11-07T16:18:08.249Z
+lastmod: 2023-11-11T16:00:52.893Z
 ---
 
 ![Monitoring](/dev-ops/monitoring.png#center)

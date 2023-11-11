@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - Management for Infrastructure
-lastmod: 2023-11-07T16:18:11.132Z
+lastmod: 2023-11-11T16:00:47.842Z
 ---
 
 ## Components of Infrastructure Management

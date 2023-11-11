@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - IT Security
-lastmod: 2023-11-07T16:18:10.292Z
+lastmod: 2023-11-11T16:00:51.086Z
 ---
 
 ![IT Security](/dev-ops/it-security.webp#center)

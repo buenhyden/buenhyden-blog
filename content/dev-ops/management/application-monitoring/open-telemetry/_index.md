@@ -28,7 +28,7 @@ tags:
   - Application Monitoring
   - Open Telemetry
   - tools
-lastmod: 2023-11-07T16:17:41.743Z
+lastmod: 2023-11-11T16:01:37.758Z
 ---
 
 ## Reference

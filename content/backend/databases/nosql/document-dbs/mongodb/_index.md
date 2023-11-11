@@ -28,10 +28,10 @@ tags:
   - NoSQL
   - Document DBs
   - MongoDB
-lastmod: 2023-11-07T16:10:16.589Z
+lastmod: 2023-11-11T16:02:50.418Z
 ---
 
-![Mongo DB/backend/mongodb.png#center)
+![Mongo DB](/backend/mongodb.png#center)
 
 ## Roadmap
 

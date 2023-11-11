@@ -22,7 +22,7 @@ tags:
   - Javascript
   - React
   - Syntax
-lastmod: 2023-11-07T16:19:58.922Z
+lastmod: 2023-11-11T15:56:26.888Z
 ---
 
 ## Reference

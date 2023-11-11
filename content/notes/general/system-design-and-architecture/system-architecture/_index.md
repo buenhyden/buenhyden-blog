@@ -22,7 +22,7 @@ tags:
   - General
   - System Design & Architecture
   - System Architecture
-lastmod: 2023-11-07T16:19:08.574Z
+lastmod: 2023-11-11T15:58:51.586Z
 ---
 
 ![Enterprise System Architecture](/notes/Enterprise-system-architecture-1.png#center)

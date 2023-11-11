@@ -19,7 +19,7 @@ categories:
 tags:
   - General
   - System Design & Architecture
-lastmod: 2023-11-07T16:19:10.208Z
+lastmod: 2023-11-11T15:58:52.739Z
 ---
 
 ![System Design Master](/notes/system-design-master.webp#center)

@@ -28,7 +28,7 @@ tags:
   - Infrastructure Monitoring
   - Zabbix
   - tools
-lastmod: 2023-11-07T16:17:51.144Z
+lastmod: 2023-11-11T16:01:23.691Z
 ---
 
 ## Reference

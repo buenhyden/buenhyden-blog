@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Infrastructure as Code
   - Log Management
-lastmod: 2023-11-07T16:18:02.619Z
+lastmod: 2023-11-11T16:01:07.217Z
 ---
 
 ## Reference

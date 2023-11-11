@@ -22,7 +22,7 @@ tags:
   - Network
   - API
   - RPC
-lastmod: 2023-11-07T16:19:21.671Z
+lastmod: 2023-11-11T15:58:37.938Z
 ---
 
 ![RPC mechanism](/notes/rpc-mechanism.png#center)

@@ -19,7 +19,7 @@ categories:
 tags:
   - General
   - QA Engineering
-lastmod: 2023-11-07T16:19:03.229Z
+lastmod: 2023-11-11T15:59:01.919Z
 ---
 
 ## Quality Assurance (QA)

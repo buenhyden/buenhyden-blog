@@ -21,6 +21,7 @@ tags:
   - Programming Language
   - Javascript
   - React
+lastmod: 2023-11-11T15:56:28.900Z
 ---
 
 ![Reeact](/programming/react.jpeg#center)

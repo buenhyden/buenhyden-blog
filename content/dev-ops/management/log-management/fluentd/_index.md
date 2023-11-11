@@ -28,7 +28,7 @@ tags:
   - Log Management
   - Fluentd
   - tools
-lastmod: 2023-11-07T16:17:53.997Z
+lastmod: 2023-11-11T16:01:16.969Z
 ---
 
 ## Reference

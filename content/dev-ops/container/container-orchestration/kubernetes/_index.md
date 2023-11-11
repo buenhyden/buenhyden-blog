@@ -6,7 +6,6 @@ description: 컨테이너화된 애플리케이션의 자동 디플로이, 스�
 linkTitle: Kubernetes
 nav_weight: 2
 nav_icon:
-nav_icon:
   vendor: bs
   name: book
   color: indigo

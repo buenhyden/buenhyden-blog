@@ -24,7 +24,7 @@ tags:
   - Database
   - RDBMS
   - MySQL
-lastmod: 2023-11-07T16:11:50.317Z
+lastmod: 2023-11-11T15:11:44.931Z
 ---
 
 ![MySQL DB](/backend/mysql.png#center)

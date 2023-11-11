@@ -10,6 +10,6 @@ resources:
     params:
       author: null
       source: IMG_6249.JPG
-lastmod: 2023-11-09T11:35:16.154Z
+lastmod: 2023-11-11T16:00:33.809Z
 type: gallery
 ---

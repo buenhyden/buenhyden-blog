@@ -22,7 +22,7 @@ tags:
   - Frontend
   - Design
   - UI
-lastmod: 2023-11-07T16:18:18.875Z
+lastmod: 2023-11-11T16:00:06.592Z
 ---
 
 - UI : USER INTERFACE

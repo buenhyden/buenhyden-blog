@@ -22,7 +22,7 @@ tags:
   - Javascript
   - Node.js
   - Syntax
-lastmod: 2023-11-07T16:19:55.690Z
+lastmod: 2023-11-11T15:56:34.513Z
 ---
 
 ## Reference

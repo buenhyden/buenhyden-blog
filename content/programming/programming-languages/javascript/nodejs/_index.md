@@ -21,7 +21,7 @@ tags:
   - Programming Language
   - Javascript
   - Node.js
-lastmod: 2023-11-07T16:19:56.605Z
+lastmod: 2023-11-11T15:56:31.857Z
 ---
 
 ![Node JS](/programming/node-js.png#center)

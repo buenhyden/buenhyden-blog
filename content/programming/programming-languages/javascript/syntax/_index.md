@@ -19,7 +19,7 @@ tags:
   - Programming Language
   - Javascript
   - Syntax
-lastmod: 2023-11-07T16:20:01.965Z
+lastmod: 2023-11-11T15:56:23.498Z
 ---
 
 ## Reference

@@ -18,7 +18,9 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-11-10T06:02:03.815Z
+lastmod: 2023-11-11T06:50:53.196Z
+slug: database-타입
+draft: true
 ---
 
 ![Database Types](/backend/database-types.png)

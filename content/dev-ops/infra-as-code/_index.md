@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - Infrastructure as Code
-lastmod: 2023-11-07T16:17:34.841Z
+lastmod: 2023-11-11T16:01:55.217Z
 ---
 
 ![Infrastructure as Code](/dev-ops/infra-as-code.png#center)

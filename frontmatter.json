@@ -1,10 +1,13 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.extends": ["https://platen.io/frontmatter/platen.json"],
   "frontMatter.framework.id": "hugo",
   "frontMatter.content.publicFolder": {
     "path": "static",
     "relative": false
   },
+  "frontMatter.experimental": true,
+  "frontMatter.extensibility.scripts": ["[[workspace]]/.frontmatter/ui/external.js"],
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.media.supportedMimeTypes": ["image/*", "video/*", "audio/*"],
   "frontMatter.content.pageFolders": [
@@ -606,11 +609,6 @@
       "excludeSubdir": true
     },
     {
-      "title": "[Protocol] web-socket",
-      "path": "[[workspace]]/content/notes/network/protocol/web-socket",
-      "excludeSubdir": true
-    },
-    {
       "title": "[Notes] os",
       "path": "[[workspace]]/content/notes/os",
       "excludeSubdir": true
@@ -731,6 +729,38 @@
       "excludeSubdir": true
     },
     {
+      "title": "[Programming Languages] Dart",
+      "path": "[[workspace]]/content/programming/programming-languages/dart/flutter"
+    },
+    {
+      "title": "[Dart] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/dart/flutter/syntax"
+    },
+    {
+      "title": "[Programming Languages] java",
+      "path": "[[workspace]]/content/programming/programming-languages/java"
+    },
+    {
+      "title": "[Java] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/java/syntax"
+    },
+    {
+      "title": "[Java] spring",
+      "path": "[[workspace]]/content/programming/programming-languages/java/spring"
+    },
+    {
+      "title": "[Spring] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/java/spring/syntax"
+    },
+    {
+      "title": "[Programming Languages] Kotlin",
+      "path": "[[workspace]]/content/programming/programming-languages/kotlin"
+    },
+    {
+      "title": "[Kotlin] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/kotlin/syntax"
+    },
+    {
       "title": "[Content] diary",
       "path": "[[workspace]]/content/diary",
       "excludeSubdir": true
@@ -759,6 +789,46 @@
       "title": "[Travel] spain",
       "path": "[[workspace]]/content/gallery/travel/spain",
       "excludeSubdir": true
+    },
+    {
+      "title": "[Protocol] udp",
+      "path": "[[workspace]]/content/notes/network/protocol/udp"
+    },
+    {
+      "title": "[Protocol] tcp-ip",
+      "path": "[[workspace]]/content/notes/network/protocol/tcp-ip"
+    },
+    {
+      "title": "[TCP/IP] web-socket",
+      "path": "[[workspace]]/content/notes/network/protocol/tcp-ip/web-socket"
+    },
+    {
+      "title": "[Protocol] https",
+      "path": "[[workspace]]/content/notes/network/protocol/https"
+    },
+    {
+      "title": "[Protocol] icmp",
+      "path": "[[workspace]]/content/notes/network/protocol/icmp"
+    },
+    {
+      "title": "[Protocol] igmp",
+      "path": "[[workspace]]/content/notes/network/protocol/igmp"
+    },
+    {
+      "title": "[Protocol] ipsec",
+      "path": "[[workspace]]/content/notes/network/protocol/ipsec"
+    },
+    {
+      "title": "[Protocol] tls-ssl",
+      "path": "[[workspace]]/content/notes/network/protocol/tls-ssl"
+    },
+    {
+      "title": "[RDBMS] sqlite",
+      "path": "[[workspace]]/content/backend/databases/rdbms/sqlite"
+    },
+    {
+      "title": "[Key Value DBs] redis",
+      "path": "[[workspace]]/content/backend/databases/nosql/key-value/redis"
     }
   ],
   "frontMatter.framework.startCommand": "npm run dev",
@@ -775,6 +845,11 @@
         {
           "title": "Description",
           "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "linkTitle",
+          "name": "linkTitle",
           "type": "string"
         },
         {
@@ -800,13 +875,13 @@
           "type": "categories"
         },
         {
-          "title": "type",
-          "name": "type",
-          "type": "string"
+          "title": "series",
+          "name": "series",
+          "type": "list"
         },
         {
-          "title": "linkTitle",
-          "name": "linkTitle",
+          "title": "type",
+          "name": "type",
           "type": "string"
         },
         {
@@ -846,11 +921,6 @@
           "name": "images",
           "type": "image",
           "multiple": true
-        },
-        {
-          "title": "series",
-          "name": "series",
-          "type": "list"
         },
         {
           "title": "lastmod",
@@ -896,6 +966,11 @@
           "type": "categories"
         },
         {
+          "title": "series",
+          "name": "series",
+          "type": "list"
+        },
+        {
           "title": "type",
           "name": "type",
           "type": "string"
@@ -914,13 +989,7 @@
           "title": "pinned",
           "name": "pinned",
           "type": "boolean"
-        },
-
-        {
-          "title": "series",
-          "name": "series",
-          "type": "list"
-        },
+        }
       ]
     },
     {

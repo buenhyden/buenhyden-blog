@@ -28,7 +28,7 @@ tags:
   - Log Management
   - Papertrail
   - tools
-lastmod: 2023-11-07T16:18:00.391Z
+lastmod: 2023-11-11T16:01:09.448Z
 ---
 
 ## Reference

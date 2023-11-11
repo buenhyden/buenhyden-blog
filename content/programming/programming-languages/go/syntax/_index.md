@@ -20,7 +20,7 @@ tags:
   - Typescript
   - Go
   - Syntax
-lastmod: 2023-11-07T16:19:45.414Z
+lastmod: 2023-11-11T15:57:40.187Z
 ---
 
 ## Reference

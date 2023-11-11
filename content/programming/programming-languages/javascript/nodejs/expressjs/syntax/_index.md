@@ -25,7 +25,7 @@ tags:
   - Node.js
   - Express.js
   - Syntax
-lastmod: 2023-11-07T16:19:50.243Z
+lastmod: 2023-11-11T15:57:22.384Z
 ---
 
 ## Reference

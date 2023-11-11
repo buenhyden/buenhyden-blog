@@ -14,17 +14,26 @@ series:
   - Network
   - Protocol
   - Web Socket
+  - TCP/IP
 categories:
   - Network
   - Protocol
   - Web Socket
+  - TCP/IP
 tags:
   - Network
   - Protocol
   - Web Socket
-lastmod: 2023-11-07T16:19:29.584Z
+  - TCP/IP
+lastmod: 2023-11-11T15:58:20.883Z
 ---
 
 ![Web Socket](/notes/web-socket.png#center)
+
+## Web Socket이란?
+
+- 통신 프로토콜
+- 실시간으로 상호작용하는 웹 서비스를 만드는 표준 기술
+- TCP 위에서 동작
 
 ## Reference

@@ -22,7 +22,7 @@ tags:
   - Network
   - Protocol
   - HTTP
-lastmod: 2023-11-07T16:19:27.009Z
+lastmod: 2023-11-11T15:58:24.424Z
 ---
 
 ![Fetching a Page](/notes/fetching_a_page.png#center)

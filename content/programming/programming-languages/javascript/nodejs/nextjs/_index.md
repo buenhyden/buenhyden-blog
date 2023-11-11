@@ -24,6 +24,7 @@ tags:
   - Javascript
   - Node.js
   - Next.js
+lastmod: 2023-11-11T15:56:38.656Z
 ---
 
 ![Next JS](/programming/next-js.png#center)

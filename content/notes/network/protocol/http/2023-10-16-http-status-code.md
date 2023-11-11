@@ -23,6 +23,7 @@ tags:
   - Protocol
   - HTTP
   - Status Code
+lastmod: 2023-11-11T15:58:25.708Z
 ---
 
 ![HTTP Status Code](/notes/http-status-code.webp)

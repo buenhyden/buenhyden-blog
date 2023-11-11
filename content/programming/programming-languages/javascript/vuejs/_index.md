@@ -21,6 +21,7 @@ tags:
   - Programming Language
   - Javascript
   - Vue.js
+lastmod: 2023-11-11T15:56:20.601Z
 ---
 
 ![Vue JS](/programming/vue-js.png#center)

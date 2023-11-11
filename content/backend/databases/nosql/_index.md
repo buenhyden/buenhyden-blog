@@ -22,7 +22,7 @@ tags:
   - Backend
   - Database
   - NoSQL
-lastmod: 2023-11-07T16:10:30.355Z
+lastmod: 2023-11-11T16:02:41.330Z
 ---
 
 ![Type of NoSQL Datastores](/backend/types-of-nosql-datastores.png#center)

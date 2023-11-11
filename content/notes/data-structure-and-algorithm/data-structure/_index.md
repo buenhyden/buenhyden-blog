@@ -18,7 +18,7 @@ categories:
 tags:
   - Data Structure & Algorithm
   - Data Structure
-lastmod: 2023-11-07T16:18:51.767Z
+lastmod: 2023-11-11T15:59:09.932Z
 ---
 
 ![Data Structures](/notes/data-structures.png#center)

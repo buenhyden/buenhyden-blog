@@ -28,7 +28,7 @@ tags:
   - Configuration Management
   - Puppet
   - tools
-lastmod: 2023-11-07T16:17:31.678Z
+lastmod: 2023-11-11T16:02:00.213Z
 ---
 
 ## Reference

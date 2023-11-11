@@ -2,7 +2,7 @@
 type: docs
 title: Service Mesh
 date: 2023-11-05T01:46:00+09:00
-description: null
+description: 소프트웨어 아키텍처에서 서비스 메시는 프록시를 사용하여 서비스 또는 마이크로서비스 간 서비스 간 통신을 촉진하기 위한 전용 인프라 계층
 linkTitle: Service Mesh
 nav_weight: 3
 nav_icon:
@@ -26,7 +26,7 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Service Mesh
-lastmod: 2023-11-07T16:17:10.706Z
+lastmod: 2023-11-11T15:51:11.145Z
 ---
 
 ## Reference

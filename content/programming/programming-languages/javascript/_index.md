@@ -19,7 +19,7 @@ categories:
 tags:
   - Programming Language
   - Javascript
-lastmod: 2023-11-07T16:20:05.997Z
+lastmod: 2023-11-11T15:56:15.445Z
 ---
 
 ![Javascript](/programming/javascript.jpg#center)

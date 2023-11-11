@@ -19,7 +19,7 @@ categories:
 tags:
   - Operating System
   - Windows
-lastmod: 2023-11-07T16:19:37.961Z
+lastmod: 2023-11-11T15:58:05.227Z
 ---
 
 ![Windows](/notes/windows.png#center)

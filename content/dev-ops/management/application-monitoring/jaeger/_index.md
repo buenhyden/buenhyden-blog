@@ -28,7 +28,7 @@ tags:
   - Application Monitoring
   - Jaeger
   - tools
-lastmod: 2023-11-07T16:17:37.976Z
+lastmod: 2023-11-11T16:01:43.699Z
 ---
 
 ## Reference

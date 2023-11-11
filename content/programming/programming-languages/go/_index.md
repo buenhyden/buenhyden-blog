@@ -19,6 +19,7 @@ categories:
 tags:
   - Programming Language
   - Go
+lastmod: 2023-11-11T15:57:37.599Z
 ---
 
 ![Go Lang](/programming/go-lang.png#center)

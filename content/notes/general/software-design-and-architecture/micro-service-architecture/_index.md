@@ -24,7 +24,7 @@ tags:
   - Software Architecture
   - Micro Service Architecture
   - MSA
-lastmod: 2023-11-11T03:43:53.526Z
+lastmod: 2023-11-11T15:58:59.122Z
 ---
 
 ![Monolithic](/notes/monolithic-to-msa.webp)

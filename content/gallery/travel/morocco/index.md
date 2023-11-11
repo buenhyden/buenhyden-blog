@@ -6,6 +6,6 @@ resources:
     params:
       author: null
       source: IMG_7524.JPG
-lastmod: 2023-11-09T11:35:42.748Z
+lastmod: 2023-11-11T16:00:23.567Z
 type: gallery
 ---

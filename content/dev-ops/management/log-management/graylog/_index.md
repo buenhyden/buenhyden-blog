@@ -28,7 +28,7 @@ tags:
   - Log Management
   - Graylog
   - tools
-lastmod: 2023-11-07T16:17:55.355Z
+lastmod: 2023-11-11T16:01:13.737Z
 ---
 
 ## Reference

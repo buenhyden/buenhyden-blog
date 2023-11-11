@@ -23,7 +23,7 @@ tags:
   - Dev Ops
   - Container
   - Docker
-lastmod: 2023-11-07T16:17:19.050Z
+lastmod: 2023-11-11T15:09:22.558Z
 ---
 
 ![Docker](/dev-ops/docker.png?width=512px#center)

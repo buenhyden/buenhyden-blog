@@ -23,7 +23,7 @@ tags:
   - Dev Ops
   - Container
   - Container Registry
-lastmod: 2023-11-07T16:17:16.933Z
+lastmod: 2023-11-11T16:02:17.841Z
 ---
 
 ## Reference

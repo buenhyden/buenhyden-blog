@@ -19,7 +19,7 @@ categories:
 tags:
   - Frontend
   - Design
-lastmod: 2023-11-07T16:18:21.411Z
+lastmod: 2023-11-11T15:59:30.225Z
 ---
 
 ![UI&UX](/frontend/ui-ux.jpg#center)

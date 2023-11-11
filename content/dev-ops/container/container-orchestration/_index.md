@@ -23,7 +23,7 @@ tags:
   - Dev Ops
   - Container
   - Container Orchestration(CO)
-lastmod: 2023-11-07T16:17:11.755Z
+lastmod: 2023-11-11T16:02:14.005Z
 ---
 
 ![Center Orchestration](/dev-ops/automation-with-container-orchestration.png#center)
