@@ -33,7 +33,7 @@ lastmod: 2023-11-07T16:16:50.898Z
 데이터베이스를 사용해서 파일의 변경 정보를 관리하는 시스템
 RCS(Revision Control System)은 파일에서 변경되는 부분(Patch)만 기억해 용량 문제를 해결
 RCS에서 버전 변경은 해당 버전까지의 일련의 변화들(Patch Set)을 적용/해제하는 식으로 동작
-![Distributed version control](local-vcs.png#center)
+![Distributed version control](/dev-ops/local-vcs.png#center)
 
 ## 중앙집중식 버전관리(CVCS)
 
@@ -46,7 +46,7 @@ RCS에서 버전 변경은 해당 버전까지의 일련의 변화들(Patch Set)
   - 오프라인 상태에서는 버전 관리 시스템을 사용할 수 없다
   - 모든 버전 관리 관련 동작은 적어도 한 번 서버를 경유해야 하므로 속도가 느리다.
   - 서버에서 데이터가 망가지거나 삭제되면 복구하기 어렵다
-  - ![Distributed version control](cvcs.png#center)
+  - ![Distributed version control](/dev-ops/cvcs.png#center)
 
 ## 분산 버전관리 시스템(DVCS)
 
@@ -57,7 +57,7 @@ RCS에서 버전 변경은 해당 버전까지의 일련의 변화들(Patch Set)
 - 단점
   - 중앙 집중식 버전 관리 시스템에 비해 복잡하다
   - 동기화 문제가 있다
-    ![Distributed version control](distributed-version-control.png#center)
+    ![Distributed version control](/dev-ops/distributed-version-control.png#center)
 
 ## Reference
 

@@ -20,10 +20,10 @@ lastmod: 2023-11-07T16:16:15.774Z
 
 ## Roadmap
 
-![Data Engineering Roadmap](data-engineering-roadmap.png?width=768px#center)
+![Data Engineering Roadmap](/data/data-engineering-roadmap.png?width=768px#center)
 
 ## State of Data Engineering 2022 map
 
-![State of Data Engineering 2022 map](State-of-Data-Engineering-2022-map.jpg#center)
+![State of Data Engineering 2022 map](/data/State-of-Data-Engineering-2022-map.jpg#center)
 
 ## Reference

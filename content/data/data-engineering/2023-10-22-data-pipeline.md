@@ -10,8 +10,6 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
-  - /images/docs/big-data-pipeline-architecture.webp
 series:
   - Data Engineering
 categories:
@@ -21,8 +19,10 @@ tags:
 lastmod: 2023-11-07T16:16:17.542Z
 ---
 
+![Big Data Pipeline Architecture](/data/big-data-pipeline-architecture.webp)
+
 ## Data Engineering
 
-![Data Engineering](/images/docs/data-engineering.png#center)
+![Data Engineering](/data/data-engineering.png#center)
 
 ## Reference

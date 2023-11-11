@@ -31,7 +31,7 @@ tags:
 lastmod: 2023-11-07T16:10:16.589Z
 ---
 
-![Mongo DB](mongodb.png#center)
+![Mongo DB/backend/mongodb.png#center)
 
 ## Roadmap
 

@@ -10,8 +10,6 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
-  - /images/docs/kafka.jpg
 series:
   - Backend
   - Message Broker
@@ -30,6 +28,6 @@ tags:
 lastmod: 2023-11-07T16:12:01.474Z
 ---
 
-![Kafka](kafka.png#center)
+![Kafka](/backend/kafka.png#center)
 
 ## Reference

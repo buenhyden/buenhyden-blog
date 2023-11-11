@@ -10,8 +10,6 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
-  - /images/docs/rabbitmq.png
 series:
   - Backend
   - Message Broker
@@ -30,6 +28,6 @@ tags:
 lastmod: 2023-11-07T16:12:03.996Z
 ---
 
-![RabbitMQ](rabbitmq.png#center)
+![RabbitMQ](/backend/rabbitmq.png#center)
 
 ## Reference

@@ -22,6 +22,6 @@ tags:
 lastmod: 2023-11-07T16:18:48.228Z
 ---
 
-![Data algorithms](Taxonomy-of-the-algorithms.png#center)
+![Data algorithms](/notes/Taxonomy-of-the-algorithms.png#center)
 
 ## Reference

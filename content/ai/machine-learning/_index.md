@@ -12,16 +12,15 @@ nav_icon:
   color: indigo
 series:
   - AI
-  - Machine Learning
 categories:
   - AI
   - Machine Learning
 tags:
   - AI
   - Machine Learning
-lastmod: 2023-11-07T16:08:45.164Z
+lastmod: 2023-11-11T04:54:58.844Z
 ---
 
-![Machine Learning](ml-algorithms.webp)
+![Machine Learning](/ai/ml-algorithms.webp)
 
 ## Reference

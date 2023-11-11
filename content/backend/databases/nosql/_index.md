@@ -25,6 +25,6 @@ tags:
 lastmod: 2023-11-07T16:10:30.355Z
 ---
 
-![Type of NoSQL Datastores](types-of-nosql-datastores.png#center)
+![Type of NoSQL Datastores](/backend/types-of-nosql-datastores.png#center)
 
 ## Reference

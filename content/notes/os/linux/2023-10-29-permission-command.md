@@ -24,7 +24,7 @@ tags:
   - Command
 ---
 
-![Linux Permissions](/images/docs/os/linux-permissions.jpg#center)
+![Linux Permissions](/notes/linux-permissions.jpg#center)
 
 - File type : 파일 유형
   |type|Description|
@@ -38,7 +38,7 @@ tags:
   |b|block device|
 
 - Permissions : 각 파일에 접근해서 읽거나 쓰거나 실행할 권리를 갖는 소유자 / 그룹 / 다른 사용자로 나눠서 관리
-  ![Linux Permission](/images/docs/os/Files-permissions-and-ownership-basics-in-Linux.png)
+  ![Linux Permission](/notes/Files-permissions-and-ownership-basics-in-Linux.png)
 
   - Permission은 3개로 나눠서 관리
     | |Description|
@@ -57,7 +57,7 @@ tags:
     |-|r,w,x에 대한 권한이 없음을 표시|r,w,x에 대한 권한이 없음을 표시|
 
   - Permission\
-    ![Linux File permissions](/images/docs/os/linux-file-permissions.jpg?width=512px)
+    ![Linux File permissions](/notes/linux-file-permissions.jpg?width=512px)
 
 - number of hard links
 

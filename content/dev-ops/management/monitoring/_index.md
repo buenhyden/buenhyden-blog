@@ -25,6 +25,6 @@ tags:
 lastmod: 2023-11-07T16:18:08.249Z
 ---
 
-![Monitoring](monitoring.png#center)
+![Monitoring](/dev-ops/monitoring.png#center)
 
 ## Reference

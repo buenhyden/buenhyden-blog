@@ -24,6 +24,6 @@ tags:
   - HTML
 ---
 
-![HTML Page Structure](html-page-structure.png#center)
+![HTML Page Structure](/frontend/html-page-structure.png#center)
 
 ## Reference

@@ -4,13 +4,11 @@ title: Database 타입
 date: 2023-10-16T16:26:00+09:00
 linkTitle: Database 타입
 nav_weight: 1
-nav_icon: null
-vendor: bs
-name: book
-color: indigo
+nav_icon:
+  vendor: bs
+  name: book
+  color: indigo
 featured: true
-images:
-  - /images/docs/database-types.png
 series:
   - Backend
   - Database
@@ -20,8 +18,10 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-11-07T16:11:56.895Z
+lastmod: 2023-11-10T06:02:03.815Z
 ---
+
+![Database Types](/backend/database-types.png)
 
 ## 관계형 데이터베이스
 

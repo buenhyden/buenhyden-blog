@@ -24,8 +24,10 @@ tags:
   - Javascript
   - Node.js
   - Express.js
+preview: /static/logo.png
+lastmod: 2023-11-11T04:16:54.867Z
 ---
 
-![Express JS](express-js.png#center)
+![Express JS](/programming/express-js.png#center)
 
 ## Reference

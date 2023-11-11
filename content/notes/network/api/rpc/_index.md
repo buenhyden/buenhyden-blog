@@ -25,6 +25,6 @@ tags:
 lastmod: 2023-11-07T16:19:21.671Z
 ---
 
-![RPC mechanism](rpc-mechanism.png#center)
+![RPC mechanism](/notes/rpc-mechanism.png#center)
 
 ## Reference

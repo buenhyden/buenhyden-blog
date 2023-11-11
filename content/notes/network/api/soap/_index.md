@@ -25,6 +25,6 @@ tags:
 lastmod: 2023-11-07T16:19:23.468Z
 ---
 
-![Components of SOAP message](the_components_of_a_soap_message-f.png#center)
+![Components of SOAP message](/notes/the_components_of_a_soap_message-f.png#center)
 
 ## Reference

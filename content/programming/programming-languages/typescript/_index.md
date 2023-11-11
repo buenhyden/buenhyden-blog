@@ -20,7 +20,7 @@ tags:
   - Typescript
 ---
 
-![TypeScript](typescript.png#center)
+![TypeScript](/programming/typescript.png#center)
 
 ## Roadmap
 

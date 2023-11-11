@@ -12,14 +12,13 @@ nav_icon:
   color: indigo
 series:
   - AI
-  - Image Recognition
 categories:
   - AI
   - Image Recognition
 tags:
   - AI
   - Image Recognition
-lastmod: 2023-11-09T11:56:46.113Z
+lastmod: 2023-11-11T04:55:03.616Z
 ---
 
 ## Reference

@@ -21,6 +21,6 @@ tags:
 lastmod: 2023-11-07T16:11:55.114Z
 ---
 
-![Where RDBMS and other DBMS technologies intersect](differencetypeofdbms2.png#center)
+![Where RDBMS and other DBMS technologies intersect](/backend/differencetypeofdbms2.png#center)
 
 ## Reference

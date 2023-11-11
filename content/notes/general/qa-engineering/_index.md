@@ -24,15 +24,15 @@ lastmod: 2023-11-07T16:19:03.229Z
 
 ## Quality Assurance (QA)
 
-![Quality Assurance](quality-assurance-1.png#center)
+![Quality Assurance](/notes/quality-assurance-1.png#center)
 
 ## QA Process
 
-![Quality Assurance](Quality-Assurance-Process-1.jpg#center)
+![Quality Assurance](/notes/Quality-Assurance-Process-1.jpg#center)
 
 ## QA Role & Skills
 
-![Quality Assurance](0_IQmoYSo_cFPuzbEM.webp#center)
+![Quality Assurance](/notes/0_IQmoYSo_cFPuzbEM.webp#center)
 
 ## Roadmap
 

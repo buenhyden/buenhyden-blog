@@ -25,7 +25,7 @@ tags:
 lastmod: 2023-11-07T16:16:27.586Z
 ---
 
-![CD](cd.png?width=512px#center)
+![CD](/dev-ops/cd.png?width=512px#center)
 
 - 지속적인 서비스 제공(Continuous Delivery) 또는 지속적인 배포(Continuous Deployment)를 의미하며 이는 상호 교환적으로 사용된다.
 - 두 가지 의미 모두 파이프라인의 추가 단계에 대한 자동화를 뜻하지만 때로는 얼마나 많은 자동화가 이루어지고 있는지를 설명하기 위해 별도로 사용되기도 한다.

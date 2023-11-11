@@ -25,6 +25,6 @@ tags:
 lastmod: 2023-11-07T16:19:08.574Z
 ---
 
-![Enterprise System Architecture](Enterprise-system-architecture-1.png#center)
+![Enterprise System Architecture](/notes/Enterprise-system-architecture-1.png#center)
 
 ## Reference

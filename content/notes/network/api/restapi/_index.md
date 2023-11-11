@@ -25,7 +25,7 @@ tags:
 lastmod: 2023-11-07T16:19:20.739Z
 ---
 
-![What is Rest API](what-is-rest-api.png#center)
+![What is Rest API](/notes/what-is-rest-api.png#center)
 
 Representational State Transfer(REST)는 API 작동 방식에 대한 조건을 부과하는 소프트웨어 아키텍처
 

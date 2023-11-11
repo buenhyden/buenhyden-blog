@@ -2,10 +2,11 @@
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.framework.id": "hugo",
   "frontMatter.content.publicFolder": {
-    "path": "assets/images",
-    "relative": true
+    "path": "static",
+    "relative": false
   },
   "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.media.supportedMimeTypes": ["image/*", "video/*", "audio/*"],
   "frontMatter.content.pageFolders": [
     {
       "title": "content",
@@ -784,11 +785,6 @@
           "isPublishDate": true
         },
         {
-          "title": "Content preview",
-          "name": "preview",
-          "type": "image"
-        },
-        {
           "title": "Is in draft",
           "name": "draft",
           "type": "boolean"
@@ -843,24 +839,18 @@
         {
           "title": "featured",
           "name": "featured",
-          "type": "datetime"
+          "type": "boolean"
+        },
+        {
+          "title": "image",
+          "name": "images",
+          "type": "image",
+          "multiple": true
         },
         {
           "title": "series",
           "name": "series",
-          "type": "choice",
-          "choices": [
-            "AI",
-            "Backend",
-            "Frontend",
-            "Data",
-            "Dev Ops",
-            "Programming",
-            "General",
-            "Network",
-            "OS",
-            "Data Structure & Algorithm"
-          ]
+          "type": "list"
         },
         {
           "title": "lastmod",
@@ -891,11 +881,6 @@
           "isPublishDate": true
         },
         {
-          "title": "Content preview",
-          "name": "preview",
-          "type": "image"
-        },
-        {
           "title": "Is in draft",
           "name": "draft",
           "type": "boolean"
@@ -918,14 +903,24 @@
         {
           "title": "featured",
           "name": "featured",
-          "type": "datetime"
+          "type": "boolean"
         },
+        {
+          "title": "noindex",
+          "name": "noindex",
+          "type": "boolean"
+        },
+        {
+          "title": "pinned",
+          "name": "pinned",
+          "type": "boolean"
+        },
+
         {
           "title": "series",
           "name": "series",
-          "type": "choice",
-          "choices": []
-        }
+          "type": "list"
+        },
       ]
     },
     {
@@ -950,11 +945,6 @@
           "isPublishDate": true
         },
         {
-          "title": "Content preview",
-          "name": "preview",
-          "type": "image"
-        },
-        {
           "title": "Is in draft",
           "name": "draft",
           "type": "boolean"
@@ -965,18 +955,13 @@
           "type": "fields",
           "fields": [
             {
-              "title": "src",
+              "title": "Resource Name",
               "name": "src",
               "type": "string"
             },
             {
-              "title": "title",
-              "name": "title",
-              "type": "string"
-            },
-            {
-              "title": "resources",
-              "name": "resources",
+              "title": "params",
+              "name": "params",
               "type": "fields",
               "fields": [
                 {
@@ -987,7 +972,7 @@
                 {
                   "title": "source",
                   "name": "source",
-                  "type": "string"
+                  "type": "image"
                 }
               ]
             }

@@ -10,14 +10,8 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
-  - /images/docs/monolithic-to-msa.webp
 series:
-  - General
   - Software Design & Architecture
-  - Software Architecture
-  - Micro Service Architecture
-  - MSA
 categories:
   - General
   - Software Design & Architecture
@@ -30,11 +24,14 @@ tags:
   - Software Architecture
   - Micro Service Architecture
   - MSA
+lastmod: 2023-11-11T03:43:53.526Z
 ---
+
+![Monolithic](/notes/monolithic-to-msa.webp)
 
 ## Micro Service Architecture vs Monolithic
 
-![MSA vs Monolithic](msa-monolithic.png#center)
+![MSA vs Monolithic](/notes/msa-monolithic.png#center)
 
 ## Roadmap
 

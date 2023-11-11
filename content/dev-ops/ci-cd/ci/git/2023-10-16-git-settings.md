@@ -4,8 +4,6 @@ title: Git 설정하기
 date: 2023-10-16T11:52:00+09:00
 description: Git을 초기 설정해보자
 featured: true
-images:
-  - /images/docs/git-init.jpg
 nav_weight: 3
 nav_icon:
   vendor: bs
@@ -33,6 +31,8 @@ tags:
   - Git
 lastmod: 2023-11-07T16:16:47.961Z
 ---
+
+![Git Status](/dev-ops/git-init.jpg)
 
 ## Git 설정하기
 

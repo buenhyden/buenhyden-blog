@@ -27,7 +27,7 @@ tags:
 lastmod: 2023-11-07T16:11:50.317Z
 ---
 
-![MySQL DB](mysql.png#center)
+![MySQL DB](/backend/mysql.png#center)
 
 ## Roadmap
 

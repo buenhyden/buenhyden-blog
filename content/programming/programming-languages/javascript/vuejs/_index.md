@@ -23,7 +23,7 @@ tags:
   - Vue.js
 ---
 
-![Vue JS](vue-js.png#center)
+![Vue JS](/programming/vue-js.png#center)
 
 ## Roadmap
 

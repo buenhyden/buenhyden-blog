@@ -24,8 +24,8 @@ lastmod: 2023-11-07T16:18:11.132Z
 
 ## Components of Infrastructure Management
 
-![Components of Infrastructure Management](3-components-of-infrastructure-management.png?width=512px#center)
+![Components of Infrastructure Management](/dev-ops/3-components-of-infrastructure-management.png?width=512px#center)
 
 ## Responsibilities of an Infrastructure Manager
 
-![Responsibilities of an Infrastructure Manager](responsibilities-of-an-infrastructure-manager.png?width=512px#center)
+![Responsibilities of an Infrastructure Manager](/dev-ops/responsibilities-of-an-infrastructure-manager.png?width=512px#center)

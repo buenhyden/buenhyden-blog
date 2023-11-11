@@ -21,7 +21,7 @@ lastmod: 2023-11-07T16:18:34.640Z
 
 ## Web Application
 
-![Web Application](web-application.png?width=1280px#center)
+![Web Application](/frontend/web-application.png?width=1280px#center)
 
 ## Roadmap
 

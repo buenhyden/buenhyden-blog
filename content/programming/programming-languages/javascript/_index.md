@@ -22,7 +22,7 @@ tags:
 lastmod: 2023-11-07T16:20:05.997Z
 ---
 
-![Javascript](javascript.jpg#center)
+![Javascript](/programming/javascript.jpg#center)
 
 ## Roadmap
 

@@ -22,7 +22,7 @@ tags:
 lastmod: 2023-11-07T16:18:21.411Z
 ---
 
-![UI&UX](ui-ux.jpg#center)
+![UI&UX](/frontend/ui-ux.jpg#center)
 
 ## Reference
 

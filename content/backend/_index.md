@@ -16,12 +16,13 @@ categories:
   - Backend
 tags:
   - Backend
-lastmod: 2023-11-07T16:16:07.828Z
+lastmod: 2023-11-11T03:52:53.491Z
+draft: true
 ---
 
 ## Web Application
 
-![Web Application](web-application.png?width=1280px#center)
+![Web Application](/backend/web-application.png?width=1280px#center)
 
 ## Roadmap
 

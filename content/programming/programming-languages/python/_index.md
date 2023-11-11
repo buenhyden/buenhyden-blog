@@ -21,7 +21,7 @@ tags:
   - Python
 ---
 
-![Python](python.png#center)
+![Python](/programming/python.png#center)
 
 ## Roadmap
 

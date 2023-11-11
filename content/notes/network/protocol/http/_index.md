@@ -25,11 +25,11 @@ tags:
 lastmod: 2023-11-07T16:19:27.009Z
 ---
 
-![Fetching a Page](fetching_a_page.png#center)
+![Fetching a Page](/notes/fetching_a_page.png#center)
 
 ## HTTP Layers
 
-![HTTP Layers](http-layers.png#center)
+![HTTP Layers](/notes/http-layers.png#center)
 
 ## Reference
 

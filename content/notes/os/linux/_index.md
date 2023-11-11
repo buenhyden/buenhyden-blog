@@ -22,6 +22,6 @@ tags:
 lastmod: 2023-11-07T16:19:33.935Z
 ---
 
-![Linux](linux.webp#center)
+![Linux](/notes/linux.webp#center)
 
 ## Reference

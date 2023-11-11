@@ -21,7 +21,7 @@ tags:
   - Go
 ---
 
-![Go Lang](go-lang.png#center)
+![Go Lang](/programming/go-lang.png#center)
 
 ## Roadmap
 

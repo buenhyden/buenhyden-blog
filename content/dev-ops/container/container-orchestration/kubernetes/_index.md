@@ -28,7 +28,7 @@ tags:
   - Kubernetes
 ---
 
-![Kubernetes](kubernetes.png#center)
+![Kubernetes](/dev-ops/kubernetes.png#center)
 
 ## Roadmap
 

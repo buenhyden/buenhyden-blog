@@ -26,7 +26,7 @@ tags:
 lastmod: 2023-11-07T16:17:19.050Z
 ---
 
-![Docker](docker.png?width=512px#center)
+![Docker](/dev-ops/docker.png?width=512px#center)
 
 ## Roadmap
 

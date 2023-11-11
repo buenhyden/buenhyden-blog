@@ -26,7 +26,7 @@ tags:
 lastmod: 2023-11-07T16:17:11.755Z
 ---
 
-![Center Orchestration](automation-with-container-orchestration.png#center)
+![Center Orchestration](/dev-ops/automation-with-container-orchestration.png#center)
 여러 컨테이너의 배포 프로세스를 최적화하는 것을 목적으로 하며, 아래의 기능을 포함할 수 있다.
 
 - 컨테이너 자동 배치 및 복제

@@ -23,6 +23,6 @@ tags:
 lastmod: 2023-11-07T16:17:20.966Z
 ---
 
-![Container Strategy](container-strategy.jpg#center)
+![Container Strategy](/dev-ops/container-strategy.jpg#center)
 
 ## Reference

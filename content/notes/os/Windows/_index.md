@@ -22,6 +22,6 @@ tags:
 lastmod: 2023-11-07T16:19:37.961Z
 ---
 
-![Windows](windows.png#center)
+![Windows](/notes/windows.png#center)
 
 ## Reference

@@ -25,6 +25,6 @@ tags:
 lastmod: 2023-11-07T16:11:53.299Z
 ---
 
-![RDBMS](rdbms.png#center)
+![RDBMS](/backend/rdbms.png#center)
 
 ## Reference

@@ -22,6 +22,6 @@ tags:
 lastmod: 2023-11-07T16:18:33.654Z
 ---
 
-![Web Browser](web-browser.webp#center)
+![Web Browser](/frontend/web-browser.webp#center)
 
 ## Reference

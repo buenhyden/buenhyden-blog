@@ -19,7 +19,7 @@ tags:
 lastmod: 2023-11-07T16:16:20.156Z
 ---
 
-![Data Science Lifecycle](data-science-lifecycle.png#center)
+![Data Science Lifecycle](/data/data-science-lifecycle.png#center)
 
 ## Roadmap
 

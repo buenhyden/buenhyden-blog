@@ -33,7 +33,7 @@ lastmod: 2023-11-07T16:16:47.165Z
 
 ## Git Version 관리
 
-![Git](git.png#center)
+![Git/dev-ops/git.png#center)
 
 ## Reference
 

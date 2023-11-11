@@ -25,6 +25,6 @@ tags:
 lastmod: 2023-11-07T16:18:10.292Z
 ---
 
-![IT Security](it-security.webp#center)
+![IT Security](/dev-ops/it-security.webp#center)
 
 ## Reference

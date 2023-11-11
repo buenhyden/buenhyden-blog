@@ -21,6 +21,6 @@ tags:
 lastmod: 2023-11-07T16:18:51.767Z
 ---
 
-![Data Structures](data-structures.png#center)
+![Data Structures](/notes/data-structures.png#center)
 
 ## Reference

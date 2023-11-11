@@ -22,6 +22,6 @@ tags:
 lastmod: 2023-11-07T16:12:32.299Z
 ---
 
-![Web Server](web-server.webp#center)
+![Web Server](/backend/web-server.webp#center)
 
 ## Reference

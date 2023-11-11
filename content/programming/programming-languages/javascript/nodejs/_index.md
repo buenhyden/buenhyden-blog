@@ -24,7 +24,7 @@ tags:
 lastmod: 2023-11-07T16:19:56.605Z
 ---
 
-![Node JS](node-js.png#center)
+![Node JS](/programming/node-js.png#center)
 
 ## Roadmap
 

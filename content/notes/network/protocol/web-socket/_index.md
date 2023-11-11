@@ -25,6 +25,6 @@ tags:
 lastmod: 2023-11-07T16:19:29.584Z
 ---
 
-![Web Socket](web-socket.png#center)
+![Web Socket](/notes/web-socket.png#center)
 
 ## Reference

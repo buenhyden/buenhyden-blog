@@ -22,7 +22,7 @@ tags:
 lastmod: 2023-11-07T16:18:56.554Z
 ---
 
-![Computer Science](computer-science.png#center)
+![Computer Science](/notes/computer-science.png#center)
 
 ## Roadmap
 

@@ -10,8 +10,6 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
-  - /images/docs/git-status-code.webp
 series:
   - Network
   - Protocol
@@ -26,6 +24,8 @@ tags:
   - HTTP
   - Status Code
 ---
+
+![HTTP Status Code](/notes/http-status-code.webp)
 
 - 응답은 5개의 그룹으로 나뉘어 진다
   - 정보를 제공하는 응답

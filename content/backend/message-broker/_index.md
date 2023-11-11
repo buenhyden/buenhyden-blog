@@ -10,8 +10,7 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-images:
-  - /images/docs/diagram-message-broker.png
+
 series:
   - Backend
   - Message Broker
@@ -23,5 +22,7 @@ tags:
   - Message Broker
 lastmod: 2023-11-07T16:12:06.731Z
 ---
+
+![Diagram Message Broker](/backend/diagram-message-broker.png)
 
 ## Reference

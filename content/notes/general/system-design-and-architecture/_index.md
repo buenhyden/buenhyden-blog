@@ -22,7 +22,7 @@ tags:
 lastmod: 2023-11-07T16:19:10.208Z
 ---
 
-![System Design Master](system-design-master.webp#center)
+![System Design Master](/notes/system-design-master.webp#center)
 
 ## Roadmap
 

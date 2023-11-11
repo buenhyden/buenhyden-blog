@@ -19,7 +19,7 @@ tags:
 lastmod: 2023-11-07T16:18:13.273Z
 ---
 
-![Dev Ops](devops.png?width=512px#center)
+![Dev Ops](/dev-ops/devops.png?width=512px#center)
 
 ## Dev Ops란
 
@@ -28,7 +28,7 @@ lastmod: 2023-11-07T16:18:13.273Z
 
 ## Dev Ops Marketplace
 
-![Dev Ops Marketplace](DevOps-Marketplace-Infinity-Loop.png#center)
+![Dev Ops Marketplace](/dev-ops/DevOps-Marketplace-Infinity-Loop.png#center)
 
 ## Roadmap
 

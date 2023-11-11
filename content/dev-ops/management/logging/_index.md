@@ -25,6 +25,6 @@ tags:
 lastmod: 2023-11-07T16:18:03.976Z
 ---
 
-![Data Logging](data-logging.png#center)
+![Data Logging](/dev-ops/data-logging.png#center)
 
 ## Reference

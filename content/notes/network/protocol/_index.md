@@ -21,6 +21,6 @@ tags:
   - Protocol
 ---
 
-![Protocol](protocol.png#center)
+![Protocol](/notes/protocol.png#center)
 
 ## Reference

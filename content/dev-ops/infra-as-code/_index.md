@@ -22,6 +22,6 @@ tags:
 lastmod: 2023-11-07T16:17:34.841Z
 ---
 
-![Infrastructure as Code](infra-as-code.png#center)
+![Infrastructure as Code](/dev-ops/infra-as-code.png#center)
 
 ## Reference

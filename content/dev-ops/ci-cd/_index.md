@@ -22,8 +22,8 @@ tags:
 lastmod: 2023-11-07T16:16:55.664Z
 ---
 
-![CI & CD2](ci-cd2.png?width=512px#center)
-![CI & CD](ci-cd.png?width=512px#center)
+![CI & CD2](/dev-ops/ci-cd2.png?width=512px#center)
+![CI & CD](/dev-ops/ci-cd.png?width=512px#center)
 
 - 기능적인 소프트웨어 제공 시 문제 발생 위험을 줄이고자 코드를 `지속적으로`테스트하고 `배포하는 전술`
 - 팀이 짧은 주기로 소프트웨어를 개발하는 소프트웨어 공학적 접근의 하나

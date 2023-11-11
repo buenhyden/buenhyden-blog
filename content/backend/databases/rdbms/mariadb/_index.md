@@ -27,6 +27,6 @@ tags:
 lastmod: 2023-11-07T16:11:47.964Z
 ---
 
-![Maria DB](mariadb.png#center)
+![Maria DB](/backend/mariadb.png#center)
 
 ## Reference

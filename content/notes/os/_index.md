@@ -19,10 +19,10 @@ tags:
 lastmod: 2023-11-07T16:19:39.876Z
 ---
 
-![OS](os.png#center)
+![OS](/notes/os.png#center)
 
 ## OS Components
 
-![Operating System Components](os-components.png#center)
+![Operating System Components](/notes/os-components.png#center)
 
 ## Reference

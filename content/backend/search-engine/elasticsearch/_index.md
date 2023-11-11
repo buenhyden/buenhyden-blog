@@ -28,6 +28,6 @@ tags:
 lastmod: 2023-11-07T16:12:10.042Z
 ---
 
-![ELK](elk.jpg#center)
+![ELK](/backend/elk.jpg#center)
 
 ## Reference

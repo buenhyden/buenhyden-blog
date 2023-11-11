@@ -24,7 +24,7 @@ lastmod: 2023-11-07T16:19:06.754Z
 
 ## Application Architecture
 
-![Application Architecture](service-architecture.jpg#center)
+![Application Architecture](/notes/service-architecture.jpg#center)
 
 ## Roadmap
 
