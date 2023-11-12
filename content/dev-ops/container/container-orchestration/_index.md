@@ -12,9 +12,8 @@ nav_icon:
 featured: true
 images: null
 series:
-  - Dev Ops
   - Container
-  - Container Orchestration(CO)
+  - Dev Ops
 categories:
   - Dev Ops
   - Container
@@ -23,7 +22,7 @@ tags:
   - Dev Ops
   - Container
   - Container Orchestration(CO)
-lastmod: 2023-11-11T16:02:14.005Z
+lastmod: 2023-11-12T15:20:39.144Z
 ---
 
 ![Center Orchestration](/dev-ops/automation-with-container-orchestration.png#center)

@@ -10,21 +10,21 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Javascript
-  - Vue.js
-  - Syntax
 categories:
-  - Programming Language
   - Javascript
-  - Vue.js
+  - Programming Language
   - Syntax
+  - Vue.js
+  - Programming
 tags:
-  - Programming Language
   - Javascript
-  - Vue.js
+  - Programming Language
   - Syntax
-lastmod: 2023-11-11T15:56:18.361Z
+  - Vue.js
+  - Programming
+lastmod: 2023-11-12T14:59:15.036Z
 ---
 
 ## Reference

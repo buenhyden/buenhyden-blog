@@ -10,18 +10,19 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Spring
-  - Java
 categories:
+  - Java
   - Programming Language
   - Spring
-  - Java
+  - Programming
 tags:
+  - Java
   - Programming Language
   - Spring
-  - Java
-lastmod: 2023-11-11T15:57:34.960Z
+  - Programming
+lastmod: 2023-11-12T15:05:32.332Z
 date: 2023-11-11T14:08:43.930Z
 ---
 

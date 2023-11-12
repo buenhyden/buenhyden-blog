@@ -13,7 +13,6 @@ featured: true
 series:
   - Dev Ops
   - Management for Infrastructure
-  - Logging
 categories:
   - Dev Ops
   - Management for Infrastructure
@@ -22,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Logging
-lastmod: 2023-11-11T16:00:59.371Z
+lastmod: 2023-11-12T15:11:08.674Z
 ---
 
 ![Data Logging](/dev-ops/data-logging.png#center)

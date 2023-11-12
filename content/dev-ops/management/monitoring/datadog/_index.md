@@ -12,23 +12,22 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Monitoring System
-  - Datadog
-  - tools
+  - Tools
+  - Management for Infrastructure
 categories:
-  - Dev Ops
-  - Infrastructure as Code
-  - Monitoring System
   - Datadog
+  - Dev Ops
+  - Monitoring System
   - tools
+  - Management for Infrastructure
 tags:
+  - Datadog
   - Dev Ops
   - Infrastructure as Code
   - Monitoring System
-  - Datadog
   - tools
-lastmod: 2023-11-07T16:18:07.287Z
+  - Management for Infrastructure
+lastmod: 2023-11-12T15:10:57.638Z
 ---
 
 ## Reference

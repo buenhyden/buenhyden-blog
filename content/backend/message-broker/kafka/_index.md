@@ -13,8 +13,7 @@ featured: true
 series:
   - Backend
   - Message Broker
-  - tools
-  - Kafka
+  - Tools
 categories:
   - Backend
   - Message Broker
@@ -25,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-11-07T16:12:01.474Z
+lastmod: 2023-11-12T14:50:12.685Z
 ---
 
 ![Kafka](/backend/kafka.png#center)

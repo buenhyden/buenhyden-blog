@@ -11,11 +11,14 @@ nav_icon:
   color: indigo
 series:
   - Data Engineering
+  - Data
 categories:
   - Data Engineering
+  - Data
 tags:
   - Data Engineering
-lastmod: 2023-11-07T16:16:15.774Z
+  - Data
+lastmod: 2023-11-12T14:53:15.642Z
 ---
 
 ## Roadmap

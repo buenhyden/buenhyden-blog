@@ -15,7 +15,7 @@ title_sections_depth_dir: end # when start, the depth is counting from the root 
 permalinks:
   diary: /diary/:year/:month/:title
   gallery: /gallery/:title
-  notes: /notes/:year/:month/:title
+  computer-science: /computer-science/:year/:month/:title
   programming: /programming/:year/:month/:title
   ai: /ai/:year/:month/:title
   backend: /backend/:year/:month/:title

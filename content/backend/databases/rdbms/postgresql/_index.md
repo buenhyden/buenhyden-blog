@@ -13,7 +13,6 @@ series:
   - Backend
   - Database
   - RDBMS
-  - PostgreSQL
 categories:
   - Backend
   - Database
@@ -24,7 +23,7 @@ tags:
   - Database
   - RDBMS
   - PostgreSQL
-lastmod: 2023-11-12T10:18:03.192Z
+lastmod: 2023-11-12T14:46:04.310Z
 images:
   - /code_4932.png
 ---

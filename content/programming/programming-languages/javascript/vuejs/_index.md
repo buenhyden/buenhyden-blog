@@ -11,17 +11,18 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Javascript
-  - Vue.js
+  - Programming Languages
 categories:
-  - Programming Language
   - Javascript
+  - Programming Language
   - Vue.js
+  - Programming
 tags:
-  - Programming Language
   - Javascript
+  - Programming Language
   - Vue.js
-lastmod: 2023-11-11T15:56:20.601Z
+  - Programming
+lastmod: 2023-11-12T14:59:02.084Z
 ---
 
 ![Vue JS](/programming/vue-js.png#center)

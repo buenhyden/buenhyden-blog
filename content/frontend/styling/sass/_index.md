@@ -13,8 +13,6 @@ featured: true
 series:
   - Frontend
   - Styling
-  - SASS
-  - SCSS
 categories:
   - Frontend
   - Styling
@@ -25,7 +23,7 @@ tags:
   - Styling
   - SASS
   - SCSS
-lastmod: 2023-11-11T15:59:52.092Z
+lastmod: 2023-11-12T15:08:10.463Z
 ---
 
 ![SCSS-SASS](/frontend/scss-sass.png#center)

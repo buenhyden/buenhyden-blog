@@ -13,8 +13,7 @@ featured: true
 series:
   - Backend
   - Message Broker
-  - tools
-  - RabbitMQ
+  - Tools
 categories:
   - Backend
   - Message Broker
@@ -25,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - RabbitMQ
-lastmod: 2023-11-07T16:12:03.996Z
+lastmod: 2023-11-12T14:50:22.651Z
 ---
 
 ![RabbitMQ](/backend/rabbitmq.png#center)

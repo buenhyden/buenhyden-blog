@@ -13,7 +13,6 @@ featured: true
 series:
   - Dev Ops
   - Management for Infrastructure
-  - IT Security
 categories:
   - Dev Ops
   - Management for Infrastructure
@@ -22,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - IT Security
-lastmod: 2023-11-11T16:00:51.086Z
+lastmod: 2023-11-12T15:09:46.359Z
 ---
 
 ![IT Security](/dev-ops/it-security.webp#center)

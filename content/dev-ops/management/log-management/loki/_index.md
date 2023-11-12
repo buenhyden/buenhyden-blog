@@ -12,23 +12,21 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Log Management
-  - Loki
-  - tools
+  - Management for Infrastructure
+  - Tools
 categories:
   - Dev Ops
-  - Infrastructure as Code
   - Log Management
   - Loki
   - tools
+  - Management for Infrastructure
 tags:
   - Dev Ops
-  - Infrastructure as Code
   - Log Management
   - Loki
   - tools
-lastmod: 2023-11-11T16:01:11.351Z
+  - Management for Infrastructure
+lastmod: 2023-11-12T15:12:28.125Z
 ---
 
 ## Reference

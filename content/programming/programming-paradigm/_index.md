@@ -12,11 +12,14 @@ nav_icon:
 featured: true
 series:
   - Programming Paradigm
+  - Programming
 categories:
   - Programming Paradigm
+  - Programming
 tags:
   - Programming Paradigm
-lastmod: 2023-11-12T10:18:37.822Z
+  - Programming
+lastmod: 2023-11-12T14:55:35.686Z
 images:
   - /code_4932.png
 ---

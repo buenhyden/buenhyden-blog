@@ -11,20 +11,20 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Javascript
-  - Node.js
-  - Next.js
+  - Programming
 categories:
-  - Programming Language
   - Javascript
-  - Node.js
   - Next.js
+  - Node.js
+  - Programming Language
+  - Programming
 tags:
-  - Programming Language
   - Javascript
-  - Node.js
   - Next.js
-lastmod: 2023-11-11T15:56:38.656Z
+  - Node.js
+  - Programming Language
+  - Programming
+lastmod: 2023-11-12T15:01:47.053Z
 ---
 
 ![Next JS](/programming/next-js.png#center)

@@ -11,10 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Backend
   - Database
-  - NoSQL
-  - Time Series
+  - Backend
 categories:
   - Backend
   - Database
@@ -25,7 +23,7 @@ tags:
   - Database
   - NoSQL
   - Time Series
-lastmod: 2023-11-11T15:42:37.301Z
+lastmod: 2023-11-12T14:45:36.061Z
 ---
 
 ## Reference

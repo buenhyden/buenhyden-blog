@@ -12,23 +12,21 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Infrastructure Monitoring
-  - Grafana
-  - tools
+  - Management for Infrastructure
+  - Tools
 categories:
   - Dev Ops
-  - Infrastructure as Code
-  - Infrastructure Monitoring
   - Grafana
+  - Infrastructure Monitoring
   - tools
+  - Management for Infrastructure
 tags:
   - Dev Ops
-  - Infrastructure as Code
-  - Infrastructure Monitoring
   - Grafana
+  - Infrastructure Monitoring
   - tools
-lastmod: 2023-11-11T16:01:31.727Z
+  - Management for Infrastructure
+lastmod: 2023-11-12T15:14:59.825Z
 ---
 
 ## Reference

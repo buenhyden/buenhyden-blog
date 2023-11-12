@@ -1,4 +1,5 @@
 ---
+type: blog
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
@@ -8,11 +9,11 @@ featured: false
 pinned: false
 # comments: false
 series:
-#  - 
+  - 
 categories:
-#  - 
+  - 
 tags:
-#  - 
+  - 
 images:
 #  - 
 # menu:

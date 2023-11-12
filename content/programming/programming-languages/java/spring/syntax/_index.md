@@ -11,20 +11,20 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Spring
-  - Java
-  - Syntax
+  - Programming
 categories:
+  - Java
   - Programming Language
   - Spring
-  - Java
   - Syntax
+  - Programming
 tags:
+  - Java
   - Programming Language
   - Spring
   - Syntax
-  - Java
-lastmod: 2023-11-11T15:57:33.492Z
+  - Programming
+lastmod: 2023-11-12T15:05:15.521Z
 ---
 
 ## Reference

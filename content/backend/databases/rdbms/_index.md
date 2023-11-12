@@ -13,7 +13,6 @@ featured: true
 series:
   - Backend
   - Database
-  - RDBMS
 categories:
   - Backend
   - Database
@@ -22,7 +21,7 @@ tags:
   - Backend
   - Database
   - RDBMS
-lastmod: 2023-11-07T16:11:53.299Z
+lastmod: 2023-11-12T14:46:14.919Z
 ---
 
 ![RDBMS](/backend/rdbms.png#center)

@@ -10,15 +10,18 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Programming Language
   - Kotlin
+  - Programming Language
+  - Programming
 categories:
-  - Programming Language
   - Kotlin
+  - Programming Language
+  - Programming
 tags:
-  - Programming Language
   - Kotlin
-lastmod: 2023-11-11T15:56:09.942Z
+  - Programming Language
+  - Programming
+lastmod: 2023-11-12T14:57:43.199Z
 date: 2023-11-11T14:03:12.053Z
 ---
 

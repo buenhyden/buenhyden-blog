@@ -13,9 +13,7 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
-  - Terraform
-  - tools
+  - Tools
 categories:
   - Dev Ops
   - Infrastructure as Code
@@ -28,7 +26,7 @@ tags:
   - Infrastructure Provisioning
   - Terraform
   - tools
-lastmod: 2023-11-11T16:01:57.474Z
+lastmod: 2023-11-12T15:17:50.160Z
 ---
 
 ## Reference

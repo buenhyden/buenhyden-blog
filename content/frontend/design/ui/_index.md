@@ -11,9 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Frontend
   - Design
-  - UI
+  - Frontend
 categories:
   - Frontend
   - Design
@@ -22,7 +21,7 @@ tags:
   - Frontend
   - Design
   - UI
-lastmod: 2023-11-11T16:00:06.592Z
+lastmod: 2023-11-12T15:09:16.803Z
 ---
 
 - UI : USER INTERFACE

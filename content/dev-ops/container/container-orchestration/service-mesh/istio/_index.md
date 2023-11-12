@@ -12,12 +12,9 @@ nav_icon:
 featured: true
 images: null
 series:
-  - Dev Ops
   - Container
-  - Container Orchestration(CO)
-  - Service Mesh
-  - Istio
-  - tools
+  - Dev Ops
+  - Tools
 categories:
   - Dev Ops
   - Container
@@ -32,7 +29,7 @@ tags:
   - Service Mesh
   - Istio
   - tools
-lastmod: 2023-11-11T15:52:27.462Z
+lastmod: 2023-11-12T15:21:09.947Z
 ---
 
 ## Reference

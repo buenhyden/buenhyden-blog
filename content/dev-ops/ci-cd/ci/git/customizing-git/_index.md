@@ -11,11 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Dev Ops
   - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
+  - Dev Ops
 categories:
   - Dev Ops
   - CI/CD
@@ -28,7 +25,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-11-07T16:16:34.505Z
+lastmod: 2023-11-12T15:26:36.271Z
 ---
 
 ## Reference

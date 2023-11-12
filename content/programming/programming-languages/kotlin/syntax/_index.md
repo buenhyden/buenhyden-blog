@@ -11,17 +11,18 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Kotlin
-  - Syntax
+  - Programming
 categories:
-  - Programming Language
   - Kotlin
+  - Programming Language
   - Syntax
+  - Programming
 tags:
+  - Kotlin
   - Programming Language
   - Syntax
-  - Kotlin
-lastmod: 2023-11-11T15:56:12.185Z
+  - Programming
+lastmod: 2023-11-12T15:07:05.166Z
 ---
 
 ## Reference

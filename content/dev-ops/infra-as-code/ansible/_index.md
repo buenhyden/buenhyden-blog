@@ -13,9 +13,7 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Configuration Management
-  - Ansible
-  - tools
+  - Tools
 categories:
   - Dev Ops
   - Infrastructure as Code
@@ -28,7 +26,7 @@ tags:
   - Configuration Management
   - Ansible
   - tools
-lastmod: 2023-11-11T16:02:08.067Z
+lastmod: 2023-11-12T15:19:10.314Z
 ---
 
 ## Reference

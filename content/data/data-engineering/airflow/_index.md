@@ -12,15 +12,17 @@ nav_icon:
 featured: true
 series:
   - Data Engineering
-  - tools
-  - Airflow
+  - Tools
+  - Data
 categories:
+  - Airflow
   - Data Engineering
   - tools
-  - Airflow
+  - Data
 tags:
+  - Airflow
   - Data Engineering
   - tools
-  - Airflow
-lastmod: 2023-11-11T15:47:44.509Z
+  - Data
+lastmod: 2023-11-12T14:53:26.583Z
 ---

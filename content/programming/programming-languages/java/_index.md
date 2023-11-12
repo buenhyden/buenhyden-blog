@@ -10,15 +10,17 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Java
 categories:
-  - Programming Language
   - Java
+  - Programming Language
+  - Programming
 tags:
-  - Programming Language
   - Java
-lastmod: 2023-11-11T15:57:28.819Z
+  - Programming Language
+  - Programming
+lastmod: 2023-11-12T15:05:56.535Z
 date: 2023-11-11T14:08:18.503Z
 ---
 

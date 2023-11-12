@@ -12,17 +12,16 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Log Management
+  - Management for Infrastructure
 categories:
   - Dev Ops
-  - Infrastructure as Code
   - Log Management
+  - Management for Infrastructure
 tags:
   - Dev Ops
-  - Infrastructure as Code
   - Log Management
-lastmod: 2023-11-11T16:01:07.217Z
+  - Management for Infrastructure
+lastmod: 2023-11-12T15:11:27.474Z
 ---
 
 ## Reference

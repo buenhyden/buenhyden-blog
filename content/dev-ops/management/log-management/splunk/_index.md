@@ -12,23 +12,21 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Log Management
-  - Splunk
-  - tools
+  - Tools
+  - Management for Infrastructure
 categories:
   - Dev Ops
-  - Infrastructure as Code
   - Log Management
   - Splunk
   - tools
+  - Management for Infrastructure
 tags:
   - Dev Ops
-  - Infrastructure as Code
   - Log Management
   - Splunk
   - tools
-lastmod: 2023-11-11T16:01:05.680Z
+  - Management for Infrastructure
+lastmod: 2023-11-12T15:11:57.608Z
 ---
 
 ## Reference

@@ -12,11 +12,14 @@ nav_icon:
 featured: true
 series:
   - Data Science
+  - Data
 categories:
   - Data Science
+  - Data
 tags:
   - Data Science
-lastmod: 2023-11-11T15:11:30.471Z
+  - Data
+lastmod: 2023-11-12T14:53:57.730Z
 ---
 
 ![Data Science Lifecycle](/data/data-science-lifecycle.png#center)

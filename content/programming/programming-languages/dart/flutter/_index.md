@@ -10,18 +10,18 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Programming Language
   - Flutter
-  - Dart
+  - Programming Language
 categories:
-  - Programming Language
-  - Flutter
   - Dart
+  - Flutter
+  - Programming Language
+  - Programming
 tags:
   - Programming Language
   - Flutter
   - Dart
-lastmod: 2023-11-11T15:57:49.119Z
+lastmod: 2023-11-12T15:03:52.573Z
 date: 2023-11-11T14:03:58.106Z
 ---
 

@@ -12,14 +12,13 @@ nav_icon:
   color: indigo
 series:
   - AI
-  - Speech Recognition
 categories:
   - AI
   - Speech Recognition
 tags:
   - AI
   - Speech Recognition
-lastmod: 2023-11-11T15:54:24.742Z
+lastmod: 2023-11-12T14:41:44.567Z
 ---
 
 ## Reference

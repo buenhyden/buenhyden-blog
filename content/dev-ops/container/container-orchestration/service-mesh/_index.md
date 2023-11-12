@@ -12,10 +12,8 @@ nav_icon:
 featured: true
 images: null
 series:
-  - Dev Ops
   - Container
-  - Container Orchestration(CO)
-  - Service Mesh
+  - Dev Ops
 categories:
   - Dev Ops
   - Container
@@ -26,7 +24,7 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Service Mesh
-lastmod: 2023-11-11T15:51:11.145Z
+lastmod: 2023-11-12T15:20:55.244Z
 ---
 
 ## Reference

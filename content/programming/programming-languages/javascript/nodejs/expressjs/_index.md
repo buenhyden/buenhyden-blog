@@ -10,21 +10,21 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Javascript
-  - Node.js
-  - Express.js
 categories:
-  - Programming Language
+  - Express.js
   - Javascript
   - Node.js
-  - Express.js
+  - Programming Language
+  - Programming
 tags:
-  - Programming Language
+  - Express.js
   - Javascript
   - Node.js
-  - Express.js
-lastmod: 2023-11-11T15:56:44.165Z
+  - Programming Language
+  - Programming
+lastmod: 2023-11-12T15:06:23.457Z
 ---
 
 ![Express JS](/programming/express-js.png#center)

@@ -10,18 +10,19 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Java
-  - Syntax
 categories:
   - Java
   - Programming Language
   - Syntax
+  - Programming
 tags:
+  - Java
   - Programming Language
   - Syntax
-  - Java
-lastmod: 2023-11-11T15:57:30.553Z
+  - Programming
+lastmod: 2023-11-12T15:05:46.621Z
 ---
 
 ## Reference

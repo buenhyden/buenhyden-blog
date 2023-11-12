@@ -12,8 +12,6 @@ featured: true
 series:
   - Backend
   - Database
-  - RDBMS
-  - SQLite
 categories:
   - Backend
   - Database
@@ -25,7 +23,7 @@ tags:
   - Database
   - RDBMS
   - SQLite
-lastmod: 2023-11-11T15:44:29.144Z
+lastmod: 2023-11-12T14:46:10.777Z
 linkTitle: SQLite
 ---
 

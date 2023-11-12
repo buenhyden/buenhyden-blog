@@ -12,11 +12,9 @@ nav_icon:
 featured: true
 images: null
 series:
-  - Dev Ops
   - Container
-  - Container Registry
-  - Harbor
-  - tools
+  - Dev Ops
+  - Tools
 categories:
   - Dev Ops
   - Container
@@ -29,7 +27,7 @@ tags:
   - Container Registry
   - Harbor
   - tools
-lastmod: 2023-11-11T15:50:38.990Z
+lastmod: 2023-11-12T15:19:59.233Z
 ---
 
 ## Reference

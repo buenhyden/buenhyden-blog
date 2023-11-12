@@ -10,13 +10,12 @@ nav_icon:
   name: book
   color: indigo
 featured: true
-series:
-  - Backend
+series: []
 categories:
   - Backend
 tags:
   - Backend
-lastmod: 2023-11-12T03:57:33.923Z
+lastmod: 2023-11-12T14:43:45.495Z
 draft: false
 ---
 

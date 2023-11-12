@@ -11,11 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Backend
   - Database
-  - NoSQL
-  - Key Value
-  - Redis
+  - Backend
 categories:
   - Backend
   - Database
@@ -28,7 +25,7 @@ tags:
   - Key Value
   - NoSQL
   - Redis
-lastmod: 2023-11-11T16:02:48.251Z
+lastmod: 2023-11-12T14:45:05.310Z
 ---
 
 ## Reference

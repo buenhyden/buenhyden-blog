@@ -13,7 +13,6 @@ featured: true
 series:
   - Dev Ops
   - Management for Infrastructure
-  - Monitoring System
 categories:
   - Dev Ops
   - Management for Infrastructure
@@ -22,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Monitoring System
-lastmod: 2023-11-11T16:00:52.893Z
+lastmod: 2023-11-12T15:09:54.884Z
 ---
 
 ![Monitoring](/dev-ops/monitoring.png#center)

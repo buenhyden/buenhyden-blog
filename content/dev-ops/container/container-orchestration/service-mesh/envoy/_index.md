@@ -12,12 +12,9 @@ nav_icon:
 featured: true
 images: null
 series:
-  - Dev Ops
   - Container
-  - Container Orchestration(CO)
-  - Service Mesh
-  - Envoy
-  - tools
+  - Dev Ops
+  - Tools
 categories:
   - Dev Ops
   - Container
@@ -32,7 +29,7 @@ tags:
   - Service Mesh
   - Envoy
   - tools
-lastmod: 2023-11-11T16:02:22.194Z
+lastmod: 2023-11-12T15:21:25.307Z
 ---
 
 ## Reference

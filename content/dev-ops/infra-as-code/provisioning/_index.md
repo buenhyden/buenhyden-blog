@@ -13,7 +13,6 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Infrastructure Provisioning
 categories:
   - Dev Ops
   - Infrastructure as Code
@@ -22,7 +21,7 @@ tags:
   - Dev Ops
   - Infrastructure as Code
   - Infrastructure Provisioning
-lastmod: 2023-11-11T16:02:01.803Z
+lastmod: 2023-11-12T15:18:17.784Z
 ---
 
 ## Reference

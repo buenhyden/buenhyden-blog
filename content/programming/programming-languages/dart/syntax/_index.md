@@ -11,17 +11,18 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Dart
-  - Syntax
+  - Programming
 categories:
   - Dart
   - Programming Language
   - Syntax
+  - Programming
 tags:
   - Dart
   - Programming Language
   - Syntax
-lastmod: 2023-11-12T11:00:53.524Z
+  - Programming
+lastmod: 2023-11-12T15:04:10.429Z
 date: 2023-11-11T13:59:54.665Z
 ---
 

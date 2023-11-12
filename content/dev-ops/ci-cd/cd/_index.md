@@ -11,9 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Dev Ops
   - CI/CD
-  - Continuous Deployment(CD)
+  - Dev Ops
 categories:
   - Dev Ops
   - CI/CD
@@ -22,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Deployment(CD)
-lastmod: 2023-11-07T16:16:27.586Z
+lastmod: 2023-11-12T15:22:58.962Z
 ---
 
 ![CD](/dev-ops/cd.png?width=512px#center)

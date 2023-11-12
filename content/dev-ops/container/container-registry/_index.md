@@ -12,9 +12,8 @@ nav_icon:
 featured: true
 images: null
 series:
-  - Dev Ops
   - Container
-  - Container Registry
+  - Dev Ops
 categories:
   - Dev Ops
   - Container
@@ -23,7 +22,7 @@ tags:
   - Dev Ops
   - Container
   - Container Registry
-lastmod: 2023-11-11T16:02:17.841Z
+lastmod: 2023-11-12T15:19:46.777Z
 ---
 
 ## Reference

@@ -11,22 +11,21 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Dev Ops
-  - CI/CD
   - Code Editor
-  - VisualStudio Code
+  - Dev Ops
 categories:
-  - Dev Ops
   - CI/CD
   - Code Editor
+  - Dev Ops
   - VisualStudio Code
+  - vs code
 tags:
   - Dev Ops
   - CI/CD
   - Code Editor
   - VisualStudio Code
   - vs code
-lastmod: 2023-11-11T15:48:13.304Z
+lastmod: 2023-11-12T15:22:16.518Z
 ---
 
 ## Reference

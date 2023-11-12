@@ -28,7 +28,7 @@ hb:
       sections:
         - diary
         - gallery
-        - notes
+        - computer-science
         - programming
         - ai
         - backend
@@ -77,7 +77,7 @@ hb:
       main_sections: # leave it empty to include all regular pages.
         - diary
         - gallery
-        - notes
+        - computer-science
         - programming
         - ai
         - backend

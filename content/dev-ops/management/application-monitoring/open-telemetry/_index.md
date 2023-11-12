@@ -12,23 +12,21 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Application Monitoring
-  - Open Telemetry
-  - tools
+  - Management for Infrastructure
+  - Tools
 categories:
-  - Dev Ops
-  - Infrastructure as Code
   - Application Monitoring
+  - Dev Ops
   - Open Telemetry
   - tools
+  - Management for Infrastructure
 tags:
-  - Dev Ops
-  - Infrastructure as Code
   - Application Monitoring
+  - Dev Ops
   - Open Telemetry
   - tools
-lastmod: 2023-11-11T16:01:37.758Z
+  - Management for Infrastructure
+lastmod: 2023-11-12T15:15:39.469Z
 ---
 
 ## Reference

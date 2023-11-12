@@ -12,8 +12,6 @@ featured: true
 series:
   - Backend
   - Database
-  - RDBMS
-  - MariaDB
 categories:
   - Backend
   - Database
@@ -24,7 +22,7 @@ tags:
   - Database
   - RDBMS
   - MariaDB
-lastmod: 2023-11-12T10:17:41.745Z
+lastmod: 2023-11-12T14:45:54.305Z
 images:
   - /code_4932.png
 ---

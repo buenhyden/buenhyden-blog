@@ -11,17 +11,14 @@ nav_icon:
   color: indigo
 series:
   - Frontend
-  - Structuring
   - HTML
 categories:
   - Frontend
-  - Structuring
   - HTML
 tags:
   - Frontend
-  - Structuring
   - HTML
-lastmod: 2023-11-11T15:59:48.852Z
+lastmod: 2023-11-12T15:08:56.037Z
 ---
 
 ![HTML Page Structure](/frontend/html-page-structure.png#center)

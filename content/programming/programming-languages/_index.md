@@ -12,11 +12,14 @@ nav_icon:
   color: indigo
 series:
   - Programming Language
+  - Programming
 categories:
   - Programming Language
+  - Programming
 tags:
   - Programming Language
-lastmod: 2023-11-11T15:55:54.440Z
+  - Programming
+lastmod: 2023-11-12T14:56:26.793Z
 ---
 
 ![Programming Language](/programming/programming-language.webp#center)

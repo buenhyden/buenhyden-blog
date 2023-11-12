@@ -17,16 +17,16 @@ main:
         vendor: bs
         className: text-primary-emphasis
     weight: 2
-  - identifier: notes
-    name: Notes
+  - identifier: computer-science
+    name: Computer Science
     params:
-      header: My Dev Notes
+      header: Computer Science
       icon:
         vendor: bs
         name: book
         className: text-primary-emphasis
     weight: 3
-    url: "/notes"
+    url: "/computer-science"
   - identifier: programming
     name: Programming
     params:
@@ -165,20 +165,6 @@ main:
     weight: 7
     url: "/tags"
 
-  - name: General
-    params:
-      description: General
-      icon:
-        vendor: bs
-        name: file-earmark-text
-        className: text-primary-emphasis
-    weight: 1
-    parent: notes
-    url: "/notes/general"
-  - params:
-      divider: true
-    parent: notes
-    weight: 2
   - name: Data Structure and algorithm
     params:
       description: Data Structure & Algorithm
@@ -186,13 +172,13 @@ main:
         vendor: bs
         name: file-earmark-text
         className: text-primary-emphasis
-    weight: 3
-    parent: notes
-    url: "/notes/data-structure-and-algorithm"
+    weight: 1
+    parent: computer-science
+    url: "/computer-science/data-structure-and-algorithm"
   - params:
       divider: true
-    parent: notes
-    weight: 4
+    parent: computer-science
+    weight: 2
   - name: Network
     params:
       description: Network
@@ -200,13 +186,13 @@ main:
         vendor: bs
         name: file-earmark-text
         className: text-primary-emphasis
-    weight: 5
-    parent: notes
-    url: "/notes/network"
+    weight: 3
+    parent: computer-science
+    url: "/computer-science/network"
   - params:
       divider: true
-    parent: notes
-    weight: 6
+    parent: computer-science
+    weight: 4
   - name: Operating System
     params:
       description: Operating System
@@ -214,9 +200,23 @@ main:
         vendor: bs
         name: file-earmark-text
         className: text-primary-emphasis
-    parent: notes
-    weight: 7
-    url: "/notes/os"
+    parent: computer-science
+    weight: 5
+    url: "/computer-science/os"
+  - params:
+      divider: true
+    parent: computer-science
+    weight: 5
+  - name: QA Engineering
+    params:
+      description: QA Engineering
+      icon:
+        vendor: bs
+        name: file-earmark-text
+        className: text-primary-emphasis
+    parent: computer-science
+    weight: 6
+    url: "/computer-science/qa-engineering"
 
   - name: Programming Basics
     params:

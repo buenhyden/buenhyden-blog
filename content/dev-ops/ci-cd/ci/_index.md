@@ -11,9 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Dev Ops
   - CI/CD
-  - Continuous Integration(CI)
+  - Dev Ops
 categories:
   - Dev Ops
   - CI/CD
@@ -22,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Integration(CI)
-lastmod: 2023-11-07T16:16:52.130Z
+lastmod: 2023-11-12T15:23:07.181Z
 ---
 
 ![CI](/dev-ops/ci.png?width=512px#center)

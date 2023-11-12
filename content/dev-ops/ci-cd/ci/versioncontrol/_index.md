@@ -11,10 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Dev Ops
   - CI/CD
-  - Continuous Integration(CI)
-  - Version Control
+  - Dev Ops
 categories:
   - Dev Ops
   - CI/CD
@@ -25,7 +23,7 @@ tags:
   - CI/CD
   - Continuous Integration(CI)
   - Version Control
-lastmod: 2023-11-07T16:16:50.898Z
+lastmod: 2023-11-12T15:23:16.911Z
 ---
 
 ## 로컬 버전관리(Local VCS)

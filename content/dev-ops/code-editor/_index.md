@@ -11,18 +11,15 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Dev Ops
-  - CI/CD
   - Code Editor
+  - Dev Ops
 categories:
-  - Dev Ops
-  - CI/CD
   - Code Editor
+  - Dev Ops
 tags:
-  - Dev Ops
-  - CI/CD
   - Code Editor
-lastmod: 2023-11-07T16:16:59.709Z
+  - Dev Ops
+lastmod: 2023-11-12T15:22:01.296Z
 ---
 
 ## Reference

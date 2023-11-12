@@ -12,9 +12,8 @@ nav_icon:
 featured: true
 images: null
 series:
-  - Dev Ops
   - Container
-  - Docker
+  - Dev Ops
 categories:
   - Dev Ops
   - Container
@@ -23,7 +22,7 @@ tags:
   - Dev Ops
   - Container
   - Docker
-lastmod: 2023-11-11T15:09:22.558Z
+lastmod: 2023-11-12T15:19:39.509Z
 ---
 
 ![Docker](/dev-ops/docker.png?width=512px#center)

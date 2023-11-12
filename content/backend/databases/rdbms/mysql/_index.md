@@ -12,8 +12,6 @@ featured: true
 series:
   - Backend
   - Database
-  - RDBMS
-  - MySQL
 categories:
   - Backend
   - Database
@@ -24,7 +22,7 @@ tags:
   - Database
   - RDBMS
   - MySQL
-lastmod: 2023-11-11T15:11:44.931Z
+lastmod: 2023-11-12T14:46:00.327Z
 ---
 
 ![MySQL DB](/backend/mysql.png#center)

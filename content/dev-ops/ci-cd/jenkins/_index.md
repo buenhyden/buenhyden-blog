@@ -11,9 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Dev Ops
   - CI/CD
-  - Jenkins
+  - Dev Ops
 categories:
   - Dev Ops
   - CI/CD
@@ -22,5 +21,5 @@ tags:
   - Dev Ops
   - CI/CD
   - Jenkins
-lastmod: 2023-11-11T15:49:31.044Z
+lastmod: 2023-11-12T15:22:39.596Z
 ---

@@ -12,10 +12,8 @@ nav_icon:
 authors:
   - Hyunyoun Jo
 series:
-  - Dev Ops
   - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
+  - Dev Ops
   - Git
 categories:
   - Dev Ops
@@ -29,7 +27,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-11-07T16:16:47.961Z
+lastmod: 2023-11-12T15:23:39.866Z
 ---
 
 ![Git Status](/dev-ops/git-init.jpg)

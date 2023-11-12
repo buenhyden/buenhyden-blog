@@ -12,23 +12,21 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Infrastructure Monitoring
-  - Zabbix
-  - tools
+  - Management for Infrastructure
+  - Tools
 categories:
   - Dev Ops
-  - Infrastructure as Code
   - Infrastructure Monitoring
-  - Zabbix
   - tools
+  - Zabbix
+  - Management for Infrastructure
 tags:
   - Dev Ops
-  - Infrastructure as Code
   - Infrastructure Monitoring
-  - Zabbix
   - tools
-lastmod: 2023-11-11T16:01:23.691Z
+  - Zabbix
+  - Management for Infrastructure
+lastmod: 2023-11-12T15:13:50.175Z
 ---
 
 ## Reference

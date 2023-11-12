@@ -13,7 +13,6 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Configure Management
 categories:
   - Dev Ops
   - Infrastructure as Code
@@ -22,7 +21,7 @@ tags:
   - Dev Ops
   - Infrastructure as Code
   - Configure Management
-lastmod: 2023-11-11T16:02:04.102Z
+lastmod: 2023-11-12T15:18:34.190Z
 ---
 
 ## Reference

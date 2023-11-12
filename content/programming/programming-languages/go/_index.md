@@ -11,15 +11,17 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Go
 categories:
-  - Programming Language
   - Go
+  - Programming Language
+  - Programming
 tags:
-  - Programming Language
   - Go
-lastmod: 2023-11-11T15:57:37.599Z
+  - Programming Language
+  - Programming
+lastmod: 2023-11-12T15:04:48.218Z
 ---
 
 ![Go Lang](/programming/go-lang.png#center)

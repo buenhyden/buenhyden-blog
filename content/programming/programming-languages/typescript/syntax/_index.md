@@ -11,17 +11,18 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Typescript
-  - Syntax
+  - Programming
 categories:
   - Programming Language
-  - Typescript
   - Syntax
+  - Typescript
+  - Programming
 tags:
   - Programming Language
-  - Typescript
   - Syntax
-lastmod: 2023-11-11T15:55:59.888Z
+  - Typescript
+  - Programming
+lastmod: 2023-11-12T14:57:02.678Z
 ---
 
 ## Reference

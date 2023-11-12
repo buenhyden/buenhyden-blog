@@ -13,19 +13,18 @@ featured: true
 series:
   - Backend
   - Web Server
-  - tools
-  - nginx
+  - Tools
 categories:
   - Backend
+  - nginx
   - Web Server
   - tools
-  - nginx
 tags:
   - Backend
+  - nginx
   - Web Server
   - tools
-  - nginx
-lastmod: 2023-11-11T16:02:35.727Z
+lastmod: 2023-11-12T14:51:03.931Z
 ---
 
 ## Reference

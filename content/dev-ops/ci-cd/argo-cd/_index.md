@@ -11,9 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Dev Ops
   - CI/CD
-  - ArgoCD
+  - Dev Ops
 categories:
   - Dev Ops
   - CI/CD
@@ -22,5 +21,5 @@ tags:
   - Dev Ops
   - CI/CD
   - ArgoCD
-lastmod: 2023-11-11T15:48:41.681Z
+lastmod: 2023-11-12T15:22:51.378Z
 ---

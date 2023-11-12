@@ -11,9 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Backend
   - Database
-  - NoSQL
+  - Backend
 categories:
   - Backend
   - Database
@@ -22,7 +21,7 @@ tags:
   - Backend
   - Database
   - NoSQL
-lastmod: 2023-11-11T16:02:41.330Z
+lastmod: 2023-11-12T14:44:33.417Z
 ---
 
 ![Type of NoSQL Datastores](/backend/types-of-nosql-datastores.png#center)

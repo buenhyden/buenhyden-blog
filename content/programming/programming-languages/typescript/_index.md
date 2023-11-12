@@ -11,14 +11,16 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Typescript
+  - Programming
 categories:
   - Programming Language
   - Typescript
+  - Programming Paradigm
 tags:
   - Programming Language
   - Typescript
-lastmod: 2023-11-11T15:55:56.696Z
+  - Programming
+lastmod: 2023-11-12T15:02:33.253Z
 ---
 
 ![TypeScript](/programming/typescript.png#center)

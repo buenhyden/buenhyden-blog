@@ -12,23 +12,21 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Application Monitoring
-  - Jaeger
-  - tools
+  - Management for Infrastructure
+  - Tools
 categories:
-  - Dev Ops
-  - Infrastructure as Code
   - Application Monitoring
+  - Dev Ops
   - Jaeger
+  - Management for Infrastructure
   - tools
 tags:
-  - Dev Ops
-  - Infrastructure as Code
   - Application Monitoring
+  - Dev Ops
   - Jaeger
+  - Management for Infrastructure
   - tools
-lastmod: 2023-11-11T16:01:43.699Z
+lastmod: 2023-11-12T15:16:59.833Z
 ---
 
 ## Reference

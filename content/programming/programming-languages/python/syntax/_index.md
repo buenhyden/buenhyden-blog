@@ -10,18 +10,19 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Python
-  - Syntax
 categories:
   - Programming Language
   - Python
   - Syntax
+  - Programming
 tags:
   - Programming Language
   - Python
   - Syntax
-lastmod: 2023-11-11T15:56:07.014Z
+  - Programming
+lastmod: 2023-11-12T14:57:27.329Z
 ---
 
 ## Reference

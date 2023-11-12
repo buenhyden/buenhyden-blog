@@ -12,23 +12,21 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Infrastructure Monitoring
-  - Nagios
-  - tools
+  - Tools
+  - Management for Infrastructure
 categories:
   - Dev Ops
-  - Infrastructure as Code
   - Infrastructure Monitoring
+  - Management for Infrastructure
   - Nagios
   - tools
 tags:
   - Dev Ops
-  - Infrastructure as Code
   - Infrastructure Monitoring
+  - Management for Infrastructure
   - Nagios
   - tools
-lastmod: 2023-11-11T16:01:29.032Z
+lastmod: 2023-11-12T15:14:37.734Z
 ---
 
 ## Reference

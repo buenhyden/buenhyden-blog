@@ -13,7 +13,6 @@ featured: true
 series:
   - Frontend
   - Styling
-  - CSS
 categories:
   - Frontend
   - Styling
@@ -22,7 +21,7 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-11-11T15:59:20.980Z
+lastmod: 2023-11-12T15:08:28.655Z
 ---
 
 ![CSS](/frontend/css.png#center)

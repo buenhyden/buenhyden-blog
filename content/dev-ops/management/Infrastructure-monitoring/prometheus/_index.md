@@ -12,23 +12,21 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Infrastructure Monitoring
-  - Prometheus
-  - tools
+  - Management for Infrastructure
+  - Tools
 categories:
   - Dev Ops
-  - Infrastructure as Code
   - Infrastructure Monitoring
+  - Management for Infrastructure
   - Prometheus
   - tools
 tags:
   - Dev Ops
-  - Infrastructure as Code
   - Infrastructure Monitoring
+  - Management for Infrastructure
   - Prometheus
   - tools
-lastmod: 2023-11-11T16:01:26.330Z
+lastmod: 2023-11-12T15:14:15.753Z
 ---
 
 ## Reference

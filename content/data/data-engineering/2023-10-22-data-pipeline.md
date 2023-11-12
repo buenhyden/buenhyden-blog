@@ -2,7 +2,7 @@
 type: docs
 title: Data Pipeline
 date: 2023-10-22T03:46:00+09:00
-description:
+description: null
 linkTitle: Data Pipeline
 nav_weight: 10
 nav_icon:
@@ -12,11 +12,14 @@ nav_icon:
 featured: true
 series:
   - Data Engineering
+  - Data
 categories:
   - Data Engineering
+  - Data
 tags:
   - Data Engineering
-lastmod: 2023-11-07T16:16:17.542Z
+  - Data
+lastmod: 2023-11-12T14:53:40.199Z
 ---
 
 ![Big Data Pipeline Architecture](/data/big-data-pipeline-architecture.webp)

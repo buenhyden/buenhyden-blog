@@ -13,9 +13,7 @@ featured: true
 series:
   - Dev Ops
   - Infrastructure as Code
-  - Configuration Management
-  - Chef
-  - tools
+  - Tools
 categories:
   - Dev Ops
   - Infrastructure as Code
@@ -28,7 +26,7 @@ tags:
   - Configuration Management
   - Chef
   - tools
-lastmod: 2023-11-11T16:02:06.100Z
+lastmod: 2023-11-12T15:18:50.772Z
 ---
 
 ## Reference

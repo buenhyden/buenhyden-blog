@@ -13,19 +13,18 @@ featured: true
 series:
   - Backend
   - Search Engine
-  - tools
-  - Elasticsearch
+  - Tools
 categories:
   - Backend
+  - Elasticsearch
   - Search Engine
   - tools
-  - Elasticsearch
 tags:
   - Backend
+  - Elasticsearch
   - Search Engine
   - tools
-  - Elasticsearch
-lastmod: 2023-11-11T16:02:29.193Z
+lastmod: 2023-11-12T14:50:32.163Z
 ---
 
 ![ELK](/backend/elk.jpg#center)

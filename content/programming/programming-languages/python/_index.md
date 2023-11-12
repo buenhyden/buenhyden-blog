@@ -12,14 +12,15 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Python
 categories:
   - Programming Language
   - Python
+  - Programming
 tags:
   - Programming Language
   - Python
-lastmod: 2023-11-11T15:56:03.878Z
+  - Programming
+lastmod: 2023-11-12T14:57:14.948Z
 ---
 
 ![Python](/programming/python.png#center)

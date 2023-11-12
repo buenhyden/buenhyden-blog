@@ -1,4 +1,5 @@
 ---
+type: docs
 title: "{{ replace .Name "-" " " | title }}"
 # linkTitle:
 date: {{ .Date }}
@@ -7,16 +8,16 @@ description:
 noindex: false
 # comments: false
 nav_weight: 1000
-# nav_icon:
-#   vendor: bootstrap
-#   name: toggles
-#   color: '#e24d0e'
+nav_icon:
+  vendor: bootstrap
+  name: toggles
+  color: '#e24d0e'
 series:
-  - Docs
+  - 
 categories:
-#  - 
+  - 
 tags:
-#  - 
+  - 
 images:
 #  - 
 # menu:

@@ -12,14 +12,13 @@ nav_icon:
   color: indigo
 series:
   - AI
-  - Neural Networks
 categories:
   - AI
   - Neural Networks
 tags:
   - AI
   - Neural Networks
-lastmod: 2023-11-11T15:54:21.592Z
+lastmod: 2023-11-12T14:41:39.177Z
 ---
 
 ## Reference

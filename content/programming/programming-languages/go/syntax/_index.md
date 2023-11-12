@@ -10,18 +10,19 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Go
-  - Syntax
 categories:
-  - Programming Language
   - Go
+  - Programming Language
   - Syntax
+  - Programming
 tags:
-  - Programming Language
   - Go
+  - Programming Language
   - Syntax
-lastmod: 2023-11-11T15:57:40.187Z
+  - Programming
+lastmod: 2023-11-12T15:04:38.587Z
 ---
 
 ## Reference

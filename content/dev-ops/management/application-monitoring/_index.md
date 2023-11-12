@@ -12,17 +12,16 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Infrastructure as Code
-  - Application Monitoring
+  - Management for Infrastructure
 categories:
-  - Dev Ops
-  - Infrastructure as Code
   - Application Monitoring
+  - Dev Ops
+  - Management for Infrastructure
 tags:
-  - Dev Ops
-  - Infrastructure as Code
   - Application Monitoring
-lastmod: 2023-11-11T16:01:39.139Z
+  - Dev Ops
+  - Management for Infrastructure
+lastmod: 2023-11-12T15:15:17.701Z
 ---
 
 ## Reference

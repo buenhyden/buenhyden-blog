@@ -11,10 +11,8 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Backend
   - Database
-  - NoSQL
-  - Document DBs
+  - Backend
 categories:
   - Backend
   - Database
@@ -25,7 +23,7 @@ tags:
   - Database
   - NoSQL
   - Document DBs
-lastmod: 2023-11-11T15:54:41.112Z
+lastmod: 2023-11-12T14:44:48.596Z
 ---
 
 ## Reference

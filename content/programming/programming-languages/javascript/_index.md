@@ -11,15 +11,17 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Javascript
 categories:
-  - Programming Language
   - Javascript
+  - Programming Language
+  - Programming
 tags:
-  - Programming Language
   - Javascript
-lastmod: 2023-11-11T15:56:15.445Z
+  - Programming Language
+  - Programming
+lastmod: 2023-11-12T14:58:48.508Z
 ---
 
 ![Javascript](/programming/javascript.jpg#center)

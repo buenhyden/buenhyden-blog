@@ -10,21 +10,21 @@ nav_icon:
   color: indigo
 featured: true
 series:
+  - Programming
   - Programming Language
-  - Javascript
-  - React
-  - Syntax
 categories:
-  - Programming Language
   - Javascript
+  - Programming Language
   - React
   - Syntax
+  - Programming
 tags:
-  - Programming Language
   - Javascript
+  - Programming Language
   - React
   - Syntax
-lastmod: 2023-11-11T15:56:26.888Z
+  - Programming
+lastmod: 2023-11-12T14:59:58.345Z
 ---
 
 ## Reference
