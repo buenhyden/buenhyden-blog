@@ -18,8 +18,8 @@ categories:
 tags:
   - AI
   - Machine Learning
-lastmod: 2023-11-11T15:54:19.649Z
-draft: true
+lastmod: 2023-11-12T03:57:41.042Z
+draft: false
 ---
 
 ![Machine Learning](/ai/ml-algorithms.webp)

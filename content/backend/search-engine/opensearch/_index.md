@@ -2,7 +2,7 @@
 type: docs
 title: OpenSearch
 date: 2023-10-31T07:46:00+09:00
-description: null
+description:
 linkTitle: OpenSearch
 nav_weight: 2
 nav_icon:

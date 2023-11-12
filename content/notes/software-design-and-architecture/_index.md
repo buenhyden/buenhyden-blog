@@ -4,7 +4,7 @@ title: Software Design & Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 소프트웨어를 디자인
 linkTitle: Software Design & Architecture
-nav_weight: 2
+nav_weight: 6
 nav_icon:
   vendor: bs
   name: book
@@ -19,7 +19,7 @@ categories:
 tags:
   - General
   - Software Design & Architecture
-lastmod: 2023-11-11T15:58:55.608Z
+lastmod: 2023-11-12T10:42:38.615Z
 ---
 
 ## Application Architecture

@@ -11,13 +11,16 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Typescript
+  - Spring
+  - Java
 categories:
   - Programming Language
   - Spring
+  - Java
 tags:
   - Programming Language
   - Spring
+  - Java
 lastmod: 2023-11-11T15:57:34.960Z
 date: 2023-11-11T14:08:43.930Z
 ---

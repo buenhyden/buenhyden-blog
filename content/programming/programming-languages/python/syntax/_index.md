@@ -12,9 +12,11 @@ featured: true
 series:
   - Programming Language
   - Python
+  - Syntax
 categories:
   - Programming Language
   - Python
+  - Syntax
 tags:
   - Programming Language
   - Python

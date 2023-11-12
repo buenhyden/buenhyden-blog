@@ -12,9 +12,11 @@ featured: true
 series:
   - Programming Language
   - Java
+  - Syntax
 categories:
   - Java
   - Programming Language
+  - Syntax
 tags:
   - Programming Language
   - Syntax

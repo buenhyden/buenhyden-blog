@@ -12,9 +12,11 @@ featured: true
 series:
   - Programming Language
   - Javascript
+  - Syntax
 categories:
   - Programming Language
   - Javascript
+  - Syntax
 tags:
   - Programming Language
   - Javascript

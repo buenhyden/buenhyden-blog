@@ -12,14 +12,16 @@ featured: true
 series:
   - Programming Language
   - Dart
+  - Syntax
 categories:
   - Dart
   - Programming Language
+  - Syntax
 tags:
   - Dart
   - Programming Language
   - Syntax
-lastmod: 2023-11-11T15:57:46.306Z
+lastmod: 2023-11-12T11:00:53.524Z
 date: 2023-11-11T13:59:54.665Z
 ---
 

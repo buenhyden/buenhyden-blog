@@ -13,10 +13,12 @@ series:
   - Programming Language
   - Javascript
   - Vue.js
+  - Syntax
 categories:
   - Programming Language
   - Javascript
   - Vue.js
+  - Syntax
 tags:
   - Programming Language
   - Javascript

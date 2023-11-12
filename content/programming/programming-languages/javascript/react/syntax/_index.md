@@ -13,10 +13,12 @@ series:
   - Programming Language
   - Javascript
   - React
+  - Syntax
 categories:
   - Programming Language
   - Javascript
   - React
+  - Syntax
 tags:
   - Programming Language
   - Javascript

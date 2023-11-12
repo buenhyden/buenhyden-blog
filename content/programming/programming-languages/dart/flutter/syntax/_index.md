@@ -11,15 +11,19 @@ nav_icon:
 featured: true
 series:
   - Programming Language
-  - Go
+  - Flutter
+  - Syntax
+  - Dart
 categories:
   - Programming Language
-  - Go
+  - Flutter
+  - Syntax
+  - Dart
 tags:
   - Programming Language
-  - Typescript
-  - Go
+  - Flutter
   - Syntax
+  - Dart
 lastmod: 2023-11-11T15:57:48.134Z
 ---
 

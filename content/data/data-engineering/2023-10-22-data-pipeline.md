@@ -2,7 +2,7 @@
 type: docs
 title: Data Pipeline
 date: 2023-10-22T03:46:00+09:00
-description: null
+description:
 linkTitle: Data Pipeline
 nav_weight: 10
 nav_icon:

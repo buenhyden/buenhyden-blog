@@ -13,10 +13,12 @@ series:
   - Programming Language
   - Javascript
   - Node.js
+  - Syntax
 categories:
   - Programming Language
   - Javascript
   - Node.js
+  - Syntax
 tags:
   - Programming Language
   - Javascript

@@ -14,11 +14,13 @@ series:
   - Javascript
   - Node.js
   - Express.js
+  - Syntax
 categories:
   - Programming Language
   - Javascript
   - Node.js
   - Express.js
+  - Syntax
 tags:
   - Programming Language
   - Javascript

@@ -2,9 +2,9 @@
 type: docs
 title: Protocol
 date: 2023-10-15T12:46:00+09:00
-description:
+description: null
 linkTitle: Protocol
-nav_weight: 7
+nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
@@ -19,6 +19,7 @@ categories:
 tags:
   - Network
   - Protocol
+lastmod: 2023-11-12T10:44:04.860Z
 ---
 
 ![Protocol](/notes/protocol.png#center)

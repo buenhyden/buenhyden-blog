@@ -69,3 +69,4 @@ imports:
   - path: github.com/hbstack/header/themes/tabs
   - path: github.com/hbstack/header/modules/theme-toggle
   - path: github.com/hbstack/header/modules/news
+  - path: github.com/hugomods/decap-cms

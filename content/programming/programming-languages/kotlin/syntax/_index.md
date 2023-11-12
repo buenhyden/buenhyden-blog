@@ -12,9 +12,11 @@ featured: true
 series:
   - Programming Language
   - Kotlin
+  - Syntax
 categories:
   - Programming Language
   - Kotlin
+  - Syntax
 tags:
   - Programming Language
   - Syntax

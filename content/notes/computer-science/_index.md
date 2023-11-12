@@ -4,7 +4,7 @@ title: Computer Science
 date: 2023-10-15T12:46:00+09:00
 description: 알고리즘 과정, 계산 기계 그리고 계산 자체에 대한 학문
 linkTitle: Computer Science
-nav_weight: 5
+nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
@@ -19,7 +19,7 @@ categories:
 tags:
   - General
   - Computer Science
-lastmod: 2023-11-11T15:59:05.940Z
+lastmod: 2023-11-12T10:41:43.003Z
 ---
 
 ![Computer Science](/notes/computer-science.png#center)

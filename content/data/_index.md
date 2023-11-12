@@ -2,7 +2,7 @@
 type: docs
 title: Data
 date: 2023-10-15T12:46:00+09:00
-description: null
+description:
 linkTitle: Data
 nav_weight: 12
 nav_icon:

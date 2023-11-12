@@ -12,11 +12,13 @@ featured: true
 series:
   - Programming Language
   - Spring
+  - Java
+  - Syntax
 categories:
-  - Go
   - Programming Language
   - Spring
   - Java
+  - Syntax
 tags:
   - Programming Language
   - Spring

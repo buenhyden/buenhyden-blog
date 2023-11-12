@@ -11,17 +11,16 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - General
   - Programming Paradigm
 categories:
-  - General
   - Programming Paradigm
 tags:
-  - General
   - Programming Paradigm
-lastmod: 2023-11-11T15:59:03.571Z
+lastmod: 2023-11-12T10:18:37.822Z
+images:
+  - /code_4932.png
 ---
 
-![Programming Paradigm](/notes/prg-paradigms.png#center)
+![Programming Paradigm](/programming/prg-paradigms.png#center)
 
 ## Reference

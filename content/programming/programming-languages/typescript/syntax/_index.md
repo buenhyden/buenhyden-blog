@@ -12,9 +12,11 @@ featured: true
 series:
   - Programming Language
   - Typescript
+  - Syntax
 categories:
   - Programming Language
   - Typescript
+  - Syntax
 tags:
   - Programming Language
   - Typescript

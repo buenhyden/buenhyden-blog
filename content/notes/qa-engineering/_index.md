@@ -4,7 +4,7 @@ title: QA Engineering
 date: 2023-10-15T12:46:00+09:00
 description: 주요 이해관계자들에게 시험 대상 제품 또는 서비스의 품질에 관한 정보를 제공하는 조사 과정
 linkTitle: QA Engineering
-nav_weight: 4
+nav_weight: 5
 nav_icon:
   vendor: bs
   name: book
@@ -19,7 +19,7 @@ categories:
 tags:
   - General
   - QA Engineering
-lastmod: 2023-11-11T15:59:01.919Z
+lastmod: 2023-11-12T10:42:31.390Z
 ---
 
 ## Quality Assurance (QA)

@@ -12,12 +12,13 @@ featured: true
 series:
   - Programming Language
   - Go
+  - Syntax
 categories:
   - Programming Language
   - Go
+  - Syntax
 tags:
   - Programming Language
-  - Typescript
   - Go
   - Syntax
 lastmod: 2023-11-11T15:57:40.187Z

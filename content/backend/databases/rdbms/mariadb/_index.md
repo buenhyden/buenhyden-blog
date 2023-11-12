@@ -24,7 +24,9 @@ tags:
   - Database
   - RDBMS
   - MariaDB
-lastmod: 2023-11-07T16:11:47.964Z
+lastmod: 2023-11-12T10:17:41.745Z
+images:
+  - /code_4932.png
 ---
 
 ![Maria DB](/backend/mariadb.png#center)

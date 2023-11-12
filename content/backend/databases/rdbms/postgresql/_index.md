@@ -24,7 +24,9 @@ tags:
   - Database
   - RDBMS
   - PostgreSQL
-lastmod: 2023-11-07T16:11:47.964Z
+lastmod: 2023-11-12T10:18:03.192Z
+images:
+  - /code_4932.png
 ---
 
 ## Reference

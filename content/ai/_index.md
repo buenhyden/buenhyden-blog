@@ -16,8 +16,8 @@ categories:
   - AI
 tags:
   - AI
-lastmod: 2023-11-11T15:54:27.740Z
-draft: true
+lastmod: 2023-11-12T03:58:59.822Z
+draft: false
 ---
 
 ![What is Artificial Intelligence](/ai/what-is-artificial-intelligence-infographic.width-880.webp#center)
