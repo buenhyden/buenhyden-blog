@@ -18,7 +18,7 @@ categories:
 tags:
   - Frontend
   - HTML
-lastmod: 2023-11-12T15:08:56.037Z
+lastmod: 2023-11-13T00:53:13.966Z
 ---
 
 ![HTML Page Structure](/frontend/html-page-structure.png#center)

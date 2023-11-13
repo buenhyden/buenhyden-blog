@@ -77,6 +77,16 @@ main:
         className: text-primary-emphasis
     weight: 8
     url: "/data"
+  - identifier: statistics
+    name: Statistics
+    params:
+      header: Statistics
+      icon:
+        vendor: bs
+        name: book
+        className: text-primary-emphasis
+    weight: 9
+    url: "/statistics"
   - identifier: ai
     name: AI
     params:
@@ -85,7 +95,7 @@ main:
         vendor: bs
         name: book
         className: text-primary-emphasis
-    weight: 9
+    weight: 10
     url: "/ai"
   - name: Diary
     params:

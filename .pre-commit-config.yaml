@@ -5,7 +5,7 @@ repos:
       - id: check-json
         stages: [commit]
       - id: pretty-format-json
-        args: [--autofix, --indent=2, --no-ensure-ascii]
+        args: [--autofix, --indent=2, --no-ensure-ascii, --no-sort-keys]
         stages: [commit]
       - id: check-added-large-files
         args: [--maxkb=500000]

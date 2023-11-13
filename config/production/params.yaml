@@ -27,6 +27,7 @@ hb:
         - frontend
         - data
         - dev-ops
+        - statistics
       limit: 5
       date_format: ":date_full"
       icon_name: "bell-fill" # Use anohter Bootstrap icon, e.g. megaphone.
@@ -76,6 +77,7 @@ hb:
         - frontend
         - data
         - dev-ops
+        - statistics
     giscus:
       repo: buenhyden/buenhyden.github.io
       repo_id: R_kgDOKa2JLg

@@ -22,6 +22,7 @@ permalinks:
   frontend: /frontend/:year/:month/:title
   dev-ops: /dev-ops/:year/:month/:title
   data: /data/:year/:month/:title
+  statistics: /statistics/:year/:month/:title
 
 outputs:
   home:
