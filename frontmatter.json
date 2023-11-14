@@ -590,6 +590,12 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Frontend] htmx",
+      "path": "[[workspace]]/content/frontend/htmx",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Frontend] styling",
       "path": "[[workspace]]/content/frontend/styling",
       "excludeSubdir": true,
@@ -622,6 +628,12 @@
     {
       "title": "[Styling] sass",
       "path": "[[workspace]]/content/frontend/styling/sass",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Styling] styled-component",
+      "path": "[[workspace]]/content/frontend/styling/styled-component",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -942,6 +954,7 @@
         "Dev Ops",
         "Frontend",
         "HTML",
+        "HTMX",
         "Infra as Code",
         "Infrastructure Management",
         "Infrastructure as Code",
@@ -958,12 +971,12 @@
         "Search Engine",
         "Software Architecture",
         "Software Design & Architecture",
+        "Statistics",
         "Styling",
         "System Design & Architecture",
         "Tools",
         "Web Browser",
-        "Web Server",
-        "Statistics"
+        "Web Server"
       ]
     }
   ],
@@ -1022,17 +1035,20 @@
             {
               "title": "vendor",
               "name": "vendor",
-              "type": "string"
+              "type": "choice",
+              "choices": ["bs"]
             },
             {
               "title": "name",
               "name": "name",
-              "type": "string"
+              "type": "choice",
+              "choices": ["book"]
             },
             {
               "title": "color",
               "name": "color",
-              "type": "string"
+              "type": "choice",
+              "choices": ["indigo"]
             }
           ]
         },

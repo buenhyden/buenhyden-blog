@@ -1,10 +1,10 @@
 ---
 type: docs
-title: Styling
-date: 2023-10-15T12:46:00+09:00
-description: null
-linkTitle: Styling
-nav_weight: 5
+title: Styled Component
+date: 2023-11-14T01:03:52.829Z
+description: ""
+linkTitle: Styled Component
+nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
@@ -16,10 +16,12 @@ series:
 categories:
   - Frontend
   - Styling
+  - Styled-Component
 tags:
   - Frontend
   - Styling
-lastmod: 2023-11-14T00:59:48.837Z
+  - Styled-component
+lastmod: 2023-11-14T03:42:34.534Z
 ---
 
 ## Reference
