@@ -23,6 +23,7 @@ permalinks:
   dev-ops: /dev-ops/:year/:month/:title
   data: /data/:year/:month/:title
   statistics: /statistics/:year/:month/:title
+  notes: /notes/:year/:month/:title
 
 outputs:
   home:

@@ -16,6 +16,12 @@
   "frontMatter.media.supportedMimeTypes": ["image/*", "video/*", "audio/*"],
   "frontMatter.content.pageFolders": [
     {
+      "title": "[Content] notes",
+      "path": "[[workspace]]/content/notes",
+      "excludeSubdir": true,
+      "contentTypes": ["blog"]
+    },
+    {
       "title": "[Content] AI",
       "path": "[[workspace]]/content/ai",
       "excludeSubdir": true,
@@ -704,6 +710,10 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Javascript] packages",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/packages"
+    },
+    {
       "title": "[JavaScript] syntax",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/syntax",
       "excludeSubdir": true,
@@ -768,6 +778,10 @@
       "path": "[[workspace]]/content/programming/programming-languages/javascript/vuejs/syntax",
       "excludeSubdir": true,
       "contentTypes": ["default"]
+    },
+    {
+      "title": "[Python] packages",
+      "path": "[[workspace]]/content/programming/programming-languages/python/packages"
     },
     {
       "title": "[Python] syntax",
@@ -976,7 +990,8 @@
         "System Design & Architecture",
         "Tools",
         "Web Browser",
-        "Web Server"
+        "Web Server",
+        "study"
       ]
     }
   ],
@@ -1219,136 +1234,93 @@
       ]
     },
     {
+      "name": "blog",
+      "pageBundle": false,
       "fields": [
         {
-          "name": "author",
-          "title": "Author's Name",
-          "type": "string"
-        },
-        {
-          "name": "title",
-          "single": true,
           "title": "Title",
+          "name": "title",
           "type": "string"
         },
         {
-          "description": "Used as the title for this page when included in a list, like the section shortcode.",
-          "name": "linktitle",
-          "single": true,
-          "title": "Link Title",
+          "title": "Description",
+          "name": "description",
           "type": "string"
         },
         {
-          "description": "Displayed when paginated or in a list and as page description",
-          "name": "summary",
-          "title": "Summary",
-          "type": "string"
-        },
-        {
-          "description": "Determines order for pages; lower weight first",
-          "name": "weight",
-          "title": "Weight",
-          "type": "number"
-        },
-        {
-          "default": "{{now}}",
-          "isPublishDate": true,
-          "name": "date",
           "title": "Publishing date",
-          "type": "datetime"
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
         },
         {
-          "name": "preview",
-          "title": "Content preview",
-          "type": "image"
-        },
-        {
+          "title": "Draft",
           "name": "draft",
-          "title": "Is in draft",
           "type": "draft"
         },
         {
-          "description": "These options override site-wide settings for this page. Don't specify a value if you want to inherit the site defaults.",
+          "title": "nav_icon",
+          "name": "nav_icon",
+          "type": "fields",
           "fields": [
             {
-              "description": "Use this setting to specify whether the page title should be rendered as an <h1> element instead of the default <strong> element.",
-              "name": "title_as_heading",
-              "title": "Render Page Title as Heading",
-              "type": "boolean"
+              "title": "vendor",
+              "name": "vendor",
+              "type": "choice",
+              "choices": ["bs"]
             },
             {
-              "fields": [
-                {
-                  "description": "Specifies whether to render the table of contents for the page. This setting overrides the site's display.table_of_contents.render, if set.",
-                  "name": "render",
-                  "title": "Render the Table of Contents",
-                  "type": "boolean"
-                },
-                {
-                  "description": "Specify the minimum heading level to include in the page's table of contents, overriding the site's display.table_of_contents.minimum_level setting. This value only affects the table of contents when use_built_in is set to false.",
-                  "name": "minimum_level",
-                  "title": "Minimum Heading Level",
-                  "type": "number"
-                },
-                {
-                  "description": "Specify the maximum heading level to include in the page's table of contents, overriding the site's display.table_of_contents.maximum_level setting. This value only affects the table of contents when use_built_in is set to false.",
-                  "name": "maximum_level",
-                  "title": "Maximum Heading Level",
-                  "type": "number"
-                },
-                {
-                  "description": "Choose whether to use Hugo's builtin table of contents or generate them with Platen, overriding the site's configuration for this page. This overrides the site's display.table_of_contents.use_built_in setting.",
-                  "name": "use_built_in",
-                  "title": "Use Built-In",
-                  "type": "boolean"
-                },
-                {
-                  "description": "Specify whether the table of contents should render its entries in an ordered list with numerals before each item. By default, the table of contents is rendered in an unordered list without any list markers, only with indents. This value overrides the site's display.table_of_contents.ordered_list setting.",
-                  "name": "ordered_list",
-                  "title": "As Ordered List",
-                  "type": "boolean"
-                }
-              ],
-              "name": "table_of_contents",
-              "title": "Table of Contents Options",
-              "type": "fields"
+              "title": "name",
+              "name": "name",
+              "type": "choice",
+              "choices": ["book"]
             },
             {
-              "name": "enable_comments",
-              "title": "Enable comments",
-              "type": "boolean"
-            },
-            {
-              "name": "exclude_from_search",
-              "title": "Exclude from site search",
-              "type": "boolean"
+              "title": "color",
+              "name": "color",
+              "type": "choice",
+              "choices": ["indigo"]
             }
-          ],
-          "name": "platen",
-          "title": "Platen",
-          "type": "fields"
+          ]
         },
         {
-          "name": "tags",
           "title": "Tags",
+          "name": "tags",
           "type": "tags"
         },
         {
-          "name": "categories",
           "title": "Categories",
+          "name": "categories",
           "type": "categories"
         },
         {
-          "default": "posts",
-          "hidden": true,
-          "name": "type",
+          "title": "Series",
+          "name": "series",
+          "type": "taxonomy",
+          "taxonomyId": "series"
+        },
+        {
           "title": "type",
+          "name": "type",
           "type": "string"
+        },
+        {
+          "title": "featured",
+          "name": "featured",
+          "type": "boolean"
+        },
+        {
+          "title": "noindex",
+          "name": "noindex",
+          "type": "boolean"
+        },
+        {
+          "title": "pinned",
+          "name": "pinned",
+          "type": "boolean"
         }
-      ],
-      "name": "posts",
-      "pageBundle": false,
-      "previewPath": "posts"
+      ]
     }
   ]
 }
