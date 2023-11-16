@@ -23,7 +23,7 @@ tags:
   - GraphQL
   - Network
   - Computer Science
-lastmod: 2023-11-11T15:10:05.786Z
+lastmod: 2023-11-16T09:19:36.854Z
 ---
 
 ![What is GraphQL](/computer-science/what-is-graphql.png#center)
@@ -35,3 +35,5 @@ lastmod: 2023-11-11T15:10:05.786Z
 </p>
 
 ## Reference
+
+[LinkedIn’s GraphQL journey for integrations and partnerships: How we accelerated development by 90%](https://engineering.linkedin.com/blog/2022/linkedin-s-graphql-journey-for-integrations-and-partnerships)

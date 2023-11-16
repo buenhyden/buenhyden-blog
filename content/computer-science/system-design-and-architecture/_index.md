@@ -19,7 +19,7 @@ categories:
 tags:
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-11-12T10:42:44.024Z
+lastmod: 2023-11-16T09:34:45.322Z
 ---
 
 ![System Design Master](/computer-science/system-design-master.webp#center)
@@ -31,3 +31,5 @@ lastmod: 2023-11-12T10:42:44.024Z
 </p>
 
 ## Reference
+
+[The System Design Primer](https://github.com/donnemartin/system-design-primer)

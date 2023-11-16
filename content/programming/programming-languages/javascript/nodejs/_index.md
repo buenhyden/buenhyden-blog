@@ -22,7 +22,7 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-16T07:14:58.147Z
+lastmod: 2023-11-16T09:25:54.749Z
 date: 2023-11-16T01:12:03.510Z
 ---
 
@@ -33,7 +33,8 @@ date: 2023-11-16T01:12:03.510Z
 <p align="center">
 <iframe width="768" height="1024" src="https://roadmap.sh/nodejs?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
+## Tutorial
 ## Reference
 
 [Fixing a Memory Leak in a Production Node.js App](https://kentcdodds.com/blog/fixing-a-memory-leak-in-a-production-node-js-app)
+[Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)

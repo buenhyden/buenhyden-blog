@@ -19,7 +19,7 @@ categories:
 tags:
   - Frontend
   - Design
-lastmod: 2023-11-16T07:36:34.286Z
+lastmod: 2023-11-16T09:52:15.618Z
 ---
 
 ![UI&UX](/frontend/ui-ux.jpg#center)
@@ -33,3 +33,4 @@ lastmod: 2023-11-16T07:36:34.286Z
 [2023 UX/UI Design Trends](https://medium.com/@kirantomake.9/2023-ux-ui-design-trends-e38523604c0b)
 [디자인 시스템](https://story.pxd.co.kr/1434)
 [디자인 패턴들](https://refactoring.guru/ko/design-patterns)
+[Pattens.dev](https://www.patterns.dev/)

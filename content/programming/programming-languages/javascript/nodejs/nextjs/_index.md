@@ -24,10 +24,12 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-16T01:11:44.291Z
+lastmod: 2023-11-16T09:26:05.049Z
 date: 2023-11-16T01:11:42.161Z
 ---
 
 ![Next JS](/programming/next-js.png#center)
+
+## Tutorial
 
 ## Reference

@@ -21,13 +21,18 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-11-16T06:56:06.038Z
+lastmod: 2023-11-16T09:51:10.795Z
 ---
 
 ![CSS](/frontend/css.png#center)
+
+## Tutorial
+
+[차세대 CSS 레이아웃](https://studiomeal.com/archives/197)
 
 ## Reference
 
 [css](https://developer.mozilla.org/ko/docs/Web/CSS)
 [ofcourse CSS](https://ofcourse.kr/css-course/CSS-%EC%9E%85%EB%AC%B8)
 [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
+[CSS in 2022](https://wit.nts-corp.com/2022/02/24/6490)
