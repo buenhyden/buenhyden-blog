@@ -24,7 +24,8 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-12T15:06:23.457Z
+lastmod: 2023-11-16T01:09:24.299Z
+date: 2023-11-16T01:09:23.260Z
 ---
 
 ![Express JS](/programming/express-js.png#center)

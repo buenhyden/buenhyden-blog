@@ -1,8 +1,8 @@
 ---
 type: docs
-title: Vue.js
-description: 웹 애플리케이션의 사용자 인터페이스를 만들기 위해 사용하는 오픈 소스 프로그레시브 자바스크립트 프레임워크
-linkTitle: Vue.js
+title: Angular
+description: ""
+linkTitle: Angular
 nav_weight: 4
 nav_icon:
   vendor: bs
@@ -14,16 +14,16 @@ series:
   - Programming Languages
 categories:
   - Javascript
-  - Programming Language
-  - Vue.js
   - Programming
+  - Programming Language
+  - Angular
 tags:
   - Javascript
-  - Programming Language
-  - Vue.js
   - Programming
-lastmod: 2023-11-16T01:11:34.810Z
-date: 2023-11-16T01:11:32.999Z
+  - Programming Language
+  - Angular
+lastmod: 2023-11-16T07:20:13.042Z
+date: 2023-11-16T07:19:57.057Z
 ---
 
 ![Vue JS](/programming/vue-js.png#center)

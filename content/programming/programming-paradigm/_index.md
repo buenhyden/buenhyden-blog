@@ -1,7 +1,7 @@
 ---
 type: docs
 title: Programming Paradigm
-date: 2023-10-15T12:46:00+09:00
+date: 2023-11-16T01:10:18.964Z
 description: 전체적인 프로그래밍 방식
 linkTitle: Programming Paradigm
 nav_weight: 1
@@ -19,7 +19,7 @@ categories:
 tags:
   - Programming Paradigm
   - Programming
-lastmod: 2023-11-12T14:55:35.686Z
+lastmod: 2023-11-16T06:55:34.309Z
 images:
   - /code_4932.png
 ---
@@ -27,3 +27,5 @@ images:
 ![Programming Paradigm](/programming/prg-paradigms.png#center)
 
 ## Reference
+
+[FP and OOP are close siblings](https://blog.mhashim6.me/fp-and-oop-are-close-siblings/)

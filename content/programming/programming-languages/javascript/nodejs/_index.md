@@ -22,7 +22,8 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-12T15:00:32.490Z
+lastmod: 2023-11-16T07:14:58.147Z
+date: 2023-11-16T01:12:03.510Z
 ---
 
 ![Node JS](/programming/node-js.png#center)
@@ -34,3 +35,5 @@ lastmod: 2023-11-12T15:00:32.490Z
 </p>
 
 ## Reference
+
+[Fixing a Memory Leak in a Production Node.js App](https://kentcdodds.com/blog/fixing-a-memory-leak-in-a-production-node-js-app)

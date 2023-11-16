@@ -24,7 +24,8 @@ tags:
   - Programming Language
   - Syntax
   - Python
-lastmod: 2023-11-14T13:12:19.885Z
+lastmod: 2023-11-16T01:08:52.774Z
+date: 2023-11-16T01:08:50.962Z
 ---
 
 ## Reference

@@ -24,7 +24,8 @@ tags:
   - React
   - Syntax
   - Programming
-lastmod: 2023-11-12T14:59:58.345Z
+lastmod: 2023-11-16T01:12:09.984Z
+date: 2023-11-16T01:12:08.410Z
 ---
 
 ## Reference

@@ -21,7 +21,7 @@ tags:
   - Javascript
   - Programming Language
   - Programming
-lastmod: 2023-11-12T14:58:48.508Z
+lastmod: 2023-11-16T07:26:22.157Z
 ---
 
 ![Javascript](/programming/javascript.jpg#center)
@@ -33,3 +33,7 @@ lastmod: 2023-11-12T14:58:48.508Z
 </p>
 
 ## Reference
+
+[Javascript Memory Management: How to Avoid Common Memory Leaks and Improve Performance](https://itnext.io/javascript-memory-management-how-to-avoid-common-memory-leaks-and-improve-performance-c018dbbca954)
+[Experiments with the JavaScript Garbage Collector](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
+[Concepts behind modern frameworks](https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g)

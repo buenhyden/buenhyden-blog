@@ -1,7 +1,7 @@
 ---
 type: docs
 title: Syntax
-description: Java 문법
+description: Angular 문법
 linkTitle: Syntax
 nav_weight: 1
 nav_icon:
@@ -13,17 +13,19 @@ series:
   - Programming
   - Programming Language
 categories:
-  - Java
+  - Javascript
+  - Programming
   - Programming Language
   - Syntax
-  - Programming
+  - Angular
 tags:
-  - Java
+  - Javascript
+  - Programming
   - Programming Language
   - Syntax
-  - Programming
-lastmod: 2023-11-16T01:09:38.601Z
-date: 2023-11-16T01:09:37.572Z
+  - Angular
+lastmod: 2023-11-16T07:20:41.102Z
+date: 2023-11-16T01:11:53.714Z
 ---
 
 ## Reference

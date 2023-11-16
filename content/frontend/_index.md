@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-11-11T15:59:15.992Z
+lastmod: 2023-11-16T07:23:43.313Z
 ---
 
 ## Web Application
@@ -30,3 +30,6 @@ lastmod: 2023-11-11T15:59:15.992Z
 </p>
 
 ## Reference
+
+[10 Web Development Trends in 2023](https://ykss.netlify.app/translation/10_web_development_trends_in_2023/)
+[fe-news Naver](https://github.com/naver/fe-news/tree/master/issues)

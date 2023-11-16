@@ -24,7 +24,8 @@ tags:
   - Syntax
   - Vue.js
   - Programming
-lastmod: 2023-11-12T14:59:15.036Z
+lastmod: 2023-11-16T01:11:55.449Z
+date: 2023-11-16T01:11:53.714Z
 ---
 
 ## Reference

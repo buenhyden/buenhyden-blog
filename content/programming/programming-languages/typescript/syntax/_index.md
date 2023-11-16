@@ -22,7 +22,8 @@ tags:
   - Syntax
   - Typescript
   - Programming
-lastmod: 2023-11-12T14:57:02.678Z
+lastmod: 2023-11-16T01:10:29.010Z
+date: 2023-11-16T01:10:27.327Z
 ---
 
 ## Reference

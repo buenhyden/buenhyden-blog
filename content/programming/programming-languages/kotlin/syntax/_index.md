@@ -22,7 +22,8 @@ tags:
   - Programming Language
   - Syntax
   - Programming
-lastmod: 2023-11-12T15:07:05.166Z
+lastmod: 2023-11-16T01:09:15.412Z
+date: 2023-11-16T01:09:14.384Z
 ---
 
 ## Reference

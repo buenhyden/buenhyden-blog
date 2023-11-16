@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-11-12T15:08:28.655Z
+lastmod: 2023-11-16T06:56:06.038Z
 ---
 
 ![CSS](/frontend/css.png#center)
@@ -30,3 +30,4 @@ lastmod: 2023-11-12T15:08:28.655Z
 
 [css](https://developer.mozilla.org/ko/docs/Web/CSS)
 [ofcourse CSS](https://ofcourse.kr/css-course/CSS-%EC%9E%85%EB%AC%B8)
+[The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)

@@ -614,6 +614,12 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Frontend] Progressive Web App",
+      "path": "[[workspace]]/content/frontend/pwa",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Design] ui",
       "path": "[[workspace]]/content/frontend/design/ui",
       "excludeSubdir": true,
@@ -711,7 +717,9 @@
     },
     {
       "title": "[Javascript] packages",
-      "path": "[[workspace]]/content/programming/programming-languages/javascript/packages"
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/packages",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
     },
     {
       "title": "[JavaScript] syntax",
@@ -780,8 +788,22 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Javascript] angular",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/angular",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Angular] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/angular/syntax",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Python] packages",
-      "path": "[[workspace]]/content/programming/programming-languages/python/packages"
+      "path": "[[workspace]]/content/programming/programming-languages/python/packages",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
     },
     {
       "title": "[Python] syntax",
@@ -982,6 +1004,7 @@
         "Programming Basics",
         "Programming Language",
         "Programming Paradigm",
+        "Progressive Web App",
         "QA Engineering",
         "Search Engine",
         "Software Architecture",
@@ -1141,9 +1164,10 @@
           "type": "categories"
         },
         {
-          "title": "series",
+          "title": "Series",
           "name": "series",
-          "type": "list"
+          "type": "taxonomy",
+          "taxonomyId": "series"
         },
         {
           "title": "type",
@@ -1156,14 +1180,22 @@
           "type": "boolean"
         },
         {
-          "title": "noindex",
-          "name": "noindex",
-          "type": "boolean"
+          "title": "image",
+          "name": "images",
+          "type": "image",
+          "multiple": true,
+          "isPreviewImage": true
         },
         {
-          "title": "pinned",
-          "name": "pinned",
-          "type": "boolean"
+          "title": "authors",
+          "name": "authors",
+          "type": "choice",
+          "choices": ["Hyunyoun Jo"]
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
         }
       ]
     },
@@ -1335,138 +1367,6 @@
           "type": "string"
         }
       ]
-    },
-    {
-      "fields": [
-        {
-          "name": "author",
-          "title": "Author's Name",
-          "type": "string"
-        },
-        {
-          "name": "title",
-          "single": true,
-          "title": "Title",
-          "type": "string"
-        },
-        {
-          "description": "Used as the title for this page when included in a list, like the section shortcode.",
-          "name": "linktitle",
-          "single": true,
-          "title": "Link Title",
-          "type": "string"
-        },
-        {
-          "description": "Displayed when paginated or in a list and as page description",
-          "name": "summary",
-          "title": "Summary",
-          "type": "string"
-        },
-        {
-          "description": "Determines order for pages; lower weight first",
-          "name": "weight",
-          "title": "Weight",
-          "type": "number"
-        },
-        {
-          "default": "{{now}}",
-          "isPublishDate": true,
-          "name": "date",
-          "title": "Publishing date",
-          "type": "datetime"
-        },
-        {
-          "name": "preview",
-          "title": "Content preview",
-          "type": "image"
-        },
-        {
-          "name": "draft",
-          "title": "Is in draft",
-          "type": "draft"
-        },
-        {
-          "description": "These options override site-wide settings for this page. Don't specify a value if you want to inherit the site defaults.",
-          "fields": [
-            {
-              "description": "Use this setting to specify whether the page title should be rendered as an <h1> element instead of the default <strong> element.",
-              "name": "title_as_heading",
-              "title": "Render Page Title as Heading",
-              "type": "boolean"
-            },
-            {
-              "fields": [
-                {
-                  "description": "Specifies whether to render the table of contents for the page. This setting overrides the site's display.table_of_contents.render, if set.",
-                  "name": "render",
-                  "title": "Render the Table of Contents",
-                  "type": "boolean"
-                },
-                {
-                  "description": "Specify the minimum heading level to include in the page's table of contents, overriding the site's display.table_of_contents.minimum_level setting. This value only affects the table of contents when use_built_in is set to false.",
-                  "name": "minimum_level",
-                  "title": "Minimum Heading Level",
-                  "type": "number"
-                },
-                {
-                  "description": "Specify the maximum heading level to include in the page's table of contents, overriding the site's display.table_of_contents.maximum_level setting. This value only affects the table of contents when use_built_in is set to false.",
-                  "name": "maximum_level",
-                  "title": "Maximum Heading Level",
-                  "type": "number"
-                },
-                {
-                  "description": "Choose whether to use Hugo's builtin table of contents or generate them with Platen, overriding the site's configuration for this page. This overrides the site's display.table_of_contents.use_built_in setting.",
-                  "name": "use_built_in",
-                  "title": "Use Built-In",
-                  "type": "boolean"
-                },
-                {
-                  "description": "Specify whether the table of contents should render its entries in an ordered list with numerals before each item. By default, the table of contents is rendered in an unordered list without any list markers, only with indents. This value overrides the site's display.table_of_contents.ordered_list setting.",
-                  "name": "ordered_list",
-                  "title": "As Ordered List",
-                  "type": "boolean"
-                }
-              ],
-              "name": "table_of_contents",
-              "title": "Table of Contents Options",
-              "type": "fields"
-            },
-            {
-              "name": "enable_comments",
-              "title": "Enable comments",
-              "type": "boolean"
-            },
-            {
-              "name": "exclude_from_search",
-              "title": "Exclude from site search",
-              "type": "boolean"
-            }
-          ],
-          "name": "platen",
-          "title": "Platen",
-          "type": "fields"
-        },
-        {
-          "name": "tags",
-          "title": "Tags",
-          "type": "tags"
-        },
-        {
-          "name": "categories",
-          "title": "Categories",
-          "type": "categories"
-        },
-        {
-          "default": "posts",
-          "hidden": true,
-          "name": "type",
-          "title": "type",
-          "type": "string"
-        }
-      ],
-      "name": "posts",
-      "pageBundle": false,
-      "previewPath": "posts"
     }
   ]
 }

@@ -24,7 +24,8 @@ tags:
   - Spring
   - Syntax
   - Programming
-lastmod: 2023-11-12T15:05:15.521Z
+lastmod: 2023-11-16T01:09:45.090Z
+date: 2023-11-16T01:09:44.062Z
 ---
 
 ## Reference

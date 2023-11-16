@@ -20,7 +20,8 @@ tags:
   - Programming Language
   - Typescript
   - Programming
-lastmod: 2023-11-12T15:02:33.253Z
+lastmod: 2023-11-16T01:10:11.329Z
+date: 2023-11-16T01:10:09.414Z
 ---
 
 ![TypeScript](/programming/typescript.png#center)
