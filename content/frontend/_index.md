@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-11-16T09:23:30.458Z
+lastmod: 2023-11-17T05:01:41.973Z
 ---
 
 ## Web Application
@@ -34,3 +34,4 @@ lastmod: 2023-11-16T09:23:30.458Z
 [10 Web Development Trends in 2023](https://ykss.netlify.app/translation/10_web_development_trends_in_2023/)
 [fe-news Naver](https://github.com/naver/fe-news/tree/master/issues)
 [61 Frontend Web Development Buzz Words](https://tapajyoti-bose.medium.com/61-frontend-web-development-buzz-words-every-developer-should-have-in-their-vocabulary-8054e484875)
+[웹 컴포넌트는 왜 등장했을까?](https://yozm.wishket.com/magazine/detail/2217/)

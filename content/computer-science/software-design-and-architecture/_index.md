@@ -19,7 +19,7 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-12T10:42:38.615Z
+lastmod: 2023-11-17T04:33:15.436Z
 ---
 
 ## Application Architecture
@@ -35,3 +35,4 @@ lastmod: 2023-11-12T10:42:38.615Z
 ## Reference
 
 [리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182?category=941866)
+[소프트웨어 '설계'의 정의는 변해야 한다](https://yozm.wishket.com/magazine/detail/2307/)

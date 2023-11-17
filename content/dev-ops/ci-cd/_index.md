@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - CI/CD
-lastmod: 2023-11-07T16:16:55.664Z
+lastmod: 2023-11-17T05:03:55.966Z
 ---
 
 ![CI & CD2](/dev-ops/ci-cd2.png?width=512px#center)
@@ -31,3 +31,6 @@ lastmod: 2023-11-07T16:16:55.664Z
 - 소프트웨어를 더 빠르게 더 주기적으로 빌드하고 테스트하고 출시하는 것을 목표로 한다
 
 ## Reference
+
+[깃허브 액션으로 CI/CD 구현하기](https://yozm.wishket.com/magazine/detail/2197/)
+[CI/CD 개념과 깃허브 리포지터리 생성하기](https://yozm.wishket.com/magazine/detail/2184/)

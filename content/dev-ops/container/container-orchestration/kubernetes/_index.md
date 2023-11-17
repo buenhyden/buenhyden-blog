@@ -24,7 +24,7 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Kubernetes
-lastmod: 2023-11-12T15:21:37.748Z
+lastmod: 2023-11-17T05:00:36.881Z
 ---
 
 ![Kubernetes](/dev-ops/kubernetes.png#center)
@@ -36,3 +36,5 @@ lastmod: 2023-11-12T15:21:37.748Z
 </p>#
 
 ## Reference
+
+[쿠버네티스(Kubernetes) 네트워크 정리](https://yozm.wishket.com/magazine/detail/2251/)

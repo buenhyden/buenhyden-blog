@@ -19,7 +19,7 @@ categories:
 tags:
   - Data Science
   - Data
-lastmod: 2023-11-12T14:53:57.730Z
+lastmod: 2023-11-17T04:51:42.311Z
 ---
 
 ![Data Science Lifecycle](/data/data-science-lifecycle.png#center)
@@ -31,3 +31,5 @@ lastmod: 2023-11-12T14:53:57.730Z
 </p>
 
 ## Reference
+
+[이쯤에서 다시 정리해본 '빅데이터'란 무엇인가?](https://yozm.wishket.com/magazine/detail/2264/)

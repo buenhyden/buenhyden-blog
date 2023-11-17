@@ -956,6 +956,12 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Software Design & Architecture] software-development-methodology",
+      "path": "[[workspace]]/content/computer-science/software-design-and-architecture/software-development-methodology",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[System Design & Architecture] system-architecture",
       "path": "[[workspace]]/content/computer-science/system-design-and-architecture/system-architecture",
       "excludeSubdir": true,

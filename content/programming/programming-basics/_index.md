@@ -19,7 +19,9 @@ categories:
 tags:
   - Programming Basics
   - Programming
-lastmod: 2023-11-16T01:10:05.065Z
+lastmod: 2023-11-17T05:02:57.488Z
 ---
 
 ## Reference
+
+[좋은 유닛 테스트란 무엇일까?](https://yozm.wishket.com/magazine/detail/2206/)

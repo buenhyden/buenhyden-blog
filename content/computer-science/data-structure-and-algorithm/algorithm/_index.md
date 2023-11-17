@@ -21,9 +21,11 @@ tags:
   - Algorithm
   - Data Structure & Algorithm
   - Computer Science
-lastmod: 2023-11-11T15:59:08.114Z
+lastmod: 2023-11-17T04:50:39.218Z
 ---
 
 ![Data algorithms](/computer-science/Taxonomy-of-the-algorithms.png#center)
 
 ## Reference
+
+[알아두면 유용한 정렬 알고리즘과 시간 복잡도 분석](https://yozm.wishket.com/magazine/detail/2266/)

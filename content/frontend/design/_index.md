@@ -19,7 +19,7 @@ categories:
 tags:
   - Frontend
   - Design
-lastmod: 2023-11-16T09:52:15.618Z
+lastmod: 2023-11-17T04:33:41.665Z
 ---
 
 ![UI&UX](/frontend/ui-ux.jpg#center)
@@ -34,3 +34,5 @@ lastmod: 2023-11-16T09:52:15.618Z
 [디자인 시스템](https://story.pxd.co.kr/1434)
 [디자인 패턴들](https://refactoring.guru/ko/design-patterns)
 [Pattens.dev](https://www.patterns.dev/)
+[디자인 핸드오프에서 지켜야 할 3가지](https://yozm.wishket.com/magazine/detail/2099/)
+[인터랙션 디자인 vs 시각 디자인](https://yozm.wishket.com/magazine/detail/1690/)
