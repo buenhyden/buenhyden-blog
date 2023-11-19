@@ -21,7 +21,9 @@ tags:
   - Application Monitoring
   - Dev Ops
   - Management for Infrastructure
-lastmod: 2023-11-12T15:15:17.701Z
+lastmod: 2023-11-19T12:20:19.460Z
 ---
 
 ## Reference
+
+[트레이싱 관측 도구 Grafana Tempo로 트레이스를 관측해보자](https://nangman14.tistory.com/69)

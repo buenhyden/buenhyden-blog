@@ -21,9 +21,11 @@ tags:
   - Dev Ops
   - CI/CD
   - ArgoCD
-lastmod: 2023-11-19T11:30:55.871Z
+lastmod: 2023-11-19T12:23:32.306Z
 ---
 
 ## Reference
 
 [ArgoCD Official Homepage](https://argo-cd.readthedocs.io/en/stable/)
+[Argo 사용해보기 (1) Argo Project로 CI/CD Pipeline을 구성해보자](https://nangman14.tistory.com/94)
+[Argo 사용해보기 (2) Standalone DEX로 Argo Workflow에서 SSO 구현하기](https://nangman14.tistory.com/95)

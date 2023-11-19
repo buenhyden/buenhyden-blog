@@ -21,7 +21,12 @@ tags:
   - Dev Ops
   - Log Management
   - Management for Infrastructure
-lastmod: 2023-11-12T15:11:27.474Z
+lastmod: 2023-11-19T12:21:39.557Z
 ---
 
 ## Reference
+
+[Elasticsearch에 fluentd를 얹은 EFK stack 구축하기(with kubernetes)](https://nangman14.tistory.com/68)
+[GKE Prometheus, Loki, Grafana로 Monitoring dashboard 구성하기(1)](https://nangman14.tistory.com/57)
+[GKE Prometheus, Loki, Grafana로 Monitoring dashboard 구성하기(2)](https://nangman14.tistory.com/58)
+[GKE Prometheus, Loki, Grafana로 Monitoring dashboard 구성하기(3)](https://nangman14.tistory.com/59)
