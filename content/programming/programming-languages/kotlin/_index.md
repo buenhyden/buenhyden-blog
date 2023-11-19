@@ -21,8 +21,10 @@ tags:
   - Kotlin
   - Programming Language
   - Programming
-lastmod: 2023-11-12T14:57:43.199Z
+lastmod: 2023-11-19T11:49:41.917Z
 date: 2023-11-11T14:03:12.053Z
 ---
 
 ## Reference
+
+[Kotlin Official Homepage](https://kotlinlang.org/)

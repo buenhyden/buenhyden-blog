@@ -21,7 +21,7 @@ tags:
   - Algorithm
   - Data Structure & Algorithm
   - Computer Science
-lastmod: 2023-11-17T04:50:39.218Z
+lastmod: 2023-11-19T11:27:17.558Z
 ---
 
 ![Data algorithms](/computer-science/Taxonomy-of-the-algorithms.png#center)

@@ -24,7 +24,7 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-17T05:02:21.478Z
+lastmod: 2023-11-19T11:51:10.745Z
 date: 2023-11-16T01:11:42.161Z
 ---
 
@@ -33,3 +33,5 @@ date: 2023-11-16T01:11:42.161Z
 ## Tutorial
 
 ## Reference
+
+[NextJS Official Homepage](https://nextjs.org/)

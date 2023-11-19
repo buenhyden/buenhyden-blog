@@ -28,7 +28,9 @@ tags:
   - Log Management
   - tools
   - Management for Infrastructure
-lastmod: 2023-11-12T15:12:52.141Z
+lastmod: 2023-11-19T11:39:55.110Z
 ---
 
 ## Reference
+
+[Fluentd Official Homepage](https://www.fluentd.org/)

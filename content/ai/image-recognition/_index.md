@@ -18,8 +18,11 @@ categories:
 tags:
   - AI
   - Image Recognition
-lastmod: 2023-11-12T03:57:30.571Z
+lastmod: 2023-11-19T01:48:50.529Z
 draft: false
 ---
 
 ## Reference
+
+[AI 서비스의 모든 것 1편: 이미지 인식 AI](https://yozm.wishket.com/magazine/detail/578/)
+[AI 서비스의 모든 것 2편: 이미지 생성 AI](https://yozm.wishket.com/magazine/detail/611/)

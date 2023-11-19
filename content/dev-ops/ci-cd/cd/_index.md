@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Deployment(CD)
-lastmod: 2023-11-12T15:22:58.962Z
+lastmod: 2023-11-19T11:30:29.793Z
 ---
 
 ![CD](/dev-ops/cd.png?width=512px#center)
@@ -36,3 +36,4 @@ lastmod: 2023-11-12T15:22:58.962Z
 ## Reference
 
 [SH's Devlog](https://seosh817.tistory.com/104)
+[GitHub Actions로 App 자동으로 배포하기](https://yozm.wishket.com/magazine/detail/1666/)

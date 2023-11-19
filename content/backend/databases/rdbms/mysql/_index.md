@@ -22,7 +22,7 @@ tags:
   - Database
   - RDBMS
   - MySQL
-lastmod: 2023-11-17T04:52:04.948Z
+lastmod: 2023-11-19T11:26:10.076Z
 ---
 
 ![MySQL DB](/backend/mysql.png#center)
@@ -35,4 +35,6 @@ lastmod: 2023-11-17T04:52:04.948Z
 
 ## Reference
 
+[MySQL Official Homepage](https://www.mysql.com/)
 [MySQL 쿼리 튜닝의 첫걸음](https://yozm.wishket.com/magazine/detail/2260/)
+[SQL 가독성을 높이는 다섯 가지 사소한 습관](https://yozm.wishket.com/magazine/detail/1519/)

@@ -21,9 +21,12 @@ tags:
   - Linux
   - Operating System
   - Computer Science
-lastmod: 2023-11-11T15:57:58.982Z
+lastmod: 2023-11-19T11:29:27.378Z
 ---
 
 ![Linux](/computer-science/linux.webp#center)
 
 ## Reference
+
+[Linux Official Homepage](https://www.linux.org/)
+[[여기보기] etc 디렉토리에 있는 소중한 아이들](https://yozm.wishket.com/magazine/detail/1679/)

@@ -20,7 +20,7 @@ tags:
   - Programming Language
   - Typescript
   - Programming
-lastmod: 2023-11-16T09:30:48.201Z
+lastmod: 2023-11-18T15:51:28.237Z
 date: 2023-11-16T01:10:09.414Z
 ---
 
@@ -36,3 +36,4 @@ date: 2023-11-16T01:10:09.414Z
 
 [What Are K, T, and V in TypeScript Generics?](https://medium.com/frontend-canteen/what-are-k-t-and-v-in-typescript-generics-9fabe1d0f0f3)
 [A JavaScript V8 engine walkthrough](https://garden.bradwoods.io/experiments/js-engine/basic)
+[TypeScript는 어떻게 공부해야 하나요?](https://yozm.wishket.com/magazine/detail/1376/)

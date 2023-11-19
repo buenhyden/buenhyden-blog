@@ -19,9 +19,11 @@ categories:
 tags:
   - Dev Ops
   - Infrastructure as Code
-lastmod: 2023-11-11T16:01:55.217Z
+lastmod: 2023-11-19T07:24:59.660Z
 ---
 
 ![Infrastructure as Code](/dev-ops/infra-as-code.png#center)
 
 ## Reference
+
+[Ansible과 Rundeck을 활용한 서버 작업 자동화 및 권한 제어](https://techblog.lycorp.co.jp/ko/improve-operation-environment-with-rundeck)

@@ -19,9 +19,11 @@ categories:
 tags:
   - Backend
   - Web Server
-lastmod: 2023-11-11T16:02:37.076Z
+lastmod: 2023-11-18T15:23:04.712Z
 ---
 
 ![Web Server](/backend/web-server.webp#center)
 
 ## Reference
+
+[웹 서버와 WAS(Web Application Server)](https://yozm.wishket.com/magazine/detail/1780/)

@@ -26,7 +26,9 @@ tags:
   - Configuration Management
   - Chef
   - tools
-lastmod: 2023-11-12T15:18:50.772Z
+lastmod: 2023-11-19T11:35:35.251Z
 ---
 
 ## Reference
+
+[Chef Official Homepage](https://www.chef.io/)

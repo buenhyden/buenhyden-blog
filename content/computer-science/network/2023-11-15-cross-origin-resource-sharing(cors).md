@@ -4,7 +4,7 @@ title: Cross Origin Resource Sharing(CORS)
 description: 추가 HTTP 헤더를 사용하여, 한 출처에서 실행 중인 웹 애플리케이션이 다른 출처의 선택한 자원에 접근할 수 있는 권한을 부여하도록 브라우저에 알려주는 체제
 linkTitle: Cross Origin Resource Sharing(CORS)
 date: 2023-11-15T14:17:29.812Z
-lastmod: 2023-11-15T14:48:26.488Z
+lastmod: 2023-11-18T16:00:06.246Z
 draft: in progress
 nav_weight: 7
 nav_icon:
@@ -70,3 +70,4 @@ authors: ""
 
 [MDN WEB DOCS](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS)
 [simplelocalize.io](https://simplelocalize.io/blog/posts/what-is-cors/)
+[CORS는 왜 이렇게 우리를 힘들게 하는 걸까?](https://yozm.wishket.com/magazine/detail/1225/)

@@ -19,7 +19,7 @@ categories:
 tags:
   - Frontend
   - Progressive Web App
-lastmod: 2023-11-16T07:11:41.427Z
+lastmod: 2023-11-19T01:51:02.815Z
 draft: in progress
 ---
 
@@ -27,3 +27,5 @@ draft: in progress
 
 [Progressive Web Apps(PWA) for Beginners - Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY#fef)
 [Introducing react.dev](https://react.dev/blog/2023/03/16/introducing-react-dev)
+[프론트엔드 개발자가 PWA 알아야 하는 이유](https://yozm.wishket.com/magazine/detail/1969/)
+[프로그레시브 웹 앱(PWA)이란 무엇이며, 왜 필요한가?](https://yozm.wishket.com/magazine/detail/537/)

@@ -18,7 +18,9 @@ categories:
 tags:
   - AI
   - Speech Recognition
-lastmod: 2023-11-12T14:41:44.567Z
+lastmod: 2023-11-19T01:38:08.480Z
 ---
 
 ## Reference
+
+[AI 서비스의 모든 것 3편: 음성 인식 AI](https://yozm.wishket.com/magazine/detail/743/)

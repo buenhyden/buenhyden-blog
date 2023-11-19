@@ -26,7 +26,9 @@ tags:
   - Configuration Management
   - Puppet
   - tools
-lastmod: 2023-11-12T15:18:06.851Z
+lastmod: 2023-11-19T11:35:58.040Z
 ---
 
 ## Reference
+
+[Puppet Official Homepage](https://www.puppet.com/)

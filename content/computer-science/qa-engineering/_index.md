@@ -19,7 +19,7 @@ categories:
 tags:
   - QA Engineering
   - Computer Science
-lastmod: 2023-11-12T10:42:31.390Z
+lastmod: 2023-11-19T11:29:39.852Z
 ---
 
 ## Quality Assurance (QA)
@@ -41,3 +41,9 @@ lastmod: 2023-11-12T10:42:31.390Z
 </p>
 
 ## Reference
+
+[초기 스타트업의 첫 QA프로세스 구축기](https://yozm.wishket.com/magazine/detail/920/)
+[2021년 테스트 자동화 트렌드 리포트(상)](https://yozm.wishket.com/magazine/detail/687/)
+[2021년 테스트 자동화 트렌드 리포트(하)](https://yozm.wishket.com/magazine/detail/688/)
+['사용자 테스트'를 빠르게 도와줄 인기 소프트웨어 7가지](https://yozm.wishket.com/magazine/detail/206/)
+[서버의 성능 테스트 [필요성, 개요, 간단한 구현]](https://velog.io/@imkkuk/%EC%84%9C%EB%B2%84%EC%9D%98-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%84%EC%9A%94%EC%84%B1-%EA%B0%9C%EC%9A%94-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B5%AC%ED%98%84)

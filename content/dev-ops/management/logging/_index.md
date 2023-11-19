@@ -21,9 +21,11 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Logging
-lastmod: 2023-11-12T15:11:08.674Z
+lastmod: 2023-11-18T15:52:25.449Z
 ---
 
 ![Data Logging](/dev-ops/data-logging.png#center)
 
 ## Reference
+
+[VPC Flow logs를 네트워크 문제 분석에 활용할 수 있을까?](https://yozm.wishket.com/magazine/detail/1418/)

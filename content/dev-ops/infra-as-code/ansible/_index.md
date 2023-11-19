@@ -26,7 +26,9 @@ tags:
   - Configuration Management
   - Ansible
   - tools
-lastmod: 2023-11-12T15:19:10.314Z
+lastmod: 2023-11-19T11:34:53.319Z
 ---
 
 ## Reference
+
+[Ansible Official Homepage](https://www.ansible.com/)

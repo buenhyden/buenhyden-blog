@@ -14,12 +14,16 @@ series:
   - Frontend
   - Design
 categories:
-  - Frontend
   - Design
+  - Frontend
+  - UX
+  - UI
 tags:
-  - Frontend
   - Design
-lastmod: 2023-11-17T04:33:41.665Z
+  - Frontend
+  - UI
+  - UX
+lastmod: 2023-11-19T06:50:00.415Z
 ---
 
 ![UI&UX](/frontend/ui-ux.jpg#center)
@@ -36,3 +40,5 @@ lastmod: 2023-11-17T04:33:41.665Z
 [Pattens.dev](https://www.patterns.dev/)
 [디자인 핸드오프에서 지켜야 할 3가지](https://yozm.wishket.com/magazine/detail/2099/)
 [인터랙션 디자인 vs 시각 디자인](https://yozm.wishket.com/magazine/detail/1690/)
+[UX/UI 디자인이란? | 정의, 차이점, 사례, UX 디자인 프로세스](https://www.codestates.com/blog/content/uxui-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4%EB%9E%80)
+[UX/UI 기획자를 위한 UX/UI 용어 총정리](https://www.codestates.com/blog/content/uxui-%EC%9A%A9%EC%96%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC)

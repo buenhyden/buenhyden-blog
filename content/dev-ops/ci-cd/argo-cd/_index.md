@@ -21,5 +21,9 @@ tags:
   - Dev Ops
   - CI/CD
   - ArgoCD
-lastmod: 2023-11-12T15:22:51.378Z
+lastmod: 2023-11-19T11:30:55.871Z
 ---
+
+## Reference
+
+[ArgoCD Official Homepage](https://argo-cd.readthedocs.io/en/stable/)

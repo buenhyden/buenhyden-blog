@@ -25,7 +25,9 @@ tags:
   - Code Editor
   - VisualStudio Code
   - vs code
-lastmod: 2023-11-12T15:22:16.518Z
+lastmod: 2023-11-19T11:31:46.426Z
 ---
 
 ## Reference
+
+[Visual Studio Code Official Homepage](https://code.visualstudio.com/)

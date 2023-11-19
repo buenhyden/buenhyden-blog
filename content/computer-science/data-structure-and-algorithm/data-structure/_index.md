@@ -20,7 +20,7 @@ tags:
   - Data Structure
   - Data Structure & Algorithm
   - Computer Science
-lastmod: 2023-11-11T15:59:09.932Z
+lastmod: 2023-11-19T11:27:21.681Z
 ---
 
 ![Data Structures](/computer-science/data-structures.png#center)

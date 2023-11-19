@@ -29,7 +29,10 @@ tags:
   - Service Mesh
   - Istio
   - tools
-lastmod: 2023-11-12T15:21:09.947Z
+lastmod: 2023-11-19T11:32:56.901Z
 ---
 
 ## Reference
+
+[Istio Official Homepage](https://istio.io/)
+[이스티오(Istio)의 엠비언트 메시 소개](https://yozm.wishket.com/magazine/detail/2048/)

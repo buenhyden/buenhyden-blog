@@ -21,7 +21,7 @@ tags:
   - Go
   - Programming Language
   - Programming
-lastmod: 2023-11-12T15:04:48.218Z
+lastmod: 2023-11-19T11:46:34.331Z
 ---
 
 ![Go Lang](/programming/go-lang.png#center)
@@ -33,3 +33,5 @@ lastmod: 2023-11-12T15:04:48.218Z
 </p>
 
 ## Reference
+
+[Go Lang Official Homepage](https://go.dev/)

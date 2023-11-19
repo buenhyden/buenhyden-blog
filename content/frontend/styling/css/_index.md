@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-11-16T09:51:10.795Z
+lastmod: 2023-11-19T06:53:11.584Z
 ---
 
 ![CSS](/frontend/css.png#center)
@@ -36,3 +36,6 @@ lastmod: 2023-11-16T09:51:10.795Z
 [ofcourse CSS](https://ofcourse.kr/css-course/CSS-%EC%9E%85%EB%AC%B8)
 [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
 [CSS in 2022](https://wit.nts-corp.com/2022/02/24/6490)
+[역사로 알아보는 CSS가 어려워진 이유: 1. 웹 문서에서 웹 어플리케이션으로](https://yozm.wishket.com/magazine/detail/1319/)
+[역사로 알아보는 CSS가 어려워진 이유: 2. CSS in JS와 Atomic CSS](https://yozm.wishket.com/magazine/detail/1326/)
+[HTML, CSS 기초 입문부터 HTML CSS 적용 방법, 예제까지](https://www.codestates.com/blog/content/html-css-%EA%B8%B0%EC%B4%88)

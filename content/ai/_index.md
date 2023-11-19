@@ -16,8 +16,28 @@ categories:
   - AI
 tags:
   - AI
-lastmod: 2023-11-12T03:58:59.822Z
+lastmod: 2023-11-19T02:11:07.557Z
 draft: false
 ---
 
 ![What is Artificial Intelligence](/ai/what-is-artificial-intelligence-infographic.width-880.webp#center)
+
+## Reference
+
+[[쉽게 배우는 AI] 1. 머신러닝이란?](https://yozm.wishket.com/magazine/detail/1985/)
+[[쉽게 배우는 AI] 2. 머신러닝이 모델이란?](https://yozm.wishket.com/magazine/detail/1997/)
+[[쉽게 배우는 AI] 3. 데이터 산업과 직업](https://yozm.wishket.com/magazine/detail/2004/)
+[[쉽게 배우는 AI] 4. 표와 데이터 셋](https://yozm.wishket.com/magazine/detail/2017/)
+[[쉽게 배우는 AI] 5. 독립변수와 종속변수란?](https://yozm.wishket.com/magazine/detail/2031/)
+[[쉽게 배우는 AI] 6. 상관관계와 인과관계](https://yozm.wishket.com/magazine/detail/2043/)
+[[쉽게 배우는 AI] 7. 머신러닝의 분류](https://yozm.wishket.com/magazine/detail/2052/)
+[[쉽게 배우는 AI] 8. 지도학습이란?](https://yozm.wishket.com/magazine/detail/2061/)
+[[쉽게 배우는 AI] 9. 회귀 vs 분류](https://yozm.wishket.com/magazine/detail/2073/)
+[[쉽게 배우는 AI] 10. 비지도 학습](https://yozm.wishket.com/magazine/detail/2086/)
+[[쉽게 배우는 AI] 11. 연관 규칙 학습이란?](https://yozm.wishket.com/magazine/detail/2098/)
+[[쉽게 배우는 AI] 12. 비지도 학습의 목적](https://yozm.wishket.com/magazine/detail/2111/)
+[[쉽게 배우는 AI] 13. 강화학습이란?](https://yozm.wishket.com/magazine/detail/2123/)
+[[쉽게 배우는 AI] 14. 수업을 마치며](https://yozm.wishket.com/magazine/detail/2139/)
+[AI 공부할 때 참고하면 좋은 내용들](https://yozm.wishket.com/magazine/detail/993/)
+[음성 AI의 진화를 이끌어 낸 딥러닝](https://yozm.wishket.com/magazine/detail/486/)
+['딥 러닝'은 어떻게 작동할까? 딥러닝에 대한 모든 것](https://yozm.wishket.com/magazine/detail/170/)

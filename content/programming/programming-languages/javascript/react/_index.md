@@ -22,7 +22,7 @@ tags:
   - Programming Language
   - React
   - Programming
-lastmod: 2023-11-17T05:01:03.895Z
+lastmod: 2023-11-19T11:49:00.488Z
 date: 2023-11-16T01:12:15.654Z
 ---
 
@@ -40,6 +40,7 @@ date: 2023-11-16T01:12:15.654Z
 
 ## Reference
 
+[React Official Homepage](https://react.dev/)
 [Github React Bits](https://github.com/vasanthk/react-bits)
 [Github React Bits(한글)](https://github.com/rayleighko/react-bits-ko)
 [Best Practices and Design Patterns in React.js](https://medium.com/@obrm770/best-practices-and-design-patterns-in-react-js-for-high-quality-applications-6b203be747fb)

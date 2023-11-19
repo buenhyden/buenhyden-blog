@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Integration(CI)
-lastmod: 2023-11-12T15:23:07.181Z
+lastmod: 2023-11-18T15:40:32.268Z
 ---
 
 ![CI](/dev-ops/ci.png?width=512px#center)
@@ -34,3 +34,4 @@ lastmod: 2023-11-12T15:23:07.181Z
 
 [AWS Amazone CI](https://aws.amazon.com/ko/devops/continuous-integration/)
 [SH's Devlog](https://seosh817.tistory.com/104)
+[깃옵스(GitOps)를 여행하려는 입문자를 위한 안내서](https://yozm.wishket.com/magazine/detail/2010/)

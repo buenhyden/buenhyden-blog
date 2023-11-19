@@ -21,7 +21,7 @@ tags:
   - Software Architecture
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-11T15:58:57.582Z
+lastmod: 2023-11-19T11:29:47.824Z
 ---
 
 ![Software Architecture](/computer-science/software-architecture.webp#center)

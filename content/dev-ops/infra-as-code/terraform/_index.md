@@ -26,7 +26,9 @@ tags:
   - Infrastructure Provisioning
   - Terraform
   - tools
-lastmod: 2023-11-12T15:17:50.160Z
+lastmod: 2023-11-19T11:36:12.086Z
 ---
 
 ## Reference
+
+[Terraform Official Homepage](https://www.terraform.io/)

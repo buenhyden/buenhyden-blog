@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Design
   - UX
-lastmod: 2023-11-12T15:09:09.839Z
+lastmod: 2023-11-18T16:05:26.730Z
 ---
 
 - UX : USER EXPERIENCE
@@ -36,3 +36,5 @@ lastmod: 2023-11-12T15:09:09.839Z
 </p>
 
 ## Reference
+
+[AI 기술과 커뮤니케이션하는 UX는 어떻게 구현하는가?](https://yozm.wishket.com/magazine/detail/941/)

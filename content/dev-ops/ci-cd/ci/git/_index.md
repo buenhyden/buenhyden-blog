@@ -25,7 +25,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-11-12T15:24:03.350Z
+lastmod: 2023-11-18T15:20:37.352Z
 ---
 
 ## Git Version 관리
@@ -35,3 +35,4 @@ lastmod: 2023-11-12T15:24:03.350Z
 ## Reference
 
 [Git](https://git-scm.com/book/ko/v2)
+[Git 200% 활용하기](https://yozm.wishket.com/magazine/detail/1743/)

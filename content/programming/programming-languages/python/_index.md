@@ -20,7 +20,7 @@ tags:
   - Programming Language
   - Python
   - Programming
-lastmod: 2023-11-12T14:57:14.948Z
+lastmod: 2023-11-19T11:49:57.296Z
 ---
 
 ![Python](/programming/python.png#center)
@@ -32,3 +32,5 @@ lastmod: 2023-11-12T14:57:14.948Z
 </p>
 
 ## Reference
+
+[Python Official Homepage](https://www.python.org/)

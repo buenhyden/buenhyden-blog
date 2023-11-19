@@ -19,7 +19,7 @@ categories:
 tags:
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-11-16T09:34:45.322Z
+lastmod: 2023-11-19T11:30:00.081Z
 ---
 
 ![System Design Master](/computer-science/system-design-master.webp#center)
@@ -33,3 +33,10 @@ lastmod: 2023-11-16T09:34:45.322Z
 ## Reference
 
 [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+[모든 개발자가 시스템 디자인을 배워야 하는 이유](https://yozm.wishket.com/magazine/detail/1745/)
+[모놀리식 vs 마이크로 서비스, 어떤 아키텍처를 선택할까?](https://yozm.wishket.com/magazine/detail/1813/)
+[클라우드 컴퓨팅이란? 클라우드 컴퓨팅에 관한 모든 것](https://yozm.wishket.com/magazine/detail/136/)
+['클라우드 컴퓨팅'에 대한 완벽 가이드](https://yozm.wishket.com/magazine/detail/341/)
+[인프라 운영을 쉽게 만들어 주는, '서버리스 컴퓨팅'이란?](https://yozm.wishket.com/magazine/detail/154/)
+[투자자를 부르는 SaaS 지표 5가지](https://yozm.wishket.com/magazine/detail/2273/)
+[클라우드 컴퓨팅이란?ㅣSaaS 정의, 장점, 서비스 유형](https://www.codestates.com/blog/content/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85)

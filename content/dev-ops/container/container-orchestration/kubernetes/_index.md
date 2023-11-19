@@ -24,7 +24,7 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Kubernetes
-lastmod: 2023-11-17T05:00:36.881Z
+lastmod: 2023-11-19T11:32:11.669Z
 ---
 
 ![Kubernetes](/dev-ops/kubernetes.png#center)
@@ -37,4 +37,10 @@ lastmod: 2023-11-17T05:00:36.881Z
 
 ## Reference
 
+[Kubernetes Official Homepage](https://kubernetes.io/)
 [쿠버네티스(Kubernetes) 네트워크 정리](https://yozm.wishket.com/magazine/detail/2251/)
+[쿠버네티스 워크로드와 통신하는 방법: 1. 서비스](https://yozm.wishket.com/magazine/detail/1909/)
+[쿠버네티스 워크로드와 통신하는 방법: 2. 인그레스](https://yozm.wishket.com/magazine/detail/1916/)
+[쿠버네티스 환경의 대표적 보안 기능 3가지](https://yozm.wishket.com/magazine/detail/1953/)
+[2023년 쿠버네티스 표준 아키텍처](https://yozm.wishket.com/magazine/detail/1998/)
+[쿠버네티스 개념과 구성요소ㅣ도커, 컨테이너 오케스트레이션](https://www.codestates.com/blog/content/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4)

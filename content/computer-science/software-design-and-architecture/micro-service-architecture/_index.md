@@ -25,7 +25,7 @@ tags:
   - Software Architecture
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-11T15:58:59.122Z
+lastmod: 2023-11-19T11:29:43.864Z
 ---
 
 ![Monolithic](/computer-science/monolithic-to-msa.webp)

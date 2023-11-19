@@ -18,8 +18,10 @@ categories:
 tags:
   - Frontend
   - HTMX
-lastmod: 2023-11-14T00:59:44.374Z
+lastmod: 2023-11-19T11:42:48.280Z
 authors: Hyunyoun Jo
 ---
 
 ## Reference
+
+[HTMX Official Homepage](https://htmx.org/)

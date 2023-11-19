@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - Management for Infrastructure
-lastmod: 2023-11-11T16:00:47.842Z
+lastmod: 2023-11-19T07:10:25.199Z
 ---
 
 ## Components of Infrastructure Management
@@ -29,3 +29,5 @@ lastmod: 2023-11-11T16:00:47.842Z
 ## Responsibilities of an Infrastructure Manager
 
 ![Responsibilities of an Infrastructure Manager](/dev-ops/responsibilities-of-an-infrastructure-manager.png?width=512px#center)
+
+## Reference

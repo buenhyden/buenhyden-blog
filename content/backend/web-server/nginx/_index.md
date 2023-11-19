@@ -24,7 +24,10 @@ tags:
   - nginx
   - Web Server
   - tools
-lastmod: 2023-11-12T14:51:03.931Z
+lastmod: 2023-11-19T11:27:09.313Z
 ---
 
 ## Reference
+
+[Nginx Official Homepage](https://nginx.org/en/)
+[CORS on Nginx](https://enable-cors.org/server_nginx.html)

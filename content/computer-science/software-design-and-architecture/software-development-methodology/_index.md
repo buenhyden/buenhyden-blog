@@ -21,7 +21,7 @@ tags:
   - Computer Science
   - Software Design & Architecture
   - Software Development Methodology
-lastmod: 2023-11-17T04:34:23.283Z
+lastmod: 2023-11-19T11:29:51.250Z
 ---
 
 ## Roadmap
@@ -29,3 +29,4 @@ lastmod: 2023-11-17T04:34:23.283Z
 ## Reference
 
 [TDD, 실패하는 테스트부터 작성해 얻는 것 5가지](https://yozm.wishket.com/magazine/detail/2308/)
+[효율적인 JUnit 사용 방법과 유용한 팁](https://yozm.wishket.com/magazine/detail/1748/)

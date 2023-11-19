@@ -22,7 +22,7 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-17T05:02:25.021Z
+lastmod: 2023-11-19T11:48:34.051Z
 date: 2023-11-16T01:12:03.510Z
 ---
 
@@ -38,6 +38,8 @@ date: 2023-11-16T01:12:03.510Z
 
 ## Reference
 
+[NodeJS Official Homepage](https://nodejs.org/en)
 [Fixing a Memory Leak in a Production Node.js App](https://kentcdodds.com/blog/fixing-a-memory-leak-in-a-production-node-js-app)
 [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)
 [Node.js의 새로운 파트너 NestJS는 왜 탄생했을까?](https://yozm.wishket.com/magazine/detail/2215/)
+[웹 서비스를 위한 Node.js 병렬처리 구현](https://yozm.wishket.com/magazine/detail/1556/)

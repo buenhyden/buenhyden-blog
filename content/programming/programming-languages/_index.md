@@ -19,9 +19,11 @@ categories:
 tags:
   - Programming Language
   - Programming
-lastmod: 2023-11-12T14:56:26.793Z
+lastmod: 2023-11-19T01:35:32.385Z
 ---
 
 ![Programming Language](/programming/programming-language.webp#center)
 
 ## Reference
+
+[Java와 Javascript의 차이점은?](https://yozm.wishket.com/magazine/detail/4/)

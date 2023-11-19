@@ -1,9 +1,9 @@
 ---
 type: docs
-title: MongoDB
-date: 2023-10-15T12:46:00+09:00
-description: NoSQL 데이터베이스중 하나로 크로스 플랫폼 도큐먼트 지향 데이터베이스 시스템
-linkTitle: MongoDB
+title: InfluxDB
+date: 2023-11-19T11:11:13.822Z
+description: ""
+linkTitle: InfluxDB
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -16,16 +16,16 @@ series:
 categories:
   - Backend
   - Database
-  - NoSQL
   - Document DBs
-  - MongoDB
+  - NoSQL
+  - InfluxDB
 tags:
   - Backend
   - Database
-  - NoSQL
   - Document DBs
-  - MongoDB
-lastmod: 2023-11-12T14:44:43.935Z
+  - NoSQL
+  - InfluxDB
+lastmod: 2023-11-19T11:24:40.966Z
 ---
 
 ![Mongo DB](/backend/mongodb.png#center)
@@ -37,3 +37,5 @@ lastmod: 2023-11-12T14:44:43.935Z
 </p>
 
 ## Reference
+
+[MongoDB Official Homepage](https://www.mongodb.com/ko-kr)

@@ -19,7 +19,7 @@ categories:
 tags:
   - Operating System
   - Computer Science
-lastmod: 2023-11-12T10:42:14.260Z
+lastmod: 2023-11-19T11:29:36.320Z
 ---
 
 ![OS](/computer-science/os.png#center)
@@ -29,3 +29,5 @@ lastmod: 2023-11-12T10:42:14.260Z
 ![Operating System Components](/computer-science/os-components.png#center)
 
 ## Reference
+
+[레스토랑에 비유해서 알아보는 운영체제](https://yozm.wishket.com/magazine/detail/1269/)

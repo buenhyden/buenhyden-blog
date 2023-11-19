@@ -23,9 +23,11 @@ tags:
   - Database
   - RDBMS
   - PostgreSQL
-lastmod: 2023-11-12T14:46:04.310Z
+lastmod: 2023-11-19T11:26:43.075Z
 images:
   - /code_4932.png
 ---
 
 ## Reference
+
+[PostgreSQL Official Homepgae](https://www.postgresql.org/)

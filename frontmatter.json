@@ -19,7 +19,7 @@
       "title": "[Content] notes",
       "path": "[[workspace]]/content/notes",
       "excludeSubdir": true,
-      "contentTypes": ["blog"]
+      "contentTypes": ["notes"]
     },
     {
       "title": "[Content] AI",
@@ -116,6 +116,12 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[AI] Natural-Language-Processing",
+      "path": "[[workspace]]/content/ai/Natural-Language-Processing",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Backend] databases",
       "path": "[[workspace]]/content/backend/databases",
       "excludeSubdir": true,
@@ -136,6 +142,18 @@
     {
       "title": "[NoSQL] column-dbs",
       "path": "[[workspace]]/content/backend/databases/nosql/column-dbs",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Column DB] Cassandra",
+      "path": "[[workspace]]/content/backend/databases/nosql/column-dbs/Cassandra",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Column DB] HBase",
+      "path": "[[workspace]]/content/backend/databases/nosql/column-dbs/HBase",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -166,6 +184,12 @@
     {
       "title": "[NoSQL] time-series",
       "path": "[[workspace]]/content/backend/databases/nosql/time-series",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Time Series DB] influx-db",
+      "path": "[[workspace]]/content/backend/databases/nosql/time-series/influx-db",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -688,6 +712,12 @@
     {
       "title": "[Programming Languages] typescript",
       "path": "[[workspace]]/content/programming/programming-languages/typescript",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Typescript] JestJS",
+      "path": "[[workspace]]/content/programming/programming-languages/typescript/JestJS",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -1374,5 +1404,6 @@
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.dashboard.openOnStart": true
 }

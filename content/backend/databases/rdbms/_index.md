@@ -21,9 +21,11 @@ tags:
   - Backend
   - Database
   - RDBMS
-lastmod: 2023-11-12T14:46:14.919Z
+lastmod: 2023-11-19T01:42:48.460Z
 ---
 
 ![RDBMS](/backend/rdbms.png#center)
 
 ## Reference
+
+[관계형 데이터베이스(RDB)란 무엇인가요?](https://yozm.wishket.com/magazine/detail/675/)

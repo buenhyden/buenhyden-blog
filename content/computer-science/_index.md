@@ -16,7 +16,7 @@ categories:
   - Computer Science
 tags:
   - Computer Science
-lastmod: 2023-11-12T10:41:43.003Z
+lastmod: 2023-11-19T11:30:03.678Z
 ---
 
 ![Computer Science](/computer-science/computer-science.png#center)
@@ -28,3 +28,7 @@ lastmod: 2023-11-12T10:41:43.003Z
 </p>
 
 ## Reference
+
+[주니어 PM이 알아야 할 서버 기초 상식](https://yozm.wishket.com/magazine/detail/1907/)
+[웹/앱 외주 개발 시 꼭 알아야 하는 IT 용어 - 웹](https://yozm.wishket.com/magazine/detail/379/)
+[비개발자를 위한 IT 용어 : 프레임워크가 뭐죠?](https://yozm.wishket.com/magazine/detail/378/)

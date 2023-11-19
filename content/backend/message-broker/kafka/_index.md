@@ -24,9 +24,17 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-11-12T14:50:12.685Z
+lastmod: 2023-11-19T11:04:15.725Z
 ---
 
 ![Kafka](/backend/kafka.png#center)
 
 ## Reference
+
+[Kafka Official Homepage](https://kafka.apache.org/)
+[Confluent Homepage](https://www.confluent.io/)
+[카프카 생태계 기반의 비즈니스 메트릭 생성하기](https://hyperconnect.github.io/2022/10/14/grafana-with-ksqlDB.html)
+[ksqlDB Deep Dive](https://hyperconnect.github.io/2023/03/20/ksqldb-deepdive.html)
+[[Kafka] 카프카 기본 개념\_1 (브로커, 프로듀서, 컨슈머, 메시지 + 주키퍼)](https://unit-15.tistory.com/135)
+[[Kafka] 카프카 기본 개념\_2 (토픽, 파티션, 세그먼트, 리플리케이션, 리더-팔로워)](https://unit-15.tistory.com/136)
+[[Kafka] 카프카 기본 개념\_3 (소스 커넥트, 싱크 커넥트, 커넥터)](https://unit-15.tistory.com/137)

@@ -26,7 +26,9 @@ tags:
   - Jaeger
   - Management for Infrastructure
   - tools
-lastmod: 2023-11-12T15:16:59.833Z
+lastmod: 2023-11-19T11:42:02.963Z
 ---
 
 ## Reference
+
+[Jaeger Official Homepage](https://www.jaegertracing.io/)

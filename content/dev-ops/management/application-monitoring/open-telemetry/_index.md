@@ -26,7 +26,9 @@ tags:
   - Open Telemetry
   - tools
   - Management for Infrastructure
-lastmod: 2023-11-12T15:15:39.469Z
+lastmod: 2023-11-19T11:41:28.603Z
 ---
 
 ## Reference
+
+[OpenTelemetry Official Homepage](https://opentelemetry.io/)
