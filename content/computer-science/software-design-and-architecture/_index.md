@@ -19,7 +19,7 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-19T07:23:58.346Z
+lastmod: 2023-11-20T12:00:25.563Z
 ---
 
 ## Application Architecture
@@ -43,3 +43,6 @@ lastmod: 2023-11-19T07:23:58.346Z
 [어플리케이션 제작 과정, A부터 Z까지 한 눈에 살펴보기](https://yozm.wishket.com/magazine/detail/237/)
 [소프트웨어 설계 20년 해보고 깨달은 '좋은 설계'의 조건](https://yozm.wishket.com/magazine/detail/1884/?utm_source=oneoneone)
 [오픈소스답게 소프트웨어 설계하기](https://techblog.lycorp.co.jp/ko/designing-software-like-an-open-source)
+[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+[professional-programming](https://github.com/charlax/professional-programming)
+[software-architecture-books](https://github.com/mhadidg/software-architecture-books)

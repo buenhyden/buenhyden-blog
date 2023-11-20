@@ -11,21 +11,19 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Software Design & Architecture
   - Computer Science
+  - System Design & Architecture
 categories:
+  - Computer Science
   - Micro Service Architecture
   - MSA
-  - Software Architecture
-  - Software Design & Architecture
-  - Computer Science
+  - System Design & Architecture
 tags:
+  - Computer Science
   - Micro Service Architecture
   - MSA
-  - Software Architecture
-  - Software Design & Architecture
-  - Computer Science
-lastmod: 2023-11-19T11:29:43.864Z
+  - System Design & Architecture
+lastmod: 2023-11-20T11:33:57.105Z
 ---
 
 ![Monolithic](/computer-science/monolithic-to-msa.webp)

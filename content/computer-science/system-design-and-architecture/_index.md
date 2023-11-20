@@ -19,7 +19,7 @@ categories:
 tags:
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-11-19T11:30:00.081Z
+lastmod: 2023-11-20T12:03:17.489Z
 ---
 
 ![System Design Master](/computer-science/system-design-master.webp#center)
@@ -40,3 +40,9 @@ lastmod: 2023-11-19T11:30:00.081Z
 [인프라 운영을 쉽게 만들어 주는, '서버리스 컴퓨팅'이란?](https://yozm.wishket.com/magazine/detail/154/)
 [투자자를 부르는 SaaS 지표 5가지](https://yozm.wishket.com/magazine/detail/2273/)
 [클라우드 컴퓨팅이란?ㅣSaaS 정의, 장점, 서비스 유형](https://www.codestates.com/blog/content/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85)
+[system-design-primer](https://github.com/donnemartin/system-design-primer#domain-name-system)
+[system-design](https://github.com/karanpratapsingh/system-design)
+[system_design](https://github.com/shashank88/system_design)
+[Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
+[system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture)
+[System-Design](https://github.com/codersguild/System-Design)
