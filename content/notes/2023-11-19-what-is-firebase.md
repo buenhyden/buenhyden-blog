@@ -3,7 +3,7 @@ type: notes
 title: What is Firebase
 description: ""
 date: 2023-11-19T01:55:32.485Z
-draft: ""
+draft: in progress
 tags:
   - Firebase
   - Backend
@@ -15,7 +15,7 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-lastmod: 2023-11-19T12:04:00.960Z
+lastmod: 2023-11-20T20:47:28.376Z
 linktitle: ""
 ---
 
