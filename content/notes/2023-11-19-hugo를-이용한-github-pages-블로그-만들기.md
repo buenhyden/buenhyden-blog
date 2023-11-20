@@ -11,5 +11,9 @@ series: []
 featured: false
 images: ""
 authors: ""
-lastmod: 2023-11-19T12:05:42.431Z
+lastmod: 2023-11-20T00:43:24.899Z
 ---
+
+## Reference
+
+[Hugo Official Homepage](https://gohugo.io/)
