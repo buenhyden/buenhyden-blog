@@ -19,12 +19,14 @@ categories:
 tags:
   - Computer Science
   - Software Development Methodology
-lastmod: 2023-11-21T03:23:30.660Z
+lastmod: 2023-11-21T12:31:08.177Z
 ---
 
 ![Top 12 Software Development Methodologies](/computer-science/top-12-software-development-methodologies.jpg)
 
 ## Reference
 
-[TDD, 실패하는 테스트부터 작성해 얻는 것 5가지](https://yozm.wishket.com/magazine/detail/2308/)
 [Top 12 Software Development Methodologies](https://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantages-disadvantages/)
+[소프트웨어 개발 프로세스 모델 6가지 종류 정리](https://onecoin-life.com/24)
+[소프트웨어 개발 방법론](https://multicore-it.com/46)
+[오픈소스 개발방법론](https://jangseokgyu.github.io/develop/)
