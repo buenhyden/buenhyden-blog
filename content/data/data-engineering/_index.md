@@ -18,7 +18,7 @@ categories:
 tags:
   - Data Engineering
   - Data
-lastmod: 2023-11-12T14:53:15.642Z
+lastmod: 2023-11-21T08:05:59.707Z
 ---
 
 ## Roadmap
@@ -30,3 +30,5 @@ lastmod: 2023-11-12T14:53:15.642Z
 ![State of Data Engineering 2022 map](/data/State-of-Data-Engineering-2022-map.jpg#center)
 
 ## Reference
+
+[데이터 분석가가 직접 정의, 배포, 관리하는 뱅크샐러드 데이터 파이프라인](https://blog.banksalad.com/tech/datapipe/)

@@ -19,7 +19,7 @@ categories:
 tags:
   - QA Engineering
   - Computer Science
-lastmod: 2023-11-20T12:07:36.707Z
+lastmod: 2023-11-21T03:12:49.144Z
 ---
 
 ## Quality Assurance (QA)

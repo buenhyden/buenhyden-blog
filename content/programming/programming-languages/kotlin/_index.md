@@ -21,10 +21,11 @@ tags:
   - Kotlin
   - Programming Language
   - Programming
-lastmod: 2023-11-19T11:49:41.917Z
+lastmod: 2023-11-21T03:46:37.953Z
 date: 2023-11-11T14:03:12.053Z
 ---
 
 ## Reference
 
 [Kotlin Official Homepage](https://kotlinlang.org/)
+[Java 개발자의 Kotlin 기본 문법 정복기](https://velog.io/@joshuara7235/Java-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-Kotlin-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-%EA%B8%B0%EB%B3%B8%EA%B8%B0)

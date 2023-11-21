@@ -21,19 +21,13 @@ tags:
   - Software Architecture
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-20T11:54:35.521Z
+lastmod: 2023-11-21T03:18:43.147Z
 ---
 
 ![Software Architecture](/computer-science/software-architecture.webp#center)
 
-## Roadmap
-
-<p align="center">
-<iframe width="768" height="1024" src="https://roadmap.sh/software-design-architecture?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
 ## Reference
 
 [Software Analysis and Design - Software Architecture Design](https://do-my-best.tistory.com/entry/Software-Analysis-and-Design-Software-Architecture-Design)
-[[번역] 10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
+
 [Software Architecture: 무엇을 설명할 것인가?](https://technical-leader.tistory.com/34)

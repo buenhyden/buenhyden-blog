@@ -18,12 +18,14 @@ categories:
   - Micro Service Architecture
   - MSA
   - System Design & Architecture
+  - System Architecture
 tags:
   - Computer Science
   - Micro Service Architecture
   - MSA
   - System Design & Architecture
-lastmod: 2023-11-20T11:33:57.105Z
+  - System Architecture
+lastmod: 2023-11-21T03:25:15.331Z
 ---
 
 ![Monolithic](/computer-science/monolithic-to-msa.webp)
@@ -32,10 +34,7 @@ lastmod: 2023-11-20T11:33:57.105Z
 
 ![MSA vs Monolithic](/computer-science/msa-monolithic.png#center)
 
-## Roadmap
-
-<p align="center">
-<iframe width="768" height="1024" src="https://roadmap.sh/software-design-architecture?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
 ## Reference
+
+[서비스 경량화를 위한 MSA 설계 시 고려사항](https://www.samsungsds.com/kr/insights/1239180_4627.html)
+[[간단정리] MSA란?(등장배경, 특징, 장단점)](https://hahahoho5915.tistory.com/71)

@@ -19,7 +19,7 @@ categories:
 tags:
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-11-20T12:03:17.489Z
+lastmod: 2023-11-21T03:31:02.003Z
 ---
 
 ![System Design Master](/computer-science/system-design-master.webp#center)
@@ -32,6 +32,8 @@ lastmod: 2023-11-20T12:03:17.489Z
 
 ## Reference
 
+[성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙](https://www.samsungsds.com/kr/insights/successful-application-modernization.html)
+[[번역] 10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)
 [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 [모든 개발자가 시스템 디자인을 배워야 하는 이유](https://yozm.wishket.com/magazine/detail/1745/)
 [모놀리식 vs 마이크로 서비스, 어떤 아키텍처를 선택할까?](https://yozm.wishket.com/magazine/detail/1813/)
@@ -46,3 +48,4 @@ lastmod: 2023-11-20T12:03:17.489Z
 [Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
 [system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture)
 [System-Design](https://github.com/codersguild/System-Design)
+[멀티클라우드의 장점과 고려사항](https://www.samsungsds.com/kr/insights/multicloud_pros.html)

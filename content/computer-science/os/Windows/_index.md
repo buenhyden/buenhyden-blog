@@ -21,7 +21,7 @@ tags:
   - Operating System
   - Windows
   - Computer Science
-lastmod: 2023-11-11T15:58:05.227Z
+lastmod: 2023-11-21T03:12:57.098Z
 ---
 
 ![Windows](/computer-science/windows.png#center)

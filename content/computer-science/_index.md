@@ -16,7 +16,7 @@ categories:
   - Computer Science
 tags:
   - Computer Science
-lastmod: 2023-11-19T11:30:03.678Z
+lastmod: 2023-11-21T03:12:41.713Z
 ---
 
 ![Computer Science](/computer-science/computer-science.png#center)

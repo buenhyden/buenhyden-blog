@@ -14,5 +14,11 @@ series:
   - study
 categories: []
 tags: []
-lastmod: 2023-11-14T13:31:00.656Z
+lastmod: 2023-11-21T03:58:44.634Z
 ---
+
+## Reference
+
+[Yun Blog 기술 블로그](https://cheese10yun.github.io/)
+[VELOPERT.LOG DEVELOPMENT & LIFE LOG](https://velopert.com/3704)
+[goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents)

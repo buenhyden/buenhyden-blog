@@ -16,7 +16,7 @@ categories:
   - AI
 tags:
   - AI
-lastmod: 2023-11-19T02:11:07.557Z
+lastmod: 2023-11-21T03:48:03.612Z
 draft: false
 ---
 
@@ -41,3 +41,4 @@ draft: false
 [AI 공부할 때 참고하면 좋은 내용들](https://yozm.wishket.com/magazine/detail/993/)
 [음성 AI의 진화를 이끌어 낸 딥러닝](https://yozm.wishket.com/magazine/detail/486/)
 ['딥 러닝'은 어떻게 작동할까? 딥러닝에 대한 모든 것](https://yozm.wishket.com/magazine/detail/170/)
+[[무료] 인공지능 기초를 쌓는 지루하지만 확실한 방법](https://slashpage.com/haebom/6n5w9812g875zm4kpgze)

@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Container
   - Docker
-lastmod: 2023-11-19T11:33:56.133Z
+lastmod: 2023-11-21T03:33:38.529Z
 ---
 
 ![Docker](/dev-ops/docker.png?width=512px#center)
@@ -37,3 +37,4 @@ lastmod: 2023-11-19T11:33:56.133Z
 
 [Docker Official Homepage](https://www.docker.com/)
 [(도커(Docker)란 무엇이고, 왜 사용하나요?](https://yozm.wishket.com/magazine/detail/732/)
+[변화하는 비즈니스 환경에 신속하게 대응하는 도커와 컨테이너](https://www.samsungsds.com/kr/insights/docker_container.html)

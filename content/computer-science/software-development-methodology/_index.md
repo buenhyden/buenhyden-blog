@@ -11,17 +11,15 @@ nav_icon:
   color: indigo
 featured: true
 series:
-  - Software Design & Architecture
   - Computer Science
+  - Software Development Methodology
 categories:
   - Computer Science
-  - Software Design & Architecture
   - Software Development Methodology
 tags:
   - Computer Science
-  - Software Design & Architecture
   - Software Development Methodology
-lastmod: 2023-11-20T12:09:56.076Z
+lastmod: 2023-11-21T03:23:30.660Z
 ---
 
 ![Top 12 Software Development Methodologies](/computer-science/top-12-software-development-methodologies.jpg)
