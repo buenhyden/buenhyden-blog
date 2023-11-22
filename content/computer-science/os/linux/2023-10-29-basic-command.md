@@ -23,7 +23,7 @@ tags:
   - Linux
   - Operating System
   - Computer Science
-lastmod: 2023-11-11T15:58:00.794Z
+lastmod: 2023-11-22T14:37:06.641Z
 ---
 
 ## Linux Command

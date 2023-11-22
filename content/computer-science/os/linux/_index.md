@@ -21,7 +21,7 @@ tags:
   - Linux
   - Operating System
   - Computer Science
-lastmod: 2023-11-19T11:29:27.378Z
+lastmod: 2023-11-22T14:37:33.904Z
 ---
 
 ![Linux](/computer-science/linux.webp#center)
@@ -30,3 +30,4 @@ lastmod: 2023-11-19T11:29:27.378Z
 
 [Linux Official Homepage](https://www.linux.org/)
 [[여기보기] etc 디렉토리에 있는 소중한 아이들](https://yozm.wishket.com/magazine/detail/1679/)
+[50 Linux Commands List with Examples](https://www.javatpoint.com/linux-commands)[Top 50+ Linux Commands You MUST Know](https://www.digitalocean.com/community/tutorials/linux-commands)
