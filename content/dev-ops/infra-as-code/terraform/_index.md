@@ -2,7 +2,7 @@
 type: docs
 title: Terraform
 date: 2023-11-04T12:52:00+09:00
-description: null
+description: HashiCorp가 개발한 오픈 소스 코드형 인프라스트럭처
 linkTitle: Terraform
 nav_weight: 3
 nav_icon:
@@ -26,8 +26,10 @@ tags:
   - Infrastructure Provisioning
   - Terraform
   - tools
-lastmod: 2023-11-19T11:36:12.086Z
+lastmod: 2023-11-22T01:43:05.845Z
 ---
+
+![Terraform](/dev-ops/what-is-terraform.webp)
 
 ## Reference
 

@@ -2,7 +2,7 @@
 type: docs
 title: Chef
 date: 2023-11-04T12:52:00+09:00
-description: null
+description: 루비와 얼랭으로 작성된 형상 관리 도구
 linkTitle: Chef
 nav_weight: 6
 nav_icon:
@@ -26,8 +26,10 @@ tags:
   - Configuration Management
   - Chef
   - tools
-lastmod: 2023-11-19T11:35:35.251Z
+lastmod: 2023-11-22T01:38:25.042Z
 ---
+
+![Chef Architecture](/dev-ops/chef%20architecture.png)
 
 ## Reference
 

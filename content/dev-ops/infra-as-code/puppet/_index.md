@@ -2,7 +2,7 @@
 type: docs
 title: Puppet
 date: 2023-11-04T12:52:00+09:00
-description: null
+description: ruby로 만들어진 시스템 관리 자동화 툴
 linkTitle: Puppet
 nav_weight: 4
 nav_icon:
@@ -26,8 +26,10 @@ tags:
   - Configuration Management
   - Puppet
   - tools
-lastmod: 2023-11-19T11:35:58.040Z
+lastmod: 2023-11-22T01:40:52.488Z
 ---
+
+![Puppet Platform](/dev-ops/puppet_platform.webp)
 
 ## Reference
 
