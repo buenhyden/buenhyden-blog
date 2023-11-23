@@ -470,12 +470,6 @@
       "contentTypes": ["default"]
     },
     {
-      "title": "[Container Registry] harbor",
-      "path": "[[workspace]]/content/dev-ops/container/container-registry/harbor",
-      "excludeSubdir": true,
-      "contentTypes": ["default"]
-    },
-    {
       "title": "[Infra AS Code] ansible",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/ansible",
       "excludeSubdir": true,
