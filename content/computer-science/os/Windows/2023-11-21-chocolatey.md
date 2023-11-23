@@ -7,18 +7,23 @@ date: 2023-11-20T20:26:05.655Z
 draft: published
 tags:
   - Chocolatey
-  - Windows
+  - Computer Science
   - Package
+  - Windows
+  - Operating System
 categories:
   - Chocolatey
-  - Windows
+  - Computer Science
   - Package
+  - Windows
+  - Operating System
 series:
-  - Notes
+  - Computer Science
+  - Operating System
 featured: false
 images: ""
 authors: ""
-lastmod: 2023-11-20T20:52:20.599Z
+lastmod: 2023-11-23T22:29:39.502Z
 ---
 
 ## Chocolatey
