@@ -26,7 +26,8 @@ tags:
   - Configuration Management
   - Ansible
   - tools
-lastmod: 2023-11-22T01:36:32.717Z
+lastmod: 2023-11-24T04:35:25.412Z
+authors: Hyunyoun Jo
 ---
 
 ![Ansible](/dev-ops/0_4TFAqKIJIuldtG9X.webp)

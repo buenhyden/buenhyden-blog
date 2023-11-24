@@ -470,18 +470,6 @@
       "contentTypes": ["default"]
     },
     {
-      "title": "[Infra AS Code] ansible",
-      "path": "[[workspace]]/content/dev-ops/infra-as-code/ansible",
-      "excludeSubdir": true,
-      "contentTypes": ["default"]
-    },
-    {
-      "title": "[Infra AS Code] chef",
-      "path": "[[workspace]]/content/dev-ops/infra-as-code/chef",
-      "excludeSubdir": true,
-      "contentTypes": ["default"]
-    },
-    {
       "title": "[Infra AS Code] configure-management",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/configure-management",
       "excludeSubdir": true,
@@ -494,14 +482,26 @@
       "contentTypes": ["default"]
     },
     {
-      "title": "[Infra AS Code] puppet",
-      "path": "[[workspace]]/content/dev-ops/infra-as-code/puppet",
+      "title": "[Infra AS Code] terraform",
+      "path": "[[workspace]]/content/dev-ops/infra-as-code/terraform",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Infra AS Code] terraform",
-      "path": "[[workspace]]/content/dev-ops/infra-as-code/terraform",
+      "title": "[Infra AS Code] ansible",
+      "path": "[[workspace]]/content/dev-ops/infra-as-code/ansible",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Configure Management] chef",
+      "path": "[[workspace]]/content/dev-ops/infra-as-code/configure-management/chef",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Configure Management] puppet",
+      "path": "[[workspace]]/content/dev-ops/infra-as-code/configure-management/puppet",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -844,6 +844,12 @@
     {
       "title": "[TypeScript] syntax",
       "path": "[[workspace]]/content/programming/programming-languages/typescript/syntax",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Typescript] packages",
+      "path": "[[workspace]]/content/programming/programming-languages/typescript/packages",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
