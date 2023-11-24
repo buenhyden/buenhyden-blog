@@ -25,10 +25,10 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-11-17T04:35:26.150Z
+lastmod: 2023-11-24T17:01:08.853Z
 ---
 
 ## Reference
 
-[Git Internals](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EB%82%B4%EB%B6%80-Plumbing-%EB%AA%85%EB%A0%B9%EA%B3%BC-Porcelain-%EB%AA%85%EB%A0%B9)
+[Git Internals](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EB%82%B4%EB%B6%80-Plumbing-%EB%AA%85%EB%A0%B9%EA%B3%BC-Porcelain-%EB%AA%85%EB%A0%B9)  
 [Git Internal API를 활용한 .git 탐험](https://yozm.wishket.com/magazine/detail/2293/)

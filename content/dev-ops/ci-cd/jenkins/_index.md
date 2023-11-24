@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Jenkins
-lastmod: 2023-11-19T11:31:13.415Z
+lastmod: 2023-11-24T17:00:04.446Z
 ---
 
 ## Reference

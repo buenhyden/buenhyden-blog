@@ -22,7 +22,7 @@ tags:
   - Programming Language
   - React
   - Programming
-lastmod: 2023-11-19T11:49:00.488Z
+lastmod: 2023-11-24T16:44:57.802Z
 date: 2023-11-16T01:12:15.654Z
 ---
 
@@ -40,12 +40,12 @@ date: 2023-11-16T01:12:15.654Z
 
 ## Reference
 
-[React Official Homepage](https://react.dev/)
-[Github React Bits](https://github.com/vasanthk/react-bits)
-[Github React Bits(한글)](https://github.com/rayleighko/react-bits-ko)
-[Best Practices and Design Patterns in React.js](https://medium.com/@obrm770/best-practices-and-design-patterns-in-react-js-for-high-quality-applications-6b203be747fb)
-[React Visualized](https://react.gg/visualized)
-[The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react/)
-[When Does React Render Your Component?](https://www.zhenghao.io/posts/react-rerender)
-[새로 등장한 '리액트 서버 컴포넌트' 이해하기](https://yozm.wishket.com/magazine/detail/2271/)
+[React Official Homepage](https://react.dev/)  
+[Github React Bits](https://github.com/vasanthk/react-bits)  
+[Github React Bits(한글)](https://github.com/rayleighko/react-bits-ko)  
+[Best Practices and Design Patterns in React.js](https://medium.com/@obrm770/best-practices-and-design-patterns-in-react-js-for-high-quality-applications-6b203be747fb)  
+[React Visualized](https://react.gg/visualized)  
+[The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react/)  
+[When Does React Render Your Component?](https://www.zhenghao.io/posts/react-rerender)  
+[새로 등장한 '리액트 서버 컴포넌트' 이해하기](https://yozm.wishket.com/magazine/detail/2271/)  
 [리액트 상태 관리 라이브러리, 어떤 것을 써야 할까?](https://yozm.wishket.com/magazine/detail/2233/)

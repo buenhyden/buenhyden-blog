@@ -26,7 +26,7 @@ tags:
   - tools
   - Zabbix
   - Management for Infrastructure
-lastmod: 2023-11-19T11:40:13.789Z
+lastmod: 2023-11-24T16:56:59.553Z
 ---
 
 ## Reference

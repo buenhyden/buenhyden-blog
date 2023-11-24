@@ -23,7 +23,7 @@ tags:
   - Styling
   - SASS
   - SCSS
-lastmod: 2023-11-12T15:08:10.463Z
+lastmod: 2023-11-24T16:54:35.226Z
 ---
 
 ![SCSS-SASS](/frontend/scss-sass.png#center)

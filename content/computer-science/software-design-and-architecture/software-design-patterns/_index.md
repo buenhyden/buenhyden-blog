@@ -21,10 +21,10 @@ tags:
   - Computer Science
   - Software Design & Architecture
   - Software Design Patterns
-lastmod: 2023-11-21T03:20:38.484Z
+lastmod: 2023-11-24T16:29:27.570Z
 ---
 
 ## Reference
 
-[Software Analysis and Design - Design Patterns](https://do-my-best.tistory.com/entry/Software-Analysis-and-Design-Design-Patterns?category=974173)
+[Software Analysis and Design - Design Patterns](https://do-my-best.tistory.com/entry/Software-Analysis-and-Design-Design-Patterns?category=974173)  
 [[Design Pattern] 디자인 패턴 종류](https://gmlwjd9405.github.io/2018/07/06/design-pattern.html)

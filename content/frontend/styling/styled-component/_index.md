@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Styling
   - Styled-component
-lastmod: 2023-11-19T11:43:40.056Z
+lastmod: 2023-11-24T16:54:30.415Z
 ---
 
 ## Reference

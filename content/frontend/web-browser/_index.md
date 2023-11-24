@@ -19,12 +19,12 @@ categories:
 tags:
   - Frontend
   - Web Browser
-lastmod: 2023-11-19T06:54:08.598Z
+lastmod: 2023-11-24T16:54:20.462Z
 ---
 
 ![Web Browser](/frontend/web-browser.webp#center)
 
 ## Reference
 
-[프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정](https://yozm.wishket.com/magazine/detail/1338/)
+[프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정](https://yozm.wishket.com/magazine/detail/1338/)  
 [웹 브라우저의 렌더링이란?](https://yozm.wishket.com/magazine/detail/646/)

@@ -19,7 +19,7 @@ categories:
 tags:
   - Operating System
   - Computer Science
-lastmod: 2023-11-19T11:29:36.320Z
+lastmod: 2023-11-24T16:29:02.081Z
 ---
 
 ![OS](/computer-science/os.png#center)

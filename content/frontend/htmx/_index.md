@@ -18,11 +18,11 @@ categories:
 tags:
   - Frontend
   - HTMX
-lastmod: 2023-11-21T03:35:00.165Z
+lastmod: 2023-11-24T16:55:00.144Z
 authors: Hyunyoun Jo
 ---
 
 ## Reference
 
-[HTMX Official Homepage](https://htmx.org/)
+[HTMX Official Homepage](https://htmx.org/)  
 [(번역) HTMX 살펴보기 및 React와 비교하기](https://velog.io/@sehyunny/a-first-look-at-htmx-and-how-it-compares-to-react?utm_source=oneoneone)

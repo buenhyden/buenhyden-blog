@@ -19,7 +19,7 @@ categories:
 tags:
   - Backend
   - Message Broker
-lastmod: 2023-11-11T14:43:49.667Z
+lastmod: 2023-11-24T16:25:30.160Z
 ---
 
 ![Diagram Message Broker](/backend/diagram-message-broker.png)
@@ -46,5 +46,5 @@ lastmod: 2023-11-11T14:43:49.667Z
 
 ## Reference
 
-[Message Broker](https://www.ibm.com/kr-ko/topics/message-brokers)
+[Message Broker](https://www.ibm.com/kr-ko/topics/message-brokers)  
 [제이크서 위키 블로그](https://jake-seo-dev.tistory.com/467)

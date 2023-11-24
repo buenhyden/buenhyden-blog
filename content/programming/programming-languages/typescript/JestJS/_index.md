@@ -22,7 +22,7 @@ tags:
   - Programming Language
   - Typescript
   - JestJS
-lastmod: 2023-11-19T11:50:14.232Z
+lastmod: 2023-11-24T16:43:44.975Z
 date: 2023-11-19T06:32:31.887Z
 ---
 

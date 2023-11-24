@@ -27,7 +27,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-11-12T15:23:39.866Z
+lastmod: 2023-11-24T17:00:25.353Z
 ---
 
 ![Git Status](/dev-ops/git-init.jpg)

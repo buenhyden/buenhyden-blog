@@ -26,7 +26,7 @@ tags:
   - Configuration Management
   - Ansible
   - tools
-lastmod: 2023-11-24T04:35:25.412Z
+lastmod: 2023-11-24T17:06:32.574Z
 authors: Hyunyoun Jo
 ---
 
@@ -34,5 +34,5 @@ authors: Hyunyoun Jo
 
 ## Reference
 
-[Ansible Official Homepage](https://www.ansible.com/)
+[Ansible Official Homepage](https://www.ansible.com/)  
 [Ansible 도입전에 알아야 할 기본지식](https://medium.com/@itsinil/ansible-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%90%EB%8F%99%ED%99%94-82376d4b9ca3)

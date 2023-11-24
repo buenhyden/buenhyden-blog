@@ -22,7 +22,7 @@ tags:
   - Syntax
   - Typescript
   - Programming
-lastmod: 2023-11-16T01:10:29.010Z
+lastmod: 2023-11-24T16:43:36.321Z
 date: 2023-11-16T01:10:27.327Z
 ---
 

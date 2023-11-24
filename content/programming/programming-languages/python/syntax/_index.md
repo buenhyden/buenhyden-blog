@@ -22,7 +22,7 @@ tags:
   - Python
   - Syntax
   - Programming
-lastmod: 2023-11-16T01:10:34.839Z
+lastmod: 2023-11-24T16:43:51.666Z
 date: 2023-11-16T01:10:33.809Z
 ---
 

@@ -26,7 +26,7 @@ tags:
   - Configuration Management
   - Puppet
   - tools
-lastmod: 2023-11-22T01:40:52.488Z
+lastmod: 2023-11-24T16:57:54.451Z
 ---
 
 ![Puppet Platform](/dev-ops/puppet_platform.webp)

@@ -28,7 +28,7 @@ tags:
   - GraphQL
   - Network
   - tools
-lastmod: 2023-11-19T11:28:31.881Z
+lastmod: 2023-11-24T16:26:22.550Z
 ---
 
 ## Reference

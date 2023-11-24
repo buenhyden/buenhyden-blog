@@ -25,7 +25,7 @@ tags:
   - Document DBs
   - NoSQL
   - InfluxDB
-lastmod: 2023-11-19T11:24:40.966Z
+lastmod: 2023-11-24T16:23:36.050Z
 ---
 
 ![Mongo DB](/backend/mongodb.png#center)

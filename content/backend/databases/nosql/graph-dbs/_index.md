@@ -23,7 +23,7 @@ tags:
   - Database
   - NoSQL
   - Graph DBs
-lastmod: 2023-11-12T14:45:11.644Z
+lastmod: 2023-11-24T16:23:45.229Z
 ---
 
 ## Reference

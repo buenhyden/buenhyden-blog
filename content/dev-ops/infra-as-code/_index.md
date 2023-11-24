@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - Infrastructure as Code
-lastmod: 2023-11-24T08:31:36.471Z
+lastmod: 2023-11-24T16:22:18.841Z
 ---
 
 ![Infrastructure as Code](/dev-ops/infra-as-code.png#center)
@@ -45,8 +45,8 @@ lastmod: 2023-11-24T08:31:36.471Z
 
 ## Reference
 
-[Ansible과 Rundeck을 활용한 서버 작업 자동화 및 권한 제어](https://techblog.lycorp.co.jp/ko/improve-operation-environment-with-rundeck)
-[Ansible vs Terraform vs Puppet 차이점 및 선택](https://rainbound.tistory.com/entry/Ansible-vs-Terraform-vs-Puppet-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B0%8F-%EC%84%A0%ED%83%9D)
-[Chef Vs Puppet Vs Ansible – Comparison of DevOps Configuration Management Tools](https://www.veritis.com/blog/chef-vs-puppet-vs-ansible-comparison-of-devops-management-tools/)
-[[코드로서의 인프라] Ansible,  Terraform, Puppet  어떤 것을 선택해야 할까? 출처: https://data-engineer-tech.tistory.com/6 [데이터 엔지니어 기술 블로그:티스토리]](https://data-engineer-tech.tistory.com/6)
+[Ansible과 Rundeck을 활용한 서버 작업 자동화 및 권한 제어](https://techblog.lycorp.co.jp/ko/improve-operation-environment-with-rundeck)  
+[Ansible vs Terraform vs Puppet 차이점 및 선택](https://rainbound.tistory.com/entry/Ansible-vs-Terraform-vs-Puppet-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EB%B0%8F-%EC%84%A0%ED%83%9D)  
+[Chef Vs Puppet Vs Ansible – Comparison of DevOps Configuration Management Tools](https://www.veritis.com/blog/chef-vs-puppet-vs-ansible-comparison-of-devops-management-tools/)  
+[[코드로서의 인프라] Ansible, Terraform, Puppet 어떤 것을 선택해야 할까?](https://data-engineer-tech.tistory.com/6)  
 [[DevOps] Terraform, Ansible 그리고 Chef - 어느 것이 폐쇄망에 적합한가?](https://velog.io/@kimh4nkyul/DevOps-Terraform-Ansible-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Chef-%EC%96%B4%EB%8A%90-%EA%B2%83%EC%9D%B4-%ED%8F%90%EC%87%84%EB%A7%9D%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C%EA%B0%80)

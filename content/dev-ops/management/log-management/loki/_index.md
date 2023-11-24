@@ -26,10 +26,10 @@ tags:
   - Loki
   - tools
   - Management for Infrastructure
-lastmod: 2023-11-19T11:39:37.941Z
+lastmod: 2023-11-24T16:56:43.364Z
 ---
 
 ## Reference
 
-[Loki Official Homepage](https://grafana.com/oss/loki/)
+[Loki Official Homepage](https://grafana.com/oss/loki/)  
 [따끈따끈한 전사 로그 시스템 전환기: ELK Stack에서 Loki로 전환한 이유](https://techblog.woowahan.com/14505/)

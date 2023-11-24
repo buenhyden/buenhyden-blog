@@ -22,7 +22,7 @@ tags:
   - Database
   - RDBMS
   - MariaDB
-lastmod: 2023-11-19T11:25:40.350Z
+lastmod: 2023-11-24T16:24:12.868Z
 images:
   - /code_4932.png
 ---

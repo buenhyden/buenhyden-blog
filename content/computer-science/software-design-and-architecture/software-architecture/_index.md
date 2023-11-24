@@ -21,13 +21,12 @@ tags:
   - Software Architecture
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-21T03:18:43.147Z
+lastmod: 2023-11-24T16:29:21.535Z
 ---
 
 ![Software Architecture](/computer-science/software-architecture.webp#center)
 
 ## Reference
 
-[Software Analysis and Design - Software Architecture Design](https://do-my-best.tistory.com/entry/Software-Analysis-and-Design-Software-Architecture-Design)
-
+[Software Analysis and Design - Software Architecture Design](https://do-my-best.tistory.com/entry/Software-Analysis-and-Design-Software-Architecture-Design)  
 [Software Architecture: 무엇을 설명할 것인가?](https://technical-leader.tistory.com/34)

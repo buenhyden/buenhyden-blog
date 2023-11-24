@@ -24,7 +24,7 @@ tags:
   - Programming Language
   - Syntax
   - Typescript
-lastmod: 2023-11-24T01:00:22.567Z
+lastmod: 2023-11-24T16:43:39.351Z
 date: 2023-11-24T01:00:21.533Z
 draft: in progress
 ---

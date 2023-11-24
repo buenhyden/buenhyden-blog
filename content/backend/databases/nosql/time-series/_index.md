@@ -23,7 +23,7 @@ tags:
   - Database
   - NoSQL
   - Time Series
-lastmod: 2023-11-12T14:45:36.061Z
+lastmod: 2023-11-24T16:24:03.277Z
 ---
 
 ## Reference

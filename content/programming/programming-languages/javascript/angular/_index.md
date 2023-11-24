@@ -22,7 +22,7 @@ tags:
   - Programming
   - Programming Language
   - Angular
-lastmod: 2023-11-19T11:48:18.414Z
+lastmod: 2023-11-24T16:45:31.832Z
 date: 2023-11-16T07:19:57.057Z
 ---
 

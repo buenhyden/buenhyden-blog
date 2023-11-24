@@ -4,7 +4,7 @@ title: Globs(Glob Patterns) 문법 정리
 description: ""
 linkTitle: ""
 date: 2023-11-19T06:27:53.162Z
-lastmod: 2023-11-21T03:13:01.452Z
+lastmod: 2023-11-24T16:39:50.139Z
 draft: ""
 nav_weight: 1
 nav_icon:

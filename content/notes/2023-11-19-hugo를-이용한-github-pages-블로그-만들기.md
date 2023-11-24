@@ -18,7 +18,7 @@ series:
 featured: false
 images: ""
 authors: ""
-lastmod: 2023-11-20T20:48:46.035Z
+lastmod: 2023-11-24T17:25:45.562Z
 ---
 
 ## Go & Hugo 설치

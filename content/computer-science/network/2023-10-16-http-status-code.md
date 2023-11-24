@@ -23,7 +23,7 @@ tags:
   - Protocol
   - Status Code
   - Computer Science
-lastmod: 2023-11-12T10:43:39.881Z
+lastmod: 2023-11-24T16:27:56.189Z
 ---
 
 ![HTTP Status Code](/computer-science/http-status-code.webp)

@@ -29,7 +29,7 @@ tags:
   - Service Mesh
   - Envoy
   - tools
-lastmod: 2023-11-19T11:32:40.967Z
+lastmod: 2023-11-24T16:59:20.620Z
 ---
 
 ## Reference

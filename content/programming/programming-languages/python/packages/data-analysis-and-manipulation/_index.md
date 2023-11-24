@@ -24,13 +24,13 @@ tags:
   - Programming Language
   - Python
   - Data Manipulation
-lastmod: 2023-11-19T06:44:34.396Z
+lastmod: 2023-11-24T16:44:01.618Z
 date: 2023-11-19T06:37:34.850Z
 ---
 
 ## Reference
 
-[Pandas Official Homepage](https://pandas.pydata.org/)
-[Dask Official Homepage](https://www.dask.org/)
-[Modin Official Homepage](https://modin.readthedocs.io/en/stable/)
+[Pandas Official Homepage](https://pandas.pydata.org/)  
+[Dask Official Homepage](https://www.dask.org/)  
+[Modin Official Homepage](https://modin.readthedocs.io/en/stable/)  
 [Vaex Official Homepage](https://vaex.io/)

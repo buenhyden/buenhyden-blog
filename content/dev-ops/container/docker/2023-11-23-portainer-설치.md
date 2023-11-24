@@ -4,7 +4,7 @@ title: Portainer 설치
 description: Web GUI 기반 Container 관리 툴
 linkTitle: ""
 date: 2023-11-23T09:49:52.650Z
-lastmod: 2023-11-23T10:00:00.850Z
+lastmod: 2023-11-24T16:58:18.533Z
 draft: ""
 nav_weight: 1
 nav_icon:

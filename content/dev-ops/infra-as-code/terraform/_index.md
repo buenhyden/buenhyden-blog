@@ -26,7 +26,7 @@ tags:
   - Infrastructure Provisioning
   - Terraform
   - tools
-lastmod: 2023-11-22T01:43:05.845Z
+lastmod: 2023-11-24T16:57:44.074Z
 ---
 
 ![Terraform](/dev-ops/what-is-terraform.webp)

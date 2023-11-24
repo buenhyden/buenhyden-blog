@@ -26,7 +26,7 @@ tags:
   - Configuration Management
   - Chef
   - tools
-lastmod: 2023-11-22T01:38:25.042Z
+lastmod: 2023-11-24T16:57:58.742Z
 ---
 
 ![Chef Architecture](/dev-ops/chef%20architecture.png)

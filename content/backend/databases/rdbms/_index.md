@@ -21,7 +21,7 @@ tags:
   - Backend
   - Database
   - RDBMS
-lastmod: 2023-11-19T01:42:48.460Z
+lastmod: 2023-11-24T16:25:03.255Z
 ---
 
 ![RDBMS](/backend/rdbms.png#center)

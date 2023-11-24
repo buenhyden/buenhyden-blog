@@ -25,7 +25,7 @@ tags:
   - Document DBs
   - Neo4j
   - NoSQL
-lastmod: 2023-11-19T11:23:54.874Z
+lastmod: 2023-11-24T16:23:43.943Z
 ---
 
 ## Reference

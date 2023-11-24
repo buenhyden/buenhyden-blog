@@ -21,13 +21,13 @@ tags:
   - Network
   - Protocol
   - Computer Science
-lastmod: 2023-11-19T01:59:27.481Z
+lastmod: 2023-11-24T16:26:50.838Z
 ---
 
 ![Protocol](/computer-science/protocol.png#center)
 
 ## Reference
 
-[HTTP vs HTTPS 차이, 알면 사이트의 레벨이 보인다.](https://yozm.wishket.com/magazine/detail/130/)
-[HTTP의 새로운 메서드, 서치(SEARCH)에 대하여](https://yozm.wishket.com/magazine/detail/694/)
+[HTTP vs HTTPS 차이, 알면 사이트의 레벨이 보인다.](https://yozm.wishket.com/magazine/detail/130/)  
+[HTTP의 새로운 메서드, 서치(SEARCH)에 대하여](https://yozm.wishket.com/magazine/detail/694/)  
 [HTTP, 그리고 HTTPS의 이해](https://yozm.wishket.com/magazine/detail/471/)

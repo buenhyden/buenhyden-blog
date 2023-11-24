@@ -26,7 +26,7 @@ tags:
   - Management for Infrastructure
   - Prometheus
   - tools
-lastmod: 2023-11-19T11:40:29.763Z
+lastmod: 2023-11-24T16:57:04.340Z
 ---
 
 ## Reference

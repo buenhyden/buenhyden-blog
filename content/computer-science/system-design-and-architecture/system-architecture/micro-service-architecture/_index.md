@@ -25,7 +25,7 @@ tags:
   - MSA
   - System Design & Architecture
   - System Architecture
-lastmod: 2023-11-21T03:25:15.331Z
+lastmod: 2023-11-24T16:30:28.849Z
 ---
 
 ![Monolithic](/computer-science/monolithic-to-msa.webp)
@@ -36,5 +36,5 @@ lastmod: 2023-11-21T03:25:15.331Z
 
 ## Reference
 
-[서비스 경량화를 위한 MSA 설계 시 고려사항](https://www.samsungsds.com/kr/insights/1239180_4627.html)
+[서비스 경량화를 위한 MSA 설계 시 고려사항](https://www.samsungsds.com/kr/insights/1239180_4627.html)  
 [[간단정리] MSA란?(등장배경, 특징, 장단점)](https://hahahoho5915.tistory.com/71)

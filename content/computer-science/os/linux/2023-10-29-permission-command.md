@@ -23,7 +23,7 @@ tags:
   - Linux
   - Operating System
   - Computer Science
-lastmod: 2023-11-18T15:16:20.017Z
+lastmod: 2023-11-24T16:39:55.575Z
 ---
 
 ![Linux Permissions](/computer-science/linux-permissions.jpg#center)
@@ -83,7 +83,7 @@ drwxr-x--- 28 hyden hyden     4096 Oct 29 12:34 ./
 
 ## Reference
 
-[islove8587](https://m.blog.naver.com/islove8587/221945262618)
-[hack-cracker](https://hack-cracker.tistory.com/32)
-[alex xu](https://twitter.com/alexxubyte/status/1532026886359879681)
+[islove8587](https://m.blog.naver.com/islove8587/221945262618)  
+[hack-cracker](https://hack-cracker.tistory.com/32)  
+[alex xu](https://twitter.com/alexxubyte/status/1532026886359879681)  
 [[여기보기] 파일과 디렉토리에는 정확한 소유권과 적당한 권한을 부여하라](https://yozm.wishket.com/magazine/detail/1668/)

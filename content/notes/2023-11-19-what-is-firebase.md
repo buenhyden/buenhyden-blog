@@ -4,6 +4,10 @@ title: What is Firebase
 description: ""
 date: 2023-11-19T01:55:32.485Z
 draft: in progress
+nav_icon:
+  vendor: bs
+  name: book
+  color: indigo
 tags:
   - Firebase
   - Backend
@@ -15,7 +19,7 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-lastmod: 2023-11-20T20:47:28.376Z
+lastmod: 2023-11-24T16:48:46.294Z
 linktitle: ""
 ---
 

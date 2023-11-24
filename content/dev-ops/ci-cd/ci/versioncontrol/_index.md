@@ -23,7 +23,7 @@ tags:
   - CI/CD
   - Continuous Integration(CI)
   - Version Control
-lastmod: 2023-11-12T15:23:16.911Z
+lastmod: 2023-11-24T17:00:18.029Z
 ---
 
 ## 로컬 버전관리(Local VCS)
@@ -59,5 +59,5 @@ RCS에서 버전 변경은 해당 버전까지의 일련의 변화들(Patch Set)
 
 ## Reference
 
-[Reinventing the Wheel](https://heekangpark.github.io/git/vcs)
+[Reinventing the Wheel](https://heekangpark.github.io/git/vcs)  
 [yoongrammer](https://yoongrammer.tistory.com/17)

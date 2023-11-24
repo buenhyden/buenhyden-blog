@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Logging
-lastmod: 2023-11-18T15:52:25.449Z
+lastmod: 2023-11-24T16:56:21.081Z
 ---
 
 ![Data Logging](/dev-ops/data-logging.png#center)

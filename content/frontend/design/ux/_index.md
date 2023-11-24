@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Design
   - UX
-lastmod: 2023-11-18T16:05:26.730Z
+lastmod: 2023-11-24T16:55:33.290Z
 ---
 
 - UX : USER EXPERIENCE

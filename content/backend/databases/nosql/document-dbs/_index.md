@@ -23,7 +23,7 @@ tags:
   - Database
   - NoSQL
   - Document DBs
-lastmod: 2023-11-12T14:44:48.596Z
+lastmod: 2023-11-24T16:23:37.562Z
 ---
 
 ## Reference

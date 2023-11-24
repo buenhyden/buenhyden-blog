@@ -19,14 +19,14 @@ categories:
 tags:
   - Programming Language
   - Programming
-lastmod: 2023-11-21T08:02:02.414Z
+lastmod: 2023-11-24T16:43:26.132Z
 ---
 
 ![Programming Language](/programming/programming-language.webp#center)
 
 ## Reference
 
-[Java와 Javascript의 차이점은?](https://yozm.wishket.com/magazine/detail/4/)
-[5 Types of Programming Languages](https://www.coursera.org/articles/types-programming-language)
-[5 Types of Programming Languages](https://www.linkedin.com/pulse/5-types-programming-languages-mayank-mishra--1f)
+[Java와 Javascript의 차이점은?](https://yozm.wishket.com/magazine/detail/4/)  
+[5 Types of Programming Languages](https://www.coursera.org/articles/types-programming-language)  
+[5 Types of Programming Languages](https://www.linkedin.com/pulse/5-types-programming-languages-mayank-mishra--1f)  
 [50 Types of Programming Languages and What They Do](https://www.indeed.com/career-advice/career-development/types-of-programming-languages)

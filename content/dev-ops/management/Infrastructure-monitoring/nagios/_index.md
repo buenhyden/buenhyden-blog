@@ -26,7 +26,7 @@ tags:
   - Management for Infrastructure
   - Nagios
   - tools
-lastmod: 2023-11-19T11:40:44.329Z
+lastmod: 2023-11-24T16:57:08.582Z
 ---
 
 ## Reference

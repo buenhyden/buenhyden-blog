@@ -19,7 +19,7 @@ categories:
 tags:
   - Data Science
   - Data
-lastmod: 2023-11-18T15:13:40.374Z
+lastmod: 2023-11-24T17:02:07.763Z
 ---
 
 ![Data Science Lifecycle](/data/data-science-lifecycle.png#center)
@@ -32,7 +32,7 @@ lastmod: 2023-11-18T15:13:40.374Z
 
 ## Reference
 
-[이쯤에서 다시 정리해본 '빅데이터'란 무엇인가?](https://yozm.wishket.com/magazine/detail/2264/)
-[데이터 분석이란 무엇일까?](https://yozm.wishket.com/magazine/detail/1567/)
-[데이터 분석가는 무슨 일을 할까요?](https://yozm.wishket.com/magazine/detail/1571/)
+[이쯤에서 다시 정리해본 '빅데이터'란 무엇인가?](https://yozm.wishket.com/magazine/detail/2264/)  
+[데이터 분석이란 무엇일까?](https://yozm.wishket.com/magazine/detail/1567/)  
+[데이터 분석가는 무슨 일을 할까요?](https://yozm.wishket.com/magazine/detail/1571/)  
 [데이터 분석가가 되고 싶은 취준생을 위한 안내서](https://yozm.wishket.com/magazine/detail/1649/)
