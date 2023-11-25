@@ -506,40 +506,56 @@
       "contentTypes": ["default"]
     },
     {
-      "title": "[Management] application-monitoring",
+      "title": "[Infrastructure Management] application-monitoring",
       "path": "[[workspace]]/content/dev-ops/management/application-monitoring",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Management] Infrastructure-monitoring",
+      "title": "[Infrastructure Management] Infrastructure-monitoring",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Management] log-management",
+      "title": "[Infrastructure Management] log-management",
       "path": "[[workspace]]/content/dev-ops/management/log-management",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Management] logging",
+      "title": "[Infrastructure Management] logging",
       "path": "[[workspace]]/content/dev-ops/management/logging",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Management] monitoring",
+      "title": "[Infrastructure Management] monitoring",
       "path": "[[workspace]]/content/dev-ops/management/monitoring",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Management] security",
+      "title": "[Infrastructure Management] security",
       "path": "[[workspace]]/content/dev-ops/management/security",
       "excludeSubdir": true,
       "contentTypes": ["default"]
+    },
+    {
+      "title": "[Security] keycloak",
+      "path": "[[workspace]]/content/dev-ops/management/security/keycloak",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Security] single-sign-on",
+      "path": "[[workspace]]/content/dev-ops/management/security/single-sign-on",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Infrastructure Management] build",
+      "path": "[[workspace]]/content/dev-ops/management/build"
     },
     {
       "title": "[Application Monitoring] jaeger",
@@ -1060,6 +1076,7 @@
         "Tools",
         "Web Browser",
         "Web Server",
+        "notes",
         "study"
       ]
     }
@@ -1072,7 +1089,8 @@
         {
           "title": "type",
           "name": "type",
-          "type": "string"
+          "type": "string",
+          "default": "docs"
         },
         {
           "title": "Title",
@@ -1080,13 +1098,13 @@
           "type": "string"
         },
         {
-          "title": "Description",
-          "name": "description",
+          "title": "linkTitle",
+          "name": "linkTitle",
           "type": "string"
         },
         {
-          "title": "linkTitle",
-          "name": "linkTitle",
+          "title": "Description",
+          "name": "description",
           "type": "string"
         },
         {
@@ -1119,20 +1137,20 @@
             {
               "title": "vendor",
               "name": "vendor",
-              "type": "choice",
-              "choices": ["bs"]
+              "type": "string",
+              "default": "bs"
             },
             {
               "title": "name",
               "name": "name",
-              "type": "choice",
-              "choices": ["book"]
+              "type": "string",
+              "default": "book"
             },
             {
               "title": "color",
               "name": "color",
-              "type": "choice",
-              "choices": ["indigo"]
+              "type": "string",
+              "default": "indigo"
             }
           ]
         },
@@ -1168,17 +1186,8 @@
           "title": "authors",
           "name": "authors",
           "type": "choice",
-          "choices": ["Hyunyoun Jo"]
-        },
-        {
-          "title": "resources",
-          "name": "resources",
-          "type": "datetime"
-        },
-        {
-          "title": "linktitle",
-          "name": "linktitle",
-          "type": "string"
+          "choices": ["Hyunyoun Jo"],
+          "default": "Hyunyoun Jo"
         }
       ]
     },
@@ -1186,6 +1195,12 @@
       "name": "diary",
       "pageBundle": false,
       "fields": [
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string",
+          "default": "diary"
+        },
         {
           "title": "Title",
           "name": "title",
@@ -1225,11 +1240,6 @@
           "taxonomyId": "series"
         },
         {
-          "title": "type",
-          "name": "type",
-          "type": "string"
-        },
-        {
           "title": "featured",
           "name": "featured",
           "type": "boolean"
@@ -1245,7 +1255,8 @@
           "title": "authors",
           "name": "authors",
           "type": "choice",
-          "choices": ["Hyunyoun Jo"]
+          "choices": ["Hyunyoun Jo"],
+          "default": "Hyunyoun Jo"
         },
         {
           "title": "lastmod",
@@ -1258,6 +1269,12 @@
       "name": "gallery",
       "pageBundle": false,
       "fields": [
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string",
+          "default": "gallery"
+        },
         {
           "title": "Title",
           "name": "title",
@@ -1298,7 +1315,8 @@
                 {
                   "title": "author",
                   "name": "author",
-                  "type": "string"
+                  "type": "string",
+                  "default": "Hyunyoun Jo"
                 },
                 {
                   "title": "source",
@@ -1313,11 +1331,6 @@
           "title": "lastmod",
           "name": "lastmod",
           "type": "datetime"
-        },
-        {
-          "title": "type",
-          "name": "type",
-          "type": "string"
         }
       ]
     },
@@ -1328,7 +1341,8 @@
         {
           "title": "type",
           "name": "type",
-          "type": "string"
+          "type": "string",
+          "default": "notes"
         },
         {
           "title": "Title",
@@ -1336,7 +1350,7 @@
           "type": "string"
         },
         {
-          "title": "linktitle",
+          "title": "linkTitle",
           "name": "linktitle",
           "type": "string"
         },
@@ -1389,17 +1403,13 @@
           "title": "authors",
           "name": "authors",
           "type": "choice",
-          "choices": ["Hyunyoun Jo"]
+          "choices": ["Hyunyoun Jo"],
+          "default": "Hyunyoun Jo"
         },
         {
           "title": "lastmod",
           "name": "lastmod",
           "type": "datetime"
-        },
-        {
-          "title": "linkTitle",
-          "name": "linkTitle",
-          "type": "string"
         }
       ]
     },

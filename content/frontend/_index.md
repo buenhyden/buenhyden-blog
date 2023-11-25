@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-11-24T16:54:13.720Z
+lastmod: 2023-11-24T19:04:22.217Z
 ---
 
 ## Web Application
@@ -44,3 +44,7 @@ lastmod: 2023-11-24T16:54:13.720Z
 [프론트엔드 개발자의 성능 최적화 <1편>](https://velog.io/@dongsudev/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-1%ED%8E%B8)  
 [프론트엔드 개발자의 성능 최적화 <2편>](https://velog.io/@dongsudev/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-2%ED%8E%B8)  
 [프론트엔드 개발자의 성능 최적화 <3편>](https://velog.io/@dongsudev/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-3%ED%8E%B8)
+[웹 프론트엔드 성능 최적화에 알아야 할 측정지표 : Web Core Vitals의 INP](https://devocean.sk.com/search/techBoardDetail.do?ID=165334)  
+[웹 프론트엔드 개발자가 웹 성능 최적화를 해야 하는 이유](https://devocean.sk.com/search/techBoardDetail.do?ID=164863)  
+[웹 프론트엔드 성능 측정 방법 및 Tips (1)](https://devocean.sk.com/blog/techBoardDetail.do?ID=165395&ref=codenary)  
+[성능 자동화도구, 라이트하우스](https://devocean.sk.com/blog/techBoardDetail.do?ID=165248&ref=codenary)

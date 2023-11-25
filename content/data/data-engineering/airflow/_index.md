@@ -24,7 +24,7 @@ tags:
   - Data Engineering
   - tools
   - Data
-lastmod: 2023-11-24T17:43:05.976Z
+lastmod: 2023-11-24T18:52:05.437Z
 ---
 
 ## Reference
@@ -37,3 +37,4 @@ lastmod: 2023-11-24T17:43:05.976Z
 [전사 구성원들이 사용하는 배치 데이터 플랫폼 만들기 - Airflow Advanced Airflow 운영 고도화를 위한 고군분투기](https://tech.socarcorp.kr/data/2022/11/09/advanced-airflow-for-databiz.html)
 [[Airflow] 에어플로우 시작하기: 개념 및 설치](https://data-engineer-tech.tistory.com/30)  
 [[에어플로우] 아파치 에어플로우(Apache Airflow)란?](https://6mini.github.io/data%20engineering/2021/12/29/airflow/)
+[로컬 Airflow on K8S 구축에 Vault 곁들이기 - Airflow 개발 환경 고도화](https://blog.doctor-cha.com/buliding-local-airflow-and-apply-vault)

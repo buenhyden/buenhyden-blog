@@ -19,7 +19,7 @@ categories:
 tags:
   - Network
   - Computer Science
-lastmod: 2023-11-24T16:27:51.387Z
+lastmod: 2023-11-24T18:30:58.750Z
 ---
 
 ![Network](/computer-science/nettopo.webp#center)
@@ -27,9 +27,7 @@ lastmod: 2023-11-24T16:27:51.387Z
 ## Reference
 
 [주니어 개발자를 위한 엄청 쉬운 네트워크 이야기](https://yozm.wishket.com/magazine/detail/1875/)  
-[주니어 개발자를 위한 엄청 쉬운 TCP/IP 4계층 이야기](https://yozm.wishket.com/magazine/detail/1956/)  
 [주니어 웹 개발자가 알아야 할 '비동기 통신'](https://yozm.wishket.com/magazine/detail/1982/)  
 [IP 주소의 역사와 서브넷 마스크의 탄생](https://yozm.wishket.com/magazine/detail/2108/)  
 [주니어 개발자를 위한 , '웹'으로 알아보는 네트워크](https://yozm.wishket.com/magazine/detail/2055/)  
-[주니어 개발자를 위한 TCP/IP 주요 프로토콜 알아보기](https://yozm.wishket.com/magazine/detail/2005/)  
 [VPN이란 무엇인가?](https://yozm.wishket.com/magazine/detail/558/)

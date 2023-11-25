@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - CI/CD
-lastmod: 2023-11-24T16:59:59.018Z
+lastmod: 2023-11-24T18:10:24.303Z
 ---
 
 ![CI & CD2](/dev-ops/ci-cd2.png?width=512px#center)
@@ -34,3 +34,4 @@ lastmod: 2023-11-24T16:59:59.018Z
 
 [깃허브 액션으로 CI/CD 구현하기](https://yozm.wishket.com/magazine/detail/2197/)  
 [CI/CD 개념과 깃허브 리포지터리 생성하기](https://yozm.wishket.com/magazine/detail/2184/)
+[CI/CD와 Gitflow 그리고 QA](https://devocean.sk.com/blog/techBoardDetail.do?ID=165513&boardType=techBlog&ref=codenary)

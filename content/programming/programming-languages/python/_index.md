@@ -20,7 +20,7 @@ tags:
   - Programming Language
   - Python
   - Programming
-lastmod: 2023-11-24T16:43:49.410Z
+lastmod: 2023-11-24T18:40:11.582Z
 ---
 
 ![Python](/programming/python.png#center)
@@ -34,3 +34,14 @@ lastmod: 2023-11-24T16:43:49.410Z
 ## Reference
 
 [Python Official Homepage](https://www.python.org/)
+[[I/O] Python의 Selectors](https://devocean.sk.com/experts/techBoardDetail.do?ID=165202&boardType=experts)  
+[［네트워크］ WSGI와 Python 1편](https://devocean.sk.com/experts/techBoardDetail.do?ID=165282&boardType=experts)  
+[［네트워크］ WSGI와 Python 2편](https://devocean.sk.com/experts/techBoardDetail.do?ID=165337&boardType=experts)
+[［Python］ Thread를 사용해서 I/O향상이 얼마나 될까?](https://devocean.sk.com/experts/techBoardDetail.do?ID=163853&boardType=experts)  
+[［Python］ 문자열 Encoding과 Python이 문자열을 처리하는 방법](https://devocean.sk.com/experts/techBoardDetail.do?ID=164095&boardType=experts)  
+[[Python] C-확장 모듈을 사용해서 Performance 향상시키기](https://devocean.sk.com/experts/techBoardDetail.do?ID=163718&boardType=experts)
+[［Python］ C Library 이용해서 성능 높이기(Ctypes, 1편)](https://devocean.sk.com/experts/techBoardDetail.do?ID=163835&boardType=experts)  
+[［Python］ C Library 이용해서 성능 높이기(Ctypes+Numpy, 2편)](https://devocean.sk.com/experts/techBoardDetail.do?ID=163848&boardType=experts)
+[[Python] 고성능 Python을 위한 Cython 활용하기 1편](https://devocean.sk.com/experts/techBoardDetail.do?ID=164580&boardType=experts)  
+[[Python] 고성능 Python을 위한 Cython 활용하기 2편](https://devocean.sk.com/experts/techBoardDetail.do?ID=164605&boardType=experts)  
+[[Python] 고성능 Python을 위한 Cython 활용하기 3편](https://devocean.sk.com/experts/techBoardDetail.do?ID=164733&boardType=experts)

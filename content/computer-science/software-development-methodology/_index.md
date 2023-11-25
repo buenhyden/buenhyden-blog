@@ -19,7 +19,7 @@ categories:
 tags:
   - Computer Science
   - Software Development Methodology
-lastmod: 2023-11-24T16:30:01.017Z
+lastmod: 2023-11-24T18:41:49.050Z
 ---
 
 ![Top 12 Software Development Methodologies](/computer-science/top-12-software-development-methodologies.jpg)

@@ -19,7 +19,7 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-24T16:29:52.186Z
+lastmod: 2023-11-24T18:42:04.218Z
 ---
 
 ## Application Architecture
@@ -46,3 +46,4 @@ lastmod: 2023-11-24T16:29:52.186Z
 [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)  
 [professional-programming](https://github.com/charlax/professional-programming)  
 [software-architecture-books](https://github.com/mhadidg/software-architecture-books)
+[성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙](https://www.samsungsds.com/kr/insights/successful-application-modernization.html?ref=codenary)

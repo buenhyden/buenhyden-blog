@@ -18,7 +18,7 @@ series:
 featured: false
 images: ""
 authors: ""
-lastmod: 2023-11-24T17:25:45.562Z
+lastmod: 2023-11-24T19:05:32.583Z
 ---
 
 ## Go & Hugo 설치
@@ -46,3 +46,4 @@ choco install hugo-extended
 ## Reference
 
 [Hugo Official Homepage](https://gohugo.io/)
+[Hugo와 Gitlab Pages로 정적 웹페이지 구현하고 배포하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165251&ref=codenary)

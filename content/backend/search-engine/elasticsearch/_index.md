@@ -24,7 +24,7 @@ tags:
   - Elasticsearch
   - Search Engine
   - tools
-lastmod: 2023-11-24T16:25:35.496Z
+lastmod: 2023-11-24T18:54:39.342Z
 ---
 
 ![ELK](/backend/elk.jpg#center)
@@ -32,3 +32,4 @@ lastmod: 2023-11-24T16:25:35.496Z
 ## Reference
 
 [ElasticSearch Official Homepage](https://www.elastic.co/kr/elasticsearch)
+[대규모 로그 처리도 OK! Elasticsearch 클러스터 개선기](https://toss.tech/article/slash23-data?ref=codenary)

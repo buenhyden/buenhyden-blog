@@ -24,7 +24,7 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Kubernetes
-lastmod: 2023-11-24T16:59:42.353Z
+lastmod: 2023-11-24T18:53:12.427Z
 ---
 
 ![Kubernetes](/dev-ops/kubernetes.png#center)
@@ -51,3 +51,6 @@ lastmod: 2023-11-24T16:59:42.353Z
 [쿠버네티스 보안 자동화, 가능할까요?](https://www.samsungsds.com/kr/insights/kubernetes_security_automation.html)  
 [3. 쿠버네티스의 모든것](https://tommypagy.tistory.com/category/3.%20%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%9D%98%20%EB%AA%A8%EB%93%A0%EA%B2%83)  
 [Kuberenetes 설치](https://kh-guard.tistory.com/category/Kubernetes/Kuberenetes%20%EC%84%A4%EC%B9%98)
+[온프레미스 쿠버네티스 프로덕션 환경 10개월 운영기](https://blog.doctor-cha.com/on-premise-kubernetes-production-environment-10-month-operation-review)  
+[온프레미스 쿠버네티스에서 NAS, GPU 사용하기 (with RKE2, NFS, gpu-operator)](https://blog.doctor-cha.com/using-nas-gpu-on-premise-kubernetes)  
+[쿠버네티스 oauth-proxy로 구글 SSO 적용하기](https://blog.doctor-cha.com/google-sso-with-kubernetes-oauth-proxy)

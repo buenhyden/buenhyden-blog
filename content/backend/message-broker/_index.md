@@ -19,7 +19,7 @@ categories:
 tags:
   - Backend
   - Message Broker
-lastmod: 2023-11-24T16:25:30.160Z
+lastmod: 2023-11-24T18:56:43.155Z
 ---
 
 ![Diagram Message Broker](/backend/diagram-message-broker.png)
@@ -48,3 +48,4 @@ lastmod: 2023-11-24T16:25:30.160Z
 
 [Message Broker](https://www.ibm.com/kr-ko/topics/message-brokers)  
 [제이크서 위키 블로그](https://jake-seo-dev.tistory.com/467)
+[Confluent Schema Registry 도입기!](https://techblog.yogiyo.co.kr/confluent-schema-registry-%EB%8F%84%EC%9E%85%EA%B8%B0-54d112b9b53f)

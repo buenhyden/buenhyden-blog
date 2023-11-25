@@ -19,7 +19,7 @@ categories:
 tags:
   - QA Engineering
   - Computer Science
-lastmod: 2023-11-24T16:29:11.656Z
+lastmod: 2023-11-24T18:23:46.341Z
 ---
 
 ## Quality Assurance (QA)
@@ -48,3 +48,4 @@ lastmod: 2023-11-24T16:29:11.656Z
 ['사용자 테스트'를 빠르게 도와줄 인기 소프트웨어 7가지](https://yozm.wishket.com/magazine/detail/206/)  
 [서버의 성능 테스트 [필요성, 개요, 간단한 구현]](https://velog.io/@imkkuk/%EC%84%9C%EB%B2%84%EC%9D%98-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%84%EC%9A%94%EC%84%B1-%EA%B0%9C%EC%9A%94-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B5%AC%ED%98%84)  
 [효율적인 JUnit 사용 방법과 유용한 팁](https://yozm.wishket.com/magazine/detail/1748/)
+[Browser Stack 알아가기](https://techblog.gccompany.co.kr/broswer-stack-%EC%95%8C%EC%95%84%EA%B0%80%EA%B8%B0-ec97e09b510d)
