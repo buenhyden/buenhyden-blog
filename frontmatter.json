@@ -554,6 +554,24 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Security] oauth",
+      "path": "[[workspace]]/content/dev-ops/management/security/oauth",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Security] oidc",
+      "path": "[[workspace]]/content/dev-ops/management/security/oidc",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Security] saml",
+      "path": "[[workspace]]/content/dev-ops/management/security/saml",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Infrastructure Management] build",
       "path": "[[workspace]]/content/dev-ops/management/build"
     },
