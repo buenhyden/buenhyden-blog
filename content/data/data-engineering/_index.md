@@ -8,7 +8,7 @@ nav_weight: 11
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 series:
   - Data Engineering
   - Data
@@ -18,16 +18,16 @@ categories:
 tags:
   - Data Engineering
   - Data
-lastmod: 2023-11-24T18:50:40.977Z
+lastmod: 2023-11-26T05:26:07.178Z
 ---
 
 ## Roadmap
 
-![Data Engineering Roadmap](/data/data-engineering-roadmap.png?width=768px#center)
+![Data Engineering Roadmap](/data/data-engineering-roadmap.png?width=768px#center "https://github.com/ErdemOzgen/Data-Engineering-Roadmap")
 
 ## State of Data Engineering 2022 map
 
-![State of Data Engineering 2022 map](/data/State-of-Data-Engineering-2022-map.jpg#center)
+![State of Data Engineering 2022 map](/data/State-of-Data-Engineering-2022-map.jpg#center "https://medium.com/@rahulxsharma/decoding-the-el-in-elt-2393eb4d714f")
 
 ## Reference
 

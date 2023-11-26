@@ -7,7 +7,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -22,13 +22,14 @@ tags:
   - Database
   - RDBMS
   - MariaDB
-lastmod: 2023-11-24T16:24:12.868Z
+lastmod: 2023-11-26T04:51:11.775Z
 images:
   - /code_4932.png
 ---
 
-![Maria DB](/backend/mariadb.png#center)
+![Maria DB](/backend/mariadb.png#center "https://namu.wiki/w/MariaDB")
 
 ## Reference
 
 [Maria DB Official Homepage](https://mariadb.org/)
+[MariaDB, 바이너리로그 관리에 대해서 소개합니다.(feat. bin log)](https://devocean.sk.com/blog/techBoardDetail.do?ID=163340&boardType=techBlog)

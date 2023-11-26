@@ -4,11 +4,11 @@ title: Protocol
 date: 2023-10-15T12:46:00+09:00
 description: null
 linkTitle: Protocol
-nav_weight: 2
+nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Network
@@ -21,7 +21,7 @@ tags:
   - Network
   - Protocol
   - Computer Science
-lastmod: 2023-11-24T16:26:50.838Z
+lastmod: 2023-11-25T11:54:48.630Z
 ---
 
 ![Protocol](/computer-science/protocol.png#center)

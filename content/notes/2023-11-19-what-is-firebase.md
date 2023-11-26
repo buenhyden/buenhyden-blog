@@ -7,7 +7,7 @@ draft: in progress
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 tags:
   - Firebase
   - Backend

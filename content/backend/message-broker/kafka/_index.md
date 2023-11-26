@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -24,10 +24,10 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-11-24T16:25:19.940Z
+lastmod: 2023-11-26T04:46:40.648Z
 ---
 
-![Kafka](/backend/kafka.png#center)
+![Kafka](/backend/kafka.png#center "https://www.uber.com/en-ZA/blog/ureplicator-apache-kafka-replicator/")
 
 ## Reference
 
@@ -38,3 +38,8 @@ lastmod: 2023-11-24T16:25:19.940Z
 [[Kafka] 카프카 기본 개념\_1 (브로커, 프로듀서, 컨슈머, 메시지 + 주키퍼)](https://unit-15.tistory.com/135)  
 [[Kafka] 카프카 기본 개념\_2 (토픽, 파티션, 세그먼트, 리플리케이션, 리더-팔로워)](https://unit-15.tistory.com/136)  
 [[Kafka] 카프카 기본 개념\_3 (소스 커넥트, 싱크 커넥트, 커넥터)](https://unit-15.tistory.com/137)
+[[Kafka] 파티션 키를 사용하여 특정 파티션으로 메시지 적재하기](https://devocean.sk.com/search/techBoardDetail.do?ID=164096&boardType=)  
+[[Kafka] Docker Compose로 멀티브로커 Kafka 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=164016&boardType=)  
+[[Kafka] Docker Compose 를 이용하여 Single Broker 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=164007&boardType=)
+[Kafka-UI Tool 을 이용하여 Kafka 관리하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163980&boardType=)  
+[간단한 카프카 환경 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163709&boardType=)

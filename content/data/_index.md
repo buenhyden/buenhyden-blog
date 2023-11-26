@@ -8,7 +8,7 @@ nav_weight: 12
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Data
@@ -16,7 +16,7 @@ categories:
   - Data
 tags:
   - Data
-lastmod: 2023-11-24T17:01:58.932Z
+lastmod: 2023-11-25T04:47:49.995Z
 ---
 
 ## Reference
@@ -27,3 +27,4 @@ lastmod: 2023-11-24T17:01:58.932Z
 [양질의 데이터를 판별하는 5가지 방법 : 3 관계형 데이터베이스인가?](https://yozm.wishket.com/magazine/detail/1096/)  
 [양질의 데이터를 판별하는 5가지 방법 : 4 데이터 형식을 파악했는가?](https://yozm.wishket.com/magazine/detail/1107/)  
 [양질의 데이터를 판별하는 5가지 방법 : 5 목적에 적합한 데이터인가?](https://yozm.wishket.com/magazine/detail/1123/)
+[데이터 아키텍처의 과거, 현재, 미래](https://devocean.sk.com/blog/techBoardDetail.do?ID=164748&boardType=techBlog)

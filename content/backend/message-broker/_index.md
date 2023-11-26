@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -19,10 +19,10 @@ categories:
 tags:
   - Backend
   - Message Broker
-lastmod: 2023-11-24T18:56:43.155Z
+lastmod: 2023-11-26T04:44:57.534Z
 ---
 
-![Diagram Message Broker](/backend/diagram-message-broker.png)
+![Diagram Message Broker](/backend/diagram-message-broker.png "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%8B%9C%EC%A7%80_%EB%B8%8C%EB%A1%9C%EC%BB%A4")
 
 ## 메시지 브로커란?
 
@@ -49,3 +49,4 @@ lastmod: 2023-11-24T18:56:43.155Z
 [Message Broker](https://www.ibm.com/kr-ko/topics/message-brokers)  
 [제이크서 위키 블로그](https://jake-seo-dev.tistory.com/467)
 [Confluent Schema Registry 도입기!](https://techblog.yogiyo.co.kr/confluent-schema-registry-%EB%8F%84%EC%9E%85%EA%B8%B0-54d112b9b53f)
+[Open Source 기반 Messaging Platform - Apache Pulsar 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=164597&boardType=techBlog)

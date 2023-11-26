@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -21,10 +21,10 @@ tags:
   - Backend
   - Database
   - RDBMS
-lastmod: 2023-11-24T16:25:03.255Z
+lastmod: 2023-11-26T04:49:52.700Z
 ---
 
-![RDBMS](/backend/rdbms.png#center)
+![RDBMS](/backend/rdbms.png#center "https://en.m.wikipedia.org/wiki/File:RDBMS_structure.png")
 
 ## Reference
 

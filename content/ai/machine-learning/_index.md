@@ -9,7 +9,7 @@ nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 series:
   - AI
 categories:
@@ -18,11 +18,11 @@ categories:
 tags:
   - AI
   - Machine Learning
-lastmod: 2023-11-24T16:23:04.434Z
+lastmod: 2023-11-26T04:30:40.153Z
 draft: false
 ---
 
-![Machine Learning](/ai/ml-algorithms.webp)
+![Machine Learning](/ai/ml-algorithms.webp "https://johnvastola.medium.com/10-must-know-machine-learning-algorithms-for-data-scientists-adbf3272398a")
 
 ## 기계 학습의 핵심
 

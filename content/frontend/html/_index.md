@@ -8,7 +8,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 series:
   - Frontend
   - HTML
@@ -18,10 +18,10 @@ categories:
 tags:
   - Frontend
   - HTML
-lastmod: 2023-11-24T16:55:06.920Z
+lastmod: 2023-11-26T04:57:57.610Z
 ---
 
-![HTML Page Structure](/frontend/html-page-structure.png#center)
+![HTML Page Structure](/frontend/html-page-structure.png#center "https://www.linkedin.com/pulse/html-basic-tanvir-hossain")
 
 ## Tutorial
 

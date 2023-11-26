@@ -7,7 +7,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming
@@ -22,11 +22,11 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-24T16:45:09.163Z
+lastmod: 2023-11-26T05:09:15.378Z
 date: 2023-11-16T01:12:03.510Z
 ---
 
-![Node JS](/programming/node-js.png#center)
+![Node JS](/programming/node-js.png#center "https://zdnet.co.kr/view/?no=20220421181628")
 
 ## Roadmap
 

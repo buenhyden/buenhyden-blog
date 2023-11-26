@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Design
@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Design
   - UI
-lastmod: 2023-11-24T16:55:38.926Z
+lastmod: 2023-11-26T04:58:28.142Z
 ---
 
 - UI : USER INTERFACE

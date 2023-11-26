@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -24,10 +24,10 @@ tags:
   - Elasticsearch
   - Search Engine
   - tools
-lastmod: 2023-11-24T18:54:39.342Z
+lastmod: 2023-11-26T04:44:14.022Z
 ---
 
-![ELK](/backend/elk.jpg#center)
+![ELK](/backend/elk.jpg#center "https://www.linkedin.com/posts/anezkahonke_brazil-softwaredevelopers-softwareengineer-activity-6937760892772077568-QfQd?trk=public_profile")
 
 ## Reference
 

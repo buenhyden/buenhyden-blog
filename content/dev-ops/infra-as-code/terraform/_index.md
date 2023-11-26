@@ -8,7 +8,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
@@ -26,10 +26,10 @@ tags:
   - Infrastructure Provisioning
   - Terraform
   - tools
-lastmod: 2023-11-24T16:57:44.074Z
+lastmod: 2023-11-26T05:48:28.993Z
 ---
 
-![Terraform](/dev-ops/what-is-terraform.webp)
+![Terraform](/dev-ops/what-is-terraform.webp "https://www.scaler.com/topics/aws/terraform-aws/")
 
 ## Reference
 

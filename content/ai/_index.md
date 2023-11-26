@@ -8,7 +8,7 @@ nav_weight: 5
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - AI
@@ -16,11 +16,11 @@ categories:
   - AI
 tags:
   - AI
-lastmod: 2023-11-24T16:22:44.753Z
+lastmod: 2023-11-26T04:30:09.184Z
 draft: false
 ---
 
-![What is Artificial Intelligence](/ai/what-is-artificial-intelligence-infographic.width-880.webp#center)
+![What is Artificial Intelligence](/ai/what-is-artificial-intelligence-infographic.width-880.webp#center "https://www.fool.com/terms/a/artificial-intelligence/")
 
 ## Reference
 
@@ -42,3 +42,4 @@ draft: false
 [음성 AI의 진화를 이끌어 낸 딥러닝](https://yozm.wishket.com/magazine/detail/486/)  
 ['딥 러닝'은 어떻게 작동할까? 딥러닝에 대한 모든 것](https://yozm.wishket.com/magazine/detail/170/)  
 [[무료] 인공지능 기초를 쌓는 지루하지만 확실한 방법](https://slashpage.com/haebom/6n5w9812g875zm4kpgze)
+[A 12 Lesson course teaching everything you need to know to start building Generative AI applications](https://microsoft.github.io/generative-ai-for-beginners/)

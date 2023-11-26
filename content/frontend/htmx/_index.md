@@ -8,7 +8,7 @@ nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 series:
   - Frontend
   - HTMX

@@ -8,7 +8,7 @@ nav_weight: 12
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Data Science
@@ -19,10 +19,10 @@ categories:
 tags:
   - Data Science
   - Data
-lastmod: 2023-11-24T17:02:07.763Z
+lastmod: 2023-11-26T05:18:43.937Z
 ---
 
-![Data Science Lifecycle](/data/data-science-lifecycle.png#center)
+![Data Science Lifecycle](/data/data-science-lifecycle.png#center "https://medium.com/@milanbhadja7932/data-cleaning-in-data-science-e8d0c0d3efdf")
 
 ## Roadmap
 

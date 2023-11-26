@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Database
@@ -25,10 +25,10 @@ tags:
   - Document DBs
   - NoSQL
   - InfluxDB
-lastmod: 2023-11-24T16:23:36.050Z
+lastmod: 2023-11-26T04:53:21.946Z
 ---
 
-![Mongo DB](/backend/mongodb.png#center)
+![Mongo DB](/backend/mongodb.png#center "https://rahul319sinha.medium.com/regular-expression-in-mongodb-37f2161d9754")
 
 ## Roadmap
 

@@ -8,7 +8,7 @@ nav_weight: 6
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
@@ -21,9 +21,13 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - IT Security
-lastmod: 2023-11-12T15:09:46.359Z
+lastmod: 2023-11-26T05:31:30.237Z
 ---
 
-![IT Security](/dev-ops/it-security.webp#center)
+![IT Security](/dev-ops/it-security.webp#center "https://teamwin.in/index.php/services/security-system/")
 
 ## Reference
+
+[OAuth2, OpenID Connect, 그리고 JWT 토큰 검증에 대해](https://devocean.sk.com/search/techBoardDetail.do?ID=165453&boardType=)  
+[호다닥 공부해보는 SSO와 친구들 (SAML, OAuth, OIDC)](https://gruuuuu.github.io/security/ssofriends/)  
+[Jacob Baek's home Security](https://www.jacobbaek.com/category/Security)

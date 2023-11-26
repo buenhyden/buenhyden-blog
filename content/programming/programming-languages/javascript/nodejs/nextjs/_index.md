@@ -7,7 +7,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming Language
@@ -24,11 +24,11 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-24T16:45:17.668Z
+lastmod: 2023-11-26T05:10:37.454Z
 date: 2023-11-16T01:11:42.161Z
 ---
 
-![Next JS](/programming/next-js.png#center)
+![Next JS](/programming/next-js.png#center "https://velog.io/@bang04/NextJS-%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC")
 
 ## Tutorial
 

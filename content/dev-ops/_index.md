@@ -8,7 +8,7 @@ nav_weight: 7
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
@@ -16,10 +16,10 @@ categories:
   - Dev Ops
 tags:
   - Dev Ops
-lastmod: 2023-11-24T16:55:55.727Z
+lastmod: 2023-11-26T05:39:32.623Z
 ---
 
-![Dev Ops](/dev-ops/devops.png?width=512px#center)
+![Dev Ops](/dev-ops/devops.png?width=512px#center "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4")
 
 ## Dev Ops란
 
@@ -28,7 +28,7 @@ lastmod: 2023-11-24T16:55:55.727Z
 
 ## Dev Ops Marketplace
 
-![Dev Ops Marketplace](/dev-ops/DevOps-Marketplace-Infinity-Loop.png#center)
+![Dev Ops Marketplace](/dev-ops/DevOps-Marketplace-Infinity-Loop.png#center "https://deviq.com.au/devops/")
 
 ## Roadmap
 

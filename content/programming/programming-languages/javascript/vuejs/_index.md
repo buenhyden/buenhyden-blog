@@ -7,7 +7,7 @@ nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming Language
@@ -22,11 +22,11 @@ tags:
   - Programming Language
   - Vue.js
   - Programming
-lastmod: 2023-11-24T16:44:40.742Z
+lastmod: 2023-11-26T05:08:14.994Z
 date: 2023-11-16T01:11:32.999Z
 ---
 
-![Vue JS](/programming/vue-js.png#center)
+![Vue JS](/programming/vue-js.png#center "https://beginnersoftwaredeveloper.com/how-do-i-pass-data-from-one-view-to-another-view-in-vue/")
 
 ## Roadmap
 

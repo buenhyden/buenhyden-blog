@@ -8,7 +8,7 @@ nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming
@@ -21,10 +21,10 @@ tags:
   - Go
   - Programming Language
   - Programming
-lastmod: 2023-11-24T16:45:58.710Z
+lastmod: 2023-11-26T05:17:40.623Z
 ---
 
-![Go Lang](/programming/go-lang.png#center)
+![Go Lang](/programming/go-lang.png#center "https://medium.com/@jayant99acharya/building-a-robust-event-delivery-system-with-go-and-redis-1c18525f1fe6")
 
 ## Roadmap
 

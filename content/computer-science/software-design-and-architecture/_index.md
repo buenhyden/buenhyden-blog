@@ -8,7 +8,7 @@ nav_weight: 6
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Software Design & Architecture
@@ -19,7 +19,7 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-24T18:42:04.218Z
+lastmod: 2023-11-26T01:13:32.622Z
 ---
 
 ## Application Architecture
@@ -47,3 +47,4 @@ lastmod: 2023-11-24T18:42:04.218Z
 [professional-programming](https://github.com/charlax/professional-programming)  
 [software-architecture-books](https://github.com/mhadidg/software-architecture-books)
 [성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙](https://www.samsungsds.com/kr/insights/successful-application-modernization.html?ref=codenary)
+[현대 앱 아키텍쳐 설명 (Backend/Frontend/MVC/Flux/Redux/M](https://devocean.sk.com/blog/techBoardDetail.do?ID=164484&boardType=techBlog)

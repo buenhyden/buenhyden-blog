@@ -8,7 +8,7 @@ nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -19,10 +19,10 @@ categories:
 tags:
   - Backend
   - Web Server
-lastmod: 2023-11-24T16:25:50.851Z
+lastmod: 2023-11-26T04:41:37.793Z
 ---
 
-![Web Server](/backend/web-server.webp#center)
+![Web Server](/backend/web-server.webp#center "https://www.exabytes.my/blog/web-server-vs-application-server/")
 
 ## Reference
 

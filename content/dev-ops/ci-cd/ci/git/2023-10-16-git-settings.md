@@ -8,7 +8,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 authors:
   - Hyunyoun Jo
 series:
@@ -27,10 +27,10 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-11-24T17:00:25.353Z
+lastmod: 2023-11-26T06:01:15.657Z
 ---
 
-![Git Status](/dev-ops/git-init.jpg)
+![Git Status](/dev-ops/git-init.jpg "https://medium.com/@nmpegetis/git-how-to-start-code-changes-commit-and-push-changes-when-working-in-a-team-dbc6da3cd34c")
 
 ## Git 설정하기
 

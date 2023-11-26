@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
@@ -21,11 +21,12 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Logging
-lastmod: 2023-11-24T16:56:21.081Z
+lastmod: 2023-11-26T05:46:33.456Z
 ---
 
-![Data Logging](/dev-ops/data-logging.png#center)
+![Data Logging](/dev-ops/data-logging.png#center "https://www.motadata.com/blog/what-is-data-logging/")
 
 ## Reference
 
-[VPC Flow logs를 네트워크 문제 분석에 활용할 수 있을까?](https://yozm.wishket.com/magazine/detail/1418/)
+[VPC Flow logs를 네트워크 문제 분석에 활용할 수 있을까?](https://yozm.wishket.com/magazine/detail/1418/)  
+[개선버전 - 로그수집기 fluentbit in TACO](https://devocean.sk.com/search/techBoardDetail.do?ID=164148&boardType=)

@@ -7,7 +7,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming
@@ -24,11 +24,11 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-24T16:45:24.571Z
+lastmod: 2023-11-26T05:12:55.797Z
 date: 2023-11-16T01:09:23.260Z
 ---
 
-![Express JS](/programming/express-js.png#center)
+![Express JS](/programming/express-js.png#center "https://medium.com/@dnvavinash/everything-about-express-ce2ab2f0b80d")
 
 ## Tutorial
 

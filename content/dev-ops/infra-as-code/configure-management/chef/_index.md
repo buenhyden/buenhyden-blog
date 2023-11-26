@@ -8,7 +8,7 @@ nav_weight: 6
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
@@ -26,10 +26,10 @@ tags:
   - Configuration Management
   - Chef
   - tools
-lastmod: 2023-11-24T16:57:58.742Z
+lastmod: 2023-11-26T05:49:23.899Z
 ---
 
-![Chef Architecture](/dev-ops/chef%20architecture.png)
+![Chef Architecture](/dev-ops/chef%20architecture.png "https://www.tecmint.com/chef-automation-tool/")
 
 ## Reference
 

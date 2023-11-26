@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming Paradigm
@@ -19,12 +19,11 @@ categories:
 tags:
   - Programming Paradigm
   - Programming
-lastmod: 2023-11-24T17:02:58.444Z
-images:
-  - /code_4932.png
+lastmod: 2023-11-26T04:59:03.113Z
+images: []
 ---
 
-![Programming Paradigm](/programming/prg-paradigms.png#center)
+![Programming Paradigm](/programming/prg-paradigms.png#center "https://commons.wikimedia.org/wiki/Category:Programming_language_by_paradigm?uselang=ko")
 
 ## Reference
 

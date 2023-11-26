@@ -7,7 +7,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Kotlin
@@ -21,9 +21,11 @@ tags:
   - Kotlin
   - Programming Language
   - Programming
-lastmod: 2023-11-24T16:44:10.574Z
+lastmod: 2023-11-26T05:05:23.868Z
 date: 2023-11-11T14:03:12.053Z
 ---
+
+![Kotlin](/programming/kotlin.png "http://kotlin.kr/")
 
 ## Reference
 

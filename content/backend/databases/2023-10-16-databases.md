@@ -7,7 +7,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -18,12 +18,12 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-11-12T03:57:19.006Z
+lastmod: 2023-11-26T04:47:27.451Z
 slug: database-타입
 draft: false
 ---
 
-![Database Types](/backend/database-types.png)
+![Database Types](/backend/database-types.png "https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev")
 
 ## 관계형 데이터베이스
 

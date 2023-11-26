@@ -15,7 +15,7 @@ nav_weight: 13
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 ---
 
 ## Reference

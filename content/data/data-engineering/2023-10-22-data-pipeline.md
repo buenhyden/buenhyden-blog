@@ -8,7 +8,7 @@ nav_weight: 10
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Data Engineering
@@ -19,10 +19,24 @@ categories:
 tags:
   - Data Engineering
   - Data
-lastmod: 2023-11-12T14:53:40.199Z
+lastmod: 2023-11-26T05:23:10.585Z
 ---
 
-![Big Data Pipeline Architecture](/data/big-data-pipeline-architecture.webp)
+## Stages in Data Processing Pipeline
+
+![Stages in Data Processing Pipeline](/data/big-data-pipeline-stages.webp "https://www.ml4devs.com/articles/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud/")
+
+## Big Data Pipeline Architecture
+
+![Big Data Pipeline Architecture](/data/big-data-pipeline-architecture.webp "https://www.ml4devs.com/articles/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud/")
+
+## Building Data Pipelines With Open Source Stack
+
+![Building Data Pipelines With Open Source Stack](/data/big-data-pipeline-architecture-on-cloud.webp "https://www.ml4devs.com/articles/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud/")
+
+## Cloud Data Pipeline on AWS, Azure, and Google Cloud
+
+![Cloud Data Pipeline on AWS, Azure, and Google Cloud](/data/big-data-pipeline-v2022.webp "https://www.ml4devs.com/articles/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud/")
 
 ## Data Engineering
 

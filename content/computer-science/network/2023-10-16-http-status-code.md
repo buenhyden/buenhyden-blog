@@ -4,11 +4,11 @@ title: HTTP Status Code
 date: 2023-10-16T11:52:00+09:00
 description: 특정 HTTP 요청이 성공적으로 완료되었는지 알려준다.
 linkTitle: HTTP Status Code
-nav_weight: 1
+nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Protocol
@@ -23,7 +23,7 @@ tags:
   - Protocol
   - Status Code
   - Computer Science
-lastmod: 2023-11-24T16:27:56.189Z
+lastmod: 2023-11-25T11:53:55.516Z
 ---
 
 ![HTTP Status Code](/computer-science/http-status-code.webp)

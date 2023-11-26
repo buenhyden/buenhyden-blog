@@ -536,6 +536,12 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Infrastructure Management] observability",
+      "path": "[[workspace]]/content/dev-ops/management/observability",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Infrastructure Management] security",
       "path": "[[workspace]]/content/dev-ops/management/security",
       "excludeSubdir": true,
@@ -547,6 +553,7 @@
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
+
     {
       "title": "[Security] single-sign-on",
       "path": "[[workspace]]/content/dev-ops/management/security/single-sign-on",
@@ -751,7 +758,7 @@
     },
     {
       "title": "[Typescript] JestJS",
-      "path": "[[workspace]]/content/programming/programming-languages/typescript/JestJS",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/JestJS",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -824,6 +831,18 @@
     {
       "title": "[NextJS] syntax",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nextjs/syntax",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Node.js] nestjs",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nestjs",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Nest.js] syntax",
+      "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nestjs/syntax",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -1168,7 +1187,7 @@
               "title": "color",
               "name": "color",
               "type": "string",
-              "default": "indigo"
+              "default": "blue"
             }
           ]
         },

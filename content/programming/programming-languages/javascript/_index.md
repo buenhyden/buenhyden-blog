@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming
@@ -21,10 +21,10 @@ tags:
   - Javascript
   - Programming Language
   - Programming
-lastmod: 2023-11-24T16:44:32.535Z
+lastmod: 2023-11-26T05:57:57.366Z
 ---
 
-![Javascript](/programming/javascript.jpg#center)
+![Javascript](/programming/javascript_badge.svg.png#center "https://commons.wikimedia.org/wiki/File:Javascript_badge.svg")
 
 ## Roadmap
 

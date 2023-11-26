@@ -14,7 +14,7 @@ date: 2023-11-16T01:11:20.155Z
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 ---
 
 ## Reference

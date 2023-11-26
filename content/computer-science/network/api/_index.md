@@ -4,11 +4,11 @@ title: Application Programming Interfaces(APIs)
 date: 2023-10-15T12:46:00+09:00
 description: 애플리케이션 소프트웨어를 빌드하고 통합하기 위한 정의 및 프로토콜 세트인 애플리케이션 프로그래밍 인터페이스(Application Programming Interface)
 linkTitle: Application Programming Interfaces(APIs)
-nav_weight: 3
+nav_weight: 50
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Network
@@ -21,7 +21,7 @@ tags:
   - API
   - Network
   - Computer Science
-lastmod: 2023-11-24T16:26:43.701Z
+lastmod: 2023-11-25T11:52:25.067Z
 ---
 
 ![API](/computer-science/api.png#center)

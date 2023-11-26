@@ -8,7 +8,7 @@ nav_weight: 10
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Frontend
@@ -16,12 +16,12 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-11-24T19:04:22.217Z
+lastmod: 2023-11-26T04:54:53.944Z
 ---
 
 ## Web Application
 
-![Web Application](/frontend/web-application.png?width=1280px#center)
+![Web Application](/frontend/web-application.png?width=1280px#center "https://nitro04.blogspot.com/2020/01/web-web-application-architecture.html")
 
 ## Roadmap
 

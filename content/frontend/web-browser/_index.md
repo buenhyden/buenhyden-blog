@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Frontend
@@ -19,10 +19,10 @@ categories:
 tags:
   - Frontend
   - Web Browser
-lastmod: 2023-11-24T16:54:20.462Z
+lastmod: 2023-11-26T04:55:33.422Z
 ---
 
-![Web Browser](/frontend/web-browser.webp#center)
+![Web Browser](/frontend/web-browser.webp#center "https://idealcomputer.biz/best-types-of-computer-software/")
 
 ## Reference
 

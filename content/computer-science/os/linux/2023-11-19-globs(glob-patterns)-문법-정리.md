@@ -10,7 +10,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 tags:
   - Computer Science
   - Linux

@@ -8,7 +8,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Data Engineering
@@ -24,7 +24,7 @@ tags:
   - Data Engineering
   - tools
   - Data
-lastmod: 2023-11-24T18:52:05.437Z
+lastmod: 2023-11-26T05:26:11.837Z
 ---
 
 ## Reference

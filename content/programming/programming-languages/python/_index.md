@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming Language
@@ -20,10 +20,10 @@ tags:
   - Programming Language
   - Python
   - Programming
-lastmod: 2023-11-24T18:40:11.582Z
+lastmod: 2023-11-26T05:02:49.871Z
 ---
 
-![Python](/programming/python.png#center)
+![Python](/programming/python.png#center "https://bootcamp.mapsahr.com/wp-content/uploads/2021/09/Python-Symbol-scaled.jpg")
 
 ## Roadmap
 
@@ -45,3 +45,4 @@ lastmod: 2023-11-24T18:40:11.582Z
 [[Python] 고성능 Python을 위한 Cython 활용하기 1편](https://devocean.sk.com/experts/techBoardDetail.do?ID=164580&boardType=experts)  
 [[Python] 고성능 Python을 위한 Cython 활용하기 2편](https://devocean.sk.com/experts/techBoardDetail.do?ID=164605&boardType=experts)  
 [[Python] 고성능 Python을 위한 Cython 활용하기 3편](https://devocean.sk.com/experts/techBoardDetail.do?ID=164733&boardType=experts)
+[Python argparse 활용기](https://devocean.sk.com/search/techBoardDetail.do?ID=163419&boardType=&query=test&searchData=&page=&subIndex=&idList=)

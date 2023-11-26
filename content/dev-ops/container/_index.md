@@ -8,7 +8,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 images: null
 series:
@@ -20,9 +20,11 @@ categories:
 tags:
   - Dev Ops
   - Container
-lastmod: 2023-11-11T16:02:15.897Z
+lastmod: 2023-11-26T05:50:39.799Z
 ---
 
-![Container Strategy](/dev-ops/container-strategy.jpg#center)
+![Container Strategy](/dev-ops/container-strategy.jpg#center "https://www.nextbigfuture.com/2019/09/what-is-a-container-in-information-technology-and-how-is-it-useful.html")
 
 ## Reference
+
+[10분만에 이해하는 컨테이너 네트워크](https://devocean.sk.com/blog/techBoardDetail.do?ID=163803&boardType=techBlog)

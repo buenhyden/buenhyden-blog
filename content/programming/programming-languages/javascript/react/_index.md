@@ -7,7 +7,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming
@@ -22,11 +22,11 @@ tags:
   - Programming Language
   - React
   - Programming
-lastmod: 2023-11-24T16:44:57.802Z
+lastmod: 2023-11-26T05:08:39.155Z
 date: 2023-11-16T01:12:15.654Z
 ---
 
-![Reeact](/programming/react.jpeg#center)
+![Reeact](/programming/react.jpeg#center "https://2oneweek.dev/frontend/react/010.%20Hook%20-%20useCallback/")
 
 ## Roadmap
 

@@ -8,7 +8,7 @@ nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - CI/CD
@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - ArgoCD
-lastmod: 2023-11-24T17:01:48.607Z
+lastmod: 2023-11-25T04:57:49.717Z
 ---
 
 ## Reference
@@ -29,3 +29,6 @@ lastmod: 2023-11-24T17:01:48.607Z
 [ArgoCD Official Homepage](https://argo-cd.readthedocs.io/en/stable/)  
 [Argo 사용해보기 (1) Argo Project로 CI/CD Pipeline을 구성해보자](https://nangman14.tistory.com/94)  
 [Argo 사용해보기 (2) Standalone DEX로 Argo Workflow에서 SSO 구현하기](https://nangman14.tistory.com/95)
+[Argo Rollout 을 활용한 배포 전략 테스트](https://devocean.sk.com/search/techBoardDetail.do?ID=163189&boardType=)
+[［Kubernetes ArgoCD］ Container Deploy 하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163008&boardType=techBlog)
+[Argo workflow 설치하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163338&boardType=)

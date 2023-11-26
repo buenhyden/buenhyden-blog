@@ -7,7 +7,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 authors:
   - Hyunyoun Jo
 series:
@@ -26,7 +26,7 @@ tags:
   - Continuous Integration(CI)
   - Git
 featured: true
-lastmod: 2023-11-24T17:00:49.977Z
+lastmod: 2023-11-25T01:23:06.244Z
 ---
 
 프로젝트 수행중 다른 프로젝트를 함께 사용해야할 경우가 종종 있다. 함께 사용할 다른 프로젝트는 외부에서 개발한 라이브러리라던가 내부 여러 프로젝트에서 공통으로 사용할 라이브러리일 수 있다.
@@ -45,4 +45,5 @@ Git 저장소 안에 다른 Git 저장소를 디렉토리로 분리해 넣는 �
 
 ## Reference
 
-[Git Submodule](https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88)
+[Git Submodule](https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88)  
+[Git Submodule 사용하기](https://devocean.sk.com/search/techBoardDetail.do?ID=165172&boardType=)

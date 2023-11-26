@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Frontend
@@ -21,10 +21,10 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-11-24T16:54:46.533Z
+lastmod: 2023-11-26T04:57:26.328Z
 ---
 
-![CSS](/frontend/css.png#center)
+![CSS](/frontend/css.png#center "https://www.oxfordwebstudio.com/en/did-you-know/what-is-css")
 
 ## Tutorial
 

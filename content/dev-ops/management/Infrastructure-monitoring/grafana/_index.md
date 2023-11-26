@@ -8,7 +8,7 @@ nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
@@ -26,9 +26,10 @@ tags:
   - Infrastructure Monitoring
   - tools
   - Management for Infrastructure
-lastmod: 2023-11-24T16:57:14.179Z
+lastmod: 2023-11-25T07:57:43.535Z
 ---
 
 ## Reference
 
-[Grafana Official Homepage](https://grafana.com/)
+[Grafana Official Homepage](https://grafana.com/)  
+[Configure Keycloak OAuth2 authentication](https://grafana.com/docs/grafana/latest/setup-grafana/configure-security/configure-authentication/keycloak/)

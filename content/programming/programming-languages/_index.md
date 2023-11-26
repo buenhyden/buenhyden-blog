@@ -9,7 +9,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 series:
   - Programming Language
   - Programming
@@ -19,10 +19,10 @@ categories:
 tags:
   - Programming Language
   - Programming
-lastmod: 2023-11-24T16:43:26.132Z
+lastmod: 2023-11-26T04:59:43.202Z
 ---
 
-![Programming Language](/programming/programming-language.webp#center)
+![Programming Language](/programming/programming-language.webp#center "https://www.computerhope.com/issues/ch000569.htm")
 
 ## Reference
 

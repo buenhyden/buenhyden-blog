@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 series:
   - Backend
   - Database
@@ -18,7 +18,7 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-11-11T13:37:29.573Z
+lastmod: 2023-11-26T04:49:17.228Z
 slug: databases
 ---
 
@@ -38,6 +38,6 @@ slug: databases
   - 최신 소프트웨어 시스템은 데이터베이스를 사용하여 데이터를 분석한다.
   -
 
-![Where RDBMS and other DBMS technologies intersect](/backend/differencetypeofdbms2.png#center)
+![Where RDBMS and other DBMS technologies intersect](/backend/differencetypeofdbms2.png#center "https://www.facebook.com/photo/?fbid=935327580286542&set=pcb.935327616953205")
 
 ## Reference

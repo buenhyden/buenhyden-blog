@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming
@@ -19,7 +19,7 @@ categories:
 tags:
   - Programming Basics
   - Programming
-lastmod: 2023-11-24T16:46:27.880Z
+lastmod: 2023-11-26T04:59:10.771Z
 ---
 
 ## Reference

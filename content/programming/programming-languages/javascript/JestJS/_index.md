@@ -7,7 +7,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming Language
@@ -22,9 +22,11 @@ tags:
   - Programming Language
   - Typescript
   - JestJS
-lastmod: 2023-11-24T16:43:44.975Z
+lastmod: 2023-11-26T05:14:25.807Z
 date: 2023-11-19T06:32:31.887Z
 ---
+
+![Jest JS](/programming/jest.png)
 
 ## Reference
 

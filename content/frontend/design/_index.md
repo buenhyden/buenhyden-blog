@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Frontend
@@ -23,10 +23,10 @@ tags:
   - Frontend
   - UI
   - UX
-lastmod: 2023-11-24T16:55:26.717Z
+lastmod: 2023-11-26T04:58:19.654Z
 ---
 
-![UI&UX](/frontend/ui-ux.jpg#center)
+![UI&UX](/frontend/ui-ux.jpg#center "https://medium.com/@sumaiya-journal/the-fundamentals-of-ui-and-ux-design-189d61821069")
 
 ## Reference
 

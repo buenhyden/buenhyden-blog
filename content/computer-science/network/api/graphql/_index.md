@@ -8,7 +8,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Computer Science
@@ -23,7 +23,7 @@ tags:
   - GraphQL
   - Network
   - Computer Science
-lastmod: 2023-11-24T16:26:29.374Z
+lastmod: 2023-11-25T05:06:24.938Z
 ---
 
 ![What is GraphQL](/computer-science/what-is-graphql.png#center)
@@ -40,3 +40,7 @@ lastmod: 2023-11-24T16:26:29.374Z
 [LinkedIn’s GraphQL journey for integrations and partnerships: How we accelerated development by 90%](https://engineering.linkedin.com/blog/2022/linkedin-s-graphql-journey-for-integrations-and-partnerships)  
 [GraphQL을 이용한 OLAP Star Schema의 설계](https://yozm.wishket.com/magazine/detail/1689/)  
 [개발자에게 편리함을 주는 'GraphQL' 도입 시 주의할 점은?](https://yozm.wishket.com/magazine/detail/2113/)
+[GraphQL에 대하여 (장점 ＆ Schema ＆ Type)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164787&boardType=techBlog)  
+[GraphQL에 대하여 (Interface ＆ Union Type)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164891&boardType=techBlog)  
+[GraphQL에 대하여 (Resolver ＆ DataLoader)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164933&boardType=techBlog)  
+[https://devocean.sk.com/blog/techBoardDetail.do?ID=164966&boardType=techBlog](https://devocean.sk.com/blog/techBoardDetail.do?ID=164966&boardType=techBlog)

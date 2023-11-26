@@ -7,7 +7,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Programming Language
@@ -20,11 +20,11 @@ tags:
   - Programming Language
   - Typescript
   - Programming
-lastmod: 2023-11-24T16:43:33.764Z
+lastmod: 2023-11-26T05:01:33.462Z
 date: 2023-11-16T01:10:09.414Z
 ---
 
-![TypeScript](/programming/typescript.png#center)
+![TypeScript](/programming/typescript.webp#center "https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k")
 
 ## Roadmap
 

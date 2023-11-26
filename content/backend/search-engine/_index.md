@@ -8,7 +8,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -19,7 +19,7 @@ categories:
 tags:
   - Backend
   - Search Engine
-lastmod: 2023-11-11T16:02:33.241Z
+lastmod: 2023-11-26T04:41:48.936Z
 ---
 
 ## Reference

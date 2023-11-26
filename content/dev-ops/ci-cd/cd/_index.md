@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - CI/CD
@@ -21,10 +21,10 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Deployment(CD)
-lastmod: 2023-11-24T17:01:40.553Z
+lastmod: 2023-11-26T05:58:52.208Z
 ---
 
-![CD](/dev-ops/cd.png?width=512px#center)
+![CD](/dev-ops/cd.png?width=512px#center "https://medium.com/buildpiper/continuous-delivery-vs-continuous-deployment-6f8d6fdf92d8")
 
 - 지속적인 서비스 제공(Continuous Delivery) 또는 지속적인 배포(Continuous Deployment)를 의미하며 이는 상호 교환적으로 사용된다.
 - 두 가지 의미 모두 파이프라인의 추가 단계에 대한 자동화를 뜻하지만 때로는 얼마나 많은 자동화가 이루어지고 있는지를 설명하기 위해 별도로 사용되기도 한다.
@@ -37,3 +37,4 @@ lastmod: 2023-11-24T17:01:40.553Z
 
 [SH's Devlog](https://seosh817.tistory.com/104)  
 [GitHub Actions로 App 자동으로 배포하기](https://yozm.wishket.com/magazine/detail/1666/)
+[Kubernetes 기반의 어플리케이션 배포 시스템 구축 방법](https://devocean.sk.com/search/techBoardDetail.do?ID=164937&boardType=)

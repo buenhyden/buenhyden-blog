@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -24,10 +24,10 @@ tags:
   - Message Broker
   - tools
   - RabbitMQ
-lastmod: 2023-11-24T16:25:24.884Z
+lastmod: 2023-11-26T04:45:29.479Z
 ---
 
-![RabbitMQ](/backend/rabbitmq.png#center)
+![RabbitMQ](/backend/rabbitmq.png#center "https://stackoverflow.com/questions/63545249/rabbitmq-queue-per-message-type-vs-queue-per-destination")
 
 ## Reference
 

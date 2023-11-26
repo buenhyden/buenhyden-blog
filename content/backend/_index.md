@@ -8,20 +8,20 @@ nav_weight: 6
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series: []
 categories:
   - Backend
 tags:
   - Backend
-lastmod: 2023-11-24T16:26:00.416Z
+lastmod: 2023-11-26T04:40:06.665Z
 draft: false
 ---
 
 ## Web Application
 
-![Web Application](/backend/web-application.png?width=1280px#center)
+![Web Application](/backend/web-application.png?width=1280px#center "https://nitro04.blogspot.com/2020/01/web-web-application-architecture.html")
 
 ## Roadmap
 
@@ -30,3 +30,5 @@ draft: false
 </p>
 
 ## Reference
+
+[Web Application Architecture](https://existek.com/blog/web-application-architecture/)

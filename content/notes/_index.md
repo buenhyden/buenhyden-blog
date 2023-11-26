@@ -6,10 +6,10 @@ description: 까먹지 말고 기록으로 남기자
 linkTitle: notes
 featured: true
 series:
-  - study
+  - Notes
 categories: []
 tags: []
-lastmod: 2023-11-24T17:25:41.910Z
+lastmod: 2023-11-26T00:53:24.897Z
 ---
 
 ## Reference
@@ -17,3 +17,6 @@ lastmod: 2023-11-24T17:25:41.910Z
 [Yun Blog 기술 블로그](https://cheese10yun.github.io/)  
 [VELOPERT.LOG DEVELOPMENT & LIFE LOG](https://velopert.com/3704)  
 [goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents)
+[cookiecutter](https://www.cookiecutter.io/)
+[데브쿠마](https://www.devkuma.com/)  
+[Nginx Store Blog](https://nginxstore.com/blog/)

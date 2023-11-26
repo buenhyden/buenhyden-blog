@@ -8,7 +8,7 @@ nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 images: null
 series:
@@ -22,10 +22,10 @@ tags:
   - Dev Ops
   - Container
   - Container Orchestration(CO)
-lastmod: 2023-11-12T15:20:39.144Z
+lastmod: 2023-11-26T05:52:42.031Z
 ---
 
-![Center Orchestration](/dev-ops/automation-with-container-orchestration.png#center)
+![Center Orchestration](/dev-ops/automation-with-container-orchestration.png#center "https://devpress.csdn.net/cicd/62f4229bc6770329307f9728.html")
 여러 컨테이너의 배포 프로세스를 최적화하는 것을 목적으로 하며, 아래의 기능을 포함할 수 있다.
 
 - 컨테이너 자동 배치 및 복제
@@ -36,3 +36,5 @@ lastmod: 2023-11-12T15:20:39.144Z
 - 컨테이너 서비스간의 인터페이스를 통한 연결 및 네트워크 포트 노출 제어
 
 ## Reference
+
+[OPA GateKeeper를 사용해보자](https://devocean.sk.com/search/techBoardDetail.do?ID=164004&boardType=&query=test&searchData=&page=&subIndex=&idList=)

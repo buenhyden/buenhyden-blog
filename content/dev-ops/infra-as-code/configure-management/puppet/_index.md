@@ -8,7 +8,7 @@ nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
@@ -26,10 +26,10 @@ tags:
   - Configuration Management
   - Puppet
   - tools
-lastmod: 2023-11-24T16:57:54.451Z
+lastmod: 2023-11-26T05:48:51.466Z
 ---
 
-![Puppet Platform](/dev-ops/puppet_platform.webp)
+![Puppet Platform](/dev-ops/puppet_platform.webp "https://www.puppet.com/docs/puppet/8/platform_components")
 
 ## Reference
 

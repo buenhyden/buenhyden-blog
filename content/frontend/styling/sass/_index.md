@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Frontend
@@ -23,10 +23,10 @@ tags:
   - Styling
   - SASS
   - SCSS
-lastmod: 2023-11-24T16:54:35.226Z
+lastmod: 2023-11-26T04:56:47.412Z
 ---
 
-![SCSS-SASS](/frontend/scss-sass.png#center)
+![SCSS-SASS](/frontend/scss-sass.png#center "https://yuvraj-agarkar.medium.com/your-very-first-sass-project-what-is-sass-how-to-use-it-d947e61d1713")
 
 ## Reference
 

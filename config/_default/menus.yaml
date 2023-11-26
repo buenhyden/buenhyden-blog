@@ -1,4 +1,6 @@
 main:
+  # Main
+  # Home
   - name: Home
     params:
       header: Classification
@@ -8,105 +10,117 @@ main:
         className: text-primary-emphasis
     url: /
     weight: 1
+  # Ordinary Life
   - identifier: ordinary-life
     name: Ordinary Life
     params:
       header: My Ordinary Life
       icon:
-        name: rocket-takeoff
+        name: life-preserver
         vendor: bs
         className: text-primary-emphasis
     weight: 2
+  # Notes
   - identifier: notes
     name: Notes
     params:
       header: 까먹지 말고 기록으로 남기자
       icon:
-        name: rocket-takeoff
+        name: folder2
         vendor: bs
         className: text-primary-emphasis
     weight: 3
     url: "/notes"
+  # Computer Science
   - identifier: computer-science
     name: Computer Science
     params:
       header: Computer Science
       icon:
         vendor: bs
-        name: book
+        name: journals
         className: text-primary-emphasis
     weight: 4
     url: "/computer-science"
+  # Programming
   - identifier: programming
     name: Programming
     params:
       header: programming
       icon:
         vendor: bs
-        name: book
+        name: journals
         className: text-primary-emphasis
     weight: 5
     url: "/programming"
+  # Backend
   - identifier: backend
     name: Backend
     params:
       header: Backend
       icon:
         vendor: bs
-        name: book
+        name: journals
         className: text-primary-emphasis
     weight: 6
     url: "/backend"
+  # Frontend
   - identifier: frontend
     name: Frontend
     params:
       header: Frontend
       icon:
         vendor: bs
-        name: book
+        name: journals
         className: text-primary-emphasis
     weight: 7
     url: "/frontend"
+  # Dev Ops
   - identifier: dev-ops
     name: Dev Ops
     params:
       header: Dev Ops
       icon:
         vendor: bs
-        name: book
+        name: journals
         className: text-primary-emphasis
     weight: 8
     url: "/dev-ops"
+  # Data
   - identifier: data
     name: Data
     params:
       header: Data Handling
       icon:
         vendor: bs
-        name: book
+        name: journals
         className: text-primary-emphasis
     weight: 9
     url: "/data"
+  # Statistics
   - identifier: statistics
     name: Statistics
     params:
       header: Statistics
       icon:
         vendor: bs
-        name: book
+        name: journals
         className: text-primary-emphasis
     weight: 10
     url: "/statistics"
+  # AI
   - identifier: ai
     name: AI
     params:
       header: Artificial Intelligence
       icon:
         vendor: bs
-        name: book
+        name: journals
         className: text-primary-emphasis
     weight: 11
     url: "/ai"
+  # Ordinary Life
+  # Diary
   - name: Diary
     params:
       description: 일상을 기록하다
@@ -121,6 +135,7 @@ main:
       divider: true
     parent: ordinary-life
     weight: 2
+  # Gallery
   - name: Gallery
     params:
       description: 일상을 찍다
@@ -131,7 +146,8 @@ main:
     parent: ordinary-life
     url: "/gallery"
     weight: 3
-
+  # Sub for Home
+  # Archives
   - name: Archives
     params:
       description: Blog's History
@@ -146,12 +162,13 @@ main:
       divider: true
     parent: Home
     weight: 2
+  # Series
   - name: Series
     params:
       description: Blog Series
       icon:
         vendor: bs
-        name: columns
+        name: collection
         className: text-primary-emphasis
     weight: 3
     parent: Home
@@ -160,6 +177,7 @@ main:
       divider: true
     parent: Home
     weight: 4
+  # Categories
   - name: Categories
     params:
       description: Blog Categories
@@ -174,6 +192,7 @@ main:
       divider: true
     parent: Home
     weight: 6
+  # Tags
   - name: Tags
     params:
       description: Blog Tags
@@ -184,90 +203,157 @@ main:
     parent: Home
     weight: 7
     url: "/tags"
-
-  - name: Data Structure and algorithm
-    params:
-      description: Data Structure & Algorithm
-      icon:
-        vendor: bs
-        name: file-earmark-text
-        className: text-primary-emphasis
-    weight: 1
-    parent: computer-science
-    url: "/computer-science/data-structure-and-algorithm"
-  - params:
-      divider: true
-    parent: computer-science
-    weight: 2
+  # Sub for Computer Science
+  # Network
   - name: Network
     params:
       description: Network
       icon:
         vendor: bs
-        name: file-earmark-text
+        name: journal
         className: text-primary-emphasis
-    weight: 3
+    weight: 1
     parent: computer-science
     url: "/computer-science/network"
   - params:
       divider: true
     parent: computer-science
-    weight: 4
+    weight: 2
+  # Operating System
   - name: Operating System
     params:
       description: Operating System
       icon:
         vendor: bs
-        name: file-earmark-text
+        name: journal
         className: text-primary-emphasis
     parent: computer-science
-    weight: 5
+    weight: 3
     url: "/computer-science/os"
   - params:
       divider: true
     parent: computer-science
+    weight: 4
+  # Data Structure and algorithm
+  - name: Data Structure and algorithm
+    params:
+      description: Data Structure & Algorithm
+      icon:
+        vendor: bs
+        name: journal
+        className: text-primary-emphasis
     weight: 5
+    parent: computer-science
+    url: "/computer-science/data-structure-and-algorithm"
+  - params:
+      divider: true
+    parent: computer-science
+    weight: 6
+  # Software Development Methodology
+  - name: Software Development Methodology
+    params:
+      description: Software Development Methodology
+      icon:
+        vendor: bs
+        name: journal
+        className: text-primary-emphasis
+    parent: computer-science
+    weight: 7
+    url: "/computer-science/software-development-methodology"
+  - params:
+      divider: true
+    parent: computer-science
+    weight: 8
+  # QA Engineering
   - name: QA Engineering
     params:
       description: QA Engineering
       icon:
         vendor: bs
-        name: file-earmark-text
+        name: journal
         className: text-primary-emphasis
     parent: computer-science
-    weight: 6
+    weight: 9
     url: "/computer-science/qa-engineering"
-
-  - name: Programming Basics
+  - params:
+      divider: true
+    parent: computer-science
+    weight: 10
+  # Software Design & Architecture
+  - name: Software Design & Architecture
+    params:
+      description: Software Design & Architecture
+      icon:
+        vendor: bs
+        name: journal
+        className: text-primary-emphasis
+    parent: computer-science
+    weight: 11
+    url: "/computer-science/software-design-and-architecture"
+  - params:
+      divider: true
+    parent: computer-science
+    weight: 12
+  # System Design & Architecture
+  - name: System Design & Architecture
+    params:
+      description: System Design & Architecture
+      icon:
+        vendor: bs
+        name: journal
+        className: text-primary-emphasis
+    parent: computer-science
+    weight: 13
+    url: "/computer-science/system-design-and-architecture"
+  # Sub for Programming
+  # Programming Paradigm
+  - name: Programming Paradigm
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: programming
-    url: "/programming/programming-basics"
+    url: "/programming/programming-paradigm"
     weight: 1
   - params:
       divider: true
     parent: programming
     weight: 2
+  # Programming Basics
+  - name: Programming Basics
+    params:
+      description:
+      icon:
+        name: journal
+        vendor: bs
+        className: text-primary-emphasis
+    parent: programming
+    url: "/programming/programming-basics"
+    weight: 3
+  - params:
+      divider: true
+    parent: programming
+    weight: 4
+  # Programming Languages
   - name: Programming Languages
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: programming
     url: "/programming/programming-languages"
-    weight: 3
-
+    weight: 5
+  # Sub for Backend
+  # Databases
   - name: Databases
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: backend
@@ -277,11 +363,12 @@ main:
       divider: true
     parent: backend
     weight: 2
+  # Message Broker
   - name: Message Broker
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: backend
@@ -291,11 +378,12 @@ main:
       divider: true
     parent: backend
     weight: 4
+  # Search Engine
   - name: Search Engine
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: backend
@@ -305,22 +393,24 @@ main:
       divider: true
     parent: backend
     weight: 6
+  # Web Server
   - name: Web Server
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: backend
     url: "/backend/web-server"
     weight: 7
-
+  # Sub for Frontend
+  # Web Browser
   - name: Web Browser
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: frontend
@@ -330,11 +420,12 @@ main:
       divider: true
     parent: frontend
     weight: 2
+  # Design
   - name: Design
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: frontend
@@ -344,11 +435,12 @@ main:
       divider: true
     parent: frontend
     weight: 4
+  # HTML
   - name: HTML
     params:
-      description:
+      description: HTML
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: frontend
@@ -358,22 +450,54 @@ main:
       divider: true
     parent: frontend
     weight: 6
+  # HTMX
+  - name: HTMX
+    params:
+      description: HTMX
+      icon:
+        name: journal
+        vendor: bs
+        className: text-primary-emphasis
+    parent: frontend
+    url: "/frontend/htmx"
+    weight: 7
+  - params:
+      divider: true
+    parent: frontend
+    weight: 8
+  # Styling
   - name: Styling
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: frontend
     url: "/frontend/styling"
-    weight: 7
-
+    weight: 9
+  - params:
+      divider: true
+    parent: frontend
+    weight: 10
+  # Progressive Web Apps(PWA)
+  - name: Progressive Web Apps(PWA)
+    params:
+      description: Progressive Web Apps(PWA)
+      icon:
+        name: journal
+        vendor: bs
+        className: text-primary-emphasis
+    parent: frontend
+    url: "/frontend/pwa"
+    weight: 11
+  # Sub for Dev Ops
+  # CI & CD
   - name: CI & CD
     params:
-      description:
+      description: CI & CD
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: dev-ops
@@ -383,11 +507,12 @@ main:
       divider: true
     parent: dev-ops
     weight: 2
+  # Code Editor
   - name: Code Editor
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: dev-ops
@@ -397,11 +522,12 @@ main:
       divider: true
     parent: dev-ops
     weight: 4
+  # Infrastructure as Code
   - name: Infrastructure as Code
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: dev-ops
@@ -411,11 +537,12 @@ main:
       divider: true
     parent: dev-ops
     weight: 6
+  # Container
   - name: Container
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: dev-ops
@@ -425,22 +552,24 @@ main:
       divider: true
     parent: dev-ops
     weight: 8
+  # Management for Infrastructure
   - name: Management for Infrastructure
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: dev-ops
     url: "/dev-ops/management"
     weight: 9
-
+  # Sub for Data
+  # Data Engineering
   - name: Data Engineering
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: data
@@ -450,22 +579,24 @@ main:
       divider: true
     parent: data
     weight: 2
+  # Data Science
   - name: Data Science
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: data
     url: "/data/data-science"
     weight: 3
-
+  # Sub for AI
+  # Image Recognition
   - name: Image Recognition
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: ai
@@ -475,11 +606,12 @@ main:
       divider: true
     parent: ai
     weight: 2
+  # Machine Learning
   - name: Machine Learning
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: ai
@@ -489,11 +621,12 @@ main:
       divider: true
     parent: ai
     weight: 4
+  # Neural Networks
   - name: Neural Networks
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: ai
@@ -503,13 +636,29 @@ main:
       divider: true
     parent: ai
     weight: 6
+  # Speech Recognition
   - name: Speech Recognition
     params:
       description:
       icon:
-        name: file-earmark-text
+        name: journal
         vendor: bs
         className: text-primary-emphasis
     parent: ai
     url: "/ai/speech-recognition"
     weight: 7
+  - params:
+      divider: true
+    parent: ai
+    weight: 8
+  # Natural Language Processing
+  - name: Natural Language Processing
+    params:
+      description:
+      icon:
+        name: journal
+        vendor: bs
+        className: text-primary-emphasis
+    parent: ai
+    url: "/ai/natural-language-processing"
+    weight: 9

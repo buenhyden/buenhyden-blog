@@ -7,7 +7,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Backend
@@ -22,10 +22,10 @@ tags:
   - Database
   - RDBMS
   - MySQL
-lastmod: 2023-11-24T16:24:17.854Z
+lastmod: 2023-11-26T04:50:32.981Z
 ---
 
-![MySQL DB](/backend/mysql.png#center)
+![MySQL DB](/backend/mysql.png#center "https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png")
 
 ## Roadmap
 

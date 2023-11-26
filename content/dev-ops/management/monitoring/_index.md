@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
@@ -21,13 +21,16 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Monitoring System
-lastmod: 2023-11-24T16:56:11.009Z
+lastmod: 2023-11-26T05:45:42.592Z
 ---
 
-![Monitoring](/dev-ops/monitoring.png#center)
+![Monitoring](/dev-ops/types-it-monitoring.png#center "https://www.bmc.com/blogs/it-monitoring/")
 
 ## Reference
 
 [대시보드로 보는 모니터링의 미래, '풀스택 옵저버빌리티'](https://yozm.wishket.com/magazine/detail/2047/)  
 [옵저버빌리티를 통한 클라우드 비용 최적화 방안 및 사례](https://www.samsungsds.com/kr/insights/cloud-cost-optimization-in-observability.html)  
 [[서버관리] 프로메테우스 + 그라파나](https://velog.io/@jujuju914/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%ED%94%84%EB%A1%9C%EB%A9%94%ED%85%8C%EC%9A%B0%EC%8A%A4-%EA%B7%B8%EB%9D%BC%ED%8C%8C%EB%82%98)
+[모니터링링링(prometheus, grafana, promtail, loki)](https://velog.io/@junsj119/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EA%B4%80%EB%A0%A8)  
+[[EKS] 아주 가벼운 Loki + Grafana + Promtail 로그 시스템 구성](https://nyyang.tistory.com/159)  
+[Loki+Promtail+Grafana를 이용한 컨테이너 로그 모니터링](https://enginnersnack.tistory.com/m/13)

@@ -7,7 +7,7 @@ nav_weight: 1
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 authors:
   - Hyunyoun Jo
@@ -20,11 +20,11 @@ categories:
 tags:
   - Dev Ops
   - Container Orchestration(CO)
-lastmod: 2023-11-12T15:34:07.918Z
+lastmod: 2023-11-26T05:52:11.212Z
 linkTitle: Container Orchestration(CO) Tools
 ---
 
-![CO Tools](/dev-ops/co-tools.webp)
+![CO Tools](/dev-ops/co-tools.webp "https://www.suse.com/c/rancher_blog/kubernetes-mesos-and-swarm-comparing-the-rancher-orchestration-engine-options/")
 
 ## 종류
 

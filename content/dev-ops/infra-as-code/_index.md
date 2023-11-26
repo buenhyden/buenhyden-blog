@@ -8,7 +8,7 @@ nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
@@ -19,10 +19,10 @@ categories:
 tags:
   - Dev Ops
   - Infrastructure as Code
-lastmod: 2023-11-24T18:49:27.620Z
+lastmod: 2023-11-26T05:47:59.029Z
 ---
 
-![Infrastructure as Code](/dev-ops/infra-as-code.png#center)
+![Infrastructure as Code](/dev-ops/infra-as-code.png#center "https://www.linkedin.com/pulse/cisco-network-devices-backup-configuration-using-ansible-samy-2xccie")
 
 |                             | Chef          | Puppet        | Ansible     | SaltStack   | Terraform    |
 | --------------------------- | ------------- | ------------- | ----------- | ----------- | ------------ |

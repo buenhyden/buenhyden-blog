@@ -9,7 +9,7 @@ nav_weight: 4
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 series:
   - AI
 categories:
@@ -18,7 +18,7 @@ categories:
 tags:
   - AI
   - Image Recognition
-lastmod: 2023-11-24T16:23:00.601Z
+lastmod: 2023-11-26T02:07:23.375Z
 draft: false
 ---
 

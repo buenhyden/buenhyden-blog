@@ -8,7 +8,7 @@ nav_weight: 9
 nav_icon:
   vendor: bs
   name: book
-  color: indigo
+  color: blue
 featured: true
 series:
   - Dev Ops
