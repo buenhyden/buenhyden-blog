@@ -23,10 +23,10 @@ tags:
   - Network
   - REST API
   - Computer Science
-lastmod: 2023-11-11T15:58:39.756Z
+lastmod: 2023-11-26T10:41:02.988Z
 ---
 
-![What is Rest API](/computer-science/what-is-rest-api.png#center)
+![What is Rest API](/computer-science/what-is-rest-api.png#center "https://mannhowie.com/rest-api")
 
 Representational State Transfer(REST)는 API 작동 방식에 대한 조건을 부과하는 소프트웨어 아키텍처
 

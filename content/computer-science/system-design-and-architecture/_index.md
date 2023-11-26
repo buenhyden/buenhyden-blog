@@ -19,10 +19,10 @@ categories:
 tags:
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-11-24T16:30:58.448Z
+lastmod: 2023-11-26T10:17:21.108Z
 ---
 
-![System Design Master](/computer-science/system-design-master.webp#center)
+![System Design Master](/computer-science/system-design-master.webp#center "https://medium.com/gitconnected/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b")
 
 ## Roadmap
 

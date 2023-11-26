@@ -23,9 +23,9 @@ tags:
   - Network
   - RPC
   - Computer Science
-lastmod: 2023-11-11T15:58:37.938Z
+lastmod: 2023-11-26T10:41:41.263Z
 ---
 
-![RPC mechanism](/computer-science/rpc-mechanism.png#center)
+![RPC mechanism](/computer-science/rpc-mechanism.png#center "https://www.itrelease.com/2021/06/what-is-remote-procedure-call-rpc-in-operating-system/")
 
 ## Reference

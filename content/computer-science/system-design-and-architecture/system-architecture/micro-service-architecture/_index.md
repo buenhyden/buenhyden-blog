@@ -25,14 +25,12 @@ tags:
   - MSA
   - System Design & Architecture
   - System Architecture
-lastmod: 2023-11-25T05:13:04.111Z
+lastmod: 2023-11-26T10:21:25.531Z
 ---
-
-![Monolithic](/computer-science/monolithic-to-msa.webp)
 
 ## Micro Service Architecture vs Monolithic
 
-![MSA vs Monolithic](/computer-science/msa-monolithic.png#center)
+![MSA vs Monolithic](/computer-science/msa-monolithic.png#center "https://www.linkedin.com/posts/saadkhalid1987_architecture-monolithic-microservices-activity-7046390481009668096-nE_f?trk=public_profile")
 
 ## Reference
 

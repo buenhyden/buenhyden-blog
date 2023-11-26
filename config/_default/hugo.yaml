@@ -1,3 +1,6 @@
+build:
+  writeStats: true # required by PurgeCSS.
+
 baseURL: /
 title: Hyden's Dev Blog
 # Copyright, the {year} is the placeholder of this year.
@@ -39,9 +42,6 @@ taxonomies:
   tags: tags
   categories: categories
   series: series
-
-build:
-  writeStats: true # required by PurgeCSS.
 
 markup:
   goldmark:

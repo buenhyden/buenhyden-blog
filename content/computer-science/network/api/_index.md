@@ -21,10 +21,10 @@ tags:
   - API
   - Network
   - Computer Science
-lastmod: 2023-11-25T11:52:25.067Z
+lastmod: 2023-11-26T10:42:42.046Z
 ---
 
-![API](/computer-science/api.png#center)
+![API](/computer-science/api.png#center "https://medium.com/@singhrishabh1670/application-programming-interface-api-6f10964856cb")
 
 ## Reference
 

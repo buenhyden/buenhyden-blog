@@ -19,20 +19,20 @@ categories:
 tags:
   - QA Engineering
   - Computer Science
-lastmod: 2023-11-25T04:44:52.508Z
+lastmod: 2023-11-26T10:29:15.009Z
 ---
 
 ## Quality Assurance (QA)
 
-![Quality Assurance](/computer-science/quality-assurance-1.png#center)
+![Quality Assurance](/computer-science/quality-assurance-1.png#center "https://www.cpfcoindia.com/quality-assurance/")
 
 ## QA Process
 
-![Quality Assurance](/computer-science/Quality-Assurance-Process-1.jpg#center)
+![Quality Assurance](/computer-science/Quality-Assurance-Process-1.jpg#center "https://spinaciatech.com/services/testing-qa/")
 
 ## QA Role & Skills
 
-![Quality Assurance](/computer-science/0_IQmoYSo_cFPuzbEM.webp#center)
+![Quality Assurance](/computer-science/0_IQmoYSo_cFPuzbEM.webp#center "https://medium.com/hackernoon/qa-engineering-roles-skills-tools-and-responsibilities-in-a-testing-team-7c499adc8057")
 
 ## Roadmap
 

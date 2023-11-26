@@ -13,22 +13,26 @@ nav_icon:
 tags:
   - Chocolatey
   - Computer Science
+  - Operating System
   - Package
   - Windows
-  - Operating System
+  - OS
 categories:
   - Chocolatey
   - Computer Science
+  - Operating System
   - Package
   - Windows
-  - Operating System
+  - OS
 series:
   - Computer Science
   - Operating System
+  - OS
 featured: false
 images: ""
 authors: ""
-lastmod: 2023-11-24T17:13:48.824Z
+lastmod: 2023-11-26T11:57:19.270Z
+linkTitle: chocolatey
 ---
 
 ## Chocolatey
@@ -109,7 +113,7 @@ choco info <패키지 명>
 choco search <패키지 명> -f
 ```
 
-![chocolatey-package-info](notes/chocolatey-package-info.png)
+![chocolatey-package-info](/computer-science/chocolatey-package-info.png)
 
 ## Install Package
 

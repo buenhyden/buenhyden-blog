@@ -20,9 +20,9 @@ tags:
   - Data Structure
   - Data Structure & Algorithm
   - Computer Science
-lastmod: 2023-11-19T11:27:21.681Z
+lastmod: 2023-11-26T10:39:41.377Z
 ---
 
-![Data Structures](/computer-science/data-structures.png#center)
+![Data Structures](/computer-science/data-structures.png#center "https://www.linkedin.com/pulse/data-structure-smriti-saini")
 
 ## Reference

@@ -11,22 +11,25 @@ nav_icon:
   color: blue
 featured: true
 series:
-  - Operating System
   - Computer Science
+  - Operating System
+  - OS
 categories:
-  - Operating System
   - Computer Science
+  - Operating System
+  - OS
 tags:
-  - Operating System
   - Computer Science
-lastmod: 2023-11-26T01:11:58.701Z
+  - Operating System
+  - OS
+lastmod: 2023-11-26T11:57:12.253Z
 ---
 
-![OS](/computer-science/os.png#center)
+![OS](/computer-science/os.png#center "https://www.facebook.com/111349887407960/posts/what-is-an-operating-system-definitionan-operating-system-is-a-program-that-acts/147503810459234/")
 
 ## OS Components
 
-![Operating System Components](/computer-science/os-components.png#center)
+![Operating System Components](/computer-science/os-components.png#center "https://medium.com/@rahulptl556/mastering-operating-systems-from-basics-to-advanced-concepts-6f6275621cc5")
 
 ## Reference
 

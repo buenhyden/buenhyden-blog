@@ -21,10 +21,10 @@ tags:
   - Algorithm
   - Data Structure & Algorithm
   - Computer Science
-lastmod: 2023-11-24T16:26:09.717Z
+lastmod: 2023-11-26T10:39:15.476Z
 ---
 
-![Data algorithms](/computer-science/Taxonomy-of-the-algorithms.png#center)
+![Data algorithms](/computer-science/Taxonomy-of-the-algorithms.png#center "https://www.researchgate.net/figure/Taxonomy-of-the-algorithms-and-data-structures-considered-for-the-AlgoVis-tool_fig1_329481179")
 
 ## Reference
 

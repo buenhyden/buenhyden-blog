@@ -19,12 +19,20 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-26T01:13:32.622Z
+lastmod: 2023-11-26T10:26:58.468Z
 ---
+
+## 하나 이상의 서비스 구현을 추상화 하는 API
+
+![하나 이상의 서비스 구현을 추상화 하는 API](/computer-science/service-implementations.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
 
 ## Application Architecture
 
-![Application Architecture](/computer-science/service-architecture.jpg#center)
+![Application Architecture](/computer-science/service-architecture.jpg#center "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
+
+## 애플리케이션 서비스 아키텍처 선택 위한 결정 도구
+
+![애플리케이션 서비스 아키텍처 선택 위한 결정 도구](/computer-science/179757_102967_289.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
 
 ## Roadmap
 

@@ -37,15 +37,16 @@ video_js:
   css_url: https://unpkg.com/video.js/dist/video-js.min.css
   js_url: https://unpkg.com/video.js/dist/video.min.js
 
-images:
-  alignment_center_class_name: d-block text-center
-  alignment_end_class_name: float-end ms-2
-  alignment_start_class_name: float-start me-2
-  class_name: img-fluid
-  figure_caption_class_name: figure-caption
-  figure_class_name: figure
-  figure_image_class_name: figure-img
-  modern_format: webp
+hugomods:
+  images:
+    alignment_center_class_name: d-block text-center
+    alignment_end_class_name: float-end ms-2
+    alignment_start_class_name: float-start me-2
+    class_name: img-fluid
+    figure_caption_class_name: figure-caption
+    figure_class_name: figure
+    figure_image_class_name: figure-img
+    modern_format: webp
 
 hugopress:
   modules:

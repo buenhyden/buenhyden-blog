@@ -21,10 +21,10 @@ tags:
   - Software Architecture
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-24T16:29:21.535Z
+lastmod: 2023-11-26T10:27:33.876Z
 ---
 
-![Software Architecture](/computer-science/software-architecture.webp#center)
+![Software Architecture](/computer-science/software-architecture.webp#center "https://herbertograca.com/tag/explicit-architecture/")
 
 ## Reference
 

@@ -4,7 +4,7 @@ title: Protocol
 date: 2023-10-15T12:46:00+09:00
 description: null
 linkTitle: Protocol
-nav_weight: 4
+nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
@@ -21,10 +21,10 @@ tags:
   - Network
   - Protocol
   - Computer Science
-lastmod: 2023-11-25T11:54:48.630Z
+lastmod: 2023-11-26T11:47:18.015Z
 ---
 
-![Protocol](/computer-science/protocol.png#center)
+![Protocol](/computer-science/protocol.png#center "http://www.tcpipguide.com/free/t_TCPIPProtocols.htm")
 
 ## Reference
 

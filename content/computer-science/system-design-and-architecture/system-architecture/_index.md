@@ -21,10 +21,10 @@ tags:
   - System Architecture
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-11-24T16:30:36.948Z
+lastmod: 2023-11-26T10:19:34.430Z
 ---
 
-![Enterprise System Architecture](/computer-science/Enterprise-system-architecture-1.png#center)
+![Enterprise System Architecture](/computer-science/Enterprise-system-architecture-1.png#center "https://blogs.sw.siemens.com/thought-leadership/2018/11/26/future-ready-framework-for-enterprise-system-architecture/")
 
 ## Reference
 

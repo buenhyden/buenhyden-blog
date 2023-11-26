@@ -13,15 +13,18 @@ featured: true
 series:
   - Computer Science
   - Operating System
+  - OS
 categories:
+  - Computer Science
   - Operating System
   - Windows
-  - Computer Science
+  - OS
 tags:
+  - Computer Science
   - Operating System
   - Windows
-  - Computer Science
-lastmod: 2023-11-21T03:12:57.098Z
+  - OS
+lastmod: 2023-11-26T11:57:24.339Z
 ---
 
 ![Windows](/computer-science/windows.png#center)

@@ -23,9 +23,9 @@ tags:
   - Network
   - SOAP
   - Computer Science
-lastmod: 2023-11-11T15:58:35.090Z
+lastmod: 2023-11-26T10:42:23.151Z
 ---
 
-![Components of SOAP message](/computer-science/the_components_of_a_soap_message-f.png#center)
+![Components of SOAP message](/computer-science/the_components_of_a_soap_message-f.png#center "https://www.mindk.com/blog/api-development-explained/")
 
 ## Reference

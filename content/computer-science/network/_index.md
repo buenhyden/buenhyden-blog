@@ -19,10 +19,10 @@ categories:
 tags:
   - Network
   - Computer Science
-lastmod: 2023-11-26T01:11:52.555Z
+lastmod: 2023-11-26T10:38:49.885Z
 ---
 
-![Network](/computer-science/nettopo.webp#center)
+![Network](/computer-science/nettopo.webp#center "https://medium.com/minitechi/fundamentals-in-networking-1628a50672ea")
 
 ## Reference
 

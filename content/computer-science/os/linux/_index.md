@@ -11,8 +11,9 @@ nav_icon:
   color: blue
 featured: true
 series:
-  - Operating System
   - Computer Science
+  - Operating System
+  - OS
 categories:
   - Linux
   - Operating System
@@ -21,10 +22,10 @@ tags:
   - Linux
   - Operating System
   - Computer Science
-lastmod: 2023-11-24T19:01:22.020Z
+lastmod: 2023-11-26T11:57:36.440Z
 ---
 
-![Linux](/computer-science/linux.webp#center)
+![Linux](/computer-science/linux.webp#center "https://steamcommunity.com/sharedfiles/filedetails/?l=koreana&id=1553640761")
 
 ## Reference
 
