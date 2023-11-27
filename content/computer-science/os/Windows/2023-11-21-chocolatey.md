@@ -1,9 +1,9 @@
 ---
 type: docs
 title: chocolatey
+date: 2023-11-20T20:26:05.655Z
 linkTitle: chocolatey
 description: 윈도우 소프트웨어를 위한 머신 수준의 명령 줄 패키지 관리자이자 인스톨러
-date: 2023-11-20T20:26:05.655Z
 draft: published
 nav_weight: 1
 nav_icon:
@@ -29,9 +29,8 @@ series:
   - Operating System
   - OS
 featured: false
-images: ""
-authors: ""
-lastmod: 2023-11-27T01:32:14.619Z
+authors: Hyunyoun Jo
+lastmod: 2023-11-27T05:57:41.203Z
 ---
 
 ## Chocolatey

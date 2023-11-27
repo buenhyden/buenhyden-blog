@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-featured: true
 series:
   - Computer Science
   - Operating System
@@ -26,6 +25,8 @@ tags:
   - Linux
   - Operating System
   - OS
+featured: true
+authors: Hyunyoun Jo
 lastmod: 2023-11-26T11:57:57.113Z
 ---
 

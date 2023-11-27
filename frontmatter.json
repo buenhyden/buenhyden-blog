@@ -28,6 +28,18 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Databases] basic",
+      "path": "[[workspace]]/content/backend/databases/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[NoSQL] basic",
+      "path": "[[workspace]]/content/backend/databases/nosql/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Databases] nosql",
       "path": "[[workspace]]/content/backend/databases/nosql",
       "excludeSubdir": true,
@@ -112,6 +124,12 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[RDBMS] basic",
+      "path": "[[workspace]]/content/backend/databases/rdbms/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[RDBMS] mariadb",
       "path": "[[workspace]]/content/backend/databases/rdbms/mariadb",
       "excludeSubdir": true,
@@ -142,6 +160,13 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Message Broker] basic",
+      "path": "[[workspace]]/content/backend/message-broker/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+
+    {
       "title": "[Message Broker] kafka",
       "path": "[[workspace]]/content/backend/message-broker/kafka",
       "excludeSubdir": true,
@@ -160,6 +185,12 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Search Engine] basic",
+      "path": "[[workspace]]/content/backend/search-engine/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Search Engine] elasticsearch",
       "path": "[[workspace]]/content/backend/search-engine/elasticsearch",
       "excludeSubdir": true,
@@ -174,6 +205,12 @@
     {
       "title": "[Backend] web-server",
       "path": "[[workspace]]/content/backend/web-server",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Web Server ] basic",
+      "path": "[[workspace]]/content/backend/web-server/basic",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -364,12 +401,6 @@
       "contentTypes": ["default"]
     },
     {
-      "title": "[System design & Architecture] system-architecture",
-      "path": "[[workspace]]/content/computer-science/system-design-and-architecture/system-architecture",
-      "excludeSubdir": true,
-      "contentTypes": ["default"]
-    },
-    {
       "title": "[System Architecture] micro-service-architecture",
       "path": "[[workspace]]/content/computer-science/system-design-and-architecture/system-architecture/micro-service-architecture",
       "excludeSubdir": true,
@@ -546,6 +577,12 @@
     {
       "title": "[Container] container-orchestration",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Container Orchestration] basic",
+      "path": "[[workspace]]/content/dev-ops/container/container-orchestration/basic",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -776,31 +813,37 @@
       "contentTypes": ["default"]
     },
     {
-      "title": "[Security] keycloak",
+      "title": "[Infrastructure Management Security] basic",
+      "path": "[[workspace]]/content/dev-ops/management/security/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Infrastructure Management Security] keycloak",
       "path": "[[workspace]]/content/dev-ops/management/security/keycloak",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Security] single-sign-on",
+      "title": "[Infrastructure Management Security] single-sign-on",
       "path": "[[workspace]]/content/dev-ops/management/security/single-sign-on",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Security] oauth",
+      "title": "[Infrastructure Management Security] oauth",
       "path": "[[workspace]]/content/dev-ops/management/security/oauth",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Security] oidc",
+      "title": "[Infrastructure Management Security] oidc",
       "path": "[[workspace]]/content/dev-ops/management/security/oidc",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Security] saml",
+      "title": "[Infrastructure Management Security] saml",
       "path": "[[workspace]]/content/dev-ops/management/security/saml",
       "excludeSubdir": true,
       "contentTypes": ["default"]
@@ -914,6 +957,12 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Web Browser] basic",
+      "path": "[[workspace]]/content/frontend/web-browser/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Content] programming",
       "path": "[[workspace]]/content/programming",
       "excludeSubdir": true,
@@ -946,12 +995,6 @@
     {
       "title": "[Dart] basic",
       "path": "[[workspace]]/content/programming/programming-languages/dart/basic",
-      "excludeSubdir": true,
-      "contentTypes": ["default"]
-    },
-    {
-      "title": "[Programming Languages] Flutter",
-      "path": "[[workspace]]/content/programming/programming-languages/dart/flutter",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
@@ -1290,6 +1333,8 @@
         "Progressive Web App",
         "QA Engineering",
         "Search Engine",
+        "Service Mesh",
+        "Service Mesh Basic",
         "Software Architecture",
         "Software Design & Architecture",
         "Software Development Methodology",

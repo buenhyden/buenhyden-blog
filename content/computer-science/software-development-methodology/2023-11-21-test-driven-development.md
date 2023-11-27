@@ -4,7 +4,7 @@ title: Test Driven Development
 description: 반복 테스트를 이용한 소프트웨어 방법론
 linkTitle: Test Driven Development
 date: 2023-11-21T12:16:02.862Z
-lastmod: 2023-11-27T01:48:03.882Z
+lastmod: 2023-11-27T06:07:56.069Z
 draft: ""
 nav_weight: 1
 nav_icon:
@@ -22,7 +22,7 @@ series:
   - Software Development Methodology
 featured: false
 images: ""
-authors: ""
+authors: Hyunyoun Jo
 ---
 
 ![TDD Lifecyle](/computer-science/1920px-TDD_Global_Lifecycle.png "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C")

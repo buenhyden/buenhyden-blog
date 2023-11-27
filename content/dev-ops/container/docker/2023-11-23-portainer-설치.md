@@ -4,7 +4,7 @@ title: Portainer 설치
 description: Web GUI 기반 Container 관리 툴
 linkTitle: Portainer 설치
 date: 2023-11-23T09:49:52.650Z
-lastmod: 2023-11-27T01:48:23.909Z
+lastmod: 2023-11-27T06:08:07.283Z
 draft: ""
 nav_weight: 1
 nav_icon:
@@ -26,7 +26,7 @@ series:
   - Container
 featured: false
 images: ""
-authors: ""
+authors: Hyunyoun Jo
 ---
 
 ## Portainer란?
