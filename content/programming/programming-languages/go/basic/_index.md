@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Go Basic
 description: ""
-linkTitle: ""
+linkTitle: Go Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -20,7 +20,7 @@ tags:
   - Go
   - Programming Language
   - Go Basic
-lastmod: 2023-11-26T13:30:54.702Z
+lastmod: 2023-11-27T01:43:34.741Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

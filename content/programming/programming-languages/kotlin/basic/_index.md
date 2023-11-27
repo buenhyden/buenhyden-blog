@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Kotlin Basic
 description: ""
-linkTitle: ""
+linkTitle: Kotlin Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -20,7 +20,7 @@ tags:
   - Kotlin
   - Programming Language
   - Kotlin Basic
-lastmod: 2023-11-26T13:33:01.259Z
+lastmod: 2023-11-27T01:42:57.451Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: QA Engineering Basic
 description: ""
-linkTitle: ""
+linkTitle: QA Engineering Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -20,7 +20,7 @@ tags:
   - Computer Science
   - QA Engineering
   - QA Engineering Basic
-lastmod: 2023-11-26T13:12:28.930Z
+lastmod: 2023-11-27T01:32:41.658Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

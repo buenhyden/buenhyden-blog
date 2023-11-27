@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Kubernetes Basic
 description: ""
-linkTitle: ""
+linkTitle: Kubernetes Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -24,7 +24,7 @@ tags:
   - Dev Ops
   - Kubernetes
   - Kubernetes Basic
-lastmod: 2023-11-26T13:19:26.091Z
+lastmod: 2023-11-27T01:37:48.569Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

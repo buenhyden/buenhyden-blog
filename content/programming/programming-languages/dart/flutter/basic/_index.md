@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Flutter Basic
 description: ""
-linkTitle: ""
+linkTitle: Flutter Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Flutter
   - Programming Language
   - Flutter Basic
-lastmod: 2023-11-26T13:30:35.438Z
+lastmod: 2023-11-27T01:43:21.605Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

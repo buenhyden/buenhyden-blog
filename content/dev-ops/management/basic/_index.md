@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Infrastructure Management Basic
 description: ""
-linkTitle: ""
+linkTitle: Infrastructure Management Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Management for Infrastructure Basic
-lastmod: 2023-11-26T13:23:26.254Z
+lastmod: 2023-11-27T01:39:35.615Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

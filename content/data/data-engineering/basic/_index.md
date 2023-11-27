@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Data Engineering Basic
 description: ""
-linkTitle: ""
+linkTitle: Data Engineering Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Data
   - Data Engineering
   - Data Engineering Basic
-lastmod: 2023-11-26T13:16:29.457Z
+lastmod: 2023-11-27T01:34:35.967Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

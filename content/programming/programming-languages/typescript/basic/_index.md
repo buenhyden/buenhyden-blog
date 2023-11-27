@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Typescript Basic
 description: ""
-linkTitle: ""
+linkTitle: Typescript Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -20,7 +20,7 @@ tags:
   - Programming Language
   - Typescript
   - Typescript Basic
-lastmod: 2023-11-26T13:32:13.655Z
+lastmod: 2023-11-27T01:42:30.071Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

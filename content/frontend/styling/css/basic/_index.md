@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: CSS Basic
 description: ""
-linkTitle: ""
+linkTitle: CSS Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - CSS
   - Frontend
   - CSS Basic
-lastmod: 2023-11-26T13:27:15.927Z
+lastmod: 2023-11-27T01:41:12.272Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

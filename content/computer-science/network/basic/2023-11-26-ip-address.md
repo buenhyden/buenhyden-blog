@@ -27,7 +27,6 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-linktitle: ""
 ---
 
 - 네트워크에 연결된 장치가 라우터이든, 일반 서버이든, 모든 기계는 이 특수한 번호를 가지고 있어야 한다.

@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Angular Basic
 description: ""
-linkTitle: ""
+linkTitle: Angular Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Javascript
   - Programming Language
   - Angular Basic
-lastmod: 2023-11-26T13:36:39.673Z
+lastmod: 2023-11-27T01:44:22.599Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

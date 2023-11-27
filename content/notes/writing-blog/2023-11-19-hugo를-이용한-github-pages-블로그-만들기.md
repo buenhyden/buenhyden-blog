@@ -1,7 +1,7 @@
 ---
 type: notes
 title: Hugo를 이용한 GitHub Pages 블로그 만들기
-linktitle: ""
+linkTitle: "Hugo를 이용한 GitHub Pages 블로그 만들기"
 description: ""
 date: 2023-11-19T12:05:42.431Z
 draft: ""
@@ -19,7 +19,7 @@ series:
 featured: false
 images: ""
 authors: ""
-lastmod: 2023-11-26T09:43:17.955Z
+lastmod: 2023-11-27T01:26:02.674Z
 ---
 
 ## Prerequisites

@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Container Basic
 description: ""
-linkTitle: ""
+linkTitle: Container Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Container
   - Dev Ops
   - Container Basic
-lastmod: 2023-11-26T13:18:28.220Z
+lastmod: 2023-11-27T01:37:27.336Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

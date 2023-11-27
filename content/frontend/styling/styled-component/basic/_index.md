@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Styled Component Basic
 description: ""
-linkTitle: ""
+linkTitle: Styled Component Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Frontend
   - Styled-component
   - Styled-component Basic
-lastmod: 2023-11-26T13:28:45.305Z
+lastmod: 2023-11-27T01:41:51.202Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: HTML Basic
 description: ""
-linkTitle: ""
+linkTitle: HTML Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Frontend
   - HTML
   - HTML Basic
-lastmod: 2023-11-26T13:25:56.756Z
+lastmod: 2023-11-27T01:40:42.084Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

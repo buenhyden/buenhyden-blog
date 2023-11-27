@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Vue.js Basic
 description: ""
-linkTitle: ""
+linkTitle: Vue.js Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Vue.js
   - Vue.js Basic
   - Javascript
-lastmod: 2023-11-26T13:33:36.464Z
+lastmod: 2023-11-27T01:46:07.278Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

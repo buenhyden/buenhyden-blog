@@ -1,8 +1,6 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
-  "frontMatter.extends": [
-    "https://platen.io/frontmatter/platen.json"
-  ],
+  "frontMatter.extends": ["https://platen.io/frontmatter/platen.json"],
   "frontMatter.framework.id": "hugo",
   "frontMatter.content.publicFolder": {
     "path": "static",
@@ -13,911 +11,681 @@
   "frontMatter.dashboard.content.card.fields.state": true,
   "frontMatter.dashboard.content.card.fields.date": true,
   "frontMatter.experimental": true,
-  "frontMatter.extensibility.scripts": [
-    "[[workspace]]/.frontmatter/ui/external.js"
-  ],
+  "frontMatter.extensibility.scripts": ["[[workspace]]/.frontmatter/ui/external.js"],
   "frontMatter.preview.host": "http://localhost:1313",
-  "frontMatter.media.supportedMimeTypes": [
-    "image/*",
-    "video/*",
-    "audio/*"
-  ],
+  "frontMatter.media.supportedMimeTypes": ["image/*", "video/*", "audio/*"],
   "frontMatter.content.pageFolders": [
     {
       "title": "[Content] Backend",
       "path": "[[workspace]]/content/backend",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Backend] databases",
       "path": "[[workspace]]/content/backend/databases",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Databases] nosql",
       "path": "[[workspace]]/content/backend/databases/nosql",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NoSQL] column-dbs",
       "path": "[[workspace]]/content/backend/databases/nosql/column-dbs",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Column DBs] Cassandra",
       "path": "[[workspace]]/content/backend/databases/nosql/column-dbs/Cassandra",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Column DBs] HBase",
       "path": "[[workspace]]/content/backend/databases/nosql/column-dbs/HBase",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NoSQL] document-dbs",
       "path": "[[workspace]]/content/backend/databases/nosql/document-dbs",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Document DBs] mongodb",
       "path": "[[workspace]]/content/backend/databases/nosql/document-dbs/mongodb",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NoSQL] graph-dbs",
       "path": "[[workspace]]/content/backend/databases/nosql/graph-dbs",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Graph DBs] Neo4j",
       "path": "[[workspace]]/content/backend/databases/nosql/graph-dbs/Neo4j",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NoSQL] key-value",
       "path": "[[workspace]]/content/backend/databases/nosql/key-value",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Key Value DBs] redis",
       "path": "[[workspace]]/content/backend/databases/nosql/key-value/redis",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NoSQL] realtime",
       "path": "[[workspace]]/content/backend/databases/nosql/realtime",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NoSQL] time-series",
       "path": "[[workspace]]/content/backend/databases/nosql/time-series",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Time Series DBs] influx-db",
       "path": "[[workspace]]/content/backend/databases/nosql/time-series/influx-db",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Databases] rdbms",
       "path": "[[workspace]]/content/backend/databases/rdbms",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[RDBMS] mariadb",
       "path": "[[workspace]]/content/backend/databases/rdbms/mariadb",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[RDBMS] mysql",
       "path": "[[workspace]]/content/backend/databases/rdbms/mysql",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[RDBMS] postgresql",
       "path": "[[workspace]]/content/backend/databases/rdbms/postgresql",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[RDBMS] sqlite",
       "path": "[[workspace]]/content/backend/databases/rdbms/sqlite",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Backend] message-broker",
       "path": "[[workspace]]/content/backend/message-broker",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Message Broker] kafka",
       "path": "[[workspace]]/content/backend/message-broker/kafka",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Message Broker] rabbitmq",
       "path": "[[workspace]]/content/backend/message-broker/rabbitmq",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Backend] search-engine",
       "path": "[[workspace]]/content/backend/search-engine",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Search Engine] elasticsearch",
       "path": "[[workspace]]/content/backend/search-engine/elasticsearch",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Search Engine] opensearch",
       "path": "[[workspace]]/content/backend/search-engine/opensearch",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Backend] web-server",
       "path": "[[workspace]]/content/backend/web-server",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Web Server] nginx",
       "path": "[[workspace]]/content/backend/web-server/nginx",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Content] computer-science",
       "path": "[[workspace]]/content/computer-science",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Computer Science] data-structure-and-algorithm",
       "path": "[[workspace]]/content/computer-science/data-structure-and-algorithm",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Data Structure & Algorithm] algorithm",
       "path": "[[workspace]]/content/computer-science/data-structure-and-algorithm/algorithm",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Data Structure & Algorithm] data-structure",
       "path": "[[workspace]]/content/computer-science/data-structure-and-algorithm/data-structure",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Computer Science] network",
       "path": "[[workspace]]/content/computer-science/network",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Network] basic",
       "path": "[[workspace]]/content/computer-science/network/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Network] protocol",
       "path": "[[workspace]]/content/computer-science/network/protocol",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Network] http-status-code",
       "path": "[[workspace]]/content/computer-science/network/http-status-code",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Network] security",
       "path": "[[workspace]]/content/computer-science/network/security",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Network] api",
       "path": "[[workspace]]/content/computer-science/network/api",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[API] graphql",
       "path": "[[workspace]]/content/computer-science/network/api/graphql",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[GraphQL] apollo",
       "path": "[[workspace]]/content/computer-science/network/api/graphql/apollo",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[API] restapi",
       "path": "[[workspace]]/content/computer-science/network/api/restapi",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[API] rpc",
       "path": "[[workspace]]/content/computer-science/network/api/rpc",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[API] soap",
       "path": "[[workspace]]/content/computer-science/network/api/soap",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Computer Science] os",
       "path": "[[workspace]]/content/computer-science/os",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[OS] linux",
       "path": "[[workspace]]/content/computer-science/os/linux",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Linux] basic",
       "path": "[[workspace]]/content/computer-science/os/linux/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Linux] command",
       "path": "[[workspace]]/content/computer-science/os/linux/command",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[OS] Windows",
       "path": "[[workspace]]/content/computer-science/os/Windows",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Windows] basic",
       "path": "[[workspace]]/content/computer-science/os/Windows/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Computer Science] qa-engineering",
       "path": "[[workspace]]/content/computer-science/qa-engineering",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[QA Engineering] basic",
       "path": "[[workspace]]/content/computer-science/qa-engineering/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Computer Science] software-design-and-architecture",
       "path": "[[workspace]]/content/computer-science/software-design-and-architecture",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Software Design & Architecture] basic",
       "path": "[[workspace]]/content/computer-science/software-design-and-architecture/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Software Design & Architecture] software-architecture",
       "path": "[[workspace]]/content/computer-science/software-design-and-architecture/software-architecture",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[System Design & Architecture] system-architecture",
       "path": "[[workspace]]/content/computer-science/system-design-and-architecture/system-architecture",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Computer Science] software-development-methodology",
       "path": "[[workspace]]/content/computer-science/software-development-methodology",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Computer Science] system-design-and-architecture",
       "path": "[[workspace]]/content/computer-science/system-design-and-architecture",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[System design & Architecture] basic",
       "path": "[[workspace]]/content/computer-science/system-design-and-architecture/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[System design & Architecture] system-architecture",
       "path": "[[workspace]]/content/computer-science/system-design-and-architecture/system-architecture",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[System Architecture] micro-service-architecture",
       "path": "[[workspace]]/content/computer-science/system-design-and-architecture/system-architecture/micro-service-architecture",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[System design & Architecture] system-design-patterns",
       "path": "[[workspace]]/content/computer-science/system-design-and-architecture/system-design-patterns",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Content] data",
       "path": "[[workspace]]/content/data",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Data] data-engineering",
       "path": "[[workspace]]/content/data/data-engineering",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Data Engineering] basic",
       "path": "[[workspace]]/content/data/data-engineering/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Data Engineering] airflow",
       "path": "[[workspace]]/content/data/data-engineering/airflow",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Data] data-science",
       "path": "[[workspace]]/content/data/data-science",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Data Science] basic",
       "path": "[[workspace]]/content/data/data-science/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Content] dev-ops",
       "path": "[[workspace]]/content/dev-ops",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Dev Ops] CI & CD",
       "path": "[[workspace]]/content/dev-ops/ci-cd",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[CI & CD] CD",
       "path": "[[workspace]]/content/dev-ops/ci-cd/cd",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[CD] Argo CD",
       "path": "[[workspace]]/content/dev-ops/ci-cd/cd/argo-cd",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[CD] Jenkins",
       "path": "[[workspace]]/content/dev-ops/ci-cd/cd/jenkins",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[CI & CD] CI",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[CI] git",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Git] basic",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Git] branching",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/branching",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Git] customizing-git",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/customizing-git",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Git] distributed-git",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/distributed-git",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Git] git-internals",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-internals",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Git] git-lfs",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-lfs",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Git] git-on-the-server",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-on-the-server",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Git] git-tools",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/git-tools",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Git] github",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/git/github",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[CI] versioncontrol",
       "path": "[[workspace]]/content/dev-ops/ci-cd/ci/versioncontrol",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Dev Ops] code-editor",
       "path": "[[workspace]]/content/dev-ops/code-editor",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Code Editor] vs-code",
       "path": "[[workspace]]/content/dev-ops/code-editor/vs-code",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Dev Ops] container",
       "path": "[[workspace]]/content/dev-ops/container",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Container] basic",
       "path": "[[workspace]]/content/dev-ops/container/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Container] container-orchestration",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Container Orchestration] kubernetes",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/kubernetes",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Kubernetes] basic",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/kubernetes/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[kubernetes] helm",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/kubernetes/helm",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Container Orchestration] service-mesh",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/service-mesh",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Service Mesh] envoy",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/service-mesh/envoy",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Service Mesh] istio",
       "path": "[[workspace]]/content/dev-ops/container/container-orchestration/service-mesh/istio",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Container] container-registry",
       "path": "[[workspace]]/content/dev-ops/container/container-registry",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Container] docker",
       "path": "[[workspace]]/content/dev-ops/container/docker",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Docker] basic",
       "path": "[[workspace]]/content/dev-ops/container/docker/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Dev Ops] infra-as-code",
       "path": "[[workspace]]/content/dev-ops/infra-as-code",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure as Code] basic",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure as Code] ansible",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/ansible",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure as Code] configure-management",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/configure-management",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Configure Management] chef",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/configure-management/chef",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Configure Management] puppet",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/configure-management/puppet",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure as Code] provisioning",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/provisioning",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure as Code] terraform",
       "path": "[[workspace]]/content/dev-ops/infra-as-code/terraform",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Dev Ops] management",
       "path": "[[workspace]]/content/dev-ops/management",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Management] basic",
       "path": "[[workspace]]/content/dev-ops/management/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Management] application-monitoring",
       "path": "[[workspace]]/content/dev-ops/management/application-monitoring",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Application Monitoring] jaeger",
       "path": "[[workspace]]/content/dev-ops/management/application-monitoring/jaeger",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Application Monitoring] new-relic",
       "path": "[[workspace]]/content/dev-ops/management/application-monitoring/new-relic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Application Monitoring] open-telemetry",
       "path": "[[workspace]]/content/dev-ops/management/application-monitoring/open-telemetry",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Management] build",
@@ -927,746 +695,558 @@
       "title": "[Infrastructure Management] Infrastructure-monitoring",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Monitoring] grafana",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring/grafana",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Monitoring] nagios",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring/nagios",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Monitoring] prometheus",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring/prometheus",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Monitoring] zabbix",
       "path": "[[workspace]]/content/dev-ops/management/Infrastructure-monitoring/zabbix",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Management] log-management",
       "path": "[[workspace]]/content/dev-ops/management/log-management",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Log Management] fluentd",
       "path": "[[workspace]]/content/dev-ops/management/log-management/fluentd",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Log Management] loki",
       "path": "[[workspace]]/content/dev-ops/management/log-management/loki",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Log Management] splunk",
       "path": "[[workspace]]/content/dev-ops/management/log-management/splunk",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Management] logging",
       "path": "[[workspace]]/content/dev-ops/management/logging",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Management] monitoring",
       "path": "[[workspace]]/content/dev-ops/management/monitoring",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Monitoring] datadog",
       "path": "[[workspace]]/content/dev-ops/management/monitoring/datadog",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Management] observability",
       "path": "[[workspace]]/content/dev-ops/management/observability",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Infrastructure Management] security",
       "path": "[[workspace]]/content/dev-ops/management/security",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Security] keycloak",
       "path": "[[workspace]]/content/dev-ops/management/security/keycloak",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Security] single-sign-on",
       "path": "[[workspace]]/content/dev-ops/management/security/single-sign-on",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Security] oauth",
       "path": "[[workspace]]/content/dev-ops/management/security/oauth",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Security] oidc",
       "path": "[[workspace]]/content/dev-ops/management/security/oidc",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Security] saml",
       "path": "[[workspace]]/content/dev-ops/management/security/saml",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Content] Frontend",
       "path": "[[workspace]]/content/frontend",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Frontend] design",
       "path": "[[workspace]]/content/frontend/design",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Design] basic",
       "path": "[[workspace]]/content/frontend/design/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Design] ui",
       "path": "[[workspace]]/content/frontend/design/ui",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Design] ux",
       "path": "[[workspace]]/content/frontend/design/ux",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Frontend] html",
       "path": "[[workspace]]/content/frontend/html",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[HTML] basic",
       "path": "[[workspace]]/content/frontend/html/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Frontend] htmx",
       "path": "[[workspace]]/content/frontend/htmx",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[HTMX] basic",
       "path": "[[workspace]]/content/frontend/htmx/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Frontend] Progressive Web App",
       "path": "[[workspace]]/content/frontend/pwa",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Frontend] styling",
       "path": "[[workspace]]/content/frontend/styling",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Styling] css",
       "path": "[[workspace]]/content/frontend/styling/css",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[CSS] basic",
       "path": "[[workspace]]/content/frontend/styling/css/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Styling] sass",
       "path": "[[workspace]]/content/frontend/styling/sass",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[SASS] basic",
       "path": "[[workspace]]/content/frontend/styling/sass/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Styling] styled-component",
       "path": "[[workspace]]/content/frontend/styling/styled-component",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Styled Component] basic",
       "path": "[[workspace]]/content/frontend/styling/styled-component/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Frontend] web-browser",
       "path": "[[workspace]]/content/frontend/web-browser",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Content] programming",
       "path": "[[workspace]]/content/programming",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming] programming-basics",
       "path": "[[workspace]]/content/programming/programming-basics",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming] programming-languages",
       "path": "[[workspace]]/content/programming/programming-languages",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming] programming-paradigm",
       "path": "[[workspace]]/content/programming/programming-paradigm",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming Languages] Dart",
       "path": "[[workspace]]/content/programming/programming-languages/dart/flutter",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Dart] basic",
       "path": "[[workspace]]/content/programming/programming-languages/dart/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming Languages] Flutter",
       "path": "[[workspace]]/content/programming/programming-languages/dart/flutter",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Flutter] basic",
       "path": "[[workspace]]/content/programming/programming-languages/dart/flutter/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming Languages] go",
       "path": "[[workspace]]/content/programming/programming-languages/go",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Go] basic",
       "path": "[[workspace]]/content/programming/programming-languages/go/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming Languages] java",
       "path": "[[workspace]]/content/programming/programming-languages/java",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Java] basic",
       "path": "[[workspace]]/content/programming/programming-languages/java/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Java] spring",
       "path": "[[workspace]]/content/programming/programming-languages/java/spring",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Spring] basic",
       "path": "[[workspace]]/content/programming/programming-languages/java/spring/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming Languages] javascript",
       "path": "[[workspace]]/content/programming/programming-languages/javascript",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Javascript] basic",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Javascript] packages",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/packages",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Javascript] angular",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/angular",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Angular] basic",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/angular/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Typescript] JestJS",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/JestJS",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[JavaScript] nodejs",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NodeJS] basic",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NodeJS] expressjs",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/expressjs",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[ExpressJS] basic",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/expressjs/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NodeJS] nextjs",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nextjs",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[NextJS] basic",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nextjs/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Node.js] nestjs",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nestjs",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Nest.js] basic",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/nodejs/nestjs/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[JavaScript] react",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/react",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[React] basic",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/react/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[JavaScript] vuejs",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/vuejs",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[VueJS] basic",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/vuejs/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming Languages] Kotlin",
       "path": "[[workspace]]/content/programming/programming-languages/kotlin",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Kotlin] basic",
       "path": "[[workspace]]/content/programming/programming-languages/kotlin/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming Languages] python",
       "path": "[[workspace]]/content/programming/programming-languages/python",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Python] basic",
       "path": "[[workspace]]/content/programming/programming-languages/python/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Python] packages",
       "path": "[[workspace]]/content/programming/programming-languages/python/packages",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Python Packages] Data Analysis & Manipulation",
       "path": "[[workspace]]/content/programming/programming-languages/python/packages/data-analysis-and-manipulation",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Programming Languages] typescript",
       "path": "[[workspace]]/content/programming/programming-languages/typescript",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Typescript] basic",
       "path": "[[workspace]]/content/programming/programming-languages/typescript/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Typescript] packages",
       "path": "[[workspace]]/content/programming/programming-languages/typescript/packages",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Content] notes",
       "path": "[[workspace]]/content/notes",
       "excludeSubdir": true,
-      "contentTypes": [
-        "notes"
-      ]
+      "contentTypes": ["notes"]
     },
     {
       "title": "[Notes] writing-blog",
       "path": "[[workspace]]/content/notes/writing-blog",
       "excludeSubdir": true,
-      "contentTypes": [
-        "notes"
-      ]
+      "contentTypes": ["notes"]
     },
     {
       "title": "[Content] AI",
       "path": "[[workspace]]/content/ai",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[AI] basic",
       "path": "[[workspace]]/content/ai/basic",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[AI] image-recognition",
       "path": "[[workspace]]/content/ai/image-recognition",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[AI] machine-learning",
       "path": "[[workspace]]/content/ai/machine-learning",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[AI] neural-networks",
       "path": "[[workspace]]/content/ai/neural-networks",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[AI] speech-recognition",
       "path": "[[workspace]]/content/ai/speech-recognition",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[AI] Natural-Language-Processing",
       "path": "[[workspace]]/content/ai/Natural-Language-Processing",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Content] Statistics",
       "path": "[[workspace]]/content/Statistics",
       "excludeSubdir": true,
-      "contentTypes": [
-        "default"
-      ]
+      "contentTypes": ["default"]
     },
     {
       "title": "[Content] diary",
       "path": "[[workspace]]/content/diary",
       "excludeSubdir": true,
-      "contentTypes": [
-        "diary"
-      ]
+      "contentTypes": ["diary"]
     },
     {
       "title": "[Content] gallery",
       "path": "[[workspace]]/content/gallery",
       "excludeSubdir": true,
-      "contentTypes": [
-        "gallery"
-      ]
+      "contentTypes": ["gallery"]
     },
     {
       "title": "[Gallery] ordinary-life",
       "path": "[[workspace]]/content/gallery/ordinary-life",
-      "contentTypes": [
-        "gallery"
-      ]
+      "contentTypes": ["gallery"]
     },
     {
       "title": "[Gallery] travel",
       "path": "[[workspace]]/content/gallery/travel",
-      "contentTypes": [
-        "gallery"
-      ]
+      "contentTypes": ["gallery"]
     }
   ],
   "frontMatter.framework.startCommand": "npm run dev",
   "frontMatter.content.draftField": {
     "name": "draft",
     "type": "choice",
-    "choices": [
-      "draft",
-      "in progress",
-      "published"
-    ]
+    "choices": ["draft", "in progress", "published"]
   },
   "frontMatter.taxonomy.customTaxonomy": [
     {
@@ -1828,15 +1408,8 @@
           "title": "authors",
           "name": "authors",
           "type": "choice",
-          "choices": [
-            "Hyunyoun Jo"
-          ],
+          "choices": ["Hyunyoun Jo"],
           "default": "Hyunyoun Jo"
-        },
-        {
-          "title": "linktitle",
-          "name": "linktitle",
-          "type": "string"
         }
       ]
     },
@@ -1904,9 +1477,7 @@
           "title": "authors",
           "name": "authors",
           "type": "choice",
-          "choices": [
-            "Hyunyoun Jo"
-          ],
+          "choices": ["Hyunyoun Jo"],
           "default": "Hyunyoun Jo"
         },
         {
@@ -2002,7 +1573,7 @@
         },
         {
           "title": "linkTitle",
-          "name": "linktitle",
+          "name": "linkTitle",
           "type": "string"
         },
         {
@@ -2054,154 +1625,15 @@
           "title": "authors",
           "name": "authors",
           "type": "choice",
-          "choices": [
-            "Hyunyoun Jo"
-          ],
+          "choices": ["Hyunyoun Jo"],
           "default": "Hyunyoun Jo"
         },
         {
           "title": "lastmod",
           "name": "lastmod",
           "type": "datetime"
-        },
-        {
-          "title": "linkTitle",
-          "name": "linkTitle",
-          "type": "string"
         }
       ]
-    },
-    {
-      "fields": [
-        {
-          "name": "author",
-          "title": "Author's Name",
-          "type": "string"
-        },
-        {
-          "name": "title",
-          "single": true,
-          "title": "Title",
-          "type": "string"
-        },
-        {
-          "description": "Used as the title for this page when included in a list, like the section shortcode.",
-          "name": "linktitle",
-          "single": true,
-          "title": "Link Title",
-          "type": "string"
-        },
-        {
-          "description": "Displayed when paginated or in a list and as page description",
-          "name": "summary",
-          "title": "Summary",
-          "type": "string"
-        },
-        {
-          "description": "Determines order for pages; lower weight first",
-          "name": "weight",
-          "title": "Weight",
-          "type": "number"
-        },
-        {
-          "default": "{{now}}",
-          "isPublishDate": true,
-          "name": "date",
-          "title": "Publishing date",
-          "type": "datetime"
-        },
-        {
-          "name": "preview",
-          "title": "Content preview",
-          "type": "image"
-        },
-        {
-          "name": "draft",
-          "title": "Is in draft",
-          "type": "draft"
-        },
-        {
-          "description": "These options override site-wide settings for this page. Don't specify a value if you want to inherit the site defaults.",
-          "fields": [
-            {
-              "description": "Use this setting to specify whether the page title should be rendered as an <h1> element instead of the default <strong> element.",
-              "name": "title_as_heading",
-              "title": "Render Page Title as Heading",
-              "type": "boolean"
-            },
-            {
-              "fields": [
-                {
-                  "description": "Specifies whether to render the table of contents for the page. This setting overrides the site's display.table_of_contents.render, if set.",
-                  "name": "render",
-                  "title": "Render the Table of Contents",
-                  "type": "boolean"
-                },
-                {
-                  "description": "Specify the minimum heading level to include in the page's table of contents, overriding the site's display.table_of_contents.minimum_level setting. This value only affects the table of contents when use_built_in is set to false.",
-                  "name": "minimum_level",
-                  "title": "Minimum Heading Level",
-                  "type": "number"
-                },
-                {
-                  "description": "Specify the maximum heading level to include in the page's table of contents, overriding the site's display.table_of_contents.maximum_level setting. This value only affects the table of contents when use_built_in is set to false.",
-                  "name": "maximum_level",
-                  "title": "Maximum Heading Level",
-                  "type": "number"
-                },
-                {
-                  "description": "Choose whether to use Hugo's builtin table of contents or generate them with Platen, overriding the site's configuration for this page. This overrides the site's display.table_of_contents.use_built_in setting.",
-                  "name": "use_built_in",
-                  "title": "Use Built-In",
-                  "type": "boolean"
-                },
-                {
-                  "description": "Specify whether the table of contents should render its entries in an ordered list with numerals before each item. By default, the table of contents is rendered in an unordered list without any list markers, only with indents. This value overrides the site's display.table_of_contents.ordered_list setting.",
-                  "name": "ordered_list",
-                  "title": "As Ordered List",
-                  "type": "boolean"
-                }
-              ],
-              "name": "table_of_contents",
-              "title": "Table of Contents Options",
-              "type": "fields"
-            },
-            {
-              "name": "enable_comments",
-              "title": "Enable comments",
-              "type": "boolean"
-            },
-            {
-              "name": "exclude_from_search",
-              "title": "Exclude from site search",
-              "type": "boolean"
-            }
-          ],
-          "name": "platen",
-          "title": "Platen",
-          "type": "fields"
-        },
-        {
-          "name": "tags",
-          "title": "Tags",
-          "type": "tags"
-        },
-        {
-          "name": "categories",
-          "title": "Categories",
-          "type": "categories"
-        },
-        {
-          "default": "posts",
-          "hidden": true,
-          "name": "type",
-          "title": "type",
-          "type": "string"
-        }
-      ],
-      "name": "posts",
-      "pageBundle": false,
-      "previewPath": "posts"
     }
   ],
   "frontMatter.dashboard.openOnStart": true

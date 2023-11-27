@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Javascript Basic
 description: ""
-linkTitle: ""
+linkTitle: Javascript Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -20,7 +20,7 @@ tags:
   - Javascript
   - Programming Language
   - Javascript Basic
-lastmod: 2023-11-26T13:36:12.634Z
+lastmod: 2023-11-27T01:44:45.479Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

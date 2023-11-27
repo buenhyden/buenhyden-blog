@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: React Basic
 description: ""
-linkTitle: ""
+linkTitle: React Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - React
   - React Basic
   - Javascript
-lastmod: 2023-11-26T13:34:05.726Z
+lastmod: 2023-11-27T01:45:55.528Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

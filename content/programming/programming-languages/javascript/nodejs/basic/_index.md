@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Node.js Basic
 description: ""
-linkTitle: ""
+linkTitle: Node.js Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Node.js
   - Programming Language
   - Node.js Basic
-lastmod: 2023-11-26T13:35:50.806Z
+lastmod: 2023-11-27T01:45:01.694Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

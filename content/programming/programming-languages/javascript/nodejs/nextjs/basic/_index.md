@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Next.js Basic
 description: ""
-linkTitle: ""
+linkTitle: Next.js Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Next.js
   - Programming Language
   - Next.js Basic
-lastmod: 2023-11-26T13:34:34.208Z
+lastmod: 2023-11-27T01:45:40.366Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

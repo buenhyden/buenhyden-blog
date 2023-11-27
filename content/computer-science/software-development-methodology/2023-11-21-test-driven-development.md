@@ -2,9 +2,9 @@
 type: docs
 title: Test Driven Development
 description: 반복 테스트를 이용한 소프트웨어 방법론
-linkTitle: ""
+linkTitle: Test Driven Development
 date: 2023-11-21T12:16:02.862Z
-lastmod: 2023-11-26T10:21:48.995Z
+lastmod: 2023-11-27T01:48:03.882Z
 draft: ""
 nav_weight: 1
 nav_icon:

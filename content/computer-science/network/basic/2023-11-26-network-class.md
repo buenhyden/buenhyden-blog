@@ -1,10 +1,10 @@
 ---
 type: docs
-title: network class
-linkTitle: ""
+title: Network Class
+linkTitle: Network Class
 description: ""
 date: 2023-11-26T11:06:12.447Z
-lastmod: 2023-11-26T11:43:23.825Z
+lastmod: 2023-11-27T01:47:14.587Z
 draft: ""
 nav_weight: 0
 nav_icon:
@@ -27,5 +27,4 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-linktitle: ""
 ---

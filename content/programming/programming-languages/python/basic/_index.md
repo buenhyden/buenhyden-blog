@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Python Basic
 description: ""
-linkTitle: ""
+linkTitle: Python Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -20,7 +20,7 @@ tags:
   - Programming Language
   - Python
   - Python Basic
-lastmod: 2023-11-26T13:32:38.562Z
+lastmod: 2023-11-27T01:42:43.955Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

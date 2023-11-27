@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: HTMX Basic
 description: ""
-linkTitle: ""
+linkTitle: HTMX Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Frontend
   - HTMX
   - HTMX Basic
-lastmod: 2023-11-26T13:26:33.960Z
+lastmod: 2023-11-27T01:40:56.417Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

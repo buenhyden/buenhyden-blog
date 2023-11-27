@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Nest.js Basic
 description: ""
-linkTitle: ""
+linkTitle: Nest.js Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Nest.js
   - Programming Language
   - Nest.js Basic
-lastmod: 2023-11-26T13:34:58.155Z
+lastmod: 2023-11-27T01:45:27.966Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

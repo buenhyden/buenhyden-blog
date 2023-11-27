@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Java Basic
 description: ""
-linkTitle: ""
+linkTitle: Java Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -20,7 +20,7 @@ tags:
   - Java
   - Programming Language
   - Java Basic
-lastmod: 2023-11-26T13:31:18.345Z
+lastmod: 2023-11-27T01:43:47.593Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

@@ -2,9 +2,9 @@
 type: docs
 title: Globs(Glob Patterns) 문법 정리
 description: ""
-linkTitle: ""
+linkTitle: Globs(Glob Patterns) 문법 정리
 date: 2023-11-19T06:27:53.162Z
-lastmod: 2023-11-26T11:57:47.719Z
+lastmod: 2023-11-27T01:47:33.541Z
 draft: ""
 nav_weight: 1
 nav_icon:

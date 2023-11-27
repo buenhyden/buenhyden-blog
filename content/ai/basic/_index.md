@@ -1,7 +1,6 @@
 ---
 type: docs
-title: |
-  AI Basic
+title: AI Basic
 description: ""
 linkTitle: AI Basic
 nav_weight: 1
@@ -14,9 +13,11 @@ series:
   - AI
 categories:
   - AI
+  - AI Basic
 tags:
   - AI
-lastmod: 2023-11-26T13:09:56.279Z
+  - AI Basic
+lastmod: 2023-11-27T01:21:49.733Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Express.js Basic
 description: ""
-linkTitle: ""
+linkTitle: Express.js Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Express.js Basic
   - Programming Language
   - Javascript
-lastmod: 2023-11-26T13:35:27.141Z
+lastmod: 2023-11-27T01:45:15.081Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

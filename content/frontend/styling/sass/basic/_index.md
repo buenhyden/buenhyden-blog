@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: SASS Basic
 description: ""
-linkTitle: ""
+linkTitle: SASS Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Frontend
   - SASS
   - SASS Basic
-lastmod: 2023-11-26T13:27:54.786Z
+lastmod: 2023-11-27T01:41:25.248Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

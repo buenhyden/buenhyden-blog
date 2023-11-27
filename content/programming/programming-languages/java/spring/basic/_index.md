@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Spring Basic
 description: ""
-linkTitle: ""
+linkTitle: Spring Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Programming Language
   - Spring
   - Spring Basic
-lastmod: 2023-11-26T13:31:47.957Z
+lastmod: 2023-11-27T01:44:00.729Z
 date: 2023-11-26T13:02:12.342Z
 ---
 

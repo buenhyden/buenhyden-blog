@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ""
+title: Design Basic
 description: ""
-linkTitle: ""
+linkTitle: Design Basic
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -22,7 +22,7 @@ tags:
   - Design
   - Frontend
   - Design Basic
-lastmod: 2023-11-26T13:25:17.993Z
+lastmod: 2023-11-27T01:40:25.221Z
 date: 2023-11-26T13:02:12.342Z
 ---
 
