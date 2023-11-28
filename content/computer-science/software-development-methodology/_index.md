@@ -19,7 +19,7 @@ categories:
 tags:
   - Computer Science
   - Software Development Methodology
-lastmod: 2023-11-26T10:22:51.053Z
+lastmod: 2023-11-28T14:54:05.584Z
 draft: published
 ---
 
@@ -31,3 +31,4 @@ draft: published
 [소프트웨어 개발 프로세스 모델 6가지 종류 정리](https://onecoin-life.com/24)  
 [소프트웨어 개발 방법론](https://multicore-it.com/46)  
 [오픈소스 개발방법론](https://jangseokgyu.github.io/develop/)
+[소프트웨어 개발방법론](http://wiki.hash.kr/index.php/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0)

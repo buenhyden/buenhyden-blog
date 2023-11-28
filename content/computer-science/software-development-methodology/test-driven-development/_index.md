@@ -1,28 +1,32 @@
 ---
 type: docs
-title: Test Driven Development
-description: 반복 테스트를 이용한 소프트웨어 방법론
-linkTitle: Test Driven Development
-date: 2023-11-21T12:16:02.862Z
-lastmod: 2023-11-28T12:23:12.123Z
-nav_weight: 1
+title: Test Driven Development(TDD)
+date: 2023-11-28T14:31:11.197Z
+description: ""
+linkTitle: Test Driven Development(TDD)
+nav_weight: 8
 nav_icon:
   vendor: bs
   name: book
   color: blue
-tags:
+featured: true
+series:
   - Computer Science
   - Software Development Methodology
 categories:
   - Computer Science
   - Software Development Methodology
-series:
+  - Test Driven Development
+  - TDD
+tags:
   - Computer Science
   - Software Development Methodology
-featured: false
+  - Test Driven Development
+  - TDD
+lastmod: 2023-11-28T15:12:25.677Z
+draft: in progress
 images: ""
 authors: Hyunyoun Jo
-draft: in progress
 ---
 
 ![TDD Lifecyle](/computer-science/1920px-TDD_Global_Lifecycle.png "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C")
@@ -36,3 +40,4 @@ draft: in progress
 [Dev: TDD, 테스트 주도 개발의 기초와 예시](https://medium.com/hcleedev/dev-tdd-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EA%B8%B0%EC%B4%88%EC%99%80-%EC%98%88%EC%8B%9C-9689498a9caf)  
 [TDD란 무엇이며 왜 필요한가?](https://jay-flow.medium.com/tdd%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-18cb5979629c)  
 [TDD 방법론 (테스트 주도 개발) - 알기 쉽게 정리](https://inpa.tistory.com/entry/QA-%F0%9F%93%9A-TDD-%EB%B0%A9%EB%B2%95%EB%A1%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C)
+[테스트 코드 작성의 중요성](https://hanamon.kr/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bd%94%eb%93%9c-%ec%9e%91%ec%84%b1%ec%9d%98-%ec%a4%91%ec%9a%94%ec%84%b1/)
