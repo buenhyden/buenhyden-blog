@@ -22,6 +22,7 @@ tags:
   - Management for Infrastructure
   - Monitoring System
 lastmod: 2023-11-26T05:45:42.592Z
+draft: published
 ---
 
 ![Monitoring](/dev-ops/types-it-monitoring.png#center "https://www.bmc.com/blogs/it-monitoring/")

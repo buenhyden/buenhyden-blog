@@ -27,6 +27,7 @@ tags:
   - Zabbix
   - Management for Infrastructure
 lastmod: 2023-11-24T16:56:59.553Z
+draft: published
 ---
 
 ## Reference

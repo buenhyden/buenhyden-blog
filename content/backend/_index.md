@@ -15,8 +15,8 @@ categories:
   - Backend
 tags:
   - Backend
-lastmod: 2023-11-26T04:40:06.665Z
-draft: false
+lastmod: 2023-11-28T11:50:26.451Z
+draft: published
 ---
 
 ## Web Application

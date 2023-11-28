@@ -19,8 +19,8 @@ categories:
 tags:
   - Frontend
   - Progressive Web App
-lastmod: 2023-11-24T16:54:55.175Z
-draft: in progress
+lastmod: 2023-11-28T11:50:26.426Z
+draft: published
 ---
 
 ## Reference

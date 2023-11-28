@@ -20,6 +20,7 @@ tags:
   - Network
   - Computer Science
 lastmod: 2023-11-26T10:38:49.885Z
+draft: published
 ---
 
 ![Network](/computer-science/nettopo.webp#center "https://medium.com/minitechi/fundamentals-in-networking-1628a50672ea")

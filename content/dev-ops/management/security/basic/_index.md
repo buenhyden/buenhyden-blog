@@ -26,6 +26,7 @@ tags:
   - IT Security Basic
 lastmod: 2023-11-27T04:36:44.405Z
 date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

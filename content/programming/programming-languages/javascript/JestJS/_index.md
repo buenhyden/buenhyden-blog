@@ -24,6 +24,7 @@ tags:
   - JestJS
 lastmod: 2023-11-26T05:14:25.807Z
 date: 2023-11-19T06:32:31.887Z
+draft: published
 ---
 
 ![Jest JS](/programming/jest.png)

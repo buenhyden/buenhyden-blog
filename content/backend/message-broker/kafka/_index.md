@@ -24,7 +24,8 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-11-26T04:46:40.648Z
+lastmod: 2023-11-28T11:50:26.629Z
+draft: published
 ---
 
 ![Kafka](/backend/kafka.png#center "https://www.uber.com/en-ZA/blog/ureplicator-apache-kafka-replicator/")

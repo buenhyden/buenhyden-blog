@@ -25,6 +25,7 @@ tags:
   - Windows
   - OS
 lastmod: 2023-11-26T11:57:24.339Z
+draft: published
 ---
 
 ![Windows](/computer-science/windows.png#center)

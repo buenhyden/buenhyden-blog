@@ -22,6 +22,7 @@ tags:
   - Programming
 lastmod: 2023-11-26T05:01:33.462Z
 date: 2023-11-16T01:10:09.414Z
+draft: published
 ---
 
 ![TypeScript](/programming/typescript.webp#center "https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k")

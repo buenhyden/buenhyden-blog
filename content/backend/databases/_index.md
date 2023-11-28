@@ -19,7 +19,7 @@ tags:
   - Backend
   - Database
 lastmod: 2023-11-26T04:49:17.228Z
-slug: databases
+draft: published
 ---
 
 ## 데이터베이스는

@@ -23,6 +23,7 @@ tags:
   - Operating System
   - Computer Science
 lastmod: 2023-11-26T11:57:36.440Z
+draft: published
 ---
 
 ![Linux](/computer-science/linux.webp#center "https://steamcommunity.com/sharedfiles/filedetails/?l=koreana&id=1553640761")

@@ -24,6 +24,7 @@ tags:
   - Next.js Basic
 lastmod: 2023-11-27T01:45:40.366Z
 date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

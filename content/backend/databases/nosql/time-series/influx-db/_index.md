@@ -25,7 +25,7 @@ tags:
   - NoSQL
   - Document DBs
   - MongoDB
-lastmod: 2023-11-24T16:24:01.377Z
+draft: published
 ---
 
 ## Reference

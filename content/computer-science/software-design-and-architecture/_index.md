@@ -20,6 +20,7 @@ tags:
   - Software Design & Architecture
   - Computer Science
 lastmod: 2023-11-26T10:26:58.468Z
+draft: published
 ---
 
 ## 하나 이상의 서비스 구현을 추상화 하는 API

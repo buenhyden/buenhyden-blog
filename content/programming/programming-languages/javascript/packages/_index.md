@@ -24,9 +24,9 @@ tags:
   - Programming Language
   - Syntax
   - Package
-lastmod: 2023-11-16T01:08:31.030Z
+lastmod: 2023-11-28T11:50:26.289Z
 date: 2023-11-16T01:08:29.992Z
-draft: in progress
+draft: published
 ---
 
 ## Reference

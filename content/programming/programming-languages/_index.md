@@ -20,6 +20,7 @@ tags:
   - Programming Language
   - Programming
 lastmod: 2023-11-26T04:59:43.202Z
+draft: published
 ---
 
 ![Programming Language](/programming/programming-language.webp#center "https://www.computerhope.com/issues/ch000569.htm")

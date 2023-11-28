@@ -1588,7 +1588,7 @@
             {
               "title": "params",
               "name": "params",
-              "type": "fields",
+              "type": "fields",f
               "fields": [
                 {
                   "title": "author",

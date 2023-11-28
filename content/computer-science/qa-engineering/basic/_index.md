@@ -22,6 +22,7 @@ tags:
   - QA Engineering Basic
 lastmod: 2023-11-27T01:32:41.658Z
 date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

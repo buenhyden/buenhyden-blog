@@ -2,8 +2,8 @@
 type: blog
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
 description: 
+draft:
 noindex: false
 featured: false
 pinned: false

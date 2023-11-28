@@ -27,6 +27,7 @@ tags:
   - Windows Basic
   - OS
 lastmod: 2023-11-26T13:08:50.149Z
+draft: published
 ---
 
 ## Reference

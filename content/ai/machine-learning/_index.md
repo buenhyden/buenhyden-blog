@@ -18,8 +18,8 @@ categories:
 tags:
   - AI
   - Machine Learning
-lastmod: 2023-11-26T04:30:40.153Z
-draft: false
+lastmod: 2023-11-28T11:56:00.365Z
+draft: published
 ---
 
 ![Machine Learning](/ai/ml-algorithms.webp "https://johnvastola.medium.com/10-must-know-machine-learning-algorithms-for-data-scientists-adbf3272398a")

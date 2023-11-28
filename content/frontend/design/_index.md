@@ -24,6 +24,7 @@ tags:
   - UI
   - UX
 lastmod: 2023-11-26T04:58:19.654Z
+draft: published
 ---
 
 ![UI&UX](/frontend/ui-ux.jpg#center "https://medium.com/@sumaiya-journal/the-fundamentals-of-ui-and-ux-design-189d61821069")

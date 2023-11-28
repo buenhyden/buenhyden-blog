@@ -24,6 +24,7 @@ tags:
   - Angular
 lastmod: 2023-11-26T05:15:49.351Z
 date: 2023-11-16T07:19:57.057Z
+draft: published
 ---
 
 ![Angular](/programming/angular.webp)

@@ -24,7 +24,8 @@ tags:
   - Message Broker
   - tools
   - RabbitMQ
-lastmod: 2023-11-26T04:45:29.479Z
+lastmod: 2023-11-28T11:50:26.655Z
+draft: published
 ---
 
 ![RabbitMQ](/backend/rabbitmq.png#center "https://stackoverflow.com/questions/63545249/rabbitmq-queue-per-message-type-vs-queue-per-destination")

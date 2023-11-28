@@ -22,6 +22,7 @@ tags:
   - System Design & Architecture
   - System Design Patterns
 lastmod: 2023-11-21T03:12:34.247Z
+draft: published
 ---
 
 ## Reference

@@ -24,6 +24,7 @@ tags:
   - Dev Ops
   - Continuous Deployment(CD)
 lastmod: 2023-11-28T03:34:07.889Z
+draft: published
 ---
 
 ## Reference

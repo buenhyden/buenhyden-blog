@@ -24,6 +24,7 @@ tags:
   - Programming
 lastmod: 2023-11-26T05:08:14.994Z
 date: 2023-11-16T01:11:32.999Z
+draft: published
 ---
 
 ![Vue JS](/programming/vue-js.png#center "https://beginnersoftwaredeveloper.com/how-do-i-pass-data-from-one-view-to-another-view-in-vue/")

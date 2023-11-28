@@ -23,6 +23,7 @@ tags:
   - Container
   - Container Orchestration(CO)
 lastmod: 2023-11-26T05:52:42.031Z
+draft: published
 ---
 
 ![Center Orchestration](/dev-ops/automation-with-container-orchestration.png#center "https://devpress.csdn.net/cicd/62f4229bc6770329307f9728.html")

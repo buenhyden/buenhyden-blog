@@ -22,6 +22,7 @@ tags:
   - Design
   - UX
 lastmod: 2023-11-26T04:58:24.234Z
+draft: published
 ---
 
 - UX : USER EXPERIENCE

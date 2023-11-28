@@ -22,6 +22,7 @@ tags:
   - Styling
   - Styled-component
 lastmod: 2023-11-24T16:54:30.415Z
+draft: published
 ---
 
 ## Reference

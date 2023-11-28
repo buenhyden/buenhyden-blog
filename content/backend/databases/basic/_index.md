@@ -24,6 +24,7 @@ tags:
   - Database Basic
 lastmod: 2023-11-27T04:53:13.173Z
 date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

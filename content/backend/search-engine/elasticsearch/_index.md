@@ -24,7 +24,8 @@ tags:
   - Elasticsearch
   - Search Engine
   - tools
-lastmod: 2023-11-26T04:44:14.022Z
+lastmod: 2023-11-28T11:50:26.579Z
+draft: published
 ---
 
 ![ELK](/backend/elk.jpg#center "https://www.linkedin.com/posts/anezkahonke_brazil-softwaredevelopers-softwareengineer-activity-6937760892772077568-QfQd?trk=public_profile")

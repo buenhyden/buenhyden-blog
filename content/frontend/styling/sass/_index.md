@@ -24,6 +24,7 @@ tags:
   - SASS
   - SCSS
 lastmod: 2023-11-26T04:56:47.412Z
+draft: published
 ---
 
 ![SCSS-SASS](/frontend/scss-sass.png#center "https://yuvraj-agarkar.medium.com/your-very-first-sass-project-what-is-sass-how-to-use-it-d947e61d1713")

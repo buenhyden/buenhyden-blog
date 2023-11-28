@@ -18,7 +18,8 @@ categories:
 tags:
   - AI
   - Neural Networks
-lastmod: 2023-11-24T16:23:12.739Z
+lastmod: 2023-11-28T11:56:09.627Z
+draft: published
 ---
 
 ## Reference

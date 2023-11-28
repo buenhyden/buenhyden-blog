@@ -27,6 +27,7 @@ tags:
   - Chef
   - tools
 lastmod: 2023-11-26T05:49:23.899Z
+draft: published
 ---
 
 ![Chef Architecture](/dev-ops/chef%20architecture.png "https://www.tecmint.com/chef-automation-tool/")

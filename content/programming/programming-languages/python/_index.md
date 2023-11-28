@@ -21,6 +21,7 @@ tags:
   - Python
   - Programming
 lastmod: 2023-11-26T05:02:49.871Z
+draft: published
 ---
 
 ![Python](/programming/python.png#center "https://bootcamp.mapsahr.com/wp-content/uploads/2021/09/Python-Symbol-scaled.jpg")

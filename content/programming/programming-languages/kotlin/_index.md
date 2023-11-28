@@ -23,6 +23,7 @@ tags:
   - Programming
 lastmod: 2023-11-26T05:05:23.868Z
 date: 2023-11-11T14:03:12.053Z
+draft: published
 ---
 
 ![Kotlin](/programming/kotlin.png "http://kotlin.kr/")

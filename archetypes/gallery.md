@@ -2,8 +2,8 @@
 type: gallery
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
 description: 
+draft:
 resources:
   - src: foo.jpg
     title: Foo

@@ -26,7 +26,9 @@ tags:
   - Continuous Integration(CI)
   - Git
 featured: true
-lastmod: 2023-11-25T01:23:06.244Z
+lastmod: 2023-11-28T12:25:53.917Z
+draft: published
+linkTitle: Git Submodule
 ---
 
 프로젝트 수행중 다른 프로젝트를 함께 사용해야할 경우가 종종 있다. 함께 사용할 다른 프로젝트는 외부에서 개발한 라이브러리라던가 내부 여러 프로젝트에서 공통으로 사용할 라이브러리일 수 있다.

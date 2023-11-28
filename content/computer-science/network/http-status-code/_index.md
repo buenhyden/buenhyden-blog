@@ -24,6 +24,7 @@ tags:
   - Status Code
   - Computer Science
 lastmod: 2023-11-26T10:48:25.683Z
+draft: published
 ---
 
 ![HTTP Status Code](/computer-science/http-status-code.webp "https://octaviocode.medium.com/http-status-code-2a5622ea52a4")

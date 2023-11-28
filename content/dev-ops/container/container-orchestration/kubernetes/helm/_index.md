@@ -27,6 +27,7 @@ tags:
   - Kubernetes
   - Helm
 lastmod: 2023-11-22T01:28:32.636Z
+draft: published
 ---
 
 ## Reference

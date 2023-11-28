@@ -27,6 +27,7 @@ tags:
   - Puppet
   - tools
 lastmod: 2023-11-26T05:48:51.466Z
+draft: published
 ---
 
 ![Puppet Platform](/dev-ops/puppet_platform.webp "https://www.puppet.com/docs/puppet/8/platform_components")

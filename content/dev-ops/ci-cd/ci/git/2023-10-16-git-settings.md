@@ -27,7 +27,9 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-11-26T06:01:15.657Z
+lastmod: 2023-11-28T12:21:47.740Z
+draft: published
+linkTitle: Git 설정하기
 ---
 
 ![Git Status](/dev-ops/git-init.jpg "https://medium.com/@nmpegetis/git-how-to-start-code-changes-commit-and-push-changes-when-working-in-a-team-dbc6da3cd34c")

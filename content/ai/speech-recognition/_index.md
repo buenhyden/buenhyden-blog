@@ -18,7 +18,8 @@ categories:
 tags:
   - AI
   - Speech Recognition
-lastmod: 2023-11-24T16:23:16.577Z
+lastmod: 2023-11-28T11:56:14.286Z
+draft: published
 ---
 
 ## Reference

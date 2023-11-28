@@ -26,6 +26,7 @@ tags:
   - System Design & Architecture
   - System Architecture
 lastmod: 2023-11-28T00:47:04.096Z
+draft: published
 ---
 
 ## Micro Service Architecture vs Monolithic

@@ -1,10 +1,9 @@
 ---
 type: notes
 title: What is Firebase
-linkTitle: "What is Firebase"
+linkTitle: What is Firebase
 description: ""
 date: 2023-11-19T01:55:32.485Z
-draft: in progress
 nav_icon:
   vendor: bs
   name: book
@@ -20,7 +19,8 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-lastmod: 2023-11-27T01:26:02.638Z
+lastmod: 2023-11-28T12:17:34.262Z
+draft: in progress
 ---
 
 ## Reference

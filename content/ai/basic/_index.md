@@ -17,8 +17,9 @@ categories:
 tags:
   - AI
   - AI Basic
-lastmod: 2023-11-27T01:21:49.733Z
+lastmod: 2023-11-28T11:55:48.245Z
 date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

@@ -24,6 +24,7 @@ tags:
   - Container Orchestration(CO) Basic
 lastmod: 2023-11-27T04:43:43.645Z
 date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

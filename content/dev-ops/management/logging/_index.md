@@ -22,6 +22,7 @@ tags:
   - Management for Infrastructure
   - Logging
 lastmod: 2023-11-26T05:46:33.456Z
+draft: published
 ---
 
 ![Data Logging](/dev-ops/data-logging.png#center "https://www.motadata.com/blog/what-is-data-logging/")

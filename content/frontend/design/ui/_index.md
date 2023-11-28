@@ -22,6 +22,7 @@ tags:
   - Design
   - UI
 lastmod: 2023-11-26T04:58:28.142Z
+draft: published
 ---
 
 - UI : USER INTERFACE

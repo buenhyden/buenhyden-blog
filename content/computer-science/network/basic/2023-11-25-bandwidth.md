@@ -4,8 +4,7 @@ title: Bandwidth
 linkTitle: Bandwidth
 description: 특정한 기능을 수행할 수 있는 주파수의 범위
 date: 2023-11-25T12:37:01.427Z
-lastmod: 2023-11-27T01:46:52.983Z
-draft: ""
+lastmod: 2023-11-28T12:26:15.340Z
 nav_weight: 2
 nav_icon:
   vendor: bs
@@ -27,6 +26,7 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
+draft: in progress
 ---
 
 ## 대역폭의 종류

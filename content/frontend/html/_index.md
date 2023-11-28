@@ -19,6 +19,7 @@ tags:
   - Frontend
   - HTML
 lastmod: 2023-11-26T04:57:57.610Z
+draft: published
 ---
 
 ![HTML Page Structure](/frontend/html-page-structure.png#center "https://www.linkedin.com/pulse/html-basic-tanvir-hossain")

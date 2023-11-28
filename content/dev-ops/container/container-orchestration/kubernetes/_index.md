@@ -25,6 +25,7 @@ tags:
   - Container Orchestration(CO)
   - Kubernetes
 lastmod: 2023-11-26T05:53:44.824Z
+draft: published
 ---
 
 ![Kubernetes](/dev-ops/kubernetes.png#center "https://kubernetes.io/ko/docs/concepts/overview/components/")

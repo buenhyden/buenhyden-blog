@@ -20,6 +20,7 @@ tags:
   - Dev Ops
   - Infrastructure as Code
 lastmod: 2023-11-26T05:47:59.029Z
+draft: published
 ---
 
 ![Infrastructure as Code](/dev-ops/infra-as-code.png#center "https://www.linkedin.com/pulse/cisco-network-devices-backup-configuration-using-ansible-samy-2xccie")

@@ -22,6 +22,7 @@ tags:
   - CI/CD
   - Continuous Integration(CI)
 lastmod: 2023-11-26T05:59:34.654Z
+draft: published
 ---
 
 ![CI](/dev-ops/ci.png?width=512px#center "https://www.pagerduty.com/resources/learn/what-is-continuous-integration/")

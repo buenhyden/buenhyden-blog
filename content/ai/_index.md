@@ -16,8 +16,8 @@ categories:
   - AI
 tags:
   - AI
-lastmod: 2023-11-26T04:30:09.184Z
-draft: false
+lastmod: 2023-11-28T11:50:25.977Z
+draft: published
 ---
 
 ![What is Artificial Intelligence](/ai/what-is-artificial-intelligence-infographic.width-880.webp#center "https://www.fool.com/terms/a/artificial-intelligence/")

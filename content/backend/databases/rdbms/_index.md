@@ -22,6 +22,7 @@ tags:
   - Database
   - RDBMS
 lastmod: 2023-11-26T04:49:52.700Z
+draft: published
 ---
 
 ![RDBMS](/backend/rdbms.png#center "https://en.m.wikipedia.org/wiki/File:RDBMS_structure.png")

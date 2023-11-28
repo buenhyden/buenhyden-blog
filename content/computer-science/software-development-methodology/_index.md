@@ -20,6 +20,7 @@ tags:
   - Computer Science
   - Software Development Methodology
 lastmod: 2023-11-26T10:22:51.053Z
+draft: published
 ---
 
 ![Top 12 Software Development Methodologies](/computer-science/top-12-software-development-methodologies.jpg "https://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantages-disadvantages/")

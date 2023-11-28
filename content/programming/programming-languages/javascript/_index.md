@@ -22,6 +22,7 @@ tags:
   - Programming Language
   - Programming
 lastmod: 2023-11-27T06:26:32.124Z
+draft: published
 ---
 
 ![Javascript](/programming/javascript_badge.svg.png#center "https://commons.wikimedia.org/wiki/File:Javascript_badge.svg")

@@ -3,9 +3,10 @@ type: docs
 title: "{{ replace .Name "-" " " | title }}"
 # linkTitle:
 date: {{ .Date }}
-draft: true
 description: 
+draft:
 noindex: false
+draft:
 # comments: false
 nav_weight: 1000
 nav_icon:

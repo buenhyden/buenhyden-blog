@@ -22,6 +22,7 @@ tags:
   - Software Design & Architecture
   - Software Design Patterns
 lastmod: 2023-11-25T05:11:38.723Z
+draft: published
 ---
 
 ## Reference

@@ -4,7 +4,6 @@ title: Hugo를 이용한 GitHub Pages 블로그 만들기
 linkTitle: Hugo를 이용한 GitHub Pages 블로그 만들기
 description: ""
 date: 2023-11-19T12:05:42.431Z
-draft: ""
 tags:
   - Blog
   - Hugo
@@ -19,7 +18,8 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-lastmod: 2023-11-27T06:08:11.972Z
+lastmod: 2023-11-28T12:16:47.680Z
+draft: published
 ---
 
 ## Prerequisites

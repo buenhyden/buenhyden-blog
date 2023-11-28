@@ -28,6 +28,7 @@ tags:
   - tools
 lastmod: 2023-11-26T05:50:15.959Z
 authors: Hyunyoun Jo
+draft: published
 ---
 
 ![Ansible](/dev-ops/0_4TFAqKIJIuldtG9X.webp "https://medium.com/@itsinil/ansible-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%90%EB%8F%99%ED%99%94-82376d4b9ca3")

@@ -24,6 +24,7 @@ tags:
   - Continuous Integration(CI)
   - Version Control
 lastmod: 2023-11-26T06:00:41.339Z
+draft: published
 ---
 
 ## 로컬 버전관리(Local VCS)

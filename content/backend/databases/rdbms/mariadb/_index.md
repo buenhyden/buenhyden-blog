@@ -23,8 +23,7 @@ tags:
   - RDBMS
   - MariaDB
 lastmod: 2023-11-26T04:51:11.775Z
-images:
-  - /code_4932.png
+draft: published
 ---
 
 ![Maria DB](/backend/mariadb.png#center "https://namu.wiki/w/MariaDB")

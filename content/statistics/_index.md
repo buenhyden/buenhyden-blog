@@ -16,6 +16,8 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
+
+draft: published
 ---
 
 ## Reference

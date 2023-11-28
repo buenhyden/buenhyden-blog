@@ -22,6 +22,7 @@ tags:
   - Software Design & Architecture
   - Computer Science
 lastmod: 2023-11-26T10:27:33.876Z
+draft: published
 ---
 
 ![Software Architecture](/computer-science/software-architecture.webp#center "https://herbertograca.com/tag/explicit-architecture/")

@@ -4,8 +4,7 @@ title: Web Socket
 description: 하나의 TCP 접속에 전이중 통신 채널을 제공하는 컴퓨터 통신 프로토콜
 linkTitle: Web Socket
 date: 2023-11-12T10:38:46.815Z
-lastmod: 2023-11-26T10:44:13.861Z
-draft: in progress
+lastmod: 2023-11-28T12:24:07.053Z
 tags:
   - Computer Science
   - Network
@@ -26,6 +25,7 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
+draft: in progress
 ---
 
 ![Web Socket](/computer-science/web-socket.png#center "https://blog.stackademic.com/api-101-introduction-imp-of-api-paradigms-8d8e0e463f96")

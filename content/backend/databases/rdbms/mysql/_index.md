@@ -23,6 +23,7 @@ tags:
   - RDBMS
   - MySQL
 lastmod: 2023-11-26T04:50:32.981Z
+draft: published
 ---
 
 ![MySQL DB](/backend/mysql.png#center "https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png")

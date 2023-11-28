@@ -26,6 +26,7 @@ tags:
   - Continuous Integration(CI)
   - Git
 lastmod: 2023-11-26T06:03:48.921Z
+draft: published
 ---
 
 ## Git Version 관리

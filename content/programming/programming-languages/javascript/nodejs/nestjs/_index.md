@@ -26,6 +26,7 @@ tags:
   - Nest.js
 lastmod: 2023-11-26T05:11:35.899Z
 date: 2023-11-25T01:02:28.607Z
+draft: published
 ---
 
 ![Nest JS](/programming/nestjs.webp "https://bradbeighton.medium.com/nestjs-the-pros-and-cons-aff714607b07")

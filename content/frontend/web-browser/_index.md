@@ -20,6 +20,7 @@ tags:
   - Frontend
   - Web Browser
 lastmod: 2023-11-26T04:55:33.422Z
+draft: published
 ---
 
 ![Web Browser](/frontend/web-browser.webp#center "https://idealcomputer.biz/best-types-of-computer-software/")

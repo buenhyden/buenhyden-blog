@@ -4,8 +4,7 @@ title: IP address
 linkTitle: IP address
 description: 컴퓨터 네트워크에서 장치들이 서로를 인식하고 통신을 하기 위해서 사용하는 특수한 번호
 date: 2023-11-26T11:05:30.269Z
-lastmod: 2023-11-26T11:43:05.258Z
-draft: ""
+lastmod: 2023-11-28T12:25:24.036Z
 nav_weight: 0
 nav_icon:
   vendor: bs
@@ -27,6 +26,7 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
+draft: in progress
 ---
 
 - 네트워크에 연결된 장치가 라우터이든, 일반 서버이든, 모든 기계는 이 특수한 번호를 가지고 있어야 한다.

@@ -18,9 +18,9 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-11-26T04:47:27.451Z
+lastmod: 2023-11-28T12:27:01.842Z
 slug: database-타입
-draft: false
+draft: published
 ---
 
 ![Database Types](/backend/database-types.png "https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev")

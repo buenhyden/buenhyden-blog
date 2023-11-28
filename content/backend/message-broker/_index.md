@@ -19,7 +19,8 @@ categories:
 tags:
   - Backend
   - Message Broker
-lastmod: 2023-11-26T04:44:57.534Z
+lastmod: 2023-11-28T11:45:36.579Z
+draft: published
 ---
 
 ![Diagram Message Broker](/backend/diagram-message-broker.png "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%8B%9C%EC%A7%80_%EB%B8%8C%EB%A1%9C%EC%BB%A4")

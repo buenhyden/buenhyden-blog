@@ -27,6 +27,7 @@ tags:
   - SSO
   - Keycloak
 lastmod: 2023-11-25T08:21:20.149Z
+draft: published
 ---
 
 ## Reference

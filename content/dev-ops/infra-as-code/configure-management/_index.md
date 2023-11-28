@@ -22,6 +22,7 @@ tags:
   - Infrastructure as Code
   - Configure Management
 lastmod: 2023-11-24T08:29:14.089Z
+draft: published
 ---
 
 ## Reference

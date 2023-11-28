@@ -17,6 +17,7 @@ categories:
 tags:
   - Dev Ops
 lastmod: 2023-11-26T05:39:32.623Z
+draft: published
 ---
 
 ![Dev Ops](/dev-ops/devops.png?width=512px#center "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4")

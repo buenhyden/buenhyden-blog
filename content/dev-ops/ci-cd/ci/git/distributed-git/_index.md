@@ -26,6 +26,7 @@ tags:
   - Continuous Integration(CI)
   - Git
 lastmod: 2023-11-24T17:01:15.923Z
+draft: published
 ---
 
 ## Reference

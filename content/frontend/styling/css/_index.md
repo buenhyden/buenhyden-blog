@@ -22,6 +22,7 @@ tags:
   - Styling
   - CSS
 lastmod: 2023-11-26T04:57:26.328Z
+draft: published
 ---
 
 ![CSS](/frontend/css.png#center "https://www.oxfordwebstudio.com/en/did-you-know/what-is-css")

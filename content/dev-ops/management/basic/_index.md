@@ -24,6 +24,7 @@ tags:
   - Management for Infrastructure Basic
 lastmod: 2023-11-27T01:39:35.615Z
 date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

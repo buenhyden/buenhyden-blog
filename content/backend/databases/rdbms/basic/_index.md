@@ -26,6 +26,7 @@ tags:
   - RDBMS Basic
 lastmod: 2023-11-27T05:08:53.406Z
 date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

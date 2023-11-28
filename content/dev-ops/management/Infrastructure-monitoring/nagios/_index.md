@@ -27,6 +27,7 @@ tags:
   - Nagios
   - tools
 lastmod: 2023-11-24T16:57:08.582Z
+draft: published
 ---
 
 ## Reference

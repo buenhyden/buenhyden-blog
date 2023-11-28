@@ -1,6 +1,7 @@
 ---
 type: docs
 title: Python Basic
+date: 2023-11-26T13:02:12.342Z
 description: ""
 linkTitle: Python Basic
 nav_weight: 1
@@ -21,7 +22,7 @@ tags:
   - Python
   - Python Basic
 lastmod: 2023-11-27T01:42:43.955Z
-date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

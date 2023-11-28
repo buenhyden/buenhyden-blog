@@ -22,6 +22,7 @@ tags:
   - Software Design & Architecture Basic
 lastmod: 2023-11-27T01:33:32.572Z
 date: 2023-11-26T13:02:12.342Z
+draft: published
 ---
 
 ## Reference

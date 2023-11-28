@@ -21,6 +21,7 @@ tags:
   - Dev Ops
   - Container
 lastmod: 2023-11-26T05:50:39.799Z
+draft: published
 ---
 
 ![Container Strategy](/dev-ops/container-strategy.jpg#center "https://www.nextbigfuture.com/2019/09/what-is-a-container-in-information-technology-and-how-is-it-useful.html")

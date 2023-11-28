@@ -26,6 +26,7 @@ tags:
   - NoSQL
   - InfluxDB
 lastmod: 2023-11-26T04:53:21.946Z
+draft: published
 ---
 
 ![Mongo DB](/backend/mongodb.png#center "https://rahul319sinha.medium.com/regular-expression-in-mongodb-37f2161d9754")

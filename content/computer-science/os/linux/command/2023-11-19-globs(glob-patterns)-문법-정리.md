@@ -4,8 +4,7 @@ title: Globs(Glob Patterns) 문법 정리
 description: ""
 linkTitle: Globs(Glob Patterns) 문법 정리
 date: 2023-11-19T06:27:53.162Z
-lastmod: 2023-11-27T06:07:47.873Z
-draft: ""
+lastmod: 2023-11-28T12:23:37.998Z
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -30,6 +29,7 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
+draft: in progress
 ---
 
 ## Reference

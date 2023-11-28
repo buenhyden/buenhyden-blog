@@ -24,6 +24,7 @@ tags:
   - Jenkins
   - Continuous Deployment(CD)
 lastmod: 2023-11-28T03:34:03.853Z
+draft: published
 ---
 
 ## Reference

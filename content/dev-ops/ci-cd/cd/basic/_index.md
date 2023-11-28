@@ -24,6 +24,7 @@ tags:
   - Dev Ops
   - Continuous Deployment Basic
 lastmod: 2023-11-28T03:35:08.649Z
+draft: published
 ---
 
 ## Reference

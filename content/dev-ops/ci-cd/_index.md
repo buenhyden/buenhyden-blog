@@ -20,6 +20,7 @@ tags:
   - Dev Ops
   - CI/CD
 lastmod: 2023-11-26T05:56:05.421Z
+draft: published
 ---
 
 ![CI & CD2](/dev-ops/ci-cd2.png?width=512px#center "https://www.geeksforgeeks.org/ci-cd-continuous-integration-and-continuous-delivery/")
