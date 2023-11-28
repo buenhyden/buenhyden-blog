@@ -4,7 +4,7 @@ title: ArgoCD
 date: 2023-11-04T12:52:00+09:00
 description: GitOps를 구현하기 위한 도구 중 하나로 Kubernetes 애플리케이션의 자동 배포를 위한 오픈소스 도구
 linkTitle: ArgoCD
-nav_weight: 4
+nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
@@ -23,7 +23,7 @@ tags:
   - CI/CD
   - Dev Ops
   - Continuous Deployment(CD)
-lastmod: 2023-11-26T13:07:57.507Z
+lastmod: 2023-11-28T03:34:07.889Z
 ---
 
 ## Reference

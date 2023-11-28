@@ -18,7 +18,7 @@ categories:
 tags:
   - Data Engineering
   - Data
-lastmod: 2023-11-26T05:26:07.178Z
+lastmod: 2023-11-28T04:27:27.737Z
 ---
 
 ## Roadmap
@@ -34,3 +34,4 @@ lastmod: 2023-11-26T05:26:07.178Z
 [데이터 분석가가 직접 정의, 배포, 관리하는 뱅크샐러드 데이터 파이프라인](https://blog.banksalad.com/tech/datapipe/)
 [오토피디아 데이터 웨어하우스 구축하기](https://blog.doctor-cha.com/building-autopedia-data-warehouse)  
 [실시간 데이터 파이프라인 구축기 - Terraform으로 EKS를 띄워보자](https://blog.doctor-cha.com/buliding-streaming-data-pipeline-deploy-eks-with-terraform?ref=codenary)
+[더 나은 빅데이터 처리·분석을 위한 변화 (CDH의 Apache Hadoop 전환기)](https://devocean.sk.com/search/techBoardDetail.do?ID=163549&boardType=&query=gateway&searchData=&page=&subIndex=&idList=)
