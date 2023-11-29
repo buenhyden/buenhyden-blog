@@ -19,7 +19,7 @@ categories:
 tags:
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-11-26T10:17:21.108Z
+lastmod: 2023-11-29T00:51:53.459Z
 draft: published
 ---
 
@@ -33,8 +33,6 @@ draft: published
 
 ## Reference
 
-[성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙](https://www.samsungsds.com/kr/insights/successful-application-modernization.html)  
-[[번역] 10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)  
 [The System Design Primer](https://github.com/donnemartin/system-design-primer)  
 [모든 개발자가 시스템 디자인을 배워야 하는 이유](https://yozm.wishket.com/magazine/detail/1745/)  
 [모놀리식 vs 마이크로 서비스, 어떤 아키텍처를 선택할까?](https://yozm.wishket.com/magazine/detail/1813/)  

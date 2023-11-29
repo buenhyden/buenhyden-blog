@@ -21,7 +21,7 @@ tags:
   - Computer Science
   - System Design & Architecture
   - System Design Patterns
-lastmod: 2023-11-21T03:12:34.247Z
+lastmod: 2023-11-29T00:51:28.546Z
 draft: published
 ---
 

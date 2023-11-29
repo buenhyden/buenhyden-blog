@@ -20,9 +20,12 @@ tags:
   - Computer Science
   - Software Design & Architecture
   - Software Design & Architecture Basic
-lastmod: 2023-11-27T01:33:32.572Z
+lastmod: 2023-11-29T00:51:17.812Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---
 
 ## Reference
+
+[DDD 핵심만 빠르게 이해하기](https://happycloud-lee.tistory.com/94)  
+[https://incheol-jung.gitbook.io/docs/q-and-a/architecture/undefined](https://incheol-jung.gitbook.io/docs/q-and-a/architecture/undefined)

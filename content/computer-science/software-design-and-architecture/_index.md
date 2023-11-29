@@ -19,7 +19,7 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-26T10:26:58.468Z
+lastmod: 2023-11-29T00:47:55.519Z
 draft: published
 ---
 
@@ -43,6 +43,8 @@ draft: published
 
 ## Reference
 
+[성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙](https://www.samsungsds.com/kr/insights/successful-application-modernization.html)  
+[[번역] 10가지 소프트웨어 아키텍처 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/)  
 [리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182?category=941866)  
 [소프트웨어 '설계'의 정의는 변해야 한다](https://yozm.wishket.com/magazine/detail/2307/)  
 [소프트웨어의 복잡한 설계를 관리하는 도구](https://yozm.wishket.com/magazine/detail/1653/)  
