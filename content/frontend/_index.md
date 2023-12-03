@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-11-26T04:54:53.944Z
+lastmod: 2023-12-02T00:47:53.305Z
 draft: published
 ---
 
@@ -49,3 +49,5 @@ draft: published
 [웹 프론트엔드 개발자가 웹 성능 최적화를 해야 하는 이유](https://devocean.sk.com/search/techBoardDetail.do?ID=164863)  
 [웹 프론트엔드 성능 측정 방법 및 Tips (1)](https://devocean.sk.com/blog/techBoardDetail.do?ID=165395&ref=codenary)  
 [성능 자동화도구, 라이트하우스](https://devocean.sk.com/blog/techBoardDetail.do?ID=165248&ref=codenary)
+[모던 프론트엔드 개발 노하우, 5가지만 기억하세요!](https://www.lgcns.com/blog/cns-tech/46396/)  
+[컴포넌트 기반으로 모던 프론트엔드 개발하기](https://www.lgcns.com/blog/cns-tech/48514/)

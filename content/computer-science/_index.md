@@ -16,8 +16,9 @@ categories:
   - Computer Science
 tags:
   - Computer Science
-lastmod: 2023-11-26T11:50:45.841Z
+lastmod: 2023-12-01T21:52:36.255Z
 draft: published
+slug: computer-science
 ---
 
 ## Roadmap

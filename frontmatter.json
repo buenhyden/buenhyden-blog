@@ -1383,6 +1383,7 @@
     {
       "name": "default",
       "pageBundle": false,
+      "template": "[[workspace]]/.frontmatter/templates/default.md",
       "fields": [
         {
           "title": "type",

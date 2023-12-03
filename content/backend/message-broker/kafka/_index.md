@@ -24,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-11-28T11:50:26.629Z
+lastmod: 2023-12-01T11:14:18.190Z
 draft: published
 ---
 
@@ -44,3 +44,4 @@ draft: published
 [[Kafka] Docker Compose 를 이용하여 Single Broker 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=164007&boardType=)
 [Kafka-UI Tool 을 이용하여 Kafka 관리하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163980&boardType=)  
 [간단한 카프카 환경 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163709&boardType=)
+[카프카 커넥트를 데이터 파이프라인으로 사용하는 이유? kafka-sink-connector 오픈소스 언빡싱!](https://tech.kakao.com/2023/01/12/introduce-kafka-sink-connector/)

@@ -16,7 +16,7 @@ categories:
   - Dev Ops
 tags:
   - Dev Ops
-lastmod: 2023-11-26T05:39:32.623Z
+lastmod: 2023-12-02T00:45:23.384Z
 draft: published
 ---
 
@@ -42,3 +42,4 @@ draft: published
 [데브옵스(DevOps) vs 데브섹옵스(DevSecOps)](https://yozm.wishket.com/magazine/detail/1553/)  
 [아마존, 페북도 한다는 데브옵스(DevOps)란?](https://yozm.wishket.com/magazine/detail/223/)  
 [데브옵스(DevOps)의 최고기법 7가지, 대공개!](https://yozm.wishket.com/magazine/detail/246/)
+[소프트웨어로 100% 자동화된 ‘데브옵스(DevOps)’ 구축하기](https://www.lgcns.com/blog/cns-tech/cloud/42845/)
