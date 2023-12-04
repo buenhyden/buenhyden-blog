@@ -21,7 +21,7 @@ tags:
   - API
   - Network
   - Computer Science
-lastmod: 2023-11-26T10:42:42.046Z
+lastmod: 2023-12-04T08:32:51.281Z
 draft: published
 ---
 
@@ -33,3 +33,4 @@ draft: published
 [SOAP API vs REST API, 두 방식의 가장 큰 차이점은?](https://yozm.wishket.com/magazine/detail/119/)  
 [API란 무엇인가요? (feat. 인터페이스)](https://yozm.wishket.com/magazine/detail/727/)  
 [서비스와 데이터 이해하기, API란?](https://yozm.wishket.com/magazine/detail/625/)
+[6 API Trends and Practices to Know for 2024](https://thenewstack.io/6-api-trends-and-practices-to-know-for-2024/)

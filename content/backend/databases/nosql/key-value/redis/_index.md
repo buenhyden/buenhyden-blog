@@ -25,10 +25,11 @@ tags:
   - Key Value
   - NoSQL
   - Redis
-lastmod: 2023-11-24T16:23:51.221Z
+lastmod: 2023-12-04T10:00:04.208Z
 draft: published
 ---
 
 ## Reference
 
 [Redis Official Homepage](https://redis.io/)
+[Redis 사용량 타노스하기](https://news.hada.io/topic?id=11270)

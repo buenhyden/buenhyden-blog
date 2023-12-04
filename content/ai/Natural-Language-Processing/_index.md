@@ -18,10 +18,15 @@ categories:
 tags:
   - AI
   - Natural Language Processing
-lastmod: 2023-11-28T11:56:05.306Z
+lastmod: 2023-12-04T09:57:18.621Z
 draft: published
 ---
 
 ## Reference
 
 [컴퓨터가 인간의 언어를? 경이로운 자연어 처리(NLP) 활용사례](https://yozm.wishket.com/magazine/detail/239/)
+[GN⁺: LLM 시각화(Visualization)](https://bbycroft.net/llm)
+[공개된 GPTs 를 모아놓은 리스트](https://gptdirectory.cc/gpts)
+[상용 수준의 LLM 애플리케이션을 위한 개발자 가이드 (번역 글)](https://news.hada.io/topic?id=12011)
+[GN⁺: 임베딩(Embeddings): 그것이 무엇인지와 왜 중요한지](https://news.hada.io/topic?id=11518)
+[LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)](https://news.hada.io/topic?id=11517)

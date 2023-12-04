@@ -25,7 +25,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-11-26T06:03:48.921Z
+lastmod: 2023-12-04T10:01:25.528Z
 draft: published
 ---
 
@@ -39,3 +39,6 @@ draft: published
 [Git 200% 활용하기](https://yozm.wishket.com/magazine/detail/1743/)  
 [Git / GitHub 안내서 핵심만 제대로 배우기](https://subicura.com/git/?utm_source=subicura.com&utm_medium=referral&utm_campaign=blog)
 [git 충돌 해결..어떤 시각적 비교 도구 쓰시나요?](https://devocean.sk.com/blog/techBoardDetail.do?ID=163875&boardType=techBlog)
+[Git 워크플로 향상하는 15가지 팁](https://news.hada.io/topic?id=11595)
+[Git 형상관리 잘하는 법](https://news.hada.io/topic?id=11403)
+[GN⁺: .git 디렉토리안에는 무엇이 있을까?](https://news.hada.io/topic?id=11232)

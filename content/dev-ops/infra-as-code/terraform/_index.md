@@ -26,7 +26,7 @@ tags:
   - Infrastructure Provisioning
   - Terraform
   - tools
-lastmod: 2023-11-26T05:48:28.993Z
+lastmod: 2023-12-04T09:47:27.484Z
 draft: published
 ---
 
@@ -35,3 +35,5 @@ draft: published
 ## Reference
 
 [Terraform Official Homepage](https://www.terraform.io/)
+[Terraform Loop을 효과적으로 사용하기](https://insight.infograb.net/blog/2022/10/21/terraform-loop/)
+[Terraform 개념 잡기](https://news.hada.io/topic?id=11568)

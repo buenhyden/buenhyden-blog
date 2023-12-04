@@ -18,7 +18,7 @@ categories:
 tags:
   - Data Engineering
   - Data
-lastmod: 2023-11-28T04:27:27.737Z
+lastmod: 2023-12-04T08:33:42.882Z
 draft: published
 ---
 
@@ -36,3 +36,4 @@ draft: published
 [오토피디아 데이터 웨어하우스 구축하기](https://blog.doctor-cha.com/building-autopedia-data-warehouse)  
 [실시간 데이터 파이프라인 구축기 - Terraform으로 EKS를 띄워보자](https://blog.doctor-cha.com/buliding-streaming-data-pipeline-deploy-eks-with-terraform?ref=codenary)
 [더 나은 빅데이터 처리·분석을 위한 변화 (CDH의 Apache Hadoop 전환기)](https://devocean.sk.com/search/techBoardDetail.do?ID=163549&boardType=&query=gateway&searchData=&page=&subIndex=&idList=)
+[The Architecture Of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)

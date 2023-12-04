@@ -19,7 +19,7 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-29T00:47:55.519Z
+lastmod: 2023-12-04T09:48:20.505Z
 draft: published
 ---
 
@@ -59,3 +59,4 @@ draft: published
 [software-architecture-books](https://github.com/mhadidg/software-architecture-books)
 [성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙](https://www.samsungsds.com/kr/insights/successful-application-modernization.html?ref=codenary)
 [현대 앱 아키텍쳐 설명 (Backend/Frontend/MVC/Flux/Redux/M](https://devocean.sk.com/blog/techBoardDetail.do?ID=164484&boardType=techBlog)
+[GN⁺: 소프트웨어 아키텍처 다이어그램 그리는 방법 (2022)](https://news.hada.io/topic?id=11565)

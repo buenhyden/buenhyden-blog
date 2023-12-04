@@ -18,7 +18,7 @@ categories:
 tags:
   - Frontend
   - HTML
-lastmod: 2023-11-26T04:57:57.610Z
+lastmod: 2023-12-04T09:33:25.700Z
 draft: published
 ---
 
@@ -33,3 +33,5 @@ draft: published
 ['HTML'에 대한 모든 것, 한 번에 빠르게 알아보기](https://yozm.wishket.com/magazine/detail/201/)  
 [HTML, CSS 기초 입문부터 HTML CSS 적용 방법, 예제까지](https://www.codestates.com/blog/content/html-css-%EA%B8%B0%EC%B4%88)  
 [문서 객체 모델 DOM 과 자바스크립트 JavaScriptㅣ생성 방식 및 접근 방법](https://www.codestates.com/blog/content/dom-javascript)
+[GN⁺: HTML 웹 컴포넌트](https://news.hada.io/topic?id=11839)
+[GN⁺: HTML First](https://news.hada.io/topic?id=11814)

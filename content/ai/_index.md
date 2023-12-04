@@ -16,7 +16,7 @@ categories:
   - AI
 tags:
   - AI
-lastmod: 2023-11-28T11:50:25.977Z
+lastmod: 2023-12-04T09:24:49.291Z
 draft: published
 ---
 
@@ -43,3 +43,4 @@ draft: published
 ['딥 러닝'은 어떻게 작동할까? 딥러닝에 대한 모든 것](https://yozm.wishket.com/magazine/detail/170/)  
 [[무료] 인공지능 기초를 쌓는 지루하지만 확실한 방법](https://slashpage.com/haebom/6n5w9812g875zm4kpgze)
 [A 12 Lesson course teaching everything you need to know to start building Generative AI applications](https://microsoft.github.io/generative-ai-for-beginners/)
+[DEEP LEARNING COURSE](https://fleuret.org/dlc/)
