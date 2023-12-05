@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-12-02T00:47:53.305Z
+lastmod: 2023-12-05T04:39:40.741Z
 draft: published
 ---
 
@@ -51,3 +51,5 @@ draft: published
 [성능 자동화도구, 라이트하우스](https://devocean.sk.com/blog/techBoardDetail.do?ID=165248&ref=codenary)
 [모던 프론트엔드 개발 노하우, 5가지만 기억하세요!](https://www.lgcns.com/blog/cns-tech/46396/)  
 [컴포넌트 기반으로 모던 프론트엔드 개발하기](https://www.lgcns.com/blog/cns-tech/48514/)
+[엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)  
+[Clean Frontend Architecture](https://blog.bitsrc.io/clean-frontend-architecture-2995c68702fb)

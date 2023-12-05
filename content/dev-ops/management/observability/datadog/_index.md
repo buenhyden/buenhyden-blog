@@ -17,17 +17,17 @@ series:
 categories:
   - Datadog
   - Dev Ops
-  - Monitoring System
-  - tools
   - Management for Infrastructure
+  - tools
+  - Observability
 tags:
   - Datadog
   - Dev Ops
   - Infrastructure as Code
-  - Monitoring System
-  - tools
   - Management for Infrastructure
-lastmod: 2023-11-24T16:56:15.879Z
+  - tools
+  - Observability
+lastmod: 2023-12-05T01:16:01.436Z
 draft: published
 ---
 

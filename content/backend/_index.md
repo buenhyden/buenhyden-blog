@@ -15,7 +15,7 @@ categories:
   - Backend
 tags:
   - Backend
-lastmod: 2023-11-28T11:50:26.451Z
+lastmod: 2023-12-05T04:38:06.471Z
 draft: published
 ---
 
@@ -32,3 +32,4 @@ draft: published
 ## Reference
 
 [Web Application Architecture](https://existek.com/blog/web-application-architecture/)
+[Backend side architecture evolution (N-layered, DDD, Hexagon, Onion, Clean Architecture)](https://medium.com/@iamprovidence/backend-side-architecture-evolution-n-layered-ddd-hexagon-onion-clean-architecture-643d72444ce4)

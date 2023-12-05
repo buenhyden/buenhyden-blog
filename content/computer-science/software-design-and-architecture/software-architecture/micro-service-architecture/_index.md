@@ -25,7 +25,7 @@ tags:
   - MSA
   - System Design & Architecture
   - System Architecture
-lastmod: 2023-11-28T00:47:04.096Z
+lastmod: 2023-12-05T04:41:55.044Z
 draft: published
 ---
 
@@ -43,3 +43,4 @@ draft: published
 [[MSA 패턴] SAGA, Transactional Outbox 패턴 활용하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165445&boardType=techBlog)  
 [<김용욱> 마이크로서비스 아키텍처 구축 가이드: 설계원칙](https://americanopeople.tistory.com/445)
 [MSA의 Trade-Off 분석: 모듈러 모놀리스와 마이크로커널 아키텍처](https://devocean.sk.com/blog/techBoardDetail.do?ID=165488&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)
+[10 Microservice Patterns Software Engineers Should Know](https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a)

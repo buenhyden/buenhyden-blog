@@ -826,14 +826,14 @@
       "contentTypes": ["default"]
     },
     {
-      "title": "[Monitoring] Datadog",
-      "path": "[[workspace]]/content/dev-ops/management/monitoring/datadog",
+      "title": "[Infrastructure Management] Observability",
+      "path": "[[workspace]]/content/dev-ops/management/observability",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
     {
-      "title": "[Infrastructure Management] Observability",
-      "path": "[[workspace]]/content/dev-ops/management/observability",
+      "title": "[Observability] Datadog",
+      "path": "[[workspace]]/content/dev-ops/management/observability/datadog",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },

@@ -18,7 +18,7 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-11-26T04:49:17.228Z
+lastmod: 2023-12-05T04:41:28.509Z
 draft: published
 ---
 
@@ -41,3 +41,5 @@ draft: published
 ![Where RDBMS and other DBMS technologies intersect](/backend/differencetypeofdbms2.png#center "https://www.facebook.com/photo/?fbid=935327580286542&set=pcb.935327616953205")
 
 ## Reference
+
+[11 Database Optimization Techniques](https://danielfoo.medium.com/11-database-optimization-techniques-97fdbed1b627)

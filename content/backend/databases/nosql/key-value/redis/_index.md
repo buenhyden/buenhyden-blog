@@ -25,7 +25,7 @@ tags:
   - Key Value
   - NoSQL
   - Redis
-lastmod: 2023-12-04T10:00:04.208Z
+lastmod: 2023-12-05T04:36:20.245Z
 draft: published
 ---
 
@@ -33,3 +33,4 @@ draft: published
 
 [Redis Official Homepage](https://redis.io/)
 [Redis 사용량 타노스하기](https://news.hada.io/topic?id=11270)
+[Top 5 Redis Use Cases in Distributed Systems](https://medium.com/@maheshsaini.sec/top-5-redis-use-cases-in-distributed-systems-6aadc73121c6)

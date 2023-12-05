@@ -24,8 +24,10 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Service Mesh
-lastmod: 2023-11-12T15:20:55.244Z
+lastmod: 2023-12-05T04:31:22.381Z
 draft: published
 ---
 
 ## Reference
+
+[meshService Mesh](https://medium.com/@sureshpodeti/service-mesh-d8ac0f2d4d0c)

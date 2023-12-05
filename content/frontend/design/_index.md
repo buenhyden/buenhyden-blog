@@ -23,7 +23,7 @@ tags:
   - Frontend
   - UI
   - UX
-lastmod: 2023-11-26T04:58:19.654Z
+lastmod: 2023-12-05T01:11:26.047Z
 draft: published
 ---
 
@@ -43,3 +43,4 @@ draft: published
 [인터랙션 디자인 vs 시각 디자인](https://yozm.wishket.com/magazine/detail/1690/)  
 [UX/UI 디자인이란? | 정의, 차이점, 사례, UX 디자인 프로세스](https://www.codestates.com/blog/content/uxui-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4%EB%9E%80)  
 [UX/UI 기획자를 위한 UX/UI 용어 총정리](https://www.codestates.com/blog/content/uxui-%EC%9A%A9%EC%96%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC)
+[클래스101의 디자인 시스템, One Product System](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
