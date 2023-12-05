@@ -22,7 +22,7 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-11-26T05:09:15.378Z
+lastmod: 2023-12-05T12:11:52.470Z
 date: 2023-11-16T01:12:03.510Z
 draft: published
 ---
@@ -44,3 +44,4 @@ draft: published
 [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)  
 [Node.js의 새로운 파트너 NestJS는 왜 탄생했을까?](https://yozm.wishket.com/magazine/detail/2215/)  
 [웹 서비스를 위한 Node.js 병렬처리 구현](https://yozm.wishket.com/magazine/detail/1556/)
+[The Node.js Event Loop](https://blog.platformatic.dev/the-nodejs-event-loop)

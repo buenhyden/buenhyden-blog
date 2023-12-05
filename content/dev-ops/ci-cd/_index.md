@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - CI/CD
-lastmod: 2023-11-26T05:56:05.421Z
+lastmod: 2023-12-05T12:12:49.101Z
 draft: published
 ---
 
@@ -37,3 +37,4 @@ draft: published
 [CI/CD 개념과 깃허브 리포지터리 생성하기](https://yozm.wishket.com/magazine/detail/2184/)
 [CI/CD와 Gitflow 그리고 QA](https://devocean.sk.com/blog/techBoardDetail.do?ID=165513&boardType=techBlog&ref=codenary)
 [ArgoCD + AWS EKS + CodeCommmit + CodeBuild 로 CI/CD 구축하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165211&boardType=techBlog)
+[GitOps Best Practices Whitepaper](https://akuity.io/blog/gitops-best-practices-whitepaper/)

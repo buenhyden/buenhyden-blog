@@ -24,7 +24,7 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Kubernetes
-lastmod: 2023-11-26T05:53:44.824Z
+lastmod: 2023-12-05T12:36:12.799Z
 draft: published
 ---
 
@@ -75,3 +75,11 @@ draft: published
 [Kustomize 활용법 (feat. GitOps 로 가는 여정)](https://devocean.sk.com/search/techBoardDetail.do?ID=164522&boardType=)  
 [kubernetes의 접근제어방법](https://devocean.sk.com/search/techBoardDetail.do?ID=163941&boardType=)  
 [Keycloak을 이용한 K8S 사용자 분리](https://seungjuitmemo.tistory.com/299)
+[쿠버네티스 프로비저닝 툴과의 만남부터 헤어짐까지 . . .](https://tech.kakao.com/2023/02/10/making-of-kubernetes-provisioning-tool/)  
+[Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager](https://tech.kakao.com/2021/03/03/network-node-manager/)
+[실용주의 데브옵스 for MSA](https://tech.kakao.com/2021/07/16/devops-for-msa/)
+[Kubernetes 운영을 위한 etcd 기본 동작 원리의 이해](https://tech.kakao.com/2021/12/20/kubernetes-etcd/)  
+[Kubernetes 클러스터에 배포할 애플리케이션 로컬 디버깅 및 개발하기](https://meetup.nhncloud.com/posts/364)
+[Custom Metric(ex. RPS)으로 HPA 설정하기](https://tech.scatterlab.co.kr/kubernetes-hpa-custom-metric/)  
+[쿠버네티스에서 노드가 추가될 때마다 슬랙 알람 쏘기](https://tech.scatterlab.co.kr/kubernetes-event-alarm/)
+[쿠버네티스 오퍼레이터 적용하기](https://dev.gmarket.com/65)

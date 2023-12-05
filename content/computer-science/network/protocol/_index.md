@@ -21,7 +21,7 @@ tags:
   - Network
   - Protocol
   - Computer Science
-lastmod: 2023-11-26T11:47:18.015Z
+lastmod: 2023-12-05T11:51:00.323Z
 draft: published
 ---
 
@@ -32,3 +32,4 @@ draft: published
 [HTTP vs HTTPS 차이, 알면 사이트의 레벨이 보인다.](https://yozm.wishket.com/magazine/detail/130/)  
 [HTTP의 새로운 메서드, 서치(SEARCH)에 대하여](https://yozm.wishket.com/magazine/detail/694/)  
 [HTTP, 그리고 HTTPS의 이해](https://yozm.wishket.com/magazine/detail/471/)
+[인터넷 프로토콜](https://velog.io/@dkdjsema9808/%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)

@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Monitoring System
-lastmod: 2023-12-05T04:28:13.770Z
+lastmod: 2023-12-05T12:23:47.641Z
 draft: published
 ---
 
@@ -36,3 +36,5 @@ draft: published
 [[EKS] 아주 가벼운 Loki + Grafana + Promtail 로그 시스템 구성](https://nyyang.tistory.com/159)  
 [Loki+Promtail+Grafana를 이용한 컨테이너 로그 모니터링](https://enginnersnack.tistory.com/m/13)
 [▲ Highlight.io - 오픈소스 풀스택 모니터링 플랫폼](https://news.hada.io/topic?id=9879)
+[KHP 모니터링과 알림 – 1부](https://tech.kakao.com/2022/12/19/khp-monitoring-and-alarm-1st/)  
+[KHP 모니터링과 알림 – 2부](https://tech.kakao.com/2022/12/19/khp-monitoring-and-alarm-2nd/)

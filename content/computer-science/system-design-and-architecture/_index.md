@@ -19,7 +19,7 @@ categories:
 tags:
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-11-29T00:51:53.459Z
+lastmod: 2023-12-05T12:36:44.665Z
 draft: published
 ---
 
@@ -48,3 +48,4 @@ draft: published
 [system-design-and-architecture](https://github.com/puncsky/system-design-and-architecture)  
 [System-Design](https://github.com/codersguild/System-Design)  
 [멀티클라우드의 장점과 고려사항](https://www.samsungsds.com/kr/insights/multicloud_pros.html)
+[API Management PaaS에서 Multi-tenancy 구현하기](https://dev.gmarket.com/64)

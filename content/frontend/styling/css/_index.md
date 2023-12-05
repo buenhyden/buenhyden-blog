@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-11-26T04:57:26.328Z
+lastmod: 2023-12-05T12:11:03.820Z
 draft: published
 ---
 
@@ -40,3 +40,4 @@ draft: published
 [역사로 알아보는 CSS가 어려워진 이유: 1. 웹 문서에서 웹 어플리케이션으로](https://yozm.wishket.com/magazine/detail/1319/)  
 [역사로 알아보는 CSS가 어려워진 이유: 2. CSS in JS와 Atomic CSS](https://yozm.wishket.com/magazine/detail/1326/)  
 [HTML, CSS 기초 입문부터 HTML CSS 적용 방법, 예제까지](https://www.codestates.com/blog/content/html-css-%EA%B8%B0%EC%B4%88)
+[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)

@@ -19,7 +19,7 @@ categories:
 tags:
   - QA Engineering
   - Computer Science
-lastmod: 2023-11-26T10:29:15.009Z
+lastmod: 2023-12-05T12:40:46.581Z
 draft: published
 ---
 
@@ -67,3 +67,10 @@ draft: published
 [[K6 성능테스트 도구 - 05] Shared iterations ＆ Per VU iterations 알아보기](https://devocean.sk.com/experts/techBoardDetail.do?ID=164358&boardType=experts)  
 [[K6 성능테스트 도구 - 06] Constant Vus ＆ Ramping Vus 알아보기](https://devocean.sk.com/experts/techBoardDetail.do?ID=164374&boardType=experts)  
 [[K6 성능테스트 도구 - 07] Constant arrival rate＆ Ramping arrival rate 알아보기](https://devocean.sk.com/experts/techBoardDetail.do?ID=164527&boardType=experts)
+[[TEST] 테스트 코드 작성 시 더 낮은 결합도를 가진 코드 만들기](https://bbogle2.tistory.com/entry/TEST-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1-%EC%8B%9C-%EB%8D%94-%EB%82%AE%EC%9D%80-%EA%B2%B0%ED%95%A9%EB%8F%84%EB%A5%BC-%EA%B0%80%EC%A7%84-%EC%BD%94%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+[테스트 코드를 왜 그리고 어떻게 작성해야 할까?](https://tech.inflab.com/20230404-test-code/)
+[실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 1: 효율적인 Mock Test](https://tech.kakaopay.com/post/mock-test-code/)  
+[실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 2: 테스트 코드로부터 피드백 받기](https://tech.kakaopay.com/post/mock-test-code-part-2/)  
+[유용한 테스트 코드 작성 팁](https://dev.gmarket.com/38)
+[개발자를 위한 S/W Test 개념 1편 - 소프트웨어 테스트 종류](https://corp.onda.me/post/the-types-of-software-testing)
+[개발자를 위한 S/W Test 개념 2편 - TDD 핵심과 개발자에게 좋은 테스트의 기준](https://corp.onda.me/post/what-is-test-driven-development-and-good-software-testing-for-devleopers)

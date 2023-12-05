@@ -16,7 +16,7 @@ categories:
   - AI
 tags:
   - AI
-lastmod: 2023-12-04T09:24:49.291Z
+lastmod: 2023-12-05T11:56:57.415Z
 draft: published
 ---
 
@@ -44,3 +44,4 @@ draft: published
 [[무료] 인공지능 기초를 쌓는 지루하지만 확실한 방법](https://slashpage.com/haebom/6n5w9812g875zm4kpgze)
 [A 12 Lesson course teaching everything you need to know to start building Generative AI applications](https://microsoft.github.io/generative-ai-for-beginners/)
 [DEEP LEARNING COURSE](https://fleuret.org/dlc/)
+[인공지능을 사용하는 인간을 위한 안내서](https://slashpage.com/haebom/hitchhiker)

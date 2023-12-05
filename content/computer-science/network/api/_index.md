@@ -21,7 +21,7 @@ tags:
   - API
   - Network
   - Computer Science
-lastmod: 2023-12-05T04:39:02.919Z
+lastmod: 2023-12-05T12:08:02.846Z
 draft: published
 ---
 
@@ -35,3 +35,6 @@ draft: published
 [서비스와 데이터 이해하기, API란?](https://yozm.wishket.com/magazine/detail/625/)
 [6 API Trends and Practices to Know for 2024](https://thenewstack.io/6-api-trends-and-practices-to-know-for-2024/)
 [10 REST API BEST PRACTICES](https://medium.com/javarevisited/10-rest-api-best-practices-cd12e3904d00)
+[▲ 2024년을 위한 API 트렌드](https://news.hada.io/topic?id=12096)  
+[▲ 2023년 API 프로토콜 현황](https://news.hada.io/topic?id=12179)
+[Rest API 규칙](https://danyoujeong.tistory.com/210)

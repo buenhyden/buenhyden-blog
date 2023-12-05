@@ -18,7 +18,7 @@ categories:
 tags:
   - Frontend
   - HTML
-lastmod: 2023-12-04T09:33:25.700Z
+lastmod: 2023-12-05T11:53:13.727Z
 draft: published
 ---
 
@@ -35,3 +35,4 @@ draft: published
 [문서 객체 모델 DOM 과 자바스크립트 JavaScriptㅣ생성 방식 및 접근 방법](https://www.codestates.com/blog/content/dom-javascript)
 [GN⁺: HTML 웹 컴포넌트](https://news.hada.io/topic?id=11839)
 [GN⁺: HTML First](https://news.hada.io/topic?id=11814)
+[▲ 프로그래밍 언어 HTML](https://news.hada.io/topic?id=12186)

@@ -21,7 +21,7 @@ tags:
   - Javascript
   - Programming Language
   - Programming
-lastmod: 2023-12-04T09:37:24.929Z
+lastmod: 2023-12-05T11:52:52.321Z
 draft: published
 ---
 
@@ -53,3 +53,5 @@ draft: published
 [자바스크립트(JavaScript) 기초 및 문법ㅣ정의, 기본 문법, 변수, 함수](https://www.codestates.com/blog/content/javascript-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%AC%B8%EB%B2%95)
 [Patterns 디자인 및 성능 패턴에 대한 최신 정보들을 제공](https://patterns-dev-kr.github.io/)
 [GN⁺: 바닐라 자바스크립트로 DOM 조작을 완벽하게 습득하기](https://news.hada.io/topic?id=11724)
+[Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)  
+[▲ GN⁺: 현대적인 JavaScript 프레임워크의 작동 원리를 직접 만들면서 배우기](https://news.hada.io/topic?id=12164)

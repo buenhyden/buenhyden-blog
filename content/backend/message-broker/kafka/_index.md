@@ -24,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-12-01T11:14:18.190Z
+lastmod: 2023-12-05T12:37:30.785Z
 draft: published
 ---
 
@@ -45,3 +45,7 @@ draft: published
 [Kafka-UI Tool 을 이용하여 Kafka 관리하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163980&boardType=)  
 [간단한 카프카 환경 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163709&boardType=)
 [카프카 커넥트를 데이터 파이프라인으로 사용하는 이유? kafka-sink-connector 오픈소스 언빡싱!](https://tech.kakao.com/2023/01/12/introduce-kafka-sink-connector/)
+[카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
+[Live11 과 Schema Registry](https://11st-tech.github.io/2022/06/28/schema-registry-in-live11/)
+[Kafka 이벤트 모니터링이란.. (먼산)](https://dev.gmarket.com/51)
+[확장성 높은 카프카 구성을 위한 서비스 설계](https://dev.gmarket.com/35)

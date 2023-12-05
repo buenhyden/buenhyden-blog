@@ -24,7 +24,7 @@ tags:
   - Data Engineering
   - tools
   - Data
-lastmod: 2023-11-26T05:26:11.837Z
+lastmod: 2023-12-05T12:03:56.612Z
 draft: published
 ---
 
@@ -39,3 +39,4 @@ draft: published
 [[Airflow] 에어플로우 시작하기: 개념 및 설치](https://data-engineer-tech.tistory.com/30)  
 [[에어플로우] 아파치 에어플로우(Apache Airflow)란?](https://6mini.github.io/data%20engineering/2021/12/29/airflow/)
 [로컬 Airflow on K8S 구축에 Vault 곁들이기 - Airflow 개발 환경 고도화](https://blog.doctor-cha.com/buliding-local-airflow-and-apply-vault)
+[Airflow 환경 Docker compose로 containerization하기](https://medium.com/naver-place-dev/airflow-%ED%99%98%EA%B2%BD-docker-compose%EB%A1%9C-containerization%ED%95%98%EA%B8%B0-4770addae789)

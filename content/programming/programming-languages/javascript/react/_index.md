@@ -22,7 +22,7 @@ tags:
   - Programming Language
   - React
   - Programming
-lastmod: 2023-11-26T05:08:39.155Z
+lastmod: 2023-12-05T11:52:05.089Z
 date: 2023-11-16T01:12:15.654Z
 draft: published
 ---
@@ -50,3 +50,4 @@ draft: published
 [When Does React Render Your Component?](https://www.zhenghao.io/posts/react-rerender)  
 [새로 등장한 '리액트 서버 컴포넌트' 이해하기](https://yozm.wishket.com/magazine/detail/2271/)  
 [리액트 상태 관리 라이브러리, 어떤 것을 써야 할까?](https://yozm.wishket.com/magazine/detail/2233/)
+[React SSR 서버 직접 만들어보기](https://dev.classmethod.jp/articles/react-ssr-server/)
