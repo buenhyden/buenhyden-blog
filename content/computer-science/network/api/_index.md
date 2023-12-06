@@ -21,7 +21,7 @@ tags:
   - API
   - Network
   - Computer Science
-lastmod: 2023-12-05T04:39:02.919Z
+lastmod: 2023-12-06T03:32:49.928Z
 draft: published
 ---
 
@@ -29,6 +29,7 @@ draft: published
 
 ## Reference
 
+[API](https://developer.mozilla.org/ko/docs/Glossary/API)  
 [API란? 비개발자가 알기 쉽게 설명해드립니다.](https://yozm.wishket.com/magazine/detail/53/)  
 [SOAP API vs REST API, 두 방식의 가장 큰 차이점은?](https://yozm.wishket.com/magazine/detail/119/)  
 [API란 무엇인가요? (feat. 인터페이스)](https://yozm.wishket.com/magazine/detail/727/)  
