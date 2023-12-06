@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Monitoring System
-lastmod: 2023-12-05T12:23:47.641Z
+lastmod: 2023-12-06T14:42:01.212Z
 draft: published
 ---
 
@@ -38,3 +38,5 @@ draft: published
 [▲ Highlight.io - 오픈소스 풀스택 모니터링 플랫폼](https://news.hada.io/topic?id=9879)
 [KHP 모니터링과 알림 – 1부](https://tech.kakao.com/2022/12/19/khp-monitoring-and-alarm-1st/)  
 [KHP 모니터링과 알림 – 2부](https://tech.kakao.com/2022/12/19/khp-monitoring-and-alarm-2nd/)
+[prometheus와 grafana를 이용한 통합모니터링 체계 구축](https://happycloud-lee.tistory.com/203)  
+[grafana와 prometheus로 모니터링 시스템 구축하기](https://solo5star.tistory.com/19)

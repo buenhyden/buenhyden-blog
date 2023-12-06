@@ -25,7 +25,7 @@ tags:
   - MSA
   - System Design & Architecture
   - System Architecture
-lastmod: 2023-12-05T04:41:55.044Z
+lastmod: 2023-12-06T14:42:50.362Z
 draft: published
 ---
 
@@ -44,3 +44,4 @@ draft: published
 [<김용욱> 마이크로서비스 아키텍처 구축 가이드: 설계원칙](https://americanopeople.tistory.com/445)
 [MSA의 Trade-Off 분석: 모듈러 모놀리스와 마이크로커널 아키텍처](https://devocean.sk.com/blog/techBoardDetail.do?ID=165488&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)
 [10 Microservice Patterns Software Engineers Should Know](https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a)
+[2024년 주목해야 할 SaaS 트렌드 12가지](https://yozm.wishket.com/magazine/detail/2352/)

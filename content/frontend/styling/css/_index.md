@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-12-05T12:11:03.820Z
+lastmod: 2023-12-06T14:43:11.552Z
 draft: published
 ---
 
@@ -33,6 +33,7 @@ draft: published
 
 ## Reference
 
+[CSS를 이용한 HTML 스타일링 익히기](https://developer.mozilla.org/ko/docs/Learn/CSS)  
 [css](https://developer.mozilla.org/ko/docs/Web/CSS)  
 [ofcourse CSS](https://ofcourse.kr/css-course/CSS-%EC%9E%85%EB%AC%B8)  
 [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)

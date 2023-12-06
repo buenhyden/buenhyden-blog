@@ -18,7 +18,7 @@ categories:
 tags:
   - Frontend
   - HTML
-lastmod: 2023-12-05T11:53:13.727Z
+lastmod: 2023-12-06T14:42:56.449Z
 draft: published
 ---
 
@@ -30,6 +30,7 @@ draft: published
 
 ## Reference
 
+[HTML](https://developer.mozilla.org/ko/docs/Learn/HTML)  
 ['HTML'에 대한 모든 것, 한 번에 빠르게 알아보기](https://yozm.wishket.com/magazine/detail/201/)  
 [HTML, CSS 기초 입문부터 HTML CSS 적용 방법, 예제까지](https://www.codestates.com/blog/content/html-css-%EA%B8%B0%EC%B4%88)  
 [문서 객체 모델 DOM 과 자바스크립트 JavaScriptㅣ생성 방식 및 접근 방법](https://www.codestates.com/blog/content/dom-javascript)
