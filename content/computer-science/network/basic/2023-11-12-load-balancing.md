@@ -23,8 +23,10 @@ nav_icon:
   name: book
   color: blue
 featured: false
-lastmod: 2023-11-28T12:26:30.425Z
+lastmod: 2023-12-07T06:00:07.293Z
 draft: in progress
 ---
 
 ## Reference
+
+[[Server] 로드밸런서(Load Balancer)는 왜 필요할까?](https://kingofbackend.tistory.com/106)

@@ -21,7 +21,7 @@ tags:
   - Javascript
   - Programming Language
   - Programming
-lastmod: 2023-12-05T11:52:52.321Z
+lastmod: 2023-12-07T06:01:37.887Z
 draft: published
 ---
 
@@ -55,3 +55,4 @@ draft: published
 [GN⁺: 바닐라 자바스크립트로 DOM 조작을 완벽하게 습득하기](https://news.hada.io/topic?id=11724)
 [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)  
 [▲ GN⁺: 현대적인 JavaScript 프레임워크의 작동 원리를 직접 만들면서 배우기](https://news.hada.io/topic?id=12164)
+[[JS]DOM 쉽게 이해하기!! 고척스카이돔 아닙니다](https://kingofbackend.tistory.com/25?category=913227)

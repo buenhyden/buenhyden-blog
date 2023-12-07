@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-12-06T14:43:11.552Z
+lastmod: 2023-12-07T06:15:08.552Z
 draft: published
 ---
 
@@ -42,3 +42,4 @@ draft: published
 [역사로 알아보는 CSS가 어려워진 이유: 2. CSS in JS와 Atomic CSS](https://yozm.wishket.com/magazine/detail/1326/)  
 [HTML, CSS 기초 입문부터 HTML CSS 적용 방법, 예제까지](https://www.codestates.com/blog/content/html-css-%EA%B8%B0%EC%B4%88)
 [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+[content-visibility: the new CSS property that boosts your rendering performance](https://wit.nts-corp.com/2020/09/11/6223)

@@ -24,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-12-07T05:30:54.799Z
+lastmod: 2023-12-07T06:18:49.401Z
 draft: published
 ---
 
@@ -54,3 +54,5 @@ draft: published
 [Kafka 사용이유 ( vs RabbitMQ )](https://ellune.tistory.com/29)
 [Kafka 기본 개념 (토픽, 파티션, 성능, 고가용성, 프로듀서, 컨슈머) 출처: https://sjh836.tistory.com/186 [빨간색코딩:티스토리]](https://sjh836.tistory.com/186)
 [Airbnb의 이벤트 로그 처리](https://brunch.co.kr/@sonjoosik/3)
+[Kafka와 MongoDB, Kubernetes로 유연하고 확장 가능한 LINE 쇼핑 플랫폼 구축하기](https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes)  
+[회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835/)

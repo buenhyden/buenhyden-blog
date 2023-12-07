@@ -25,7 +25,7 @@ tags:
   - Document DBs
   - NoSQL
   - InfluxDB
-lastmod: 2023-12-07T05:08:07.763Z
+lastmod: 2023-12-07T06:01:07.807Z
 draft: published
 ---
 
@@ -41,3 +41,4 @@ draft: published
 
 [MongoDB Official Homepage](https://www.mongodb.com/ko-kr)
 [MongoDB index 개념과 indexing 전략](https://ryu-e.tistory.com/1)
+[MongoDB 이해하기](https://kciter.so/posts/about-mongodb)

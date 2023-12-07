@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - CI/CD
-lastmod: 2023-12-05T12:12:49.101Z
+lastmod: 2023-12-07T06:13:41.502Z
 draft: published
 ---
 
@@ -38,3 +38,4 @@ draft: published
 [CI/CD와 Gitflow 그리고 QA](https://devocean.sk.com/blog/techBoardDetail.do?ID=165513&boardType=techBlog&ref=codenary)
 [ArgoCD + AWS EKS + CodeCommmit + CodeBuild 로 CI/CD 구축하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165211&boardType=techBlog)
 [GitOps Best Practices Whitepaper](https://akuity.io/blog/gitops-best-practices-whitepaper/)
+[CI/CD란 무엇인가 (Feat. DevOps 엔지니어)](https://artist-developer.tistory.com/24?category=965473)

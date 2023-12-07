@@ -19,7 +19,7 @@ categories:
 tags:
   - Network
   - Computer Science
-lastmod: 2023-12-07T05:27:34.772Z
+lastmod: 2023-12-07T06:14:11.494Z
 draft: published
 ---
 
@@ -39,3 +39,5 @@ draft: published
 [Network # 01](https://velog.io/@dev_0livia/Network-01)
 [LINT: HTTP/2와 TLS를 통한 네트워크 현대화](https://engineering.linecorp.com/ko/blog/LINT-newtork-modernization-http2-tls)
 [Difference Between Hostname and Domain Name](http://www.differencebetween.net/technology/difference-between-hostname-and-domain-name/)
+[ip로 직접 만들어보는 네트워크 네임스페이스와 브리지 네트워크](https://www.44bits.io/ko/post/container-network-2-ip-command-and-network-namespace)
+[HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)

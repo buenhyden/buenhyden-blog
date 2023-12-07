@@ -24,7 +24,7 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Kubernetes
-lastmod: 2023-12-07T05:28:50.758Z
+lastmod: 2023-12-07T06:14:38.736Z
 draft: published
 ---
 
@@ -88,3 +88,5 @@ draft: published
 [Kubernetes 실습 (CKA 대비)](https://blog.psnote.co.kr/222)  
 [Kubernetes Scheduler 설명](https://devocean.sk.com/experts/techBoardDetail.do?ID=163909&boardType=experts)
 [[Kubernetes] ConfigMap / Secret: config 정보를 container 외부에서](https://ooeunz.tistory.com/128)
+[Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager](https://tech.kakao.com/2021/03/03/network-node-manager/)
+[[번역] 쿠버네티스에서 쉽게 저지르는 10가지 실수](https://coffeewhale.com/kubernetes/mistake/2020/11/29/mistake-10/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
