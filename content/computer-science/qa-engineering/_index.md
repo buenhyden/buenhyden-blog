@@ -19,7 +19,7 @@ categories:
 tags:
   - QA Engineering
   - Computer Science
-lastmod: 2023-12-05T12:40:46.581Z
+lastmod: 2023-12-07T05:11:29.713Z
 draft: published
 ---
 
@@ -74,3 +74,4 @@ draft: published
 [유용한 테스트 코드 작성 팁](https://dev.gmarket.com/38)
 [개발자를 위한 S/W Test 개념 1편 - 소프트웨어 테스트 종류](https://corp.onda.me/post/the-types-of-software-testing)
 [개발자를 위한 S/W Test 개념 2편 - TDD 핵심과 개발자에게 좋은 테스트의 기준](https://corp.onda.me/post/what-is-test-driven-development-and-good-software-testing-for-devleopers)
+[테스트는 누구나 할 수 있지만, QA는 준비된 자만이 할 수 있습니다. 출처: https://tech.kakaoenterprise.com/104 [카카오엔터프라이즈 기술블로그 Tech&(테크앤):티스토리]](https://tech.kakaoenterprise.com/104)

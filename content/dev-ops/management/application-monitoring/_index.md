@@ -21,10 +21,11 @@ tags:
   - Application Monitoring
   - Dev Ops
   - Management for Infrastructure
-lastmod: 2023-11-24T16:57:20.047Z
+lastmod: 2023-12-07T05:38:46.691Z
 draft: published
 ---
 
 ## Reference
 
 [트레이싱 관측 도구 Grafana Tempo로 트레이스를 관측해보자](https://nangman14.tistory.com/69)
+[오픈텔레메트리란 무엇일까요?](https://jennifersoft.com/ko/blog/tech/opentelemetry/)

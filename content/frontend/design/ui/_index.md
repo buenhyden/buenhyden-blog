@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Design
   - UI
-lastmod: 2023-11-26T04:58:28.142Z
+lastmod: 2023-12-07T01:11:23.994Z
 draft: published
 ---
 
@@ -34,3 +34,4 @@ draft: published
 
 [더 나은 선택을 유도하는 'UI요소' 만들기](https://blog.wishket.com/%EB%8D%94-%EB%82%98%EC%9D%80-%EC%84%A0%ED%83%9D%EC%9D%84-%EC%9C%A0%EB%8F%84%ED%95%98%EB%8A%94-ui%EC%9A%94%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)  
 [30 Practical Tips for Effective User Interface Design](https://uxplanet.org/30-practical-tips-for-effective-user-interface-design-59e1e46ac370)
+[UI Design Tips](https://www.uidesign.tips/ui-tips)

@@ -26,10 +26,12 @@ tags:
   - Management for Infrastructure
   - Prometheus
   - tools
-lastmod: 2023-11-24T16:57:04.340Z
+lastmod: 2023-12-07T05:25:50.872Z
 draft: published
 ---
 
 ## Reference
 
 [Prometheus Official Homepage](https://prometheus.io/)
+[Prometheus Operator 로 설치하기(1)](https://devocean.sk.com/experts/techBoardDetail.do?ID=163168&boardType=experts)  
+[Operator를 활용한 Prometheus 간단히 설치하기(2) - Exporter 편](https://devocean.sk.com/blog/techBoardDetail.do?ID=163266)

@@ -1,10 +1,10 @@
 ---
-type: default
-title: SAML
-date: 2023-11-25T00:10:18.380Z
-description: ""
-linkTitle: SAML
-nav_weight: 1
+type: docs
+title: Zipkin
+date: 2023-12-07T05:54:29.077Z
+description: null
+linkTitle: Zipkin
+nav_weight: 9
 nav_icon:
   vendor: bs
   name: book
@@ -13,21 +13,21 @@ featured: true
 series:
   - Dev Ops
   - Management for Infrastructure
+  - Tools
 categories:
   - Dev Ops
-  - IT Security
   - Management for Infrastructure
-  - OAuth
+  - Open Tracing
+  - tools
+  - Zipkin
 tags:
   - Dev Ops
-  - IT Security
   - Management for Infrastructure
-  - OAuth
-lastmod: 2023-12-07T05:05:57.014Z
-authors: Hyunyoun Jo
+  - Open Tracing
+  - tools
+  - Zipkin
+lastmod: 2023-12-07T05:54:54.940Z
 draft: published
 ---
 
 ## Reference
-
-[OAuth와 춤을](https://d2.naver.com/helloworld/24942)

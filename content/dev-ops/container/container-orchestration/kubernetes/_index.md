@@ -24,7 +24,7 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Kubernetes
-lastmod: 2023-12-05T12:36:12.799Z
+lastmod: 2023-12-07T05:28:50.758Z
 draft: published
 ---
 
@@ -83,3 +83,8 @@ draft: published
 [Custom Metric(ex. RPS)으로 HPA 설정하기](https://tech.scatterlab.co.kr/kubernetes-hpa-custom-metric/)  
 [쿠버네티스에서 노드가 추가될 때마다 슬랙 알람 쏘기](https://tech.scatterlab.co.kr/kubernetes-event-alarm/)
 [쿠버네티스 오퍼레이터 적용하기](https://dev.gmarket.com/65)
+[OWASP Kubernetes Top 10: A Comprehensive Guide](https://medium.com/@seifeddinerajhi/owasp-kubernetes-top-10-a-comprehensive-guide-f03af6fd66ed)
+[Service Discovery 통합을 위한 Kubernetes Operator 구현 - Eurekube Operator](https://11st-tech.github.io/2022/07/20/eurekube-operator/)
+[Kubernetes 실습 (CKA 대비)](https://blog.psnote.co.kr/222)  
+[Kubernetes Scheduler 설명](https://devocean.sk.com/experts/techBoardDetail.do?ID=163909&boardType=experts)
+[[Kubernetes] ConfigMap / Secret: config 정보를 container 외부에서](https://ooeunz.tistory.com/128)

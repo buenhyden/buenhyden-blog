@@ -22,7 +22,7 @@ tags:
   - Programming Language
   - React
   - Programming
-lastmod: 2023-12-05T11:52:05.089Z
+lastmod: 2023-12-07T01:12:30.759Z
 date: 2023-11-16T01:12:15.654Z
 draft: published
 ---
@@ -38,6 +38,7 @@ draft: published
 ## Tutorial
 
 [Build your own React](https://pomb.us/build-your-own-react/)
+[React Internals Deep Dive](https://jser.dev/series/react-source-code-walkthrough/)
 
 ## Reference
 

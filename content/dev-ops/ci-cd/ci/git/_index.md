@@ -25,7 +25,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-12-04T10:01:25.528Z
+lastmod: 2023-12-07T05:28:21.042Z
 draft: published
 ---
 
@@ -42,3 +42,5 @@ draft: published
 [Git 워크플로 향상하는 15가지 팁](https://news.hada.io/topic?id=11595)
 [Git 형상관리 잘하는 법](https://news.hada.io/topic?id=11403)
 [GN⁺: .git 디렉토리안에는 무엇이 있을까?](https://news.hada.io/topic?id=11232)
+[좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+[Git / GitHub 안내서 핵심만 제대로 배우기](https://subicura.com/git/)

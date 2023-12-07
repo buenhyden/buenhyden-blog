@@ -19,7 +19,7 @@ categories:
 tags:
   - Network
   - Computer Science
-lastmod: 2023-12-05T11:51:33.096Z
+lastmod: 2023-12-07T05:27:34.772Z
 draft: published
 ---
 
@@ -37,3 +37,5 @@ draft: published
 [[Network] 네트워크 기초 개념 정리](https://bbogle2.tistory.com/entry/Network-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 [Network 데이터 단위 정리](https://velog.io/@dev_0livia/Network-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A8%EC%9C%84-%EC%A0%95%EB%A6%AC)
 [Network # 01](https://velog.io/@dev_0livia/Network-01)
+[LINT: HTTP/2와 TLS를 통한 네트워크 현대화](https://engineering.linecorp.com/ko/blog/LINT-newtork-modernization-http2-tls)
+[Difference Between Hostname and Domain Name](http://www.differencebetween.net/technology/difference-between-hostname-and-domain-name/)

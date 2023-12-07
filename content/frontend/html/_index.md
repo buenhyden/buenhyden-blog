@@ -18,7 +18,7 @@ categories:
 tags:
   - Frontend
   - HTML
-lastmod: 2023-12-06T14:42:56.449Z
+lastmod: 2023-12-07T05:21:40.865Z
 draft: published
 ---
 
@@ -37,3 +37,4 @@ draft: published
 [GN⁺: HTML 웹 컴포넌트](https://news.hada.io/topic?id=11839)
 [GN⁺: HTML First](https://news.hada.io/topic?id=11814)
 [▲ 프로그래밍 언어 HTML](https://news.hada.io/topic?id=12186)
+[HTML을 정규 표현식만으로 파싱할 수 있을까?](https://evan-moon.github.io/2021/05/07/why-regexp-called-regexp/)

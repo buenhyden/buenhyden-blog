@@ -19,7 +19,7 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-12-05T04:41:04.379Z
+lastmod: 2023-12-07T05:04:53.761Z
 draft: published
 ---
 
@@ -65,3 +65,5 @@ draft: published
 [▲ InfoQ의 소프트웨어 아키텍처 & 설계 트렌드 리포트 2022](https://news.hada.io/topic?id=6337)
 [Graphic Design for Software Engineers and Architects](https://betterprogramming.pub/graphic-design-for-software-engineers-and-architects-c616bb6c3366)
 [12 Software Architecture Styles Software Engineers Should Know](https://medium.com/@xsronhou/12-software-architecture-styles-software-engineer-should-know-ee92e3b1f9ac)
+[지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture)
+[디자인 패턴들](https://refactoring.guru/ko/design-patterns)

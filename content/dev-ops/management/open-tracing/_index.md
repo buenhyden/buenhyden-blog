@@ -1,9 +1,9 @@
 ---
 type: docs
-title: Open Telemetry
-date: 2023-11-04T12:52:00+09:00
+title: Open Tracing
+date: 2023-12-07T05:53:49.042Z
 description: null
-linkTitle: Open Telemetry
+linkTitle: Open Tracing
 nav_weight: 9
 nav_icon:
   vendor: bs
@@ -15,21 +15,15 @@ series:
   - Management for Infrastructure
   - Tools
 categories:
-  - Application Monitoring
   - Dev Ops
-  - Open Telemetry
-  - tools
   - Management for Infrastructure
+  - Open Tracing
 tags:
-  - Application Monitoring
   - Dev Ops
-  - Open Telemetry
-  - tools
   - Management for Infrastructure
-lastmod: 2023-11-24T16:57:25.843Z
+  - Open Tracing
+lastmod: 2023-12-07T05:54:12.854Z
 draft: published
 ---
 
 ## Reference
-
-[OpenTelemetry Official Homepage](https://opentelemetry.io/)

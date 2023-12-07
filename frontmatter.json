@@ -375,7 +375,6 @@
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
-
     {
       "title": "[Software Architecture] Micro Service Architecture(MSA)",
       "path": "[[workspace]]/content/computer-science/software-design-and-architecture/software-architecture/micro-service-architecture",
@@ -412,7 +411,6 @@
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },
-
     {
       "title": "[System design & Architecture] Basic",
       "path": "[[workspace]]/content/computer-science/system-design-and-architecture/basic",
@@ -750,12 +748,6 @@
       "contentTypes": ["default"]
     },
     {
-      "title": "[Application Monitoring] Open Telemetry",
-      "path": "[[workspace]]/content/dev-ops/management/application-monitoring/open-telemetry",
-      "excludeSubdir": true,
-      "contentTypes": ["default"]
-    },
-    {
       "title": "[Infrastructure Management] Build",
       "path": "[[workspace]]/content/dev-ops/management/build"
     },
@@ -834,6 +826,24 @@
     {
       "title": "[Observability] Datadog",
       "path": "[[workspace]]/content/dev-ops/management/observability/datadog",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Infrastructure Management] Open Tracing",
+      "path": "[[workspace]]/content/dev-ops/management/open-tracing",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Open Tracing] jagger",
+      "path": "[[workspace]]/content/dev-ops/management/open-tracing/jagger",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
+      "title": "[Open Tracing] zipkin",
+      "path": "[[workspace]]/content/dev-ops/management/open-tracing/zipkin",
       "excludeSubdir": true,
       "contentTypes": ["default"]
     },

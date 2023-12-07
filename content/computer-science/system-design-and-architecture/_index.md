@@ -19,7 +19,7 @@ categories:
 tags:
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-12-05T12:36:44.665Z
+lastmod: 2023-12-07T05:20:59.050Z
 draft: published
 ---
 
@@ -49,3 +49,6 @@ draft: published
 [System-Design](https://github.com/codersguild/System-Design)  
 [멀티클라우드의 장점과 고려사항](https://www.samsungsds.com/kr/insights/multicloud_pros.html)
 [API Management PaaS에서 Multi-tenancy 구현하기](https://dev.gmarket.com/64)
+[Shopify System Design 의 분석](https://www.joinc.co.kr/w/man/12/ShopifySystemDesign)
+[Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before?triedSigningIn=true)  
+[Airbnb System design 분석](https://www.joinc.co.kr/w/man/12/airbnbDesign)

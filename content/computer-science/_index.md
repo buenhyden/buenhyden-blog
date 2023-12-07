@@ -16,7 +16,7 @@ categories:
   - Computer Science
 tags:
   - Computer Science
-lastmod: 2023-12-01T21:52:36.255Z
+lastmod: 2023-12-07T05:02:30.591Z
 draft: published
 slug: computer-science
 ---
@@ -32,3 +32,4 @@ slug: computer-science
 [주니어 PM이 알아야 할 서버 기초 상식](https://yozm.wishket.com/magazine/detail/1907/)  
 [웹/앱 외주 개발 시 꼭 알아야 하는 IT 용어 - 웹](https://yozm.wishket.com/magazine/detail/379/)  
 [비개발자를 위한 IT 용어 : 프레임워크가 뭐죠?](https://yozm.wishket.com/magazine/detail/378/)
+[동시성, 병렬, 비동기, 논블럭킹과 컨셉들](https://black7375.tistory.com/90)

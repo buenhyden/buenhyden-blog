@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Deployment(CD)
-lastmod: 2023-11-26T05:58:52.208Z
+lastmod: 2023-12-07T05:04:33.134Z
 draft: published
 ---
 
@@ -39,3 +39,4 @@ draft: published
 [SH's Devlog](https://seosh817.tistory.com/104)  
 [GitHub Actions로 App 자동으로 배포하기](https://yozm.wishket.com/magazine/detail/1666/)
 [Kubernetes 기반의 어플리케이션 배포 시스템 구축 방법](https://devocean.sk.com/search/techBoardDetail.do?ID=164937&boardType=)
+[폐쇄망 환경의 배포 시스템 개발기](https://blog.banksalad.com/tech/how-we-have-built-alice/)

@@ -23,10 +23,12 @@ tags:
   - Network
   - RPC
   - Computer Science
-lastmod: 2023-11-26T10:41:41.263Z
+lastmod: 2023-12-07T05:11:03.272Z
 draft: published
 ---
 
 ![RPC mechanism](/computer-science/rpc-mechanism.png#center "https://www.itrelease.com/2021/06/what-is-remote-procedure-call-rpc-in-operating-system/")
 
 ## Reference
+
+[[KO][NEAR 102] 1편: 니어 프로토콜 이해하기 — 메인넷 아키텍처와 RPC 호출](https://medium.com/dsrv/near-102-understanding-near-protocol-mainnet-architecture-and-rpc-call-75351d28bdb4)

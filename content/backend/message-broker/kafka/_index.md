@@ -24,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-12-05T12:37:30.785Z
+lastmod: 2023-12-07T05:30:54.799Z
 draft: published
 ---
 
@@ -49,3 +49,8 @@ draft: published
 [Live11 과 Schema Registry](https://11st-tech.github.io/2022/06/28/schema-registry-in-live11/)
 [Kafka 이벤트 모니터링이란.. (먼산)](https://dev.gmarket.com/51)
 [확장성 높은 카프카 구성을 위한 서비스 설계](https://dev.gmarket.com/35)
+[Kafka에서 파티션 증가 없이 동시 처리량을 늘리는 방법 - Parallel Consumer](https://d2.naver.com/helloworld/7181840)
+[messaging-hub 트러블 슈팅](https://engineering.linecorp.com/ko/blog/messaing-hub-troubleshooting)
+[Kafka 사용이유 ( vs RabbitMQ )](https://ellune.tistory.com/29)
+[Kafka 기본 개념 (토픽, 파티션, 성능, 고가용성, 프로듀서, 컨슈머) 출처: https://sjh836.tistory.com/186 [빨간색코딩:티스토리]](https://sjh836.tistory.com/186)
+[Airbnb의 이벤트 로그 처리](https://brunch.co.kr/@sonjoosik/3)

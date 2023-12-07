@@ -18,7 +18,7 @@ categories:
 tags:
   - Data Engineering
   - Data
-lastmod: 2023-12-05T12:19:35.863Z
+lastmod: 2023-12-07T05:20:05.698Z
 draft: published
 ---
 
@@ -39,3 +39,9 @@ draft: published
 [The Architecture Of Serverless Data Systems](https://jack-vanlightly.com/blog/2023/11/14/the-architecture-of-serverless-data-systems)
 [▲ 최신 데이터 인프라를 위한 새로운 아키텍처 2.0](https://news.hada.io/topic?id=6435)
 [데이터 엔지니어링이란](https://tech.kakao.com/2020/11/30/kakao-data-engineering/)
+[FMS(차량 관제 시스템) 데이터 파이프라인 구축기 1편. 스트리밍/배치 파이프라인 개발기](https://tech.socarcorp.kr/data/2023/01/17/build-fms-data-pipeline-1.html)
+[FMS(차량 관제 시스템) 데이터 파이프라인 구축기 2편. 신뢰성 높은 데이터를 위한 테스트 환경 구축기](https://tech.socarcorp.kr/data/2023/01/25/build-fms-data-pipeline-2.html)  
+[제네시스 – 광고추천팀의 카프카 기반 스트리밍 데이터 플랫폼](https://tech.kakao.com/2022/04/13/kafka-connect-streaming-data-platform/)
+[Data platform 2022: Global expansion in petabytes](https://medium.com/coupang-engineering/data-platform-2022-global-expansion-in-petabytes-3dbbbf27f6fe)
+[데이터 파이프라인 기본 원리와 원칙은 시간이 지나도 유효해야 한다(1/2)](https://netmarble.engineering/data-pipeline-design-principles-a/)
+[데이터 파이프라인 기본 원리와 원칙은 시간이 지나도 유효해야 한다(2/2)](https://netmarble.engineering/data-pipeline-design-principles-b/)

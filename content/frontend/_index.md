@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-12-05T12:27:49.632Z
+lastmod: 2023-12-07T05:22:23.646Z
 draft: published
 ---
 
@@ -56,3 +56,4 @@ draft: published
 [프론트엔드 개발자가 알아야 할 '캐싱' 개념 정리](https://yozm.wishket.com/magazine/detail/2341/)
 [프론트엔드의 아키텍처? 디자인 패턴?](https://velog.io/@userhwseo/Atomic-Design)  
 [CSR 환경에서 Suspense로 발생한 문제 해결하고 성능 개선하기](https://tech.kakaopay.com/post/react-router-dom-csr-prefetch/)
+[웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)
