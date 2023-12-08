@@ -21,7 +21,7 @@ tags:
   - Programming Language
   - Flutter
   - Dart
-lastmod: 2023-11-24T16:46:08.834Z
+lastmod: 2023-12-08T13:17:06.883Z
 date: 2023-11-11T14:03:58.106Z
 draft: published
 ---

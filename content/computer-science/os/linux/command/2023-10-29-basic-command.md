@@ -26,7 +26,7 @@ tags:
   - Linux
   - Operating System
   - OS
-lastmod: 2023-11-28T12:23:45.571Z
+lastmod: 2023-12-08T12:50:37.026Z
 draft: published
 ---
 

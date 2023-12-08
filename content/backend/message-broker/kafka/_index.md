@@ -24,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-12-07T06:18:49.401Z
+lastmod: 2023-12-08T12:45:10.829Z
 draft: published
 ---
 
@@ -38,21 +38,21 @@ draft: published
 [ksqlDB Deep Dive](https://hyperconnect.github.io/2023/03/20/ksqldb-deepdive.html)  
 [[Kafka] 카프카 기본 개념\_1 (브로커, 프로듀서, 컨슈머, 메시지 + 주키퍼)](https://unit-15.tistory.com/135)  
 [[Kafka] 카프카 기본 개념\_2 (토픽, 파티션, 세그먼트, 리플리케이션, 리더-팔로워)](https://unit-15.tistory.com/136)  
-[[Kafka] 카프카 기본 개념\_3 (소스 커넥트, 싱크 커넥트, 커넥터)](https://unit-15.tistory.com/137)
+[[Kafka] 카프카 기본 개념\_3 (소스 커넥트, 싱크 커넥트, 커넥터)](https://unit-15.tistory.com/137)  
 [[Kafka] 파티션 키를 사용하여 특정 파티션으로 메시지 적재하기](https://devocean.sk.com/search/techBoardDetail.do?ID=164096&boardType=)  
 [[Kafka] Docker Compose로 멀티브로커 Kafka 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=164016&boardType=)  
-[[Kafka] Docker Compose 를 이용하여 Single Broker 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=164007&boardType=)
+[[Kafka] Docker Compose 를 이용하여 Single Broker 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=164007&boardType=)  
 [Kafka-UI Tool 을 이용하여 Kafka 관리하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163980&boardType=)  
-[간단한 카프카 환경 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163709&boardType=)
-[카프카 커넥트를 데이터 파이프라인으로 사용하는 이유? kafka-sink-connector 오픈소스 언빡싱!](https://tech.kakao.com/2023/01/12/introduce-kafka-sink-connector/)
-[카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
-[Live11 과 Schema Registry](https://11st-tech.github.io/2022/06/28/schema-registry-in-live11/)
-[Kafka 이벤트 모니터링이란.. (먼산)](https://dev.gmarket.com/51)
-[확장성 높은 카프카 구성을 위한 서비스 설계](https://dev.gmarket.com/35)
-[Kafka에서 파티션 증가 없이 동시 처리량을 늘리는 방법 - Parallel Consumer](https://d2.naver.com/helloworld/7181840)
-[messaging-hub 트러블 슈팅](https://engineering.linecorp.com/ko/blog/messaing-hub-troubleshooting)
-[Kafka 사용이유 ( vs RabbitMQ )](https://ellune.tistory.com/29)
-[Kafka 기본 개념 (토픽, 파티션, 성능, 고가용성, 프로듀서, 컨슈머) 출처: https://sjh836.tistory.com/186 [빨간색코딩:티스토리]](https://sjh836.tistory.com/186)
-[Airbnb의 이벤트 로그 처리](https://brunch.co.kr/@sonjoosik/3)
+[간단한 카프카 환경 구성하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163709&boardType=)  
+[카프카 커넥트를 데이터 파이프라인으로 사용하는 이유? kafka-sink-connector 오픈소스 언빡싱!](https://tech.kakao.com/2023/01/12/introduce-kafka-sink-connector/)  
+[카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)  
+[Live11 과 Schema Registry](https://11st-tech.github.io/2022/06/28/schema-registry-in-live11/)  
+[Kafka 이벤트 모니터링이란.. (먼산)](https://dev.gmarket.com/51)  
+[확장성 높은 카프카 구성을 위한 서비스 설계](https://dev.gmarket.com/35)  
+[Kafka에서 파티션 증가 없이 동시 처리량을 늘리는 방법 - Parallel Consumer](https://d2.naver.com/helloworld/7181840)  
+[messaging-hub 트러블 슈팅](https://engineering.linecorp.com/ko/blog/messaing-hub-troubleshooting)  
+[Kafka 사용이유 ( vs RabbitMQ )](https://ellune.tistory.com/29)  
+[Kafka 기본 개념 (토픽, 파티션, 성능, 고가용성, 프로듀서, 컨슈머) 출처: https://sjh836.tistory.com/186 [빨간색코딩:티스토리]](https://sjh836.tistory.com/186)  
+[Airbnb의 이벤트 로그 처리](https://brunch.co.kr/@sonjoosik/3)  
 [Kafka와 MongoDB, Kubernetes로 유연하고 확장 가능한 LINE 쇼핑 플랫폼 구축하기](https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes)  
 [회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835/)

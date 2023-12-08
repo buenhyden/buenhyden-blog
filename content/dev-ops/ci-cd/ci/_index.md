@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Integration(CI)
-lastmod: 2023-11-26T05:59:34.654Z
+lastmod: 2023-12-08T12:59:40.458Z
 draft: published
 ---
 

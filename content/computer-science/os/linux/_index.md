@@ -22,7 +22,7 @@ tags:
   - Linux
   - Operating System
   - Computer Science
-lastmod: 2023-11-26T11:57:36.440Z
+lastmod: 2023-12-08T12:50:57.369Z
 draft: published
 ---
 
@@ -33,5 +33,5 @@ draft: published
 [Linux Official Homepage](https://www.linux.org/)  
 [[여기보기] etc 디렉토리에 있는 소중한 아이들](https://yozm.wishket.com/magazine/detail/1679/)  
 [50 Linux Commands List with Examples](https://www.javatpoint.com/linux-commands)  
-[Top 50+ Linux Commands You MUST Know](https://www.digitalocean.com/community/tutorials/linux-commands)
+[Top 50+ Linux Commands You MUST Know](https://www.digitalocean.com/community/tutorials/linux-commands)  
 [리눅스 서버에서 실행한 작업이 중단될 때 슬랙으로 알림 보내기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165296&ref=codenary)

@@ -21,7 +21,7 @@ tags:
   - Backend
   - Database
   - RDBMS
-lastmod: 2023-11-26T04:49:52.700Z
+lastmod: 2023-12-08T12:44:18.662Z
 draft: published
 ---
 

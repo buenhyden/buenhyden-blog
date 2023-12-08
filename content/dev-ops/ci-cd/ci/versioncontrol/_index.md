@@ -23,7 +23,7 @@ tags:
   - CI/CD
   - Continuous Integration(CI)
   - Version Control
-lastmod: 2023-11-26T06:00:41.339Z
+lastmod: 2023-12-08T12:59:34.381Z
 draft: published
 ---
 

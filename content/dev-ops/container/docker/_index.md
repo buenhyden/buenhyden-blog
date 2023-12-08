@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Container
   - Docker
-lastmod: 2023-12-07T05:14:44.397Z
+lastmod: 2023-12-08T13:02:29.588Z
 draft: published
 ---
 
@@ -36,10 +36,10 @@ draft: published
 
 ## Reference
 
-[Docker Official Homepage](https://www.docker.com/)  
+[Docker Official Homepage](https://www.docker.om/)  
 [(도커(Docker)란 무엇이고, 왜 사용하나요?](https://yozm.wishket.com/magazine/detail/732/)  
 [변화하는 비즈니스 환경에 신속하게 대응하는 도커와 컨테이너](https://www.samsungsds.com/kr/insights/docker_container.html)  
 [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)  
 [초보를 위한 도커 안내서 - 설치하고 컨테이너 실행하기](https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html)  
-[초보를 위한 도커 안내서 - 이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
+[초보를 위한 도커 안내서 - 이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)  
 [도커(Docker)에 관련된 한글 문서를 정리한 메타 문서](https://github.com/remotty/documents.docker.co.kr)

@@ -23,7 +23,7 @@ tags:
   - Database
   - NoSQL
   - Key Value
-lastmod: 2023-11-12T14:45:24.364Z
+lastmod: 2023-12-08T12:43:35.418Z
 draft: published
 ---
 

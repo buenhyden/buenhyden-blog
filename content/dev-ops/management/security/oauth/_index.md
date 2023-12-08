@@ -23,7 +23,7 @@ tags:
   - IT Security
   - Management for Infrastructure
   - OAuth
-lastmod: 2023-12-07T05:05:57.014Z
+lastmod: 2023-12-08T13:09:10.438Z
 authors: Hyunyoun Jo
 draft: published
 ---

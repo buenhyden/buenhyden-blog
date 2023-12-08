@@ -25,7 +25,7 @@ tags:
   - Document DBs
   - NoSQL
   - Cassandra
-lastmod: 2023-11-24T16:23:25.821Z
+lastmod: 2023-12-08T12:42:53.905Z
 draft: published
 ---
 

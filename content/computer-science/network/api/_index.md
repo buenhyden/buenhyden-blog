@@ -21,7 +21,7 @@ tags:
   - API
   - Network
   - Computer Science
-lastmod: 2023-12-06T14:41:01.718Z
+lastmod: 2023-12-08T12:47:24.155Z
 draft: published
 ---
 
@@ -33,9 +33,9 @@ draft: published
 [API란? 비개발자가 알기 쉽게 설명해드립니다.](https://yozm.wishket.com/magazine/detail/53/)  
 [SOAP API vs REST API, 두 방식의 가장 큰 차이점은?](https://yozm.wishket.com/magazine/detail/119/)  
 [API란 무엇인가요? (feat. 인터페이스)](https://yozm.wishket.com/magazine/detail/727/)  
-[서비스와 데이터 이해하기, API란?](https://yozm.wishket.com/magazine/detail/625/)
-[6 API Trends and Practices to Know for 2024](https://thenewstack.io/6-api-trends-and-practices-to-know-for-2024/)
-[10 REST API BEST PRACTICES](https://medium.com/javarevisited/10-rest-api-best-practices-cd12e3904d00)
+[서비스와 데이터 이해하기, API란?](https://yozm.wishket.com/magazine/detail/625/)  
+[6 API Trends and Practices to Know for 2024](https://thenewstack.io/6-api-trends-and-practices-to-know-for-2024/)  
+[10 REST API BEST PRACTICES](https://medium.com/javarevisited/10-rest-api-best-practices-cd12e3904d00)  
 [▲ 2024년을 위한 API 트렌드](https://news.hada.io/topic?id=12096)  
-[▲ 2023년 API 프로토콜 현황](https://news.hada.io/topic?id=12179)
+[▲ 2023년 API 프로토콜 현황](https://news.hada.io/topic?id=12179)  
 [Rest API 규칙](https://danyoujeong.tistory.com/210)

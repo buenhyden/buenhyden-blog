@@ -22,7 +22,7 @@ tags:
   - Programming Language
   - Vue.js
   - Programming
-lastmod: 2023-11-26T05:08:14.994Z
+lastmod: 2023-12-08T13:15:14.658Z
 date: 2023-11-16T01:11:32.999Z
 draft: published
 ---

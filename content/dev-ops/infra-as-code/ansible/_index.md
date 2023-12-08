@@ -26,7 +26,7 @@ tags:
   - Configuration Management
   - Ansible
   - tools
-lastmod: 2023-12-07T05:18:26.619Z
+lastmod: 2023-12-08T13:02:49.198Z
 authors: Hyunyoun Jo
 draft: published
 ---
@@ -36,6 +36,6 @@ draft: published
 ## Reference
 
 [Ansible Official Homepage](https://www.ansible.com/)  
-[Ansible 도입전에 알아야 할 기본지식](https://medium.com/@itsinil/ansible-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%90%EB%8F%99%ED%99%94-82376d4b9ca3)
+[Ansible 도입전에 알아야 할 기본지식](https://medium.com/@itsinil/ansible-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%90%EB%8F%99%ED%99%94-82376d4b9ca3)  
 [[번역] Ansible(1) 서론, 시작하기, 아키텍처](https://velog.io/@hanblueblue/%EB%B2%88%EC%97%AD-Ansible)  
 [[번역] Ansible(2) inventory, Playbooks, Roles](https://velog.io/@hanblueblue/%EB%B2%88%EC%97%AD-Ansible2-%ED%94%8C%EB%A0%88%EC%9D%B4%EB%B6%81)

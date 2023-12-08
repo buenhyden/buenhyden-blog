@@ -23,7 +23,7 @@ tags:
   - GraphQL
   - Network
   - Computer Science
-lastmod: 2023-11-26T10:40:10.590Z
+lastmod: 2023-12-08T12:46:54.605Z
 draft: published
 ---
 
@@ -40,7 +40,7 @@ draft: published
 [GraphQL Official Homepage](https://graphql.org/)  
 [LinkedIn’s GraphQL journey for integrations and partnerships: How we accelerated development by 90%](https://engineering.linkedin.com/blog/2022/linkedin-s-graphql-journey-for-integrations-and-partnerships)  
 [GraphQL을 이용한 OLAP Star Schema의 설계](https://yozm.wishket.com/magazine/detail/1689/)  
-[개발자에게 편리함을 주는 'GraphQL' 도입 시 주의할 점은?](https://yozm.wishket.com/magazine/detail/2113/)
+[개발자에게 편리함을 주는 'GraphQL' 도입 시 주의할 점은?](https://yozm.wishket.com/magazine/detail/2113/)  
 [GraphQL에 대하여 (장점 ＆ Schema ＆ Type)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164787&boardType=techBlog)  
 [GraphQL에 대하여 (Interface ＆ Union Type)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164891&boardType=techBlog)  
 [GraphQL에 대하여 (Resolver ＆ DataLoader)](https://devocean.sk.com/blog/techBoardDetail.do?ID=164933&boardType=techBlog)  

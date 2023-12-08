@@ -19,7 +19,7 @@ categories:
 tags:
   - Frontend
   - Web Browser
-lastmod: 2023-11-26T04:55:33.422Z
+lastmod: 2023-12-08T13:11:57.502Z
 draft: published
 ---
 

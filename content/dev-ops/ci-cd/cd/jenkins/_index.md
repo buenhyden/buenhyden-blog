@@ -23,7 +23,7 @@ tags:
   - Dev Ops
   - Jenkins
   - Continuous Deployment(CD)
-lastmod: 2023-11-28T03:34:03.853Z
+lastmod: 2023-12-08T12:57:56.190Z
 draft: published
 ---
 

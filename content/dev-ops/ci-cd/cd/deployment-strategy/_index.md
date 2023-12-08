@@ -25,7 +25,7 @@ tags:
   - Continuous Deployment(CD)
   - Dev Ops
   - Deployment Strategy
-lastmod: 2023-11-28T03:35:45.482Z
+lastmod: 2023-12-08T12:57:22.603Z
 draft: published
 ---
 

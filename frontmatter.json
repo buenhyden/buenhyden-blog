@@ -836,6 +836,12 @@
       "contentTypes": ["default"]
     },
     {
+      "title": "[Open Tracing] basic",
+      "path": "[[workspace]]/content/dev-ops/management/open-tracing/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["default"]
+    },
+    {
       "title": "[Open Tracing] jagger",
       "path": "[[workspace]]/content/dev-ops/management/open-tracing/jagger",
       "excludeSubdir": true,

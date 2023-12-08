@@ -18,7 +18,7 @@ categories:
 tags:
   - Frontend
   - HTMX
-lastmod: 2023-11-24T16:55:00.144Z
+lastmod: 2023-12-08T13:11:07.049Z
 authors: Hyunyoun Jo
 draft: published
 ---

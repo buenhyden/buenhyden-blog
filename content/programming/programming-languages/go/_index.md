@@ -21,7 +21,7 @@ tags:
   - Go
   - Programming Language
   - Programming
-lastmod: 2023-11-26T05:17:40.623Z
+lastmod: 2023-12-08T13:16:54.840Z
 draft: published
 ---
 

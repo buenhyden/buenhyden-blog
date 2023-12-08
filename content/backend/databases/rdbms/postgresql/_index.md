@@ -23,7 +23,7 @@ tags:
   - Database
   - RDBMS
   - PostgreSQL
-lastmod: 2023-11-24T16:24:20.635Z
+lastmod: 2023-12-08T12:44:10.070Z
 draft: published
 ---
 

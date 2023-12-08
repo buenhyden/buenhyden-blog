@@ -19,7 +19,7 @@ categories:
 tags:
   - Programming Paradigm
   - Programming
-lastmod: 2023-11-26T04:59:03.113Z
+lastmod: 2023-12-08T13:13:07.584Z
 draft: published
 images: []
 ---

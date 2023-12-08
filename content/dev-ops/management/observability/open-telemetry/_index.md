@@ -26,7 +26,7 @@ tags:
   - Open Telemetry
   - tools
   - Observability
-lastmod: 2023-12-07T05:42:13.173Z
+lastmod: 2023-12-08T13:05:35.522Z
 draft: published
 ---
 

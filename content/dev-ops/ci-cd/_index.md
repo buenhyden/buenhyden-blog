@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - CI/CD
-lastmod: 2023-12-07T06:13:41.502Z
+lastmod: 2023-12-08T12:59:51.573Z
 draft: published
 ---
 
@@ -34,8 +34,8 @@ draft: published
 ## Reference
 
 [깃허브 액션으로 CI/CD 구현하기](https://yozm.wishket.com/magazine/detail/2197/)  
-[CI/CD 개념과 깃허브 리포지터리 생성하기](https://yozm.wishket.com/magazine/detail/2184/)
-[CI/CD와 Gitflow 그리고 QA](https://devocean.sk.com/blog/techBoardDetail.do?ID=165513&boardType=techBlog&ref=codenary)
-[ArgoCD + AWS EKS + CodeCommmit + CodeBuild 로 CI/CD 구축하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165211&boardType=techBlog)
-[GitOps Best Practices Whitepaper](https://akuity.io/blog/gitops-best-practices-whitepaper/)
+[CI/CD 개념과 깃허브 리포지터리 생성하기](https://yozm.wishket.com/magazine/detail/2184/)  
+[CI/CD와 Gitflow 그리고 QA](https://devocean.sk.com/blog/techBoardDetail.do?ID=165513&boardType=techBlog&ref=codenary)  
+[ArgoCD + AWS EKS + CodeCommmit + CodeBuild 로 CI/CD 구축하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165211&boardType=techBlog)  
+[GitOps Best Practices Whitepaper](https://akuity.io/blog/gitops-best-practices-whitepaper/)  
 [CI/CD란 무엇인가 (Feat. DevOps 엔지니어)](https://artist-developer.tistory.com/24?category=965473)

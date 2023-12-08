@@ -23,7 +23,7 @@ tags:
   - Network
   - REST API
   - Computer Science
-lastmod: 2023-11-26T10:41:02.988Z
+lastmod: 2023-12-08T12:47:00.321Z
 draft: published
 ---
 

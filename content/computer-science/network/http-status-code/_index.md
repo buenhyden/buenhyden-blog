@@ -23,7 +23,7 @@ tags:
   - Protocol
   - Status Code
   - Computer Science
-lastmod: 2023-11-26T10:48:25.683Z
+lastmod: 2023-12-08T12:48:42.651Z
 draft: published
 ---
 

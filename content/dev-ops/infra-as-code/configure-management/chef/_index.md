@@ -26,7 +26,7 @@ tags:
   - Configuration Management
   - Chef
   - tools
-lastmod: 2023-11-26T05:49:23.899Z
+lastmod: 2023-12-08T13:02:56.859Z
 draft: published
 ---
 

@@ -4,7 +4,7 @@ title: Bandwidth
 linkTitle: Bandwidth
 description: 특정한 기능을 수행할 수 있는 주파수의 범위
 date: 2023-11-25T12:37:01.427Z
-lastmod: 2023-11-28T12:26:15.340Z
+lastmod: 2023-12-08T12:47:58.872Z
 nav_weight: 2
 nav_icon:
   vendor: bs
@@ -104,5 +104,5 @@ IT 시스템의 네트워크 레이어에서 출력이 일정하지 않다는 �
 [네트워크 - 대역폭, bandwidth란 무엇인가](https://m.blog.naver.com/on21life/221340548735)  
 [대역폭, bandwidth란 ?](https://velog.io/@ragnarok_code/%EB%8C%80%EC%97%AD%ED%8F%AD-bandwidth%EB%9E%80)  
 [전송속도와 대역폭 이란 무엇인가?](https://trts1004.tistory.com/12109599)  
-[[데이터통신] 네트워크 성능 - 대역폭(Bandwidth), 처리율](https://uzun.dev/118)
+[[데이터통신] 네트워크 성능 - 대역폭(Bandwidth), 처리율](https://uzun.dev/118)  
 [BW, B/W Bandwidth, Spectral Bandwdith 대역폭, 주파수 대역폭, 파장 대역폭, 스펙트럼 폭, 스펙트럼 대역폭](http://www.ktword.co.kr/test/view/view.php?m_temp1=1157)

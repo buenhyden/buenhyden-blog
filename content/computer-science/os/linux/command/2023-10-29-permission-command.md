@@ -27,7 +27,7 @@ tags:
   - OS
 featured: true
 authors: Hyunyoun Jo
-lastmod: 2023-11-28T12:23:41.088Z
+lastmod: 2023-12-08T12:50:45.160Z
 draft: published
 ---
 

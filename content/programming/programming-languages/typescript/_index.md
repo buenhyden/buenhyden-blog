@@ -20,7 +20,7 @@ tags:
   - Programming Language
   - Typescript
   - Programming
-lastmod: 2023-11-26T05:01:33.462Z
+lastmod: 2023-12-08T13:13:25.909Z
 date: 2023-11-16T01:10:09.414Z
 draft: published
 ---

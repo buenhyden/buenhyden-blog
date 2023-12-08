@@ -20,7 +20,7 @@ categories:
 tags:
   - Dev Ops
   - Container
-lastmod: 2023-11-26T05:50:39.799Z
+lastmod: 2023-12-08T13:02:39.397Z
 draft: published
 ---
 

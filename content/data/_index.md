@@ -16,7 +16,7 @@ categories:
   - Data
 tags:
   - Data
-lastmod: 2023-11-25T04:47:49.995Z
+lastmod: 2023-12-08T12:56:59.399Z
 draft: published
 ---
 
@@ -27,5 +27,5 @@ draft: published
 [양질의 데이터를 판별하는 5가지 방법 : 2 믿을 수 있는 데이터인가?](https://yozm.wishket.com/magazine/detail/1074/)  
 [양질의 데이터를 판별하는 5가지 방법 : 3 관계형 데이터베이스인가?](https://yozm.wishket.com/magazine/detail/1096/)  
 [양질의 데이터를 판별하는 5가지 방법 : 4 데이터 형식을 파악했는가?](https://yozm.wishket.com/magazine/detail/1107/)  
-[양질의 데이터를 판별하는 5가지 방법 : 5 목적에 적합한 데이터인가?](https://yozm.wishket.com/magazine/detail/1123/)
+[양질의 데이터를 판별하는 5가지 방법 : 5 목적에 적합한 데이터인가?](https://yozm.wishket.com/magazine/detail/1123/)  
 [데이터 아키텍처의 과거, 현재, 미래](https://devocean.sk.com/blog/techBoardDetail.do?ID=164748&boardType=techBlog)

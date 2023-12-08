@@ -24,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - RabbitMQ
-lastmod: 2023-11-28T11:50:26.655Z
+lastmod: 2023-12-08T12:45:16.473Z
 draft: published
 ---
 

@@ -20,7 +20,7 @@ categories:
 tags:
   - Dev Ops
   - Container Orchestration(CO)
-lastmod: 2023-11-28T12:21:00.919Z
+lastmod: 2023-12-08T13:01:59.024Z
 linkTitle: Container Orchestration(CO) Tools
 draft: published
 ---

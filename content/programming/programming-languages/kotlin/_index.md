@@ -21,7 +21,7 @@ tags:
   - Kotlin
   - Programming Language
   - Programming
-lastmod: 2023-11-26T05:05:23.868Z
+lastmod: 2023-12-08T13:14:36.626Z
 date: 2023-11-11T14:03:12.053Z
 draft: published
 ---

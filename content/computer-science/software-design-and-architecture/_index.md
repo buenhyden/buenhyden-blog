@@ -19,7 +19,7 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-12-07T05:04:53.761Z
+lastmod: 2023-12-08T12:53:56.519Z
 draft: published
 ---
 
@@ -56,14 +56,14 @@ draft: published
 [오픈소스답게 소프트웨어 설계하기](https://techblog.lycorp.co.jp/ko/designing-software-like-an-open-source)  
 [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)  
 [professional-programming](https://github.com/charlax/professional-programming)  
-[software-architecture-books](https://github.com/mhadidg/software-architecture-books)
-[성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙](https://www.samsungsds.com/kr/insights/successful-application-modernization.html?ref=codenary)
-[현대 앱 아키텍쳐 설명 (Backend/Frontend/MVC/Flux/Redux/M](https://devocean.sk.com/blog/techBoardDetail.do?ID=164484&boardType=techBlog)
-[GN⁺: 소프트웨어 아키텍처 다이어그램 그리는 방법 (2022)](https://news.hada.io/topic?id=11565)
-[Software Architecture and Design Trend 2023](https://medium.com/@danielfoo/software-architecture-and-design-trend-2023-f55ecfbcfcc0)
-[The Architect’s Blueprint: Understanding Software Styles and Patterns with Cheatsheet](https://medium.com/bytebytego-system-design-alliance/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet-5c1f5fd55bbd)
-[▲ InfoQ의 소프트웨어 아키텍처 & 설계 트렌드 리포트 2022](https://news.hada.io/topic?id=6337)
-[Graphic Design for Software Engineers and Architects](https://betterprogramming.pub/graphic-design-for-software-engineers-and-architects-c616bb6c3366)
-[12 Software Architecture Styles Software Engineers Should Know](https://medium.com/@xsronhou/12-software-architecture-styles-software-engineer-should-know-ee92e3b1f9ac)
-[지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture)
+[software-architecture-books](https://github.com/mhadidg/software-architecture-books)  
+[성공적인 애플리케이션 현대화를 위한 12가지 기본 원칙](https://www.samsungsds.com/kr/insights/successful-application-modernization.html?ref=codenary)  
+[현대 앱 아키텍쳐 설명 (Backend/Frontend/MVC/Flux/Redux/M](https://devocean.sk.com/blog/techBoardDetail.do?ID=164484&boardType=techBlog)  
+[GN⁺: 소프트웨어 아키텍처 다이어그램 그리는 방법 (2022)](https://news.hada.io/topic?id=11565)  
+[Software Architecture and Design Trend 2023](https://medium.com/@danielfoo/software-architecture-and-design-trend-2023-f55ecfbcfcc0)  
+[The Architect’s Blueprint: Understanding Software Styles and Patterns with Cheatsheet](https://medium.com/bytebytego-system-design-alliance/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet-5c1f5fd55bbd)  
+[▲ InfoQ의 소프트웨어 아키텍처 & 설계 트렌드 리포트 2022](https://news.hada.io/topic?id=6337)  
+[Graphic Design for Software Engineers and Architects](https://betterprogramming.pub/graphic-design-for-software-engineers-and-architects-c616bb6c3366)  
+[12 Software Architecture Styles Software Engineers Should Know](https://medium.com/@xsronhou/12-software-architecture-styles-software-engineer-should-know-ee92e3b1f9ac)  
+[지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture)  
 [디자인 패턴들](https://refactoring.guru/ko/design-patterns)

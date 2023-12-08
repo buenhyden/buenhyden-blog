@@ -19,7 +19,7 @@ categories:
 tags:
   - Backend
   - Message Broker
-lastmod: 2023-12-04T09:32:28.301Z
+lastmod: 2023-12-08T12:45:28.143Z
 draft: published
 ---
 
@@ -48,7 +48,7 @@ draft: published
 ## Reference
 
 [Message Broker](https://www.ibm.com/kr-ko/topics/message-brokers)  
-[제이크서 위키 블로그](https://jake-seo-dev.tistory.com/467)
-[Confluent Schema Registry 도입기!](https://techblog.yogiyo.co.kr/confluent-schema-registry-%EB%8F%84%EC%9E%85%EA%B8%B0-54d112b9b53f)
-[Open Source 기반 Messaging Platform - Apache Pulsar 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=164597&boardType=techBlog)
+[제이크서 위키 블로그](https://jake-seo-dev.tistory.com/467)  
+[Confluent Schema Registry 도입기!](https://techblog.yogiyo.co.kr/confluent-schema-registry-%EB%8F%84%EC%9E%85%EA%B8%B0-54d112b9b53f)  
+[Open Source 기반 Messaging Platform - Apache Pulsar 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=164597&boardType=techBlog)  
 [MQTT에 대한 세부 특징 이를 내장하는 DBMS에 대한 글](https://machbase.com/kr/home/blog/blog10/)

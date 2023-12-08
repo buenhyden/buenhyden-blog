@@ -26,7 +26,7 @@ tags:
   - Dev Ops
   - Kubernetes
   - Helm
-lastmod: 2023-11-22T01:28:32.636Z
+lastmod: 2023-12-08T13:00:15.780Z
 draft: published
 ---
 

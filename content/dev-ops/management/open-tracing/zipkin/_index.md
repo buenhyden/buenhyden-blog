@@ -26,7 +26,7 @@ tags:
   - Open Tracing
   - tools
   - Zipkin
-lastmod: 2023-12-07T05:57:00.398Z
+lastmod: 2023-12-08T13:08:36.297Z
 draft: published
 ---
 

@@ -29,13 +29,13 @@ tags:
   - Service Mesh
   - Istio
   - tools
-lastmod: 2023-12-07T00:56:33.452Z
+lastmod: 2023-12-08T13:01:42.451Z
 draft: published
 ---
 
 ## Reference
 
 [Istio Official Homepage](https://istio.io/)  
-[이스티오(Istio)의 엠비언트 메시 소개](https://yozm.wishket.com/magazine/detail/2048/)
-[Istio By Example](https://istiobyexample.dev/)
+[이스티오(Istio)의 엠비언트 메시 소개](https://yozm.wishket.com/magazine/detail/2048/)  
+[Istio By Example](https://istiobyexample.dev/)  
 [Kubernetes Native Sidecars in Istio](https://istio.io/latest/blog/2023/native-sidecars/)

@@ -4,7 +4,7 @@ title: Cross Origin Resource Sharing(CORS)
 description: 추가 HTTP 헤더를 사용하여, 한 출처에서 실행 중인 웹 애플리케이션이 다른 출처의 선택한 자원에 접근할 수 있는 권한을 부여하도록 브라우저에 알려주는 체제
 linkTitle: Cross Origin Resource Sharing(CORS)
 date: 2023-11-15T14:17:29.812Z
-lastmod: 2023-11-28T12:26:21.461Z
+lastmod: 2023-12-08T12:47:49.953Z
 nav_weight: 4
 nav_icon:
   vendor: bs

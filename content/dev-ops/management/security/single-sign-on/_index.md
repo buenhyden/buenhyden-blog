@@ -24,7 +24,7 @@ tags:
   - Management for Infrastructure
   - Single Sign On
   - SSO
-lastmod: 2023-11-25T08:03:49.959Z
+lastmod: 2023-12-08T13:09:26.992Z
 draft: published
 ---
 
@@ -35,5 +35,5 @@ draft: published
 [Azure Active Directory SSO - 로그인 코드(2)](https://nakanara.tistory.com/408)  
 [Azure Active Directory SSO - 사용자 프로파일(3)](https://nakanara.tistory.com/409)  
 [[SSO] 1편: 오픈소스 SSO를 왜 도입하였나요.](https://gsretail.tistory.com/13)  
-[[SSO] 2편: Aerobase (Keycloak) 클러스터링 & 커스텀 테마](https://gsretail.tistory.com/17)
+[[SSO] 2편: Aerobase (Keycloak) 클러스터링 & 커스텀 테마](https://gsretail.tistory.com/17)  
 [[sso / keycloak] keycloak 을 통한 google sso login](https://league-cat.tistory.com/396)

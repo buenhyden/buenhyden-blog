@@ -21,14 +21,14 @@ tags:
   - Computer Science
   - Software Design & Architecture
   - Software Design Patterns
-lastmod: 2023-11-25T05:11:38.723Z
+lastmod: 2023-12-08T12:53:22.877Z
 draft: published
 ---
 
 ## Reference
 
 [Software Analysis and Design - Design Patterns](https://do-my-best.tistory.com/entry/Software-Analysis-and-Design-Design-Patterns?category=974173)  
-[[Design Pattern] 디자인 패턴 종류](https://gmlwjd9405.github.io/2018/07/06/design-pattern.html)
+[[Design Pattern] 디자인 패턴 종류](https://gmlwjd9405.github.io/2018/07/06/design-pattern.html)  
 [[Software Architecutre Pattern 01] Software Design 원칙 SOLID 알아보기](https://devocean.sk.com/blog/techBoardDetail.do?ID=164924&boardType=techBlog)  
 [[Software Architecutre Pattern 02] Micro Service Architecture](https://devocean.sk.com/blog/techBoardDetail.do?ID=165072&boardType=techBlog)  
 [디자인 패턴 깊게 핥아보기 - 어댑터 패턴](https://octoping.tistory.com/54)

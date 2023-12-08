@@ -23,7 +23,7 @@ tags:
   - Styling
   - SASS
   - SCSS
-lastmod: 2023-11-26T04:56:47.412Z
+lastmod: 2023-12-08T13:11:39.863Z
 draft: published
 ---
 

@@ -23,7 +23,7 @@ tags:
   - IT Security
   - Management for Infrastructure
   - OIDC
-lastmod: 2023-11-25T00:24:08.057Z
+lastmod: 2023-12-08T13:09:13.508Z
 authors: Hyunyoun Jo
 draft: published
 ---

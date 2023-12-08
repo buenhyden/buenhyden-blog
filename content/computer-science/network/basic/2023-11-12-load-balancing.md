@@ -23,7 +23,7 @@ nav_icon:
   name: book
   color: blue
 featured: false
-lastmod: 2023-12-07T06:00:07.293Z
+lastmod: 2023-12-08T12:47:37.996Z
 draft: in progress
 ---
 

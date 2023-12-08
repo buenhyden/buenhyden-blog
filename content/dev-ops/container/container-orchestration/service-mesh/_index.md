@@ -24,11 +24,11 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Service Mesh
-lastmod: 2023-12-05T12:09:49.481Z
+lastmod: 2023-12-08T13:01:48.764Z
 draft: published
 ---
 
 ## Reference
 
-[meshService Mesh](https://medium.com/@sureshpodeti/service-mesh-d8ac0f2d4d0c)
+[meshService Mesh](https://medium.com/@sureshpodeti/service-mesh-d8ac0f2d4d0c)  
 [[Infra] 서비스 메시(Service Mesh)의 등장과 쿠버네티스(Kubernetes)의 SidecarContainers ](https://mangkyu.tistory.com/307)

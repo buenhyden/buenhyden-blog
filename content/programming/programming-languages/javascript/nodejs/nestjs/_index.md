@@ -24,7 +24,7 @@ tags:
   - Programming
   - Programming Language
   - Nest.js
-lastmod: 2023-11-26T05:11:35.899Z
+lastmod: 2023-12-08T13:16:04.489Z
 date: 2023-11-25T01:02:28.607Z
 draft: published
 ---

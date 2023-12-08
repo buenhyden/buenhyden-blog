@@ -23,7 +23,7 @@ tags:
   - CI/CD
   - Dev Ops
   - Continuous Deployment(CD)
-lastmod: 2023-12-07T05:58:43.711Z
+lastmod: 2023-12-08T12:57:15.566Z
 draft: published
 ---
 
@@ -31,8 +31,8 @@ draft: published
 
 [ArgoCD Official Homepage](https://argo-cd.readthedocs.io/en/stable/)  
 [Argo 사용해보기 (1) Argo Project로 CI/CD Pipeline을 구성해보자](https://nangman14.tistory.com/94)  
-[Argo 사용해보기 (2) Standalone DEX로 Argo Workflow에서 SSO 구현하기](https://nangman14.tistory.com/95)
-[Argo Rollout 을 활용한 배포 전략 테스트](https://devocean.sk.com/search/techBoardDetail.do?ID=163189&boardType=)
-[［Kubernetes ArgoCD］ Container Deploy 하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163008&boardType=techBlog)
-[Argo workflow 설치하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163338&boardType=)
+[Argo 사용해보기 (2) Standalone DEX로 Argo Workflow에서 SSO 구현하기](https://nangman14.tistory.com/95)  
+[Argo Rollout 을 활용한 배포 전략 테스트](https://devocean.sk.com/search/techBoardDetail.do?ID=163189&boardType=)  
+[［Kubernetes ArgoCD］ Container Deploy 하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163008&boardType=techBlog)  
+[Argo workflow 설치하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163338&boardType=)  
 [GitOps와 ArgoCD](https://coffeewhale.com/kubernetes/gitops/argocd/2020/02/10/gitops-argocd/)

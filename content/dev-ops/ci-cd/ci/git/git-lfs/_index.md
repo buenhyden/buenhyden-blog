@@ -25,7 +25,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git LFS
-lastmod: 2023-11-24T17:01:01.055Z
+lastmod: 2023-12-08T12:58:38.724Z
 draft: published
 ---
 

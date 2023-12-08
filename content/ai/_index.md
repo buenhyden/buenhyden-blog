@@ -16,7 +16,7 @@ categories:
   - AI
 tags:
   - AI
-lastmod: 2023-12-05T11:56:57.415Z
+lastmod: 2023-12-08T12:42:35.104Z
 draft: published
 ---
 
@@ -41,7 +41,7 @@ draft: published
 [AI 공부할 때 참고하면 좋은 내용들](https://yozm.wishket.com/magazine/detail/993/)  
 [음성 AI의 진화를 이끌어 낸 딥러닝](https://yozm.wishket.com/magazine/detail/486/)  
 ['딥 러닝'은 어떻게 작동할까? 딥러닝에 대한 모든 것](https://yozm.wishket.com/magazine/detail/170/)  
-[[무료] 인공지능 기초를 쌓는 지루하지만 확실한 방법](https://slashpage.com/haebom/6n5w9812g875zm4kpgze)
-[A 12 Lesson course teaching everything you need to know to start building Generative AI applications](https://microsoft.github.io/generative-ai-for-beginners/)
-[DEEP LEARNING COURSE](https://fleuret.org/dlc/)
+[[무료] 인공지능 기초를 쌓는 지루하지만 확실한 방법](https://slashpage.com/haebom/6n5w9812g875zm4kpgze)  
+[A 12 Lesson course teaching everything you need to know to start building Generative AI applications](https://microsoft.github.io/generative-ai-for-beginners/)  
+[DEEP LEARNING COURSE](https://fleuret.org/dlc/)  
 [인공지능을 사용하는 인간을 위한 안내서](https://slashpage.com/haebom/hitchhiker)

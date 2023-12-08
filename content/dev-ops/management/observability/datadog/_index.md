@@ -27,7 +27,7 @@ tags:
   - Management for Infrastructure
   - tools
   - Observability
-lastmod: 2023-12-05T01:16:01.436Z
+lastmod: 2023-12-08T13:05:31.602Z
 draft: published
 ---
 

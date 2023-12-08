@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-12-07T05:22:23.646Z
+lastmod: 2023-12-08T13:12:30.358Z
 draft: published
 ---
 
@@ -44,16 +44,16 @@ draft: published
 [주니어 프론트엔드 개발자에게 TypeScript, Next.js, React Query가 중요한 이유](https://www.codestates.com/blog/content/fe-typescript)  
 [프론트엔드 개발자의 성능 최적화 <1편>](https://velog.io/@dongsudev/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-1%ED%8E%B8)  
 [프론트엔드 개발자의 성능 최적화 <2편>](https://velog.io/@dongsudev/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-2%ED%8E%B8)  
-[프론트엔드 개발자의 성능 최적화 <3편>](https://velog.io/@dongsudev/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-3%ED%8E%B8)
+[프론트엔드 개발자의 성능 최적화 <3편>](https://velog.io/@dongsudev/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-3%ED%8E%B8)  
 [웹 프론트엔드 성능 최적화에 알아야 할 측정지표 : Web Core Vitals의 INP](https://devocean.sk.com/search/techBoardDetail.do?ID=165334)  
 [웹 프론트엔드 개발자가 웹 성능 최적화를 해야 하는 이유](https://devocean.sk.com/search/techBoardDetail.do?ID=164863)  
 [웹 프론트엔드 성능 측정 방법 및 Tips (1)](https://devocean.sk.com/blog/techBoardDetail.do?ID=165395&ref=codenary)  
-[성능 자동화도구, 라이트하우스](https://devocean.sk.com/blog/techBoardDetail.do?ID=165248&ref=codenary)
+[성능 자동화도구, 라이트하우스](https://devocean.sk.com/blog/techBoardDetail.do?ID=165248&ref=codenary)  
 [모던 프론트엔드 개발 노하우, 5가지만 기억하세요!](https://www.lgcns.com/blog/cns-tech/46396/)  
-[컴포넌트 기반으로 모던 프론트엔드 개발하기](https://www.lgcns.com/blog/cns-tech/48514/)
+[컴포넌트 기반으로 모던 프론트엔드 개발하기](https://www.lgcns.com/blog/cns-tech/48514/)  
 [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)  
-[Clean Frontend Architecture](https://blog.bitsrc.io/clean-frontend-architecture-2995c68702fb)
-[프론트엔드 개발자가 알아야 할 '캐싱' 개념 정리](https://yozm.wishket.com/magazine/detail/2341/)
+[Clean Frontend Architecture](https://blog.bitsrc.io/clean-frontend-architecture-2995c68702fb)  
+[프론트엔드 개발자가 알아야 할 '캐싱' 개념 정리](https://yozm.wishket.com/magazine/detail/2341/)  
 [프론트엔드의 아키텍처? 디자인 패턴?](https://velog.io/@userhwseo/Atomic-Design)  
-[CSR 환경에서 Suspense로 발생한 문제 해결하고 성능 개선하기](https://tech.kakaopay.com/post/react-router-dom-csr-prefetch/)
+[CSR 환경에서 Suspense로 발생한 문제 해결하고 성능 개선하기](https://tech.kakaopay.com/post/react-router-dom-csr-prefetch/)  
 [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)

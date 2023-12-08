@@ -21,7 +21,7 @@ tags:
   - Software Architecture
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-11-29T00:52:15.775Z
+lastmod: 2023-12-08T12:53:12.845Z
 draft: published
 ---
 
@@ -30,5 +30,5 @@ draft: published
 ## Reference
 
 [Software Analysis and Design - Software Architecture Design](https://do-my-best.tistory.com/entry/Software-Analysis-and-Design-Software-Architecture-Design)  
-[Software Architecture: 무엇을 설명할 것인가?](https://technical-leader.tistory.com/34)
+[Software Architecture: 무엇을 설명할 것인가?](https://technical-leader.tistory.com/34)  
 [소프트웨어 공학의 모든 것 7 - 아키텍처 설계와 패턴](https://mini-noriter.tistory.com/27)

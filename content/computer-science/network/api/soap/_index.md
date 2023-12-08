@@ -23,7 +23,7 @@ tags:
   - Network
   - SOAP
   - Computer Science
-lastmod: 2023-11-26T10:42:23.151Z
+lastmod: 2023-12-08T12:47:10.813Z
 draft: published
 ---
 

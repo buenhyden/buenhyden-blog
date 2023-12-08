@@ -20,7 +20,7 @@ tags:
   - Computer Science
   - Software Design & Architecture
   - Software Design & Architecture Basic
-lastmod: 2023-11-29T00:51:17.812Z
+lastmod: 2023-12-08T12:52:39.619Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Design
   - UX
-lastmod: 2023-11-26T04:58:24.234Z
+lastmod: 2023-12-08T13:10:20.751Z
 draft: published
 ---
 

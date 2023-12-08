@@ -30,7 +30,7 @@ series:
   - OS
 featured: false
 authors: Hyunyoun Jo
-lastmod: 2023-11-27T05:57:41.203Z
+lastmod: 2023-12-08T12:51:11.512Z
 ---
 
 ## Chocolatey

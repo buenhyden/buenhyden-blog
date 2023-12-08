@@ -26,6 +26,7 @@ tags:
   - Document DBs
   - MongoDB
 draft: published
+lastmod: 2023-12-08T12:43:42.695Z
 ---
 
 ## Reference

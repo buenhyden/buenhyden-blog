@@ -22,7 +22,7 @@ tags:
   - Database
   - RDBMS
   - MariaDB
-lastmod: 2023-11-26T04:51:11.775Z
+lastmod: 2023-12-08T12:43:58.545Z
 draft: published
 ---
 
@@ -30,5 +30,5 @@ draft: published
 
 ## Reference
 
-[Maria DB Official Homepage](https://mariadb.org/)
+[Maria DB Official Homepage](https://mariadb.org/)  
 [MariaDB, 바이너리로그 관리에 대해서 소개합니다.(feat. bin log)](https://devocean.sk.com/blog/techBoardDetail.do?ID=163340&boardType=techBlog)

@@ -21,7 +21,7 @@ tags:
   - Javascript
   - Programming Language
   - Programming
-lastmod: 2023-12-07T06:01:37.887Z
+lastmod: 2023-12-08T13:15:08.023Z
 draft: published
 ---
 
@@ -50,9 +50,9 @@ draft: published
 [The Most Modern JavaScript I Know (in One Script)](https://jott.live/markdown/new_js)  
 [백엔드 입문자를 위한 자바스크립트 생태계](https://yozm.wishket.com/magazine/detail/2088/)  
 [제이쿼리(jQuery)에 대한 모든 것, 한 번에 쉽게 알아보기](https://yozm.wishket.com/magazine/detail/193/)  
-[자바스크립트(JavaScript) 기초 및 문법ㅣ정의, 기본 문법, 변수, 함수](https://www.codestates.com/blog/content/javascript-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%AC%B8%EB%B2%95)
-[Patterns 디자인 및 성능 패턴에 대한 최신 정보들을 제공](https://patterns-dev-kr.github.io/)
-[GN⁺: 바닐라 자바스크립트로 DOM 조작을 완벽하게 습득하기](https://news.hada.io/topic?id=11724)
+[자바스크립트(JavaScript) 기초 및 문법ㅣ정의, 기본 문법, 변수, 함수](https://www.codestates.com/blog/content/javascript-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%AC%B8%EB%B2%95)  
+[Patterns 디자인 및 성능 패턴에 대한 최신 정보들을 제공](https://patterns-dev-kr.github.io/)  
+[GN⁺: 바닐라 자바스크립트로 DOM 조작을 완벽하게 습득하기](https://news.hada.io/topic?id=11724)  
 [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)  
-[▲ GN⁺: 현대적인 JavaScript 프레임워크의 작동 원리를 직접 만들면서 배우기](https://news.hada.io/topic?id=12164)
+[▲ GN⁺: 현대적인 JavaScript 프레임워크의 작동 원리를 직접 만들면서 배우기](https://news.hada.io/topic?id=12164)  
 [[JS]DOM 쉽게 이해하기!! 고척스카이돔 아닙니다](https://kingofbackend.tistory.com/25?category=913227)
