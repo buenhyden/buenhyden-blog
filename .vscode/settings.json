@@ -32,8 +32,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.codeActionsOnSave": {
-    "source.fixAll": true,
-    "source.fixAll.markdownlint": true
+    "source.fixAll": "explicit",
+    "source.fixAll.markdownlint": "explicit"
   },
 
   "[json]": {
