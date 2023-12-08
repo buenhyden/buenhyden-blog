@@ -19,7 +19,7 @@ categories:
 tags:
   - Network
   - Computer Science
-lastmod: 2023-12-07T06:14:11.494Z
+lastmod: 2023-12-08T01:35:36.997Z
 draft: published
 ---
 
@@ -41,3 +41,4 @@ draft: published
 [Difference Between Hostname and Domain Name](http://www.differencebetween.net/technology/difference-between-hostname-and-domain-name/)
 [ip로 직접 만들어보는 네트워크 네임스페이스와 브리지 네트워크](https://www.44bits.io/ko/post/container-network-2-ip-command-and-network-namespace)
 [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
+[네트워크 엔지니어를 위한 '무료' 필수 툴 12가지](https://www.itworld.co.kr/news/268533)
