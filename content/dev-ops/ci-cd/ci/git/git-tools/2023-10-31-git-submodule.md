@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Git Submodule
 date: 2023-10-31T07:46:00+09:00
 description: Git Submodule
@@ -26,7 +26,7 @@ tags:
   - Continuous Integration(CI)
   - Git
 featured: true
-lastmod: 2023-12-08T12:58:53.432Z
+lastmod: 2023-12-09T06:20:21.059Z
 draft: published
 linkTitle: Git Submodule
 ---

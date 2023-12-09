@@ -16,17 +16,52 @@ title_sections_depth: 0 # the depth of sections on the title.
 title_sections_depth_dir: end # when start, the depth is counting from the root sections.
 
 permalinks:
-  diary: /diary/:year/:month/:title
-  gallery: /gallery/:title
-  computer-science: /computer-science/:year/:month/:title
-  programming: /programming/:year/:month/:title
-  ai: /ai/:year/:month/:title
-  backend: /backend/:year/:month/:title
-  frontend: /frontend/:year/:month/:title
-  dev-ops: /dev-ops/:year/:month/:title
-  data: /data/:year/:month/:title
-  statistics: /statistics/:year/:month/:title
-  notes: /notes/:year/:month/:title
+  ai: /ai/:sections[1:]/:title/
+  diary: /diary/:sections[1:]/:title/
+  gallery: /gallery/:sections[1:]/:title/
+  computer-science: /computer-science/:sections[1:]/:title/
+  programming: /programming/:sections[1:]/:title/
+  backend: /backend/:sections[1:]/:title/
+  frontend: /frontend/:sections[1:]/:title/
+  dev-ops: /dev-ops/:sections[1:]/:title/
+  data: /data/:sections[1:]/:title/
+  statistics: /statistics/:sections[1:]/:title/
+  notes: /notes/:sections[1:]/:title/
+  # diary: /diary/:year/:month/:title
+  # gallery: /gallery/:title
+  # computer-science: /computer-science/:year/:month/:title
+  # programming: /programming/:year/:month/:title
+  # ai: /ai/:year/:month/:title
+  # backend: /backend/:year/:month/:title
+  # frontend: /frontend/:year/:month/:title
+  # dev-ops: /dev-ops/:year/:month/:title
+  # data: /data/:year/:month/:title
+  # statistics: /statistics/:year/:month/:title
+  # notes: /notes/:year/:month/:title
+  # page:
+  #   ai: /ai/:sections/
+  #   diary: /diary/:sections/
+  #   gallery: /gallery/:sections/
+  #   computer-science: /computer-science/:sections/
+  #   programming: /programming/:sections/
+  #   backend: /backend/:sections/
+  #   frontend: /frontend/:sections/
+  #   dev-ops: /dev-ops/:sections/
+  #   data: /data/:sections/
+  #   statistics: /statistics/:sections/
+  #   notes: /notes/:sections/
+  # section:
+  #   ai: /ai/
+  #   diary: /diary/
+  #   gallery: /gallery/
+  #   computer-science: /computer-science/
+  #   programming: /programming/
+  #   backend: /backend/
+  #   frontend: /frontend/
+  #   dev-ops: /dev-ops/
+  #   data: /data/
+  #   statistics: /statistics/
+  #   notes: /notes/
 
 outputs:
   home:

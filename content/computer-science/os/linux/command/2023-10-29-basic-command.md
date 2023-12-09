@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Linux Basic Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux에서 자주 사용하는 명령어 모음
@@ -26,7 +26,7 @@ tags:
   - Linux
   - Operating System
   - OS
-lastmod: 2023-12-08T12:50:37.026Z
+lastmod: 2023-12-09T06:17:53.548Z
 draft: published
 ---
 

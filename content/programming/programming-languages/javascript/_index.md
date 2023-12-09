@@ -21,7 +21,7 @@ tags:
   - Javascript
   - Programming Language
   - Programming
-lastmod: 2023-12-08T13:15:08.023Z
+lastmod: 2023-12-09T00:47:45.334Z
 draft: published
 ---
 
@@ -32,6 +32,10 @@ draft: published
 <p align="center">
 <iframe width="768" height="1024" src="https://roadmap.sh/javascript?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+## Lecture
+
+[자바스크립트의 시작](https://www.boostcourse.org/cs124)
 
 ## Tutorial
 

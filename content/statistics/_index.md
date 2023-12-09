@@ -20,4 +20,8 @@ nav_icon:
 draft: published
 ---
 
+## Lecture
+
+[[하버드] 확률론 기초: Statistics 110](https://www.boostcourse.org/ai152)
+
 ## Reference

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: chocolatey
 date: 2023-11-20T20:26:05.655Z
 linkTitle: chocolatey
@@ -30,7 +30,7 @@ series:
   - OS
 featured: false
 authors: Hyunyoun Jo
-lastmod: 2023-12-08T12:51:11.512Z
+lastmod: 2023-12-09T06:18:18.112Z
 ---
 
 ## Chocolatey

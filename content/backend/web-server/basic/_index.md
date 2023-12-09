@@ -22,7 +22,7 @@ tags:
   - Computer Science
   - Web Server
   - Web Server Basic
-lastmod: 2023-11-28T11:50:26.475Z
+lastmod: 2023-12-09T07:00:56.621Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

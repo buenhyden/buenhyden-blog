@@ -23,7 +23,7 @@ tags:
   - Computer Science
   - Message Broker
   - Message Broekr Basic
-lastmod: 2023-11-28T11:44:47.176Z
+lastmod: 2023-12-09T07:00:23.239Z
 draft: published
 ---
 

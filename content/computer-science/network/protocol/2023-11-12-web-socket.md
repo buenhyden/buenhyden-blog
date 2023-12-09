@@ -1,10 +1,10 @@
 ---
-type: docs
+type: notes
 title: Web Socket
 description: 하나의 TCP 접속에 전이중 통신 채널을 제공하는 컴퓨터 통신 프로토콜
 linkTitle: Web Socket
 date: 2023-11-12T10:38:46.815Z
-lastmod: 2023-12-08T12:49:37.097Z
+lastmod: 2023-12-09T05:58:49.440Z
 tags:
   - Computer Science
   - Network

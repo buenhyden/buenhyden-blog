@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Database 타입
 date: 2023-10-16T16:26:00+09:00
 linkTitle: Database 타입
@@ -18,7 +18,7 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-12-08T12:44:30.794Z
+lastmod: 2023-12-09T06:10:33.455Z
 slug: database-타입
 draft: published
 ---

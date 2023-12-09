@@ -23,11 +23,15 @@ tags:
   - Frontend
   - UI
   - UX
-lastmod: 2023-12-08T13:10:39.754Z
+lastmod: 2023-12-09T00:53:38.748Z
 draft: published
 ---
 
 ![UI&UX](/frontend/ui-ux.jpg#center "https://medium.com/@sumaiya-journal/the-fundamentals-of-ui-and-ux-design-189d61821069")
+
+## Lecture
+
+[UX/UI 디자인: 입문부터 심화까지](http://www.kmooc.kr/series_view/34/)
 
 ## Reference
 

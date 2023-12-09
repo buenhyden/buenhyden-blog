@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Git 설정하기
 date: 2023-10-16T11:52:00+09:00
 description: Git을 초기 설정해보자
@@ -27,7 +27,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-12-08T12:59:26.666Z
+lastmod: 2023-12-09T06:20:32.939Z
 draft: published
 linkTitle: Git 설정하기
 ---

@@ -24,7 +24,7 @@ tags:
   - OpenSearch
   - Search Engine
   - tools
-lastmod: 2023-12-08T12:45:52.303Z
+lastmod: 2023-12-09T07:00:53.305Z
 draft: published
 ---
 

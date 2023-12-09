@@ -14,7 +14,7 @@ series:
 featured: true
 images: []
 authors: Hyunyoun Jo
-lastmod: 2023-11-28T11:50:26.158Z
+lastmod: 2023-12-09T02:38:30.192Z
 ---
 
 ![Memory Size](/notes/memory-sizes-to-yotta.png?width=512px "https://cryptosmith.com/2013/10/18/memory-sizes-kilo-mega-giga-tera-peta-exa/")

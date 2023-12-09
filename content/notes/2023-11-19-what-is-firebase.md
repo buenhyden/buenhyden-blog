@@ -19,12 +19,12 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-lastmod: 2023-11-28T12:17:34.262Z
+lastmod: 2023-12-09T02:38:13.110Z
 draft: in progress
 ---
 
 ## Reference
 
-[파이어베이스(Firebase)란 무엇인가? 파이어베이스 심층 탐구 : 상편](https://yozm.wishket.com/magazine/detail/522/)
-[파이어베이스(Firebase)란 무엇인가? 파이어베이스 심층 탐구 : 중편](https://yozm.wishket.com/magazine/detail/523/)
+[파이어베이스(Firebase)란 무엇인가? 파이어베이스 심층 탐구 : 상편](https://yozm.wishket.com/magazine/detail/522/)  
+[파이어베이스(Firebase)란 무엇인가? 파이어베이스 심층 탐구 : 중편](https://yozm.wishket.com/magazine/detail/523/)  
 [파이어베이스(Firebase)란 무엇인가? 파이어베이스 심층 탐구 : 하편](https://yozm.wishket.com/magazine/detail/524/)

@@ -1,10 +1,10 @@
 ---
-type: docs
+type: notes
 title: IP address
 linkTitle: IP address
 description: 컴퓨터 네트워크에서 장치들이 서로를 인식하고 통신을 하기 위해서 사용하는 특수한 번호
 date: 2023-11-26T11:05:30.269Z
-lastmod: 2023-12-08T12:48:34.289Z
+lastmod: 2023-12-09T06:00:25.173Z
 nav_weight: 0
 nav_icon:
   vendor: bs

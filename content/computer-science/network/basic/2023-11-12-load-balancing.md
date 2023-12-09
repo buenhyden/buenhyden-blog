@@ -16,14 +16,14 @@ categories:
 series:
   - Network
   - Computer Science
-type: docs
+type: notes
 nav_weight: 49
 nav_icon:
   vendor: bs
   name: book
   color: blue
 featured: false
-lastmod: 2023-12-08T12:47:37.996Z
+lastmod: 2023-12-09T06:00:07.534Z
 draft: in progress
 ---
 

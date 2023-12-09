@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Linux Permission Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux 권한 설정 Command
@@ -27,7 +27,7 @@ tags:
   - OS
 featured: true
 authors: Hyunyoun Jo
-lastmod: 2023-12-08T12:50:45.160Z
+lastmod: 2023-12-09T06:18:01.690Z
 draft: published
 ---
 

@@ -1,10 +1,10 @@
 ---
-type: docs
+type: notes
 title: Portainer 설치
 description: Web GUI 기반 Container 관리 툴
 linkTitle: Portainer 설치
 date: 2023-11-23T09:49:52.650Z
-lastmod: 2023-12-08T13:02:35.297Z
+lastmod: 2023-12-09T06:21:06.074Z
 nav_weight: 1
 nav_icon:
   vendor: bs

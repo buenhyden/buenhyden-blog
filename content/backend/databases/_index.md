@@ -18,7 +18,7 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-12-08T12:44:24.899Z
+lastmod: 2023-12-09T06:59:12.325Z
 draft: published
 ---
 

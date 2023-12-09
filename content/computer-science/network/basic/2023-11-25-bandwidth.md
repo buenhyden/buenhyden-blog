@@ -1,10 +1,10 @@
 ---
-type: docs
+type: notes
 title: Bandwidth
 linkTitle: Bandwidth
 description: 특정한 기능을 수행할 수 있는 주파수의 범위
 date: 2023-11-25T12:37:01.427Z
-lastmod: 2023-12-08T12:47:58.872Z
+lastmod: 2023-12-09T06:00:14.991Z
 nav_weight: 2
 nav_icon:
   vendor: bs

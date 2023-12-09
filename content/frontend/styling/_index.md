@@ -19,8 +19,12 @@ categories:
 tags:
   - Frontend
   - Styling
-lastmod: 2023-11-14T00:59:48.837Z
+lastmod: 2023-12-09T00:46:52.690Z
 draft: published
 ---
+
+## Lecture
+
+[비전공자를 위한 HTML/CSS](https://www.boostcourse.org/cs120)
 
 ## Reference

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Information Engineering Development
 date: 2023-11-28T14:31:11.197Z
 description: 정보시스템 개발에 필요한 관리 절차와 작업 기법을 체계화한 방법론
@@ -21,7 +21,7 @@ tags:
   - Computer Science
   - Software Development Methodology
   - Information Engineering Development
-lastmod: 2023-11-28T15:12:11.199Z
+lastmod: 2023-12-09T06:19:05.298Z
 draft: in progress
 ---
 

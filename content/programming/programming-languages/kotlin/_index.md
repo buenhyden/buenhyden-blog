@@ -21,12 +21,18 @@ tags:
   - Kotlin
   - Programming Language
   - Programming
-lastmod: 2023-12-08T13:14:36.626Z
+lastmod: 2023-12-09T00:44:45.005Z
 date: 2023-11-11T14:03:12.053Z
 draft: published
 ---
 
 ![Kotlin](/programming/kotlin.png "http://kotlin.kr/")
+
+## Lecture
+
+[Hello, 코틀린!](https://www.boostcourse.org/mo001)  
+[코틀린 프로그래밍 기본 1](https://www.boostcourse.org/mo132)  
+[코틀린 프로그래밍 기본 2](https://www.boostcourse.org/mo234)
 
 ## Reference
 

@@ -21,11 +21,15 @@ tags:
   - Algorithm
   - Data Structure & Algorithm
   - Computer Science
-lastmod: 2023-12-08T12:46:30.296Z
+lastmod: 2023-12-09T00:47:16.651Z
 draft: published
 ---
 
 ![Data algorithms](/computer-science/Taxonomy-of-the-algorithms.png#center "https://www.researchgate.net/figure/Taxonomy-of-the-algorithms-and-data-structures-considered-for-the-AlgoVis-tool_fig1_329481179")
+
+## Lecture
+
+[[MIT]파이썬을 이용한 알고리즘의 이해](https://www.boostcourse.org/cs113)
 
 ## Reference
 

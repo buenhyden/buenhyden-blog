@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Component Based Development(CBD)
 date: 2023-11-28T14:31:11.197Z
 description: 전체 시스템을 기능에 따라 나누어 개발하고, 이를 통합하는 분할과 정복 접근 방식의 방법론
@@ -21,7 +21,7 @@ tags:
   - Component Based Development
   - Computer Science
   - Software Development Methodology
-lastmod: 2023-11-28T15:12:15.603Z
+lastmod: 2023-12-09T06:19:00.376Z
 draft: in progress
 ---
 

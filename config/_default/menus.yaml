@@ -591,8 +591,8 @@ main:
     url: "/data/data-science"
     weight: 3
   # Sub for AI
-  # Image Recognition
-  - name: Image Recognition
+  # AI basic
+  - name: AI Basic
     params:
       description:
       icon:
@@ -600,14 +600,13 @@ main:
         vendor: bs
         className: text-primary-emphasis
     parent: ai
-    url: "/ai/image-recognition"
+    url: "/ai/basic"
     weight: 1
   - params:
       divider: true
     parent: ai
     weight: 2
-  # Machine Learning
-  - name: Machine Learning
+  - name: Computer Vision
     params:
       description:
       icon:
@@ -615,14 +614,14 @@ main:
         vendor: bs
         className: text-primary-emphasis
     parent: ai
-    url: "/ai/machine-learning"
+    url: "/ai/computer-vision"
     weight: 3
   - params:
       divider: true
     parent: ai
     weight: 4
-  # Neural Networks
-  - name: Neural Networks
+  # Machine Learning
+  - name: Expert System
     params:
       description:
       icon:
@@ -630,7 +629,22 @@ main:
         vendor: bs
         className: text-primary-emphasis
     parent: ai
-    url: "/ai/neural-networks"
+    url: "/ai/expert-system"
+    weight: 5
+  - params:
+      divider: true
+    parent: ai
+    weight: 6
+  # Neural Networks
+  - name: Recommender System
+    params:
+      description:
+      icon:
+        name: journal
+        vendor: bs
+        className: text-primary-emphasis
+    parent: ai
+    url: "/ai/recommender-system"
     weight: 5
   - params:
       divider: true

@@ -22,7 +22,7 @@ tags:
   - Computer Science
   - Database
   - Database Basic
-lastmod: 2023-11-27T04:53:13.173Z
+lastmod: 2023-12-09T07:00:04.167Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

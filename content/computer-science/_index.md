@@ -16,7 +16,7 @@ categories:
   - Computer Science
 tags:
   - Computer Science
-lastmod: 2023-12-08T12:55:41.147Z
+lastmod: 2023-12-09T00:51:57.700Z
 draft: published
 slug: computer-science
 ---
@@ -26,6 +26,11 @@ slug: computer-science
 <p align="center">
 <iframe width="768" height="1024" src="https://roadmap.sh/computer-science?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+## Lecture
+
+[모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112)
+[[해외명강] 컴퓨터 과학 교양 강좌: CS50](https://www.edwith.org/cs50)
 
 ## Reference
 

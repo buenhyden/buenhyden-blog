@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Data Pipeline
 date: 2023-10-22T03:46:00+09:00
 description: null
@@ -19,7 +19,7 @@ categories:
 tags:
   - Data Engineering
   - Data
-lastmod: 2023-12-08T12:56:38.359Z
+lastmod: 2023-12-09T06:19:39.065Z
 draft: in progress
 ---
 

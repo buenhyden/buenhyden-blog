@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 date: 2023-10-15T15:46:00+09:00
 title: Container Orchestration(CO) Tools
 description: Container Orchestration(CO)을 위해 많이 사용되는 도구와 각 도구별 특성을 정리
@@ -20,7 +20,7 @@ categories:
 tags:
   - Dev Ops
   - Container Orchestration(CO)
-lastmod: 2023-12-08T13:01:59.024Z
+lastmod: 2023-12-09T06:20:53.873Z
 linkTitle: Container Orchestration(CO) Tools
 draft: published
 ---

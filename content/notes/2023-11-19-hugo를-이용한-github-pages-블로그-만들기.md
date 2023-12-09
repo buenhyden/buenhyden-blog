@@ -18,7 +18,7 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-lastmod: 2023-11-28T12:16:47.680Z
+lastmod: 2023-12-09T02:38:01.513Z
 draft: published
 ---
 
@@ -77,6 +77,6 @@ choco install nodejs
 
 ## Reference
 
-[Hugo Official Homepage](https://gohugo.io/)
+[Hugo Official Homepage](https://gohugo.io/)  
 [Hugo Modules](https://hugomods.com/)  
 [Hugo와 Gitlab Pages로 정적 웹페이지 구현하고 배포하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165251&ref=codenary)

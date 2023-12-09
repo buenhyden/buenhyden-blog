@@ -18,9 +18,14 @@ categories:
 tags:
   - AI
   - Natural Language Processing
-lastmod: 2023-12-08T12:42:00.228Z
+lastmod: 2023-12-09T06:13:02.816Z
 draft: published
 ---
+
+## Lecture
+
+[자연어 처리의 모든 것](https://www.boostcourse.org/ai330)
+[한국어를 이해하는 딥러닝 모델(KLUE)](https://www.boostcourse.org/ai332)
 
 ## Reference
 

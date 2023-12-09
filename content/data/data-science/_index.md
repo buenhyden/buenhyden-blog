@@ -19,7 +19,7 @@ categories:
 tags:
   - Data Science
   - Data
-lastmod: 2023-12-08T12:56:49.234Z
+lastmod: 2023-12-09T00:38:56.544Z
 draft: published
 ---
 
@@ -30,6 +30,11 @@ draft: published
 <p align="center">
 <iframe width="768" height="1024" src="https://roadmap.sh/ai-data-scientist?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+## Lecture
+
+[모두를 위한 데이터 사이언스](https://www.boostcourse.org/ds101)
+[[MIT] 데이터 사이언스 기초](https://www.boostcourse.org/ds201)
 
 ## Reference
 

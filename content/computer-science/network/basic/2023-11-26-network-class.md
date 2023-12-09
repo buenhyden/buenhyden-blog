@@ -1,10 +1,10 @@
 ---
-type: docs
+type: notes
 title: Network Class
 linkTitle: Network Class
 description: ""
 date: 2023-11-26T11:06:12.447Z
-lastmod: 2023-12-01T21:40:45.739Z
+lastmod: 2023-12-09T06:00:27.881Z
 nav_weight: 0
 nav_icon:
   vendor: bs

@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-12-08T13:12:30.358Z
+lastmod: 2023-12-09T00:45:23.872Z
 draft: published
 ---
 
@@ -27,8 +27,14 @@ draft: published
 ## Roadmap
 
 <p align="center">
-<iframe width="768" height="1024" src="https://roadmap.sh/frontend?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="768" height="1024" src="https://roadmap.sh/frontend?s=652b754df43a58c923ce9d26" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 </p>
+
+## Lecture
+
+[웹 UI 개발](https://www.boostcourse.org/web344)  
+[웹 프론트엔드 시작하기 (리액트&리덕스)](https://www.boostcourse.org/web231)
 
 ## Reference
 

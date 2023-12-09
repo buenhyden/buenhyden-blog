@@ -26,7 +26,7 @@ tags:
   - Document DBs
   - NoSQL
   - HBase
-lastmod: 2023-12-08T12:42:59.948Z
+lastmod: 2023-12-09T07:00:10.539Z
 draft: published
 ---
 

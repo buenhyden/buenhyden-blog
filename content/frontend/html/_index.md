@@ -18,11 +18,15 @@ categories:
 tags:
   - Frontend
   - HTML
-lastmod: 2023-12-08T13:10:58.292Z
+lastmod: 2023-12-09T00:49:45.940Z
 draft: published
 ---
 
 ![HTML Page Structure](/frontend/html-page-structure.png#center "https://www.linkedin.com/pulse/html-basic-tanvir-hossain")
+
+## Lecture
+
+[코딩하는 디자이너를 위한 HTML](https://www.edwith.org/codingd_html)
 
 ## Tutorial
 

@@ -25,9 +25,13 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-12-08T12:59:01.868Z
+lastmod: 2023-12-09T00:36:25.889Z
 draft: published
 ---
+
+## Lecture
+
+[Github으로 따라하는 버전 관리](https://www.boostcourse.org/cs102)
 
 ## Reference
 

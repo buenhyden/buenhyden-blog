@@ -21,11 +21,15 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-12-08T13:11:33.039Z
+lastmod: 2023-12-09T00:49:24.596Z
 draft: published
 ---
 
 ![CSS](/frontend/css.png#center "https://www.oxfordwebstudio.com/en/did-you-know/what-is-css")
+
+## Lecture
+
+[디자이너의 언어, CSS](https://www.edwith.org/codingd_css)
 
 ## Tutorial
 

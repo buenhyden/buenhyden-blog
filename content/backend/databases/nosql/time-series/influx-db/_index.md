@@ -1,9 +1,9 @@
 ---
 type: docs
-title: MongoDB
-date: 2023-10-15T12:46:00+09:00
-description: NoSQL 데이터베이스중 하나로 크로스 플랫폼 도큐먼트 지향 데이터베이스 시스템
-linkTitle: MongoDB
+title: Influx DB
+date: 2023-12-09T06:14:08.284Z
+description: ""
+linkTitle: Influx DB
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -17,16 +17,16 @@ categories:
   - Backend
   - Database
   - NoSQL
-  - Document DBs
-  - MongoDB
+  - Time Series
+  - InfluxDB
 tags:
   - Backend
   - Database
   - NoSQL
-  - Document DBs
-  - MongoDB
+  - Time Series
+  - InfluxDB
 draft: published
-lastmod: 2023-12-08T12:43:42.695Z
+lastmod: 2023-12-09T06:15:01.553Z
 ---
 
 ## Reference

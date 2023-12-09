@@ -24,7 +24,7 @@ tags:
   - Elasticsearch
   - Search Engine
   - tools
-lastmod: 2023-12-08T12:45:47.016Z
+lastmod: 2023-12-09T07:00:42.490Z
 draft: published
 ---
 

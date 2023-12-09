@@ -1,9 +1,9 @@
 ---
 type: docs
-title: Image Recognition
-date: 2023-11-05T06:16:00+09:00
-description: AI가 주변의 사물을 인식하고 분류할 수 있도록 하는 기술
-linkTitle: Image Recognition
+title: Computer Vision
+date: 2023-12-09T00:16:42.357Z
+description: 컴퓨터의 시각적인 부분을 연구하여 디지털 이미지, 비디오 등에서 의미 있는 정보를 추출하는 기술
+linkTitle: Computer Vision
 featured: true
 nav_weight: 4
 nav_icon:
@@ -14,13 +14,17 @@ series:
   - AI
 categories:
   - AI
-  - Image Recognition
+  - Computer Vision
 tags:
   - AI
-  - Image Recognition
-lastmod: 2023-12-08T12:41:41.396Z
+  - Computer Vision
+lastmod: 2023-12-09T06:12:50.247Z
 draft: published
 ---
+
+## Lecture
+
+[컴퓨터 비전의 모든 것](https://www.boostcourse.org/ai340)
 
 ## Reference
 

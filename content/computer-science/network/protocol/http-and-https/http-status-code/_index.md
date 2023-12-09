@@ -11,19 +11,21 @@ nav_icon:
   color: blue
 featured: true
 series:
-  - Protocol
   - Computer Science
+  - Network
 categories:
+  - Computer Science
   - HTTP
+  - HTTP status code
+  - HTTPS
   - Network
-  - Protocol
-  - Computer Science
 tags:
-  - Network
-  - Protocol
-  - Status Code
   - Computer Science
-lastmod: 2023-12-08T12:48:42.651Z
+  - HTTP
+  - HTTP status code
+  - HTTPS
+  - Network
+lastmod: 2023-12-09T07:01:28.548Z
 draft: published
 ---
 

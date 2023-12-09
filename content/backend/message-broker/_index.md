@@ -19,7 +19,7 @@ categories:
 tags:
   - Backend
   - Message Broker
-lastmod: 2023-12-08T12:45:28.143Z
+lastmod: 2023-12-09T07:00:16.578Z
 draft: published
 ---
 

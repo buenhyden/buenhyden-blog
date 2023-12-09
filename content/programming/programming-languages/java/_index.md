@@ -20,10 +20,15 @@ tags:
   - Java
   - Programming Language
   - Programming
-lastmod: 2023-12-08T13:16:33.735Z
+lastmod: 2023-12-09T00:48:20.834Z
 date: 2023-11-11T14:08:18.503Z
 draft: published
 ---
+
+## Lecture
+
+[쉽게 배우는 자바1](https://www.boostcourse.org/cs126)  
+[쉽게 배우는 자바2](https://www.boostcourse.org/cs128)
 
 ## Reference
 

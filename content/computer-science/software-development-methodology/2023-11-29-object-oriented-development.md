@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Object-Oriented Development
 date: 2023-11-28T14:31:11.197Z
 description: "'객체'라는 기본 단위로 시스템을 분석 및 설계하는 방법론"
@@ -21,7 +21,7 @@ tags:
   - Computer Science
   - Object-Oriented Development
   - Software Development Methodology
-lastmod: 2023-12-08T12:54:47.511Z
+lastmod: 2023-12-09T06:19:09.703Z
 draft: in progress
 ---
 

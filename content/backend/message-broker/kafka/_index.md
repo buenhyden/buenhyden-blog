@@ -24,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-12-08T12:45:10.829Z
+lastmod: 2023-12-09T07:00:25.990Z
 draft: published
 ---
 
