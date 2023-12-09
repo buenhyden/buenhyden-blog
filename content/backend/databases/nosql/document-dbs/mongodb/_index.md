@@ -25,7 +25,7 @@ tags:
   - Document DBs
   - NoSQL
   - InfluxDB
-lastmod: 2023-12-08T12:43:11.136Z
+lastmod: 2023-12-09T07:11:23.569Z
 draft: published
 ---
 

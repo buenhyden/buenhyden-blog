@@ -25,7 +25,7 @@ tags:
   - Key Value
   - NoSQL
   - Redis
-lastmod: 2023-12-08T12:43:32.142Z
+lastmod: 2023-12-09T07:12:07.515Z
 draft: published
 ---
 

@@ -22,7 +22,7 @@ tags:
   - Database
   - RDBMS
   - MySQL
-lastmod: 2023-12-08T12:44:04.221Z
+lastmod: 2023-12-09T07:12:29.424Z
 draft: published
 ---
 

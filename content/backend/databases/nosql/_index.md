@@ -21,7 +21,7 @@ tags:
   - Backend
   - Database
   - NoSQL
-lastmod: 2023-12-08T12:43:48.263Z
+lastmod: 2023-12-09T07:11:04.684Z
 draft: published
 ---
 

@@ -20,7 +20,7 @@ tags:
   - AI
   - Computer Vision
   - Machine Vision
-lastmod: 2023-12-09T06:59:15.642Z
+lastmod: 2023-12-09T07:10:57.933Z
 draft: published
 ---
 

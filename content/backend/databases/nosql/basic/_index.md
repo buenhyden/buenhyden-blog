@@ -24,7 +24,7 @@ tags:
   - Database
   - NoSQL
   - NoSQL Basic
-lastmod: 2023-12-09T07:00:13.835Z
+lastmod: 2023-12-09T07:11:07.651Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

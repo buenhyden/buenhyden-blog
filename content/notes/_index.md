@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: notes
 date: 2023-10-15T12:46:00+09:00
 description: 까먹지 말고 기록으로 남기자
@@ -9,7 +9,7 @@ series:
   - Notes
 categories: []
 tags: []
-lastmod: 2023-11-26T00:53:24.897Z
+lastmod: 2023-12-09T07:11:31.633Z
 draft: published
 ---
 

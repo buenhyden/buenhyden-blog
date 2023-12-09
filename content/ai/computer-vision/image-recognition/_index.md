@@ -20,7 +20,7 @@ tags:
   - AI
   - Image Recognition
   - Computer Vision
-lastmod: 2023-12-09T06:59:06.322Z
+lastmod: 2023-12-09T07:10:55.330Z
 draft: published
 ---
 

@@ -23,7 +23,7 @@ tags:
   - Database
   - NoSQL
   - Column DBs
-lastmod: 2023-12-09T07:00:07.035Z
+lastmod: 2023-12-09T07:11:10.717Z
 draft: published
 ---
 

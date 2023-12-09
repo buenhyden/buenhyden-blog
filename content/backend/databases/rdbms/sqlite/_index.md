@@ -23,7 +23,7 @@ tags:
   - Database
   - RDBMS
   - SQLite
-lastmod: 2023-12-08T12:44:14.204Z
+lastmod: 2023-12-09T07:11:47.516Z
 linkTitle: SQLite
 draft: published
 ---

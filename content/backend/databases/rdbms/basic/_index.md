@@ -24,7 +24,7 @@ tags:
   - Database
   - RDBMS
   - RDBMS Basic
-lastmod: 2023-12-09T06:15:22.528Z
+lastmod: 2023-12-09T07:12:23.440Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

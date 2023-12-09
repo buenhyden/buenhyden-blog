@@ -23,7 +23,7 @@ tags:
   - Database
   - NoSQL
   - Realtime
-lastmod: 2023-11-12T14:45:29.864Z
+lastmod: 2023-12-09T07:12:11.778Z
 draft: published
 ---
 

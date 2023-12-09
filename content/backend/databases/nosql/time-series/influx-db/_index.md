@@ -26,7 +26,7 @@ tags:
   - Time Series
   - InfluxDB
 draft: published
-lastmod: 2023-12-09T06:15:01.553Z
+lastmod: 2023-12-09T07:12:17.745Z
 ---
 
 ## Reference
