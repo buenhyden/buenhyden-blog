@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Application Monitoring
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -21,7 +21,7 @@ tags:
   - Application Monitoring
   - Dev Ops
   - Management for Infrastructure
-lastmod: 2023-12-08T13:03:53.838Z
+lastmod: 2023-12-10T03:12:45.618Z
 draft: published
 ---
 

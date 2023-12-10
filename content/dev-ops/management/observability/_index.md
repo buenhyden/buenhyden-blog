@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Observability
 date: 2023-11-26T05:43:29.037Z
 description: ""
@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Observability
-lastmod: 2023-12-08T13:05:44.769Z
+lastmod: 2023-12-10T03:12:45.390Z
 draft: published
 ---
 

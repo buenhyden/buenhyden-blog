@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Container Basic
 description: ""
 linkTitle: Container Basic
@@ -22,7 +22,7 @@ tags:
   - Container
   - Dev Ops
   - Container Basic
-lastmod: 2023-11-27T01:37:27.336Z
+lastmod: 2023-12-10T03:12:46.617Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

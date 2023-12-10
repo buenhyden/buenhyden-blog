@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Software Design & Architecture Basic
 description: ""
 linkTitle: Software Design & Architecture Basic
@@ -20,7 +20,7 @@ tags:
   - Computer Science
   - Software Design & Architecture
   - Software Design & Architecture Basic
-lastmod: 2023-12-08T12:52:39.619Z
+lastmod: 2023-12-10T03:12:47.497Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

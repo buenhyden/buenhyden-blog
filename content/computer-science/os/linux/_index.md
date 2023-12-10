@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Linux
 date: 2023-10-15T12:46:00+09:00
 description: 운영 체제 커널인 리눅스 커널에 기반을 둔 오픈 소스 유닉스 계열 운영 체제 계열
@@ -22,7 +22,7 @@ tags:
   - Linux
   - Operating System
   - Computer Science
-lastmod: 2023-12-08T12:50:57.369Z
+lastmod: 2023-12-10T02:45:31.323Z
 draft: published
 ---
 

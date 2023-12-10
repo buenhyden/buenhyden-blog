@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Data Structure & Algorithm
 date: 2023-10-15T12:46:00+09:00
 linkTitle: Data Structure & Algorithm
@@ -18,7 +18,7 @@ categories:
 tags:
   - Data Structure & Algorithm
   - Computer Science
-lastmod: 2023-11-28T11:50:25.901Z
+lastmod: 2023-12-10T02:42:40.046Z
 draft: published
 ---
 

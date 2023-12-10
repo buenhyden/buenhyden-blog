@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Data Structure
 date: 2023-10-15T12:46:00+09:00
 description: 데이터 값의 모임, 또 데이터 간의 관계, 그리고 데이터에 적용할 수 있는 함수나 명령
@@ -20,7 +20,7 @@ tags:
   - Data Structure
   - Data Structure & Algorithm
   - Computer Science
-lastmod: 2023-11-28T11:50:25.952Z
+lastmod: 2023-12-10T02:42:36.898Z
 draft: published
 ---
 

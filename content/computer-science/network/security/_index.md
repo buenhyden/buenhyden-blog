@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Security
 date: 2023-11-26T11:31:59.748Z
 description: null
@@ -21,8 +21,6 @@ tags:
   - Computer Science
   - Network
   - IT Security
-lastmod: 2023-11-26T11:32:37.941Z
+lastmod: 2023-12-10T15:46:12.258Z
 draft: published
 ---
-
-## Reference

@@ -15,8 +15,11 @@ categories:
   - Backend
 tags:
   - Backend
-lastmod: 2023-12-08T12:46:22.866Z
+lastmod: 2023-12-10T04:20:16.375Z
 draft: published
+keywords:
+  - Backend
+  - Web Application
 ---
 
 ## Web Application

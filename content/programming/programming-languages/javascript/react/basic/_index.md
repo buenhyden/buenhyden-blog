@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: React Basic
 description: ""
 linkTitle: React Basic
@@ -22,9 +22,14 @@ tags:
   - React
   - React Basic
   - Javascript
-lastmod: 2023-11-27T01:45:55.528Z
+lastmod: 2023-12-10T04:16:33.757Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Javascript
+  - Programming Language
+  - React
+slug: react-basic
 ---
 
 ## Reference

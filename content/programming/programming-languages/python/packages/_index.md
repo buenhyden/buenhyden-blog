@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Packages
 description: Python Packages
 linkTitle: Packages
@@ -24,9 +24,13 @@ tags:
   - Programming Language
   - Syntax
   - Python
-lastmod: 2023-12-08T13:14:20.502Z
+lastmod: 2023-12-10T04:06:06.293Z
 date: 2023-11-16T01:08:50.962Z
 draft: published
+keywords:
+  - Programming Language
+  - Python
+slug: packages
 ---
 
 ## Reference

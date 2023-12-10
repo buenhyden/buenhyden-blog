@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Styled Component Basic
 description: ""
 linkTitle: Styled Component Basic
@@ -22,7 +22,7 @@ tags:
   - Frontend
   - Styled-component
   - Styled-component Basic
-lastmod: 2023-11-27T01:41:51.202Z
+lastmod: 2023-12-10T03:12:47.147Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Natural Language Processing
 date: 2023-11-05T06:16:00+09:00
 description: 자연어 처리 또는 자연 언어 처리는 인간의 언어 현상을 컴퓨터와 같은 기계를 이용해서 묘사할 수 있도록 연구하고 이를 구현하는 인공지능의 주요 분야 중 하나
@@ -18,8 +18,14 @@ categories:
 tags:
   - AI
   - Natural Language Processing
-lastmod: 2023-12-09T06:13:02.816Z
+lastmod: 2023-12-10T15:46:38.594Z
 draft: published
+layout: list
+keywords:
+  - AI
+  - NLP
+  - Natural Language Processing
+slug: natural-language-processing
 ---
 
 ## Lecture

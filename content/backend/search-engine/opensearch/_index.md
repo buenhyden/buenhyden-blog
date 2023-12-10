@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: OpenSearch
 date: 2023-10-31T07:46:00+09:00
 description: null
@@ -24,8 +24,11 @@ tags:
   - OpenSearch
   - Search Engine
   - tools
-lastmod: 2023-12-09T07:00:53.305Z
+lastmod: 2023-12-10T04:27:54.652Z
 draft: published
+keywords:
+  - Search Engine
+  - Opensearch
 ---
 
 ## Reference

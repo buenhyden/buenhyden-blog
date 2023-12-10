@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Search Engine
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 시스템에 저장된 정보를 찾아주거나 웹 검색을 도와주도록 설계된 정보 검색 시스템 또는 컴퓨터 프로그램
@@ -19,8 +19,10 @@ categories:
 tags:
   - Backend
   - Search Engine
-lastmod: 2023-12-09T07:00:31.929Z
+lastmod: 2023-12-10T04:27:44.424Z
 draft: published
+keywords:
+  - Search Engine
 ---
 
 ## Reference

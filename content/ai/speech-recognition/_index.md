@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Speech Recognition
 date: 2023-11-05T06:16:00+09:00
 description: 사람이 말하는 음성 언어를 컴퓨터가 해석해 그 내용을 문자 데이터로 전환하는 처리
@@ -18,8 +18,13 @@ categories:
 tags:
   - AI
   - Speech Recognition
-lastmod: 2023-12-09T06:13:09.793Z
+lastmod: 2023-12-10T04:06:44.406Z
 draft: published
+layout: list
+keywords:
+  - AI
+  - Speech Recognition
+slug: speech-recognition
 ---
 
 ## Reference

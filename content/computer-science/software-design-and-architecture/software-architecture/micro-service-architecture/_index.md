@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Micro Service Architecture(MSA)
 date: 2023-10-23T07:08:00+09:00
 description: 단일 애플리케이션을 작은 서비스 모음으로 개발하는 접근 방식
@@ -25,7 +25,7 @@ tags:
   - MSA
   - System Design & Architecture
   - System Architecture
-lastmod: 2023-12-08T12:53:05.474Z
+lastmod: 2023-12-10T03:12:47.570Z
 draft: published
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Design Basic
 description: ""
 linkTitle: Design Basic
@@ -22,7 +22,7 @@ tags:
   - Design
   - Frontend
   - Design Basic
-lastmod: 2023-11-27T01:40:25.221Z
+lastmod: 2023-12-10T03:12:46.841Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

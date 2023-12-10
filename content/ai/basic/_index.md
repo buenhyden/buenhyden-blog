@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: AI Basic
 description: ""
 linkTitle: AI Basic
@@ -17,10 +17,15 @@ categories:
 tags:
   - AI
   - AI Basic
-lastmod: 2023-12-09T06:12:41.216Z
+lastmod: 2023-12-10T15:46:19.794Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 slug: ai-basic
+images:
+  - /ai/ml-algorithms.webp
+layout: list
+keywords:
+  - AI
 ---
 
 ![Machine Learning](/ai/ml-algorithms.webp "https://johnvastola.medium.com/10-must-know-machine-learning-algorithms-for-data-scientists-adbf3272398a")
@@ -32,11 +37,11 @@ slug: ai-basic
 
 ## Lecture
 
-[인공지능을 위한 선형대수](https://www.boostcourse.org/ai251)
+[인공지능을 위한 선형대수](https://www.boostcourse.org/ai251)  
 [[칸아카데미] 모두를 위한 선형대수학](https://www.boostcourse.org/ai151)  
 [딥러닝 기초 다지기](https://www.boostcourse.org/ai111)  
-[인공지능(AI) 기초 다지기](https://www.boostcourse.org/ai100)
-[인공지능 전문가 특강](https://www.boostcourse.org/ai101)
+[인공지능(AI) 기초 다지기](https://www.boostcourse.org/ai100)  
+[인공지능 전문가 특강](https://www.boostcourse.org/ai101)  
 [[MIT]인공지능개론](https://www.edwith.org/mitai)
 
 ## Reference

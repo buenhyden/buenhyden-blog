@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Docker
 date: 2023-10-16T12:46:00+09:00
 description: 빠르게 애플리케이션을 구축, 테스트 및 배포할 수 있도록 도와주는 컨테이너 런타임 기술
@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Container
   - Docker
-lastmod: 2023-12-08T13:02:29.588Z
+lastmod: 2023-12-10T03:12:46.565Z
 draft: published
 ---
 

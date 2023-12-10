@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: data analysis and manipulation tool
 description: ""
 linkTitle: data analysis and manipulation tool
@@ -24,9 +24,13 @@ tags:
   - Programming Language
   - Python
   - Data Manipulation
-lastmod: 2023-12-08T13:14:05.385Z
+lastmod: 2023-12-10T04:06:10.286Z
 date: 2023-11-19T06:37:34.850Z
 draft: published
+keywords:
+  - Programming Language
+  - Python
+slug: data-analysis-manipulation-tool
 ---
 
 ## Reference

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Angular
 description: ""
 linkTitle: Angular
@@ -22,9 +22,14 @@ tags:
   - Programming
   - Programming Language
   - Angular
-lastmod: 2023-12-08T13:16:26.530Z
+lastmod: 2023-12-10T04:15:48.954Z
 date: 2023-11-16T07:19:57.057Z
 draft: published
+keywords:
+  - Javascript
+  - Programming Language
+  - Angular
+slug: angular
 ---
 
 ![Angular](/programming/angular.webp)

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: HTTP Status Code
 date: 2023-10-16T11:52:00+09:00
 description: 특정 HTTP 요청이 성공적으로 완료되었는지 알려준다.
@@ -25,7 +25,7 @@ tags:
   - HTTP status code
   - HTTPS
   - Network
-lastmod: 2023-12-09T07:01:28.548Z
+lastmod: 2023-12-10T02:44:36.269Z
 draft: published
 ---
 

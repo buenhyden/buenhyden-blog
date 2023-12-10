@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Network Basic
 date: 2023-11-26T11:31:59.748Z
 description: null
@@ -23,10 +23,8 @@ tags:
   - IT Security
   - Network
   - Network Basic
-lastmod: 2023-12-09T07:01:02.673Z
+lastmod: 2023-12-10T15:04:53.085Z
 draft: published
+keywords:
+  - Network
 ---
-
-## Reference
-
-[다시 돌아보는 기본 : 서브넷의 이해](https://www.itworld.co.kr/news/191458)

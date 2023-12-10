@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: QA Engineering Basic
 description: ""
 linkTitle: QA Engineering Basic
@@ -20,7 +20,7 @@ tags:
   - Computer Science
   - QA Engineering
   - QA Engineering Basic
-lastmod: 2023-11-27T01:32:41.658Z
+lastmod: 2023-12-10T03:12:47.620Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

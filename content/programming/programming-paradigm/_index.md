@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Programming Paradigm
 date: 2023-11-16T01:10:18.964Z
 description: 전체적인 프로그래밍 방식
@@ -19,9 +19,12 @@ categories:
 tags:
   - Programming Paradigm
   - Programming
-lastmod: 2023-12-09T06:11:48.947Z
+lastmod: 2023-12-10T04:05:26.649Z
 draft: published
 images: []
+keywords:
+  - Programming Paradigm
+slug: programming-paradigm
 ---
 
 ![Programming Paradigm](/programming/prg-paradigms.png#center "https://commons.wikimedia.org/wiki/Category:Programming_language_by_paradigm?uselang=ko")

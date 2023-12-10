@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Vue.js Basic
 description: ""
 linkTitle: Vue.js Basic
@@ -22,9 +22,14 @@ tags:
   - Vue.js
   - Vue.js Basic
   - Javascript
-lastmod: 2023-11-27T01:46:07.278Z
+lastmod: 2023-12-10T04:16:15.265Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Javascript
+  - Programming Language
+  - VueJS
+slug: vue-js-basic
 ---
 
 ## Reference

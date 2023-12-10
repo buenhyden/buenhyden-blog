@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: System Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 시스템의 구조, 행위, 더 많은 뷰를 정의하는 개념적 모형
@@ -21,7 +21,7 @@ tags:
   - System Architecture
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-12-08T12:55:04.987Z
+lastmod: 2023-12-10T03:12:47.347Z
 draft: published
 ---
 

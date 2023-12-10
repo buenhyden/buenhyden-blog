@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Docker Basic
 description: ""
 linkTitle: Docker Basic
@@ -23,7 +23,7 @@ tags:
   - Docker
   - Docker Basic
   - Container
-lastmod: 2023-11-27T01:38:23.990Z
+lastmod: 2023-12-10T03:12:46.590Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Splunk
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -26,7 +26,7 @@ tags:
   - Splunk
   - tools
   - Management for Infrastructure
-lastmod: 2023-12-08T13:04:44.529Z
+lastmod: 2023-12-10T03:12:45.748Z
 draft: published
 ---
 

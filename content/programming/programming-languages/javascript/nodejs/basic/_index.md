@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Node.js Basic
 description: ""
 linkTitle: Node.js Basic
@@ -22,9 +22,14 @@ tags:
   - Node.js
   - Programming Language
   - Node.js Basic
-lastmod: 2023-11-27T01:45:01.694Z
+lastmod: 2023-12-10T04:17:59.977Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Javascript
+  - Programming Language
+  - NodeJS
+slug: node-js-basic
 ---
 
 ## Reference

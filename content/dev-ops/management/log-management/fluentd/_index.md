@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Fluentd
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -28,7 +28,7 @@ tags:
   - Log Management
   - tools
   - Management for Infrastructure
-lastmod: 2023-12-08T13:04:32.459Z
+lastmod: 2023-12-10T03:12:45.778Z
 draft: published
 ---
 

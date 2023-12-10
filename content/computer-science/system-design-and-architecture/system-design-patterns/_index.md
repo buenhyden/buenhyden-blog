@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: System Design Patterns
 date: 2023-11-20T11:46:55.067Z
 description: ""
@@ -21,7 +21,7 @@ tags:
   - Computer Science
   - System Design & Architecture
   - System Design Patterns
-lastmod: 2023-11-29T00:51:28.546Z
+lastmod: 2023-12-10T03:12:47.371Z
 draft: published
 ---
 

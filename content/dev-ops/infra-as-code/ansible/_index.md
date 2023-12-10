@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Ansible
 date: 2023-11-04T12:52:00+09:00
 description: 서버의 프로비저닝, SW 배포 등의 자동화를 관리해주는 도구(Infrastructure as Code)
@@ -26,7 +26,7 @@ tags:
   - Configuration Management
   - Ansible
   - tools
-lastmod: 2023-12-08T13:02:49.198Z
+lastmod: 2023-12-10T03:12:46.023Z
 authors: Hyunyoun Jo
 draft: published
 ---

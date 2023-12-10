@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Documnet DBs
 date: 2023-10-31T07:46:00+09:00
 description: 도큐먼트 지향 정보, 이른바 반정형 데이터를 저장, 검색, 관리하기 위해 설계된 컴퓨터 프로그램이자 데이터 스토리지 시스템
@@ -23,8 +23,10 @@ tags:
   - Database
   - NoSQL
   - Document DBs
-lastmod: 2023-12-09T07:11:20.341Z
+lastmod: 2023-12-10T04:38:33.639Z
 draft: published
+keywords:
+  - NoSQL
 ---
 
 ## Reference

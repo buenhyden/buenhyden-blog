@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Software Development Methodology Basic
 date: 2023-11-28T14:31:11.197Z
 description: ""
@@ -21,7 +21,7 @@ tags:
   - Computer Science
   - Software Development Methodology
   - Software Development Methodology Basic
-lastmod: 2023-11-28T14:37:40.784Z
+lastmod: 2023-12-10T03:12:47.424Z
 draft: in progress
 ---
 

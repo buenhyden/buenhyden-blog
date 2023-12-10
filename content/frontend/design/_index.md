@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Design
 date: 2023-10-15T12:46:00+09:00
 description: null
@@ -23,7 +23,7 @@ tags:
   - Frontend
   - UI
   - UX
-lastmod: 2023-12-09T00:53:38.748Z
+lastmod: 2023-12-10T03:12:46.739Z
 draft: published
 ---
 

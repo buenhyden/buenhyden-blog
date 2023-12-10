@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Container Orchestration(CO) Basic
 description: ""
 linkTitle: Container Orchestration(CO) Basic
@@ -22,7 +22,7 @@ tags:
   - Container Orchestration(CO)
   - Dev Ops
   - Container Orchestration(CO) Basic
-lastmod: 2023-11-27T04:43:43.645Z
+lastmod: 2023-12-10T03:12:46.376Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

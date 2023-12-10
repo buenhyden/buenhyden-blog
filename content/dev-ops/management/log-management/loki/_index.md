@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Loki
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -26,7 +26,7 @@ tags:
   - Loki
   - tools
   - Management for Infrastructure
-lastmod: 2023-12-08T13:04:39.007Z
+lastmod: 2023-12-10T03:12:45.721Z
 draft: published
 ---
 

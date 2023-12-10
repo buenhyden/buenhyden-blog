@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Infrastructure Management Basic
 description: ""
 linkTitle: Infrastructure Management Basic
@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Management for Infrastructure Basic
-lastmod: 2023-11-27T01:39:35.615Z
+lastmod: 2023-12-10T03:12:45.593Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

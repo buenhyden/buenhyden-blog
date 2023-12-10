@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: RabbitMQ
 date: 2023-10-15T02:46:00+09:00
 description: 오픈 소스 메시지 브로커 소프트웨어로서, AMQP를 구현
@@ -24,8 +24,11 @@ tags:
   - Message Broker
   - tools
   - RabbitMQ
-lastmod: 2023-12-09T07:00:28.779Z
+lastmod: 2023-12-10T04:28:41.564Z
 draft: published
+keywords:
+  - RabbitMQ
+  - Message Broker
 ---
 
 ![RabbitMQ](/backend/rabbitmq.png#center "https://stackoverflow.com/questions/63545249/rabbitmq-queue-per-message-type-vs-queue-per-destination")

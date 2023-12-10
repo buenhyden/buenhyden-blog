@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Web Server Basic
 description: ""
 linkTitle: Web Server Basic
@@ -22,9 +22,11 @@ tags:
   - Computer Science
   - Web Server
   - Web Server Basic
-lastmod: 2023-12-09T07:00:56.621Z
+lastmod: 2023-12-10T04:27:36.374Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Web Server
 ---
 
 ## Reference

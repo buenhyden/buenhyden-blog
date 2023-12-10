@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Recommender System
 date: 2023-12-09T00:28:02.805Z
 description: 사용자의 행동 패턴, 신호, 이전의 행동 등을 분석해 개인에게 제안을 하는 것에 맞춤화된 기술
@@ -18,8 +18,13 @@ categories:
 tags:
   - AI
   - Recommender System
-lastmod: 2023-12-09T06:13:06.354Z
+lastmod: 2023-12-10T15:46:45.628Z
 draft: published
+layout: list
+keywords:
+  - AI
+  - Recommender System
+slug: recommender-system
 ---
 
 ## Lecture

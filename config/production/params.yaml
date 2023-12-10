@@ -2,6 +2,8 @@
 google_adsense: ca-pub-3156423099418350 # Please make that the Google AdSense module was imported.
 
 hb:
+  breadcrumb:
+    disabled: false
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
   header:

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Neo4j
 date: 2023-10-15T12:46:00+09:00
 description: ""
@@ -25,8 +25,10 @@ tags:
   - Document DBs
   - Neo4j
   - NoSQL
-lastmod: 2023-12-09T07:12:01.582Z
+lastmod: 2023-12-10T04:38:17.184Z
 draft: published
+keywords:
+  - NoSQL
 ---
 
 ## Reference

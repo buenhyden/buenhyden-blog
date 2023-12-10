@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Packages
 description: Javascript Package
 linkTitle: Packages
@@ -24,9 +24,13 @@ tags:
   - Programming Language
   - Syntax
   - Package
-lastmod: 2023-11-28T11:50:26.289Z
+lastmod: 2023-12-10T04:15:05.224Z
 date: 2023-11-16T01:08:29.992Z
 draft: published
+keywords:
+  - Programming Language
+  - Javascript
+slug: packages
 ---
 
 ## Reference

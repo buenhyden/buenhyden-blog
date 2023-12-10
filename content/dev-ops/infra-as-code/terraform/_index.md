@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Terraform
 date: 2023-11-04T12:52:00+09:00
 description: HashiCorp가 개발한 오픈 소스 코드형 인프라스트럭처
@@ -26,7 +26,7 @@ tags:
   - Infrastructure Provisioning
   - Terraform
   - tools
-lastmod: 2023-12-08T13:03:22.218Z
+lastmod: 2023-12-10T03:12:46.125Z
 draft: published
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Single Sign On(SSO)
 date: 2023-11-24T23:45:27.229Z
 description: 통합 인증은 한 번의 인증 과정으로 여러 컴퓨터 상의 자원을 이용 가능하게 하는 인증 기능
@@ -24,7 +24,7 @@ tags:
   - Management for Infrastructure
   - Single Sign On
   - SSO
-lastmod: 2023-12-08T13:09:26.992Z
+lastmod: 2023-12-10T03:12:45.337Z
 draft: published
 ---
 

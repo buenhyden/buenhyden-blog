@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Management for Infrastructure
 date: 2023-10-15T12:46:00+09:00
 description: 인프라를 모니터링하고 유지하는 방법
@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - Management for Infrastructure
-lastmod: 2023-11-26T05:29:42.316Z
+lastmod: 2023-12-10T03:12:45.224Z
 draft: published
 ---
 

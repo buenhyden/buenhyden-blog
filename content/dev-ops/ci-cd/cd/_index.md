@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Continuous Deployment(CD)
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 배포
@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Deployment(CD)
-lastmod: 2023-12-08T12:58:02.921Z
+lastmod: 2023-12-10T03:12:44.795Z
 draft: published
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Programming Basics
 date: 2023-11-16T01:10:03.126Z
 description: null
@@ -19,8 +19,11 @@ categories:
 tags:
   - Programming Basics
   - Programming
-lastmod: 2023-12-09T06:22:20.857Z
+lastmod: 2023-12-10T04:07:52.454Z
 draft: published
+keywords:
+  - Programming
+slug: programming-basics
 ---
 
 ## Reference

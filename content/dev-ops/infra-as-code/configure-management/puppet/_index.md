@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Puppet
 date: 2023-11-04T12:52:00+09:00
 description: ruby로 만들어진 시스템 관리 자동화 툴
@@ -26,7 +26,7 @@ tags:
   - Configuration Management
   - Puppet
   - tools
-lastmod: 2023-12-08T13:03:02.456Z
+lastmod: 2023-12-10T03:12:46.184Z
 draft: published
 ---
 

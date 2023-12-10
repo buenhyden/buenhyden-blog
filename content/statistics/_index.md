@@ -16,8 +16,10 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 draft: published
+keywords:
+  - statistics
+slug: statistics
 ---
 
 ## Lecture

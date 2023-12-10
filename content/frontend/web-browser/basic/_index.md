@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Web Browser Basic
 description: ""
 linkTitle: Web Browser Basic
@@ -22,7 +22,7 @@ tags:
   - Frontend
   - Web Browser
   - Web Browser Basic
-lastmod: 2023-11-27T04:33:15.683Z
+lastmod: 2023-12-10T03:12:46.956Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Python
 date: 2023-10-15T12:46:00+09:00
 description: 인터프리터를 사용하는 객체지향 언어이자 플랫폼에 독립적인, 동적 타이핑 대화형 언어
@@ -20,8 +20,12 @@ tags:
   - Programming Language
   - Python
   - Programming
-lastmod: 2023-12-08T13:13:53.416Z
+lastmod: 2023-12-10T04:06:00.948Z
 draft: published
+keywords:
+  - Programming Language
+  - Python
+slug: python
 ---
 
 ![Python](/programming/python.png#center "https://bootcamp.mapsahr.com/wp-content/uploads/2021/09/Python-Symbol-scaled.jpg")

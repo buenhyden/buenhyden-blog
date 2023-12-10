@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Flutter
 description: 구글이 출시한 오픈 소스 크로스 플랫폼 GUI 애플리케이션 프레임워크
 linkTitle: Flutter
@@ -21,9 +21,14 @@ tags:
   - Programming Language
   - Flutter
   - Dart
-lastmod: 2023-12-08T13:17:06.883Z
+lastmod: 2023-12-10T04:09:10.426Z
 date: 2023-11-11T14:03:58.106Z
 draft: published
+keywords:
+  - Dart
+  - Programming Language
+  - Flutter
+slug: flutter
 ---
 
 ## Reference

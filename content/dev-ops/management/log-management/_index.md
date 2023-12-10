@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Log Management
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Log Management
   - Management for Infrastructure
-lastmod: 2023-12-08T13:04:51.296Z
+lastmod: 2023-12-10T03:12:45.694Z
 draft: published
 ---
 

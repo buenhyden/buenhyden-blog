@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Kafka
 date: 2023-10-22T02:46:00+09:00
 description: 아파치 소프트웨어 재단이 스칼라로 개발한 오픈 소스 메시지 브로커 프로젝트이다. 이 프로젝트는 실시간 데이터 피드를 관리하기 위해 통일된, 높은 처리량, 낮은 지연시간을 지닌 플랫폼을 제공
@@ -24,8 +24,11 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-12-09T07:00:25.990Z
+lastmod: 2023-12-10T04:28:55.068Z
 draft: published
+keywords:
+  - Message Broker
+  - Kafka
 ---
 
 ![Kafka](/backend/kafka.png#center "https://www.uber.com/en-ZA/blog/ureplicator-apache-kafka-replicator/")

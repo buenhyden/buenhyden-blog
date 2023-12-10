@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Express.js Basic
 description: ""
 linkTitle: Express.js Basic
@@ -22,9 +22,15 @@ tags:
   - Express.js Basic
   - Programming Language
   - Javascript
-lastmod: 2023-11-27T01:45:15.081Z
+lastmod: 2023-12-10T04:18:21.661Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Javascript
+  - NodeJS
+  - Programming Language
+  - ExpressJS
+slug: express-js-basic
 ---
 
 ## Reference

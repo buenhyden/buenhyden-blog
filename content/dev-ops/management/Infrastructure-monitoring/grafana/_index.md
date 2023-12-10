@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Grafana
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -26,7 +26,7 @@ tags:
   - Infrastructure Monitoring
   - tools
   - Management for Infrastructure
-lastmod: 2023-12-08T13:04:08.908Z
+lastmod: 2023-12-10T03:12:45.884Z
 draft: published
 ---
 

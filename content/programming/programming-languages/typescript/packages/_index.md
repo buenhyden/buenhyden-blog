@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Packages
 description: Typescript Package
 linkTitle: Packages
@@ -24,9 +24,13 @@ tags:
   - Programming Language
   - Syntax
   - Typescript
-lastmod: 2023-11-28T11:50:26.264Z
+lastmod: 2023-12-10T04:05:42.971Z
 date: 2023-11-24T01:00:21.533Z
 draft: published
+keywords:
+  - Programming Language
+  - Typescript
+slug: packages
 ---
 
 ## Reference

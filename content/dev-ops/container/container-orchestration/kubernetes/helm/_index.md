@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Helm
 date: 2023-11-22T01:27:19.937Z
 description: 쿠버네티스를 위한 패키지 관리 도구
@@ -26,7 +26,7 @@ tags:
   - Dev Ops
   - Kubernetes
   - Helm
-lastmod: 2023-12-08T13:00:15.780Z
+lastmod: 2023-12-10T03:12:46.512Z
 draft: published
 ---
 

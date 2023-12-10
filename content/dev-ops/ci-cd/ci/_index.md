@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Continuous Integration(CI)
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 통합
@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - CI/CD
   - Continuous Integration(CI)
-lastmod: 2023-12-08T12:59:40.458Z
+lastmod: 2023-12-10T03:12:44.921Z
 draft: published
 ---
 

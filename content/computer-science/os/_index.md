@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Operating System
 date: 2023-10-15T12:46:00+09:00
 description: 사용자의 하드웨어, 시스템 리소스를 제어하고 프로그램에 대한 일반적 서비스를 지원하는 시스템 소프트웨어
@@ -22,7 +22,7 @@ tags:
   - Computer Science
   - Operating System
   - OS
-lastmod: 2023-12-08T12:51:17.127Z
+lastmod: 2023-12-10T02:45:42.944Z
 draft: published
 ---
 

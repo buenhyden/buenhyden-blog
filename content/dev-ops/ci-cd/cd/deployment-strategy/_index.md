@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Deployment Strategy
 date: 2023-11-28T03:35:36.388Z
 description: ""
@@ -25,7 +25,7 @@ tags:
   - Continuous Deployment(CD)
   - Dev Ops
   - Deployment Strategy
-lastmod: 2023-12-08T12:57:22.603Z
+lastmod: 2023-12-10T03:12:44.844Z
 draft: published
 ---
 

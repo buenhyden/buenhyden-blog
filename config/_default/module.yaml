@@ -36,7 +36,8 @@ imports:
 
   # blog content panel
   - path: github.com/hbstack/blog/modules/content-panel
-
+  # breadcrumb
+  - path: github.com/hbstack/blog/modules/breadcrumb
   # docs comments engine
   - path: github.com/hbstack/docs/modules/giscus
   # - path: github.com/hbstack/docs/modules/utterances
@@ -62,7 +63,6 @@ imports:
   - path: github.com/hbstack/mermaid
   - path: github.com/hugomods/katex
   - path: github.com/hugomods/code-block-panel
-  - path: github.com/hbstack/blog/modules/breadcrumb
   - path: github.com/hugomods/aos
   - path: github.com/hbstack/header/themes/tabs
   - path: github.com/hbstack/header/modules/theme-toggle

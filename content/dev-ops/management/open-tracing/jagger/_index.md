@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Jagger
 date: 2023-12-07T05:55:16.840Z
 description: null
@@ -26,7 +26,7 @@ tags:
   - Management for Infrastructure
   - tools
   - Open Tracing
-lastmod: 2023-12-08T13:05:56.965Z
+lastmod: 2023-12-10T03:12:45.543Z
 draft: published
 ---
 

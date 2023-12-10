@@ -105,7 +105,7 @@ related:
       weight: 60
     - name: date
       weight: 10
-  threshold: 10 # for testing, increase it to suit your case.
+  threshold: 60 # for testing, increase it to suit your case.
   toLower: false
 
 security:

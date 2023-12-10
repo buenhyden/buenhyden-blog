@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Zabbix
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -26,7 +26,7 @@ tags:
   - tools
   - Zabbix
   - Management for Infrastructure
-lastmod: 2023-12-08T13:04:25.886Z
+lastmod: 2023-12-10T03:12:45.911Z
 draft: published
 ---
 

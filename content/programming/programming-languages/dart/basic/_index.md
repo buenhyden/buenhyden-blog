@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Dart Basic
 description: ""
 linkTitle: Dart Basic
@@ -20,9 +20,13 @@ tags:
   - Dart
   - Programming Language
   - Dart Basic
-lastmod: 2023-11-27T01:43:09.758Z
+lastmod: 2023-12-10T04:08:44.626Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Programming Language
+  - Dart
+slug: dart-basic
 ---
 
 ## Reference

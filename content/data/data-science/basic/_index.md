@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Data Science Basic
 description: ""
 linkTitle: Data Science Basic
@@ -20,7 +20,7 @@ tags:
   - Data
   - Data Science
   - Data Science Basic
-lastmod: 2023-11-27T01:34:56.843Z
+lastmod: 2023-12-10T03:12:43.574Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

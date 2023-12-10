@@ -63,18 +63,50 @@ hugopress:
           cacheable: true
           weight: 1
     # change the order of sidebar modules.
-    hb-blog-sidebar-taxonomies:
+    hb-blog:
+      attributes:
+        hb-blog-main-begin:
+          cacheable: true
+          weight: 1
+    hb-blog-post-content-panel:
       hooks:
-        hb-blog-sidebar:
-          weight: 3
+        hb-blog-post-content-end:
+          weight: 1
+    hb-blog-breadcrumb:
+      hooks:
+        hb-blog-main-begin:
+          weight: 1
     hb-blog-sidebar-posts:
       hooks:
         hb-blog-sidebar:
           weight: 2
+          cacheable: true
+    hb-blog-sidebar-taxonomies:
+      hooks:
+        hb-blog-sidebar:
+          weight: 3
+    hb-blog-post-nav:
+      hooks:
+        hb-blog-post-content-end:
+          weight: 3
+    hb-blog-toc-scrollspy:
+      attributes:
+        hb-blog-post-content-end:
+          weight: 1
+          cacheable: true
+    hb-blog-related-posts:
+      hooks:
+        hb-blog-post-content-end:
+          weight: 1
+          cacheable: true
+    hb-blog-post-featured-image:
+      hooks:
+        hb-blog-post-content-begin:
+          weight: 1
     hb-docs:
       attributes:
         hb-main:
-          weight: 1
+          cacheable: true
       hooks:
         head-begin:
           weight: 3
@@ -83,7 +115,7 @@ hugopress:
     hb-header-theme-toggle:
       attributes:
         document:
-          weight: 1
+          cacheable: true
       hooks:
         hb-header-panel:
           weight: 2

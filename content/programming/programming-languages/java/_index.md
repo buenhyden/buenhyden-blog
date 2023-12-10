@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Java
 description: 썬 마이크로시스템즈에서 1995년에 개발한 객체 지향 프로그래밍 언어
 linkTitle: Java
@@ -20,9 +20,13 @@ tags:
   - Java
   - Programming Language
   - Programming
-lastmod: 2023-12-09T00:48:20.834Z
+lastmod: 2023-12-10T04:11:10.930Z
 date: 2023-11-11T14:08:18.503Z
 draft: published
+keywords:
+  - Programming Language
+  - Java
+slug: java
 ---
 
 ## Lecture

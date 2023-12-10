@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Machine Vision
 date: 2023-12-09T00:18:49.880Z
 description: ""
@@ -20,8 +20,13 @@ tags:
   - AI
   - Computer Vision
   - Machine Vision
-lastmod: 2023-12-09T07:10:57.933Z
+lastmod: 2023-12-10T15:46:30.797Z
 draft: published
+keywords:
+  - AI
+  - Computer Vision
+  - Machine Vision
+slug: machine-vision
 ---
 
 ## Reference

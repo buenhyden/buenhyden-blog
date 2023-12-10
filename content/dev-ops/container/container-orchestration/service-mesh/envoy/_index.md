@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Envoy
 date: 2023-11-05T01:46:00+09:00
 description: null
@@ -29,7 +29,7 @@ tags:
   - Service Mesh
   - Envoy
   - tools
-lastmod: 2023-12-08T13:01:34.860Z
+lastmod: 2023-12-10T03:12:46.458Z
 draft: published
 ---
 

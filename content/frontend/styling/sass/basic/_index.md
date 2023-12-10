@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: SASS Basic
 description: ""
 linkTitle: SASS Basic
@@ -22,7 +22,7 @@ tags:
   - Frontend
   - SASS
   - SASS Basic
-lastmod: 2023-11-27T01:41:25.248Z
+lastmod: 2023-12-10T03:12:47.049Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

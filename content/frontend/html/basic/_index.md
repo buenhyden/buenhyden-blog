@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: HTML Basic
 description: ""
 linkTitle: HTML Basic
@@ -22,7 +22,7 @@ tags:
   - Frontend
   - HTML
   - HTML Basic
-lastmod: 2023-11-27T01:40:42.084Z
+lastmod: 2023-12-10T03:12:46.899Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

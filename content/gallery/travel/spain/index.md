@@ -10,6 +10,10 @@ resources:
     params:
       author: null
       source: IMG_6249.JPG
-lastmod: 2023-11-11T16:00:33.809Z
+lastmod: 2023-12-10T03:49:41.528Z
 type: gallery
+nav_icon:
+  vendor: bs
+  name: images
+  color: blue
 ---

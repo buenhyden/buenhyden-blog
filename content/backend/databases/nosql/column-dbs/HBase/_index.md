@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: |
   HBase
 date: 2023-11-19T11:15:27.760Z
@@ -26,8 +26,11 @@ tags:
   - Document DBs
   - NoSQL
   - HBase
-lastmod: 2023-12-09T07:11:17.361Z
+lastmod: 2023-12-10T04:38:56.145Z
 draft: published
+keywords:
+  - NoSQL
+  - HBase
 ---
 
 ## Reference

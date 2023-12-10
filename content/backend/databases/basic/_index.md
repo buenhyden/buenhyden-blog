@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Databases Basic
 description: ""
 linkTitle: Databases Basic
@@ -22,9 +22,12 @@ tags:
   - Computer Science
   - Database
   - Database Basic
-lastmod: 2023-12-09T07:11:00.671Z
+lastmod: 2023-12-10T04:29:58.685Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Databases
+  - 데이터베이스
 ---
 
 ## Reference

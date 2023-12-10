@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Message Broker
 date: 2023-10-15T12:46:00+09:00
 description: 애플리케이션, 시스템 및 서비스가 서로 간에 통신하고 정보를 교환할 수 있도록 해주는 소프트웨어
@@ -19,8 +19,10 @@ categories:
 tags:
   - Backend
   - Message Broker
-lastmod: 2023-12-09T07:00:16.578Z
+lastmod: 2023-12-10T04:28:27.328Z
 draft: published
+keywords:
+  - Message Broker
 ---
 
 ![Diagram Message Broker](/backend/diagram-message-broker.png "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%8B%9C%EC%A7%80_%EB%B8%8C%EB%A1%9C%EC%BB%A4")

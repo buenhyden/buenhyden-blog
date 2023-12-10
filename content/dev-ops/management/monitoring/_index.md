@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Monitoring System
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 시스템의 시스템 리소스와 성능을 모니터링하는 데 사용되는 하드웨어 또는 소프트웨어 구성 요소
@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Monitoring System
-lastmod: 2023-12-08T13:05:23.337Z
+lastmod: 2023-12-10T03:12:45.568Z
 draft: published
 ---
 

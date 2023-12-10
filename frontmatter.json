@@ -1441,6 +1441,12 @@
           "type": "string"
         },
         {
+          "title": "Layout",
+          "name": "layout",
+          "type": "choice",
+          "choices": ["single", "list"]
+        },
+        {
           "title": "Description",
           "name": "description",
           "type": "string"
@@ -1530,150 +1536,8 @@
       ]
     },
     {
-      "name": "diary",
-      "pageBundle": false,
-      "fields": [
-        {
-          "title": "type",
-          "name": "type",
-          "type": "string",
-          "default": "diary"
-        },
-        {
-          "title": "Title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "Description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "Publishing date",
-          "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
-        },
-        {
-          "title": "Draft",
-          "name": "draft",
-          "type": "draft"
-        },
-        {
-          "title": "Tags",
-          "name": "tags",
-          "type": "tags"
-        },
-        {
-          "title": "Categories",
-          "name": "categories",
-          "type": "categories"
-        },
-        {
-          "title": "Series",
-          "name": "series",
-          "type": "taxonomy",
-          "taxonomyId": "series"
-        },
-        {
-          "title": "featured",
-          "name": "featured",
-          "type": "boolean"
-        },
-        {
-          "title": "image",
-          "name": "images",
-          "type": "image",
-          "multiple": true,
-          "isPreviewImage": true
-        },
-        {
-          "title": "authors",
-          "name": "authors",
-          "type": "choice",
-          "choices": ["Hyunyoun Jo"],
-          "default": "Hyunyoun Jo"
-        },
-        {
-          "title": "lastmod",
-          "name": "lastmod",
-          "type": "datetime"
-        }
-      ]
-    },
-    {
-      "name": "gallery",
-      "pageBundle": false,
-      "fields": [
-        {
-          "title": "type",
-          "name": "type",
-          "type": "string",
-          "default": "gallery"
-        },
-        {
-          "title": "Title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "Description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "Publishing date",
-          "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
-        },
-        {
-          "title": "Draft",
-          "name": "draft",
-          "type": "draft"
-        },
-        {
-          "title": "resources",
-          "name": "resources",
-          "type": "fields",
-          "fields": [
-            {
-              "title": "Resource Name",
-              "name": "src",
-              "type": "string"
-            },
-            {
-              "title": "params",
-              "name": "params",
-              "type": "fields",
-              "fields": [
-                {
-                  "title": "author",
-                  "name": "author",
-                  "type": "string",
-                  "default": "Hyunyoun Jo"
-                },
-                {
-                  "title": "source",
-                  "name": "source",
-                  "type": "image"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "lastmod",
-          "name": "lastmod",
-          "type": "datetime"
-        }
-      ]
-    },
-    {
       "name": "notes",
+      "template": "[[workspace]]/.frontmatter/templates/notes.md",
       "pageBundle": false,
       "fields": [
         {
@@ -1691,6 +1555,12 @@
           "title": "linkTitle",
           "name": "linkTitle",
           "type": "string"
+        },
+        {
+          "title": "Layout",
+          "name": "layout",
+          "type": "choice",
+          "choices": ["single", "list"]
         },
         {
           "title": "Description",
@@ -1762,19 +1632,215 @@
             {
               "title": "vendor",
               "name": "vendor",
-              "type": "string"
+              "type": "string",
+              "default": "bs"
             },
             {
               "title": "name",
               "name": "name",
-              "type": "string"
+              "type": "string",
+              "default": "book"
             },
             {
               "title": "color",
               "name": "color",
-              "type": "string"
+              "type": "string",
+              "default": "blue"
             }
           ]
+        }
+      ]
+    },
+    {
+      "name": "diary",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string",
+          "default": "diary"
+        },
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "Series",
+          "name": "series",
+          "type": "taxonomy",
+          "taxonomyId": "series"
+        },
+        {
+          "title": "featured",
+          "name": "featured",
+          "type": "boolean"
+        },
+        {
+          "title": "image",
+          "name": "images",
+          "type": "image",
+          "multiple": true,
+          "isPreviewImage": true
+        },
+        {
+          "title": "authors",
+          "name": "authors",
+          "type": "choice",
+          "choices": ["Hyunyoun Jo"],
+          "default": "Hyunyoun Jo"
+        },
+        {
+          "title": "nav_icon",
+          "name": "nav_icon",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "vendor",
+              "name": "vendor",
+              "type": "string",
+              "default": "bs"
+            },
+            {
+              "title": "name",
+              "name": "name",
+              "type": "string",
+              "default": "pen"
+            },
+            {
+              "title": "color",
+              "name": "color",
+              "type": "string",
+              "default": "blue"
+            }
+          ]
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        }
+      ]
+    },
+    {
+      "name": "gallery",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string",
+          "default": "gallery"
+        },
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "resources",
+          "name": "resources",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "Resource Name",
+              "name": "src",
+              "type": "string"
+            },
+            {
+              "title": "params",
+              "name": "params",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "author",
+                  "name": "author",
+                  "type": "string",
+                  "default": "Hyunyoun Jo"
+                },
+                {
+                  "title": "source",
+                  "name": "source",
+                  "type": "image"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "nav_icon",
+          "name": "nav_icon",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "vendor",
+              "name": "vendor",
+              "type": "string",
+              "default": "bs"
+            },
+            {
+              "title": "name",
+              "name": "name",
+              "type": "string",
+              "default": "images"
+            },
+            {
+              "title": "color",
+              "name": "color",
+              "type": "string",
+              "default": "blue"
+            }
+          ]
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
         }
       ]
     },

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Cassandra
 date: 2023-11-19T11:16:08.047Z
 description: ""
@@ -25,8 +25,11 @@ tags:
   - Document DBs
   - NoSQL
   - Cassandra
-lastmod: 2023-12-09T07:11:13.775Z
+lastmod: 2023-12-10T04:38:48.480Z
 draft: published
+keywords:
+  - NoSQL
+  - Cassandra
 ---
 
 ## Reference

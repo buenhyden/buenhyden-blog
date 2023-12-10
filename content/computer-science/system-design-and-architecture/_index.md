@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: System Design & Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 규모가 큰 시스템을 디자인 하는 것
@@ -19,7 +19,7 @@ categories:
 tags:
   - System Design & Architecture
   - Computer Science
-lastmod: 2023-12-08T12:55:31.050Z
+lastmod: 2023-12-10T03:12:47.299Z
 draft: published
 ---
 

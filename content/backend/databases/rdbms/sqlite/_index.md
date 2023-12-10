@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: SQLite
 date: 2023-11-07T03:46:00+09:00
 description: ""
@@ -23,9 +23,12 @@ tags:
   - Database
   - RDBMS
   - SQLite
-lastmod: 2023-12-09T07:11:47.516Z
+lastmod: 2023-12-10T04:39:24.980Z
 linkTitle: SQLite
 draft: published
+keywords:
+  - SQLite
+  - RDBMS
 ---
 
 ## Reference

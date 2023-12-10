@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Datadog
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -27,7 +27,7 @@ tags:
   - Management for Infrastructure
   - tools
   - Observability
-lastmod: 2023-12-08T13:05:31.602Z
+lastmod: 2023-12-10T03:12:45.415Z
 draft: published
 ---
 

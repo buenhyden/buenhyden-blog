@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Java Basic
 description: ""
 linkTitle: Java Basic
@@ -20,9 +20,12 @@ tags:
   - Java
   - Programming Language
   - Java Basic
-lastmod: 2023-11-27T01:43:47.593Z
+lastmod: 2023-12-10T04:10:24.844Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Programming Language
+  - Java
 ---
 
 ## Reference

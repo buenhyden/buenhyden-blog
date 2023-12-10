@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Network
 date: 2023-10-15T12:46:00+09:00
 description: 분산되어 있는 컴퓨터를 통신망으로 연결한 것
@@ -19,8 +19,11 @@ categories:
 tags:
   - Network
   - Computer Science
-lastmod: 2023-12-08T12:50:14.975Z
+lastmod: 2023-12-10T04:30:36.319Z
 draft: published
+keywords:
+  - 네트워크
+  - Network
 ---
 
 ![Network](/computer-science/nettopo.webp#center "https://medium.com/minitechi/fundamentals-in-networking-1628a50672ea")

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Computer Vision
 date: 2023-12-09T00:16:42.357Z
 description: 컴퓨터의 시각적인 부분을 연구하여 디지털 이미지, 비디오 등에서 의미 있는 정보를 추출하는 기술
@@ -18,8 +18,13 @@ categories:
 tags:
   - AI
   - Computer Vision
-lastmod: 2023-12-09T06:12:50.247Z
+lastmod: 2023-12-10T15:46:28.947Z
 draft: published
+layout: list
+keywords:
+  - AI
+  - Computer Vision
+slug: computer-vision
 ---
 
 ## Lecture

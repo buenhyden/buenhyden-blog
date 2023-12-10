@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Kotlin Basic
 description: ""
 linkTitle: Kotlin Basic
@@ -20,9 +20,13 @@ tags:
   - Kotlin
   - Programming Language
   - Kotlin Basic
-lastmod: 2023-11-27T01:42:57.451Z
+lastmod: 2023-12-10T04:09:42.674Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Programming Language
+  - Kotlin
+slug: kotlin-basic
 ---
 
 ## Reference

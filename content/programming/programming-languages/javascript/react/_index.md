@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: React
 description: 자바스크립트 라이브러리의 하나로서 사용자 인터페이스를 만들기 위해 사용된다. 페이스북과 개별 개발자 및 기업들 공동체에 의해 유지보수된다. 리액트는 싱글 페이지 애플리케이션이나 모바일 애플리케이션 개발에 사용
 linkTitle: React
@@ -22,9 +22,14 @@ tags:
   - Programming Language
   - React
   - Programming
-lastmod: 2023-12-08T13:15:33.759Z
+lastmod: 2023-12-10T04:16:39.700Z
 date: 2023-11-16T01:12:15.654Z
 draft: published
+keywords:
+  - Javascript
+  - Programming Language
+  - React
+slug: react
 ---
 
 ![Reeact](/programming/react.jpeg#center "https://2oneweek.dev/frontend/react/010.%20Hook%20-%20useCallback/")

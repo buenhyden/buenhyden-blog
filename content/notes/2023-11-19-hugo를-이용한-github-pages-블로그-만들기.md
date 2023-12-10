@@ -18,8 +18,16 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-lastmod: 2023-12-09T02:38:01.513Z
+lastmod: 2023-12-10T04:01:09.242Z
 draft: published
+nav_icon:
+  vendor: bs
+  name: book
+  color: blue
+keywords:
+  - Github Pages
+  - hugo
+  - Dev Blog
 ---
 
 ## Prerequisites

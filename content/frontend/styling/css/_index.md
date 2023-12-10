@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: CSS
 date: 2023-10-15T12:46:00+09:00
 description: 마크업 언어로 작성된 문서가 실제로 웹사이트에 표현되는 방법을 정해주는 스타일 시트 언어
@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Styling
   - CSS
-lastmod: 2023-12-09T00:49:24.596Z
+lastmod: 2023-12-10T03:12:47.073Z
 draft: published
 ---
 

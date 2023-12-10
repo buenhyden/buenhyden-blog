@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Version Control
 date: 2023-10-15T12:46:00+09:00
 description: 동일한 정보에 대한 여러 버전을 관리하는 것
@@ -23,7 +23,7 @@ tags:
   - CI/CD
   - Continuous Integration(CI)
   - Version Control
-lastmod: 2023-12-08T12:59:34.381Z
+lastmod: 2023-12-10T03:12:45.200Z
 draft: published
 ---
 

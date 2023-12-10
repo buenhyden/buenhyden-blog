@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Protocol
 date: 2023-10-15T12:46:00+09:00
 description: null
@@ -21,7 +21,7 @@ tags:
   - Network
   - Protocol
   - Computer Science
-lastmod: 2023-12-09T07:00:39.666Z
+lastmod: 2023-12-10T15:07:25.926Z
 draft: published
 ---
 
@@ -29,10 +29,4 @@ draft: published
 
 ## Reference
 
-[HTTP vs HTTPS 차이, 알면 사이트의 레벨이 보인다.](https://yozm.wishket.com/magazine/detail/130/)  
-[HTTP의 새로운 메서드, 서치(SEARCH)에 대하여](https://yozm.wishket.com/magazine/detail/694/)  
-[HTTP, 그리고 HTTPS의 이해](https://yozm.wishket.com/magazine/detail/471/)  
-[인터넷 프로토콜](https://velog.io/@dkdjsema9808/%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)  
-[https://brunch.co.kr/@swimjiy/47](https://brunch.co.kr/@swimjiy/47)  
-[웹 개발자라면 알고 있어야 할 HTTP의 진화 과정](https://wormwlrm.github.io/2022/09/02/Evolution-of-HTTP.html)  
-[10분 만에 훑어보는 TCP와 UDP](https://wormwlrm.github.io/2021/09/23/Overview-of-TCP-and-UDP.html)
+[인터넷 프로토콜](https://velog.io/@dkdjsema9808/%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)

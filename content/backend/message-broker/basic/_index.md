@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Message Broker Basic
 date: 2023-11-26T13:02:12.342Z
 description: ""
@@ -23,8 +23,10 @@ tags:
   - Computer Science
   - Message Broker
   - Message Broekr Basic
-lastmod: 2023-12-09T07:00:23.239Z
+lastmod: 2023-12-10T04:29:02.789Z
 draft: published
+keywords:
+  - Message Broker
 ---
 
 ## Reference

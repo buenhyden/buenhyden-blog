@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Ngnix
 date: 2023-10-31T07:46:00+09:00
 description: 트래픽이 많은 웹사이트의 서버(WAS)를 도와주는 비동기 이벤트 기반구조의 경량화 웹 서버 프로그램
@@ -24,8 +24,11 @@ tags:
   - nginx
   - Web Server
   - tools
-lastmod: 2023-12-09T07:00:59.404Z
+lastmod: 2023-12-10T04:27:16.653Z
 draft: published
+keywords:
+  - Nginx
+  - Web Server
 ---
 
 ## Reference

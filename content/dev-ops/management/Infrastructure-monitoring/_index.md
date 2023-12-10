@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Infrastructure Monitoring
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Infrastructure Monitoring
   - Management for Infrastructure
-lastmod: 2023-11-19T07:10:48.125Z
+lastmod: 2023-12-10T03:12:45.806Z
 draft: published
 ---
 

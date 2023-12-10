@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Typescript Basic
 description: ""
 linkTitle: Typescript Basic
@@ -20,9 +20,13 @@ tags:
   - Programming Language
   - Typescript
   - Typescript Basic
-lastmod: 2023-11-27T01:42:30.071Z
+lastmod: 2023-12-10T04:05:49.161Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Programming Language
+  - Typescript
+slug: typescript-basic
 ---
 
 ## Reference

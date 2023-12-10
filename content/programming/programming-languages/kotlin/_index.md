@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Kotlin
 description: 젯브레인즈사에서 개발하는 크로스 플랫폼 범용 프로그래밍 언어
 linkTitle: Kotlin
@@ -21,9 +21,13 @@ tags:
   - Kotlin
   - Programming Language
   - Programming
-lastmod: 2023-12-09T00:44:45.005Z
+lastmod: 2023-12-10T04:09:51.177Z
 date: 2023-11-11T14:03:12.053Z
 draft: published
+keywords:
+  - Programming Language
+  - Kotlin
+slug: kotlin
 ---
 
 ![Kotlin](/programming/kotlin.png "http://kotlin.kr/")

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Javascript Basic
 description: ""
 linkTitle: Javascript Basic
@@ -20,9 +20,13 @@ tags:
   - Javascript
   - Programming Language
   - Javascript Basic
-lastmod: 2023-11-27T01:44:45.479Z
+lastmod: 2023-12-10T04:13:53.888Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Programming Language
+  - Javascript
+slug: javascript-basic
 ---
 
 ## Reference

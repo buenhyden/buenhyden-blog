@@ -1,4 +1,5 @@
 ---
+type: docs
 title: "{{ replace .Name "-" " " | title }}"
 # linkTitle:
 date: {{ .Date }}
@@ -12,7 +13,7 @@ nav_weight: 1000
 #   name: toggles
 #   color: '#e24d0e'
 series:
-  - Docs
+  - 
 categories:
 #  - 
 tags:

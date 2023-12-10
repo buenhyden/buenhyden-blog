@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: MariaDB
 date: 2023-10-15T12:46:00+09:00
 description: 오픈 소스 관계형 데이터베이스 관리 시스템
@@ -22,8 +22,10 @@ tags:
   - Database
   - RDBMS
   - MariaDB
-lastmod: 2023-12-09T07:12:26.576Z
+lastmod: 2023-12-10T04:39:41.907Z
 draft: published
+keywords:
+  - RDBMS
 ---
 
 ![Maria DB](/backend/mariadb.png#center "https://namu.wiki/w/MariaDB")

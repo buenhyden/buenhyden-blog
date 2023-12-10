@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: RDBMS
 date: 2023-10-15T12:46:00+09:00
 description: 관계형 데이터베이스
@@ -21,8 +21,10 @@ tags:
   - Backend
   - Database
   - RDBMS
-lastmod: 2023-12-09T07:12:20.986Z
+lastmod: 2023-12-10T04:39:13.113Z
 draft: published
+keywords:
+  - 데이터베이스
 ---
 
 ![RDBMS](/backend/rdbms.png#center "https://en.m.wikipedia.org/wiki/File:RDBMS_structure.png")

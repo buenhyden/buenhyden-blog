@@ -1,4 +1,8 @@
 ---
 title: Dec
-lastmod: 2023-11-07T16:09:25.219Z
+lastmod: 2023-11-07T16:09:06.050Z
+nav_icon:
+  vendor: bs
+  name: archive
+  color: blue
 ---

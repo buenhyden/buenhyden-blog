@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Databases
 date: 2023-10-15T12:46:00+09:00
 description: 여러 사람이 공유하여 사용할 목적으로 체계화해 통합, 관리하는 데이터의 집합
@@ -18,8 +18,11 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-12-09T07:10:17.910Z
+lastmod: 2023-12-10T04:29:37.671Z
 draft: published
+keywords:
+  - 데이터베이스
+  - Databases
 ---
 
 ## 데이터베이스는

@@ -1,5 +1,9 @@
 ---
 title: Hyden's Dev Blog
+nav_icon:
+  vendor: bs
+  name: house
+  color: blue
 ---
 
 기억보다는 기록을!\

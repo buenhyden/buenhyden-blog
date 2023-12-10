@@ -19,8 +19,10 @@ series:
 featured: false
 images: ""
 authors: Hyunyoun Jo
-lastmod: 2023-12-09T02:38:13.110Z
+lastmod: 2023-12-10T04:01:20.250Z
 draft: in progress
+keywords:
+  - Firebase
 ---
 
 ## Reference

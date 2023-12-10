@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Javascript
 date: 2023-10-15T12:46:00+09:00
 description: 멀티-패러다임 언어로 명령형, 함수형, 객체 지향형 언어
@@ -21,8 +21,12 @@ tags:
   - Javascript
   - Programming Language
   - Programming
-lastmod: 2023-12-09T00:47:45.334Z
+lastmod: 2023-12-10T04:11:25.914Z
 draft: published
+keywords:
+  - Programming Language
+  - Javascript
+slug: javascript
 ---
 
 ![Javascript](/programming/javascript_badge.svg.png#center "https://commons.wikimedia.org/wiki/File:Javascript_badge.svg")

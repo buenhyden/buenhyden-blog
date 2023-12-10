@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Apollo
 date: 2023-11-05T08:25:00+09:00
 description: null
@@ -28,7 +28,7 @@ tags:
   - GraphQL
   - Network
   - tools
-lastmod: 2023-12-08T12:46:42.866Z
+lastmod: 2023-12-10T02:43:26.574Z
 draft: published
 ---
 

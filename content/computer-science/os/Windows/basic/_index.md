@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Windows Basic
 date: 2023-11-26T11:53:09.690Z
 description: ""
@@ -26,7 +26,7 @@ tags:
   - Windows
   - Windows Basic
   - OS
-lastmod: 2023-11-26T13:08:50.149Z
+lastmod: 2023-12-10T02:45:28.368Z
 draft: published
 ---
 

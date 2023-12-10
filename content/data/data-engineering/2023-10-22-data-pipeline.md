@@ -19,8 +19,10 @@ categories:
 tags:
   - Data Engineering
   - Data
-lastmod: 2023-12-09T06:19:39.065Z
+lastmod: 2023-12-10T04:40:10.293Z
 draft: in progress
+keywords:
+  - Data Pipeline
 ---
 
 ## Stages in Data Processing Pipeline

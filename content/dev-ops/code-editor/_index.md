@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Code Editor
 date: 2023-11-01T00:46:00+09:00
 description: null
@@ -19,7 +19,7 @@ categories:
 tags:
   - Code Editor
   - Dev Ops
-lastmod: 2023-11-12T15:22:01.296Z
+lastmod: 2023-12-10T03:12:46.643Z
 draft: published
 ---
 

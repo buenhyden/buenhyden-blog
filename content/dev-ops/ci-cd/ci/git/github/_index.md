@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Github
 date: 2023-10-31T12:46:00+09:00
 description: null
@@ -25,7 +25,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-12-09T00:36:25.889Z
+lastmod: 2023-12-10T03:12:45.095Z
 draft: published
 ---
 

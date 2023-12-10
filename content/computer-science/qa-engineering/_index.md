@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: QA Engineering
 date: 2023-10-15T12:46:00+09:00
 description: 주요 이해관계자들에게 시험 대상 제품 또는 서비스의 품질에 관한 정보를 제공하는 조사 과정
@@ -19,7 +19,7 @@ categories:
 tags:
   - QA Engineering
   - Computer Science
-lastmod: 2023-12-08T12:52:30.523Z
+lastmod: 2023-12-10T03:12:47.597Z
 draft: published
 ---
 

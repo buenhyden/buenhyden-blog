@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: IT Security
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 및 통신에 관련된 보안
@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - IT Security
-lastmod: 2023-12-08T13:09:38.588Z
+lastmod: 2023-12-10T03:12:45.248Z
 draft: published
 ---
 

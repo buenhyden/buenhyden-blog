@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: IT Security Basic
 description: ""
 linkTitle: IT Security Basic
@@ -24,7 +24,7 @@ tags:
   - IT Security
   - Management for Infrastructure
   - IT Security Basic
-lastmod: 2023-11-27T04:36:44.405Z
+lastmod: 2023-12-10T03:12:45.286Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

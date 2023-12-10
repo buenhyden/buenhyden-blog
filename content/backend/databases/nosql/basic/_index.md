@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: NoSQL Basic
 description: ""
 linkTitle: NoSQL Basic
@@ -24,7 +24,7 @@ tags:
   - Database
   - NoSQL
   - NoSQL Basic
-lastmod: 2023-12-09T07:11:07.651Z
+lastmod: 2023-12-10T02:40:18.535Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

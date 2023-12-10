@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Git LFS
 date: 2023-11-05T06:46:00+09:00
 description: null
@@ -25,7 +25,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git LFS
-lastmod: 2023-12-08T12:58:38.724Z
+lastmod: 2023-12-10T03:12:45.046Z
 draft: published
 ---
 

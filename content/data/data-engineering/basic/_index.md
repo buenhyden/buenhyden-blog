@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Data Engineering Basic
 description: ""
 linkTitle: Data Engineering Basic
@@ -22,7 +22,7 @@ tags:
   - Data
   - Data Engineering
   - Data Engineering Basic
-lastmod: 2023-11-27T01:34:35.967Z
+lastmod: 2023-12-10T03:12:43.660Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

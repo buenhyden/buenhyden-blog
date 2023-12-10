@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Styled Component
 date: 2023-11-14T01:03:52.829Z
 description: ""
@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Styling
   - Styled-component
-lastmod: 2023-12-08T13:11:45.390Z
+lastmod: 2023-12-10T03:12:47.122Z
 draft: published
 ---
 

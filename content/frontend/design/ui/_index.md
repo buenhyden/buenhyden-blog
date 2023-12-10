@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: UI
 date: 2023-10-15T12:46:00+09:00
 description: 사람들이 제품과 상호 작용하는 미적 요소
@@ -21,7 +21,7 @@ tags:
   - Frontend
   - Design
   - UI
-lastmod: 2023-12-08T13:10:15.023Z
+lastmod: 2023-12-10T03:12:46.805Z
 draft: published
 ---
 

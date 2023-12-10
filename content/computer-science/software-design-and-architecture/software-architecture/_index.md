@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Software Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 요소, 관계, 원칙, 디자인으로 구현된 환경에서의 시스템의 근본적인 개념 혹은 속성
@@ -21,7 +21,7 @@ tags:
   - Software Architecture
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-12-08T12:53:12.845Z
+lastmod: 2023-12-10T03:12:47.546Z
 draft: published
 ---
 

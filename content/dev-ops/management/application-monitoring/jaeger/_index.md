@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Jaeger
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -26,7 +26,7 @@ tags:
   - Jaeger
   - Management for Infrastructure
   - tools
-lastmod: 2023-12-08T13:03:43.963Z
+lastmod: 2023-12-10T03:12:45.644Z
 draft: published
 ---
 

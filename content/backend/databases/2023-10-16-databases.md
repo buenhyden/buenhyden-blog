@@ -18,9 +18,12 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-12-09T07:08:32.707Z
+lastmod: 2023-12-10T04:29:20.746Z
 slug: database-타입
 draft: published
+keywords:
+  - Databases
+  - 데이터베이스
 ---
 
 ![Database Types](/backend/database-types.png "https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev")

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: build
 date: 2023-11-24T18:13:32.460Z
 description: ""
@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Build
-lastmod: 2023-12-08T13:04:02.270Z
+lastmod: 2023-12-10T03:12:45.363Z
 draft: published
 ---
 

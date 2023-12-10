@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Open Telemetry
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -26,7 +26,7 @@ tags:
   - Open Telemetry
   - tools
   - Observability
-lastmod: 2023-12-08T13:05:35.522Z
+lastmod: 2023-12-10T03:12:45.441Z
 draft: published
 ---
 

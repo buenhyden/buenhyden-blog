@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: CI & CD
 date: 2023-10-15T12:46:00+09:00
 description: null
@@ -19,7 +19,7 @@ categories:
 tags:
   - Dev Ops
   - CI/CD
-lastmod: 2023-12-08T12:59:51.573Z
+lastmod: 2023-12-10T03:12:44.769Z
 draft: published
 ---
 

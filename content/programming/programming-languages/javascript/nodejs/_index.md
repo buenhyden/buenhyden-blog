@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Node.js
 description: 확장성 있는 네트워크 애플리케이션 개발에 사용되는 소프트웨어 플랫폼
 linkTitle: Node.js
@@ -22,9 +22,14 @@ tags:
   - Node.js
   - Programming Language
   - Programming
-lastmod: 2023-12-08T13:15:49.891Z
+lastmod: 2023-12-10T04:17:16.871Z
 date: 2023-11-16T01:12:03.510Z
 draft: published
+keywords:
+  - Javascript
+  - Programming Language
+  - NodeJS
+slug: node-js
 ---
 
 ![Node JS](/programming/node-js.png#center "https://zdnet.co.kr/view/?no=20220421181628")

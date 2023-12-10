@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Continuous Deployment Basic
 date: 2023-11-28T03:34:52.044Z
 description: ""
@@ -23,7 +23,7 @@ tags:
   - Continuous Deployment(CD)
   - Dev Ops
   - Continuous Deployment Basic
-lastmod: 2023-11-28T03:35:08.649Z
+lastmod: 2023-12-10T03:12:44.870Z
 draft: published
 ---
 

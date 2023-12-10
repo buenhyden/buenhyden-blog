@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Git
 date: 2023-10-31T12:46:00+09:00
 description: 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 스냅샷 스트림 기반의 분산 버전 관리 시스템
@@ -25,7 +25,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-12-08T12:59:15.551Z
+lastmod: 2023-12-10T03:12:44.946Z
 draft: published
 ---
 

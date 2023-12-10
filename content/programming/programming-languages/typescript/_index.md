@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Typescript
 description: 자바스크립트의 단점을 보완하기 위해 만들어진 정적 타입 언어(static type language)
 linkTitle: Typescript
@@ -20,9 +20,13 @@ tags:
   - Programming Language
   - Typescript
   - Programming
-lastmod: 2023-12-08T13:13:25.909Z
+lastmod: 2023-12-10T04:05:37.143Z
 date: 2023-11-16T01:10:09.414Z
 draft: published
+keywords:
+  - Programming Language
+  - Typescript
+slug: typescript
 ---
 
 ![TypeScript](/programming/typescript.webp#center "https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k")

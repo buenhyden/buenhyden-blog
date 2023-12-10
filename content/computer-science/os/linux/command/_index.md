@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Linux Command
 date: 2023-11-26T11:53:09.690Z
 description: ""
@@ -26,7 +26,7 @@ tags:
   - Linux
   - Operating System
   - OS
-lastmod: 2023-12-08T12:50:29.697Z
+lastmod: 2023-12-10T02:45:21.724Z
 draft: published
 ---
 

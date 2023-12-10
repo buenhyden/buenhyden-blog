@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Open Tracing
 date: 2023-12-07T05:53:49.042Z
 description: null
@@ -22,7 +22,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Open Tracing
-lastmod: 2023-12-07T05:54:12.854Z
+lastmod: 2023-12-10T03:12:45.467Z
 draft: published
 ---
 

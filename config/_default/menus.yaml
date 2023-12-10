@@ -309,7 +309,7 @@ main:
   # Programming Paradigm
   - name: Programming Paradigm
     params:
-      description:
+      description: Programming Paradigm
       icon:
         name: journal
         vendor: bs
@@ -324,7 +324,7 @@ main:
   # Programming Basics
   - name: Programming Basics
     params:
-      description:
+      description: Programming Basics
       icon:
         name: journal
         vendor: bs
@@ -339,7 +339,7 @@ main:
   # Programming Languages
   - name: Programming Languages
     params:
-      description:
+      description: Programming Languages
       icon:
         name: journal
         vendor: bs
@@ -351,7 +351,7 @@ main:
   # Databases
   - name: Databases
     params:
-      description:
+      description: Databases
       icon:
         name: journal
         vendor: bs
@@ -366,7 +366,7 @@ main:
   # Message Broker
   - name: Message Broker
     params:
-      description:
+      description: Message Broker
       icon:
         name: journal
         vendor: bs
@@ -381,7 +381,7 @@ main:
   # Search Engine
   - name: Search Engine
     params:
-      description:
+      description: Search Engine
       icon:
         name: journal
         vendor: bs
@@ -396,7 +396,7 @@ main:
   # Web Server
   - name: Web Server
     params:
-      description:
+      description: Web Server
       icon:
         name: journal
         vendor: bs
@@ -408,7 +408,7 @@ main:
   # Web Browser
   - name: Web Browser
     params:
-      description:
+      description: Web Browser
       icon:
         name: journal
         vendor: bs
@@ -423,7 +423,7 @@ main:
   # Design
   - name: Design
     params:
-      description:
+      description: Design
       icon:
         name: journal
         vendor: bs
@@ -468,7 +468,7 @@ main:
   # Styling
   - name: Styling
     params:
-      description:
+      description: Styling
       icon:
         name: journal
         vendor: bs
@@ -510,7 +510,7 @@ main:
   # Code Editor
   - name: Code Editor
     params:
-      description:
+      description: Code Editor
       icon:
         name: journal
         vendor: bs
@@ -525,7 +525,7 @@ main:
   # Infrastructure as Code
   - name: Infrastructure as Code
     params:
-      description:
+      description: Infrastructure as Code
       icon:
         name: journal
         vendor: bs
@@ -540,7 +540,7 @@ main:
   # Container
   - name: Container
     params:
-      description:
+      description: Container
       icon:
         name: journal
         vendor: bs
@@ -555,7 +555,7 @@ main:
   # Management for Infrastructure
   - name: Management for Infrastructure
     params:
-      description:
+      description: Management for Infrastructure
       icon:
         name: journal
         vendor: bs
@@ -567,7 +567,7 @@ main:
   # Data Engineering
   - name: Data Engineering
     params:
-      description:
+      description: Data Engineering
       icon:
         name: journal
         vendor: bs
@@ -582,7 +582,7 @@ main:
   # Data Science
   - name: Data Science
     params:
-      description:
+      description: Data Science
       icon:
         name: journal
         vendor: bs
@@ -594,7 +594,7 @@ main:
   # AI basic
   - name: AI Basic
     params:
-      description:
+      description: AI Basic
       icon:
         name: journal
         vendor: bs
@@ -608,7 +608,7 @@ main:
     weight: 2
   - name: Computer Vision
     params:
-      description:
+      description: Computer Vision
       icon:
         name: journal
         vendor: bs
@@ -623,7 +623,7 @@ main:
   # Machine Learning
   - name: Expert System
     params:
-      description:
+      description: Expert System
       icon:
         name: journal
         vendor: bs
@@ -638,7 +638,7 @@ main:
   # Neural Networks
   - name: Recommender System
     params:
-      description:
+      description: Recommender System
       icon:
         name: journal
         vendor: bs
@@ -653,7 +653,7 @@ main:
   # Speech Recognition
   - name: Speech Recognition
     params:
-      description:
+      description: Speech Recognition
       icon:
         name: journal
         vendor: bs
@@ -668,7 +668,7 @@ main:
   # Natural Language Processing
   - name: Natural Language Processing
     params:
-      description:
+      description: Natural Language Processing(NLP)
       icon:
         name: journal
         vendor: bs

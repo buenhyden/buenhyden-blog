@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: CSS Basic
 description: ""
 linkTitle: CSS Basic
@@ -22,7 +22,7 @@ tags:
   - CSS
   - Frontend
   - CSS Basic
-lastmod: 2023-11-27T01:41:12.272Z
+lastmod: 2023-12-10T03:12:47.098Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

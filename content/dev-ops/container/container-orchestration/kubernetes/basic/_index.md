@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Kubernetes Basic
 description: ""
 linkTitle: Kubernetes Basic
@@ -24,7 +24,7 @@ tags:
   - Dev Ops
   - Kubernetes
   - Kubernetes Basic
-lastmod: 2023-11-27T01:37:48.569Z
+lastmod: 2023-12-10T03:12:46.537Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

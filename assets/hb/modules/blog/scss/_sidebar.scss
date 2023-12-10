@@ -1,0 +1,39 @@
+@if $hb-blog-sidebar {
+    .hb-blog-main-container {
+        @include media-breakpoint-up(lg) {
+            display: grid;
+            grid-gap: 1rem;
+            grid-template-areas: "sidebar main";
+            grid-template-columns: 2fr minmax(0, 5fr);
+        }
+
+        @include media-breakpoint-up(xl) {
+            grid-template-columns: 2fr minmax(0, 7fr);
+        }
+    }
+
+    .hb-blog-sidebar {
+        grid-area: sidebar;
+
+        &::-webkit-scrollbar {
+            width: 2px;
+        }
+
+        @include media-breakpoint-up(lg) {
+            height: calc(100vh - var(--#{$prefix}top-offset));
+            overflow: auto;
+
+            @include top-offset(sticky);
+        }
+
+        .hb-module {
+            &:last-child {
+                margin-bottom: 0 !important;
+            }
+        }
+    }
+
+    .hb-blog-main {
+        grid-area: main;
+    }
+}

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: RESTful API
 date: 2023-10-15T12:46:00+09:00
 description: 두 컴퓨터 시스템이 인터넷을 통해 정보를 안전하게 교환하기 위해 사용하는 인터페이스
@@ -23,7 +23,7 @@ tags:
   - Network
   - REST API
   - Computer Science
-lastmod: 2023-12-08T12:47:00.321Z
+lastmod: 2023-12-10T02:43:35.279Z
 draft: published
 ---
 

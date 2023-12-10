@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Zipkin
 date: 2023-12-07T05:54:29.077Z
 description: null
@@ -26,7 +26,7 @@ tags:
   - Open Tracing
   - tools
   - Zipkin
-lastmod: 2023-12-08T13:08:36.297Z
+lastmod: 2023-12-10T03:12:45.518Z
 draft: published
 ---
 

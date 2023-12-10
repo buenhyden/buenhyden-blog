@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Influx DB
 date: 2023-12-09T06:14:08.284Z
 description: ""
@@ -26,7 +26,9 @@ tags:
   - Time Series
   - InfluxDB
 draft: published
-lastmod: 2023-12-09T07:12:17.745Z
+lastmod: 2023-12-10T04:37:50.882Z
+keywords:
+  - NoSQL
 ---
 
 ## Reference

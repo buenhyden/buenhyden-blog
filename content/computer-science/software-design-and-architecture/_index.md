@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Software Design & Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 소프트웨어를 디자인
@@ -19,7 +19,7 @@ categories:
 tags:
   - Software Design & Architecture
   - Computer Science
-lastmod: 2023-12-08T12:53:56.519Z
+lastmod: 2023-12-10T03:12:47.474Z
 draft: published
 ---
 

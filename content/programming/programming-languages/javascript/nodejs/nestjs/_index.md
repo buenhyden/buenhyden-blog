@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Nest.js
 description: A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 linkTitle: Nest.js
@@ -24,9 +24,15 @@ tags:
   - Programming
   - Programming Language
   - Nest.js
-lastmod: 2023-12-08T13:16:04.489Z
+lastmod: 2023-12-10T04:18:45.589Z
 date: 2023-11-25T01:02:28.607Z
 draft: published
+keywords:
+  - Javascript
+  - NodeJS
+  - Programming Language
+  - NestJS
+slug: nest-js
 ---
 
 ![Nest JS](/programming/nestjs.webp "https://bradbeighton.medium.com/nestjs-the-pros-and-cons-aff714607b07")

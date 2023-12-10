@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: InfluxDB
 date: 2023-11-19T11:11:13.822Z
 description: ""
@@ -25,8 +25,11 @@ tags:
   - Document DBs
   - NoSQL
   - InfluxDB
-lastmod: 2023-12-09T07:11:23.569Z
+lastmod: 2023-12-10T04:38:29.829Z
 draft: published
+keywords:
+  - NoSQL
+  - MongoDB
 ---
 
 ![Mongo DB](/backend/mongodb.png#center "https://rahul319sinha.medium.com/regular-expression-in-mongodb-37f2161d9754")

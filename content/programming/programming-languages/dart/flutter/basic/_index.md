@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Flutter Basic
 description: ""
 linkTitle: Flutter Basic
@@ -22,9 +22,14 @@ tags:
   - Flutter
   - Programming Language
   - Flutter Basic
-lastmod: 2023-11-27T01:43:21.605Z
+lastmod: 2023-12-10T04:08:59.082Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Dart
+  - Programming Language
+  - Flutter
+slug: flutter-basic
 ---
 
 ## Reference

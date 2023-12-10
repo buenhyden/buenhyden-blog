@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Chef
 date: 2023-11-04T12:52:00+09:00
 description: 루비와 얼랭으로 작성된 형상 관리 도구
@@ -26,7 +26,7 @@ tags:
   - Configuration Management
   - Chef
   - tools
-lastmod: 2023-12-08T13:02:56.859Z
+lastmod: 2023-12-10T03:12:46.224Z
 draft: published
 ---
 

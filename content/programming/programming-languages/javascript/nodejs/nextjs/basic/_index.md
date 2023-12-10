@@ -1,5 +1,5 @@
 ---
-type: docs
+type: notes
 title: Next.js Basic
 description: ""
 linkTitle: Next.js Basic
@@ -22,9 +22,15 @@ tags:
   - Next.js
   - Programming Language
   - Next.js Basic
-lastmod: 2023-11-27T01:45:40.366Z
+lastmod: 2023-12-10T04:19:00.054Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
+keywords:
+  - Javascript
+  - NodeJS
+  - Programming Language
+  - NextJS
+slug: js-basic
 ---
 
 ## Reference
