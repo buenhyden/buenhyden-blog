@@ -23,7 +23,7 @@ tags:
   - CI/CD
   - Dev Ops
   - Continuous Deployment(CD)
-lastmod: 2023-12-10T03:12:44.895Z
+lastmod: 2023-12-11T15:29:32.116Z
 draft: published
 ---
 
@@ -35,4 +35,5 @@ draft: published
 [Argo Rollout 을 활용한 배포 전략 테스트](https://devocean.sk.com/search/techBoardDetail.do?ID=163189&boardType=)  
 [［Kubernetes ArgoCD］ Container Deploy 하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163008&boardType=techBlog)  
 [Argo workflow 설치하기](https://devocean.sk.com/search/techBoardDetail.do?ID=163338&boardType=)  
-[GitOps와 ArgoCD](https://coffeewhale.com/kubernetes/gitops/argocd/2020/02/10/gitops-argocd/)
+[GitOps와 ArgoCD](https://coffeewhale.com/kubernetes/gitops/argocd/2020/02/10/gitops-argocd/)  
+[Argo Rollout 을 사용한 블루/그린 배포](https://devocean.sk.com/blog/techBoardDetail.do?ID=165522&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)

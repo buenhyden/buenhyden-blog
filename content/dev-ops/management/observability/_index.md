@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Observability
-lastmod: 2023-12-10T03:12:45.390Z
+lastmod: 2023-12-11T15:31:47.148Z
 draft: published
 ---
 
@@ -33,4 +33,6 @@ draft: published
 [▲ Coroot - MSA를 위한 모니터링 플랫폼](https://news.hada.io/topic?id=7587)  
 [트레이싱 관측 도구 Grafana Tempo로 트레이스를 관측해보자](https://nangman14.tistory.com/69)  
 [옵저버빌리티: 로그라고해서 다 같은 로그가 아니다(1/2)](https://netmarble.engineering/observability-logging-a/)  
-[옵저버빌리티: 로그라고해서 다 같은 로그가 아니다(2/2)](https://netmarble.engineering/observability-logging-b/)
+[옵저버빌리티: 로그라고해서 다 같은 로그가 아니다(2/2)](https://netmarble.engineering/observability-logging-b/)  
+[OpenTelemetry, Grafana, Loki, Tempo, Prometheus를 활용한 Flask Observability 구성하기](https://medium.com/@dudwls96/opentelemetry-grafana-loki-tempo-prometheus%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-flask-observability-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-9efc01495287)  
+[[Loki] Python으로 Loki에 로그 보내는 방법](https://nyyang.tistory.com/177)

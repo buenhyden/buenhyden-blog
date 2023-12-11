@@ -19,7 +19,7 @@ categories:
 tags:
   - QA Engineering
   - Computer Science
-lastmod: 2023-12-10T03:12:47.597Z
+lastmod: 2023-12-11T15:31:01.837Z
 draft: published
 ---
 
@@ -75,4 +75,5 @@ draft: published
 [개발자를 위한 S/W Test 개념 1편 - 소프트웨어 테스트 종류](https://corp.onda.me/post/the-types-of-software-testing)  
 [개발자를 위한 S/W Test 개념 2편 - TDD 핵심과 개발자에게 좋은 테스트의 기준](https://corp.onda.me/post/what-is-test-driven-development-and-good-software-testing-for-devleopers)  
 [테스트는 누구나 할 수 있지만, QA는 준비된 자만이 할 수 있습니다.](https://tech.kakaoenterprise.com/104)  
-[단위 테스트, 도대체 어디까지 작성해야 할까?](https://medium.com/@lette1394/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EB%8C%80%EC%B2%B4-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%91%EC%84%B1%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-a187eb5b1753)
+[단위 테스트, 도대체 어디까지 작성해야 할까?](https://medium.com/@lette1394/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EB%8C%80%EC%B2%B4-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%9E%91%EC%84%B1%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-a187eb5b1753)  
+[Browser Stack 알아가기](https://techblog.gccompany.co.kr/broswer-stack-%EC%95%8C%EC%95%84%EA%B0%80%EA%B8%B0-ec97e09b510d)
