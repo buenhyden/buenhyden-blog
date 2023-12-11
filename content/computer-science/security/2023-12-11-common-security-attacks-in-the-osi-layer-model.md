@@ -6,13 +6,21 @@ layout: ""
 description: ""
 date: 2023-12-10T15:44:24.137Z
 draft: ""
-tags: []
-categories: []
-series: []
+tags:
+  - Computer Science
+  - IT Security
+  - Security Attacks
+categories:
+  - Computer Science
+  - Security Attacks
+  - IT Security
+series:
+  - Computer Science
+  - IT Security
 featured: false
 images: ""
 authors: Hyunyoun Jo
-lastmod: 2023-12-10T15:45:25.992Z
+lastmod: 2023-12-11T01:18:40.378Z
 nav_weight: 0
 nav_icon:
   vendor: bs

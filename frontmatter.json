@@ -280,12 +280,6 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Network] Security",
-      "path": "[[workspace]]/content/computer-science/network/security",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
       "title": "[Network] Application Programming Interface(API)",
       "path": "[[workspace]]/content/computer-science/network/api",
       "excludeSubdir": true,
@@ -366,6 +360,48 @@
     {
       "title": "[QA Engineering] Basic",
       "path": "[[workspace]]/content/computer-science/qa-engineering/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Computer Science] Security",
+      "path": "[[workspace]]/content/computer-science/security",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Computer Science Security] Basic",
+      "path": "[[workspace]]/content/computer-science/security/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Computer Science Security] Keycloak",
+      "path": "[[workspace]]/content/computer-science/security/keycloak",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Computer Science Security] Single Sign On(SSO)",
+      "path": "[[workspace]]/content/computer-science/security/single-sign-on",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Computer Science Security] OAuth",
+      "path": "[[workspace]]/content/computer-science/security/oauth",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Computer Science Security] OIDC",
+      "path": "[[workspace]]/content/computer-science/security/oidc",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Computer Science Security] SAML",
+      "path": "[[workspace]]/content/computer-science/security/saml",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
@@ -868,48 +904,6 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Infrastructure Management] Security",
-      "path": "[[workspace]]/content/dev-ops/management/security",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Infrastructure Management Security] Basic",
-      "path": "[[workspace]]/content/dev-ops/management/security/basic",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Infrastructure Management Security] Keycloak",
-      "path": "[[workspace]]/content/dev-ops/management/security/keycloak",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Infrastructure Management Security] Single Sign On(SSO)",
-      "path": "[[workspace]]/content/dev-ops/management/security/single-sign-on",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Infrastructure Management Security] OAuth",
-      "path": "[[workspace]]/content/dev-ops/management/security/oauth",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Infrastructure Management Security] OIDC",
-      "path": "[[workspace]]/content/dev-ops/management/security/oidc",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Infrastructure Management Security] SAML",
-      "path": "[[workspace]]/content/dev-ops/management/security/saml",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
       "title": "[Content] Frontend",
       "path": "[[workspace]]/content/frontend",
       "excludeSubdir": true,
@@ -1385,6 +1379,7 @@
         "HTMX",
         "HTTP status code",
         "Hugo",
+        "IT Security",
         "Infra as Code",
         "Infrastructure Management",
         "Infrastructure as Code",

@@ -11,19 +11,17 @@ nav_icon:
   color: blue
 featured: true
 series:
-  - Dev Ops
-  - Management for Infrastructure
+  - Computer Science
+  - IT Security
 categories:
-  - Dev Ops
   - IT Security
-  - Management for Infrastructure
   - OIDC
+  - Computer Science
 tags:
-  - Dev Ops
   - IT Security
-  - Management for Infrastructure
   - OIDC
-lastmod: 2023-12-08T13:09:13.508Z
+  - Computer Science
+lastmod: 2023-12-11T01:15:58.560Z
 authors: Hyunyoun Jo
 draft: published
 ---

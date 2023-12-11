@@ -11,20 +11,16 @@ nav_icon:
 featured: true
 series:
   - Computer Science
-  - Dev Ops
+  - IT Security
 categories:
   - Computer Science
-  - Dev Ops
   - IT Security
-  - Management for Infrastructure
   - IT Security Basic
 tags:
   - Computer Science
-  - Dev Ops
   - IT Security
-  - Management for Infrastructure
   - IT Security Basic
-lastmod: 2023-12-10T03:12:45.286Z
+lastmod: 2023-12-11T00:44:46.440Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 ---

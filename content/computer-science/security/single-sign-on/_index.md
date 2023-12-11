@@ -11,20 +11,19 @@ nav_icon:
   color: blue
 featured: true
 series:
-  - Dev Ops
-  - Management for Infrastructure
+  - Computer Science
+  - IT Security
 categories:
-  - Dev Ops
+  - Computer Science
   - IT Security
-  - Management for Infrastructure
-  - Single Sign On
-tags:
-  - Dev Ops
-  - IT Security
-  - Management for Infrastructure
   - Single Sign On
   - SSO
-lastmod: 2023-12-10T03:12:45.337Z
+tags:
+  - IT Security
+  - Single Sign On
+  - SSO
+  - Computer Science
+lastmod: 2023-12-11T01:17:03.260Z
 draft: published
 ---
 

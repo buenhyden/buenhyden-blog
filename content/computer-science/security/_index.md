@@ -11,21 +11,19 @@ nav_icon:
   color: blue
 featured: true
 series:
-  - Dev Ops
-  - Management for Infrastructure
+  - Computer Science
+  - IT Security
 categories:
-  - Dev Ops
-  - Management for Infrastructure
   - IT Security
+  - Computer Science
 tags:
-  - Dev Ops
-  - Management for Infrastructure
   - IT Security
-lastmod: 2023-12-10T03:12:45.248Z
+  - Computer Science
+lastmod: 2023-12-11T01:46:28.670Z
 draft: published
 ---
 
-![IT Security](/dev-ops/it-security.webp#center "https://teamwin.in/index.php/services/security-system/")
+![IT Security](/computer-science/it-security.webp#center "https://teamwin.in/index.php/services/security-system/")
 
 ## Reference
 

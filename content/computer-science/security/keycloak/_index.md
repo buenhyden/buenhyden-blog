@@ -16,17 +16,16 @@ series:
 categories:
   - Dev Ops
   - IT Security
-  - Management for Infrastructure
-  - Single Sign On
   - Keycloak
-tags:
-  - Dev Ops
-  - IT Security
-  - Management for Infrastructure
   - Single Sign On
   - SSO
+tags:
+  - Computer Science
+  - IT Security
   - Keycloak
-lastmod: 2023-12-10T03:12:45.312Z
+  - Single Sign On
+  - SSO
+lastmod: 2023-12-11T00:45:14.650Z
 draft: published
 ---
 

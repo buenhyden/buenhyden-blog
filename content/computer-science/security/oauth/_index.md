@@ -11,20 +11,21 @@ nav_icon:
   color: blue
 featured: true
 series:
-  - Dev Ops
-  - Management for Infrastructure
+  - Computer Science
+  - IT Security
 categories:
-  - Dev Ops
   - IT Security
-  - Management for Infrastructure
-  - SAML
+  - OAuth
+  - Computer Science
 tags:
-  - Dev Ops
   - IT Security
-  - Management for Infrastructure
-  - SAML
-lastmod: 2023-11-25T00:21:18.196Z
+  - OAuth
+  - Computer Science
+lastmod: 2023-12-11T01:15:30.574Z
+authors: Hyunyoun Jo
 draft: published
 ---
 
 ## Reference
+
+[OAuth와 춤을](https://d2.naver.com/helloworld/24942)
