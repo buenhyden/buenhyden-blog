@@ -18,7 +18,7 @@ categories:
 tags:
   - AI
   - Natural Language Processing
-lastmod: 2023-12-10T15:46:38.594Z
+lastmod: 2023-12-12T05:13:06.363Z
 draft: published
 layout: list
 keywords:
@@ -40,4 +40,5 @@ slug: natural-language-processing
 [공개된 GPTs 를 모아놓은 리스트](https://gptdirectory.cc/gpts)  
 [상용 수준의 LLM 애플리케이션을 위한 개발자 가이드 (번역 글)](https://news.hada.io/topic?id=12011)  
 [GN⁺: 임베딩(Embeddings): 그것이 무엇인지와 왜 중요한지](https://news.hada.io/topic?id=11518)  
-[LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)](https://news.hada.io/topic?id=11517)
+[LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)](https://news.hada.io/topic?id=11517)  
+[생성형 AI 시대를 이해하기 위한 필수 용어 사전](https://yozm.wishket.com/magazine/detail/2360/)

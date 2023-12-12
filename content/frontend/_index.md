@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-12-11T15:21:09.503Z
+lastmod: 2023-12-12T05:12:18.405Z
 draft: published
 ---
 
@@ -64,4 +64,5 @@ draft: published
 [CSR 환경에서 Suspense로 발생한 문제 해결하고 성능 개선하기](https://tech.kakaopay.com/post/react-router-dom-csr-prefetch/)  
 [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)  
 [리액트 바깥의 프론트엔드(1) : 리액트 등장부터 애플리케이션 구성](https://yozm.wishket.com/magazine/detail/2357/)  
-[리액트 바깥의 프론트엔드(2) : 리액트 밖 생태계와 도구 선택법](https://yozm.wishket.com/magazine/detail/2358/)
+[리액트 바깥의 프론트엔드(2) : 리액트 밖 생태계와 도구 선택법](https://yozm.wishket.com/magazine/detail/2358/)  
+[SPA란? 웹 개발 트렌드 SPA의 특징부터 구현 방법까지 모두 알려드립니다!](https://www.elancer.co.kr/blog/view?seq=214)
