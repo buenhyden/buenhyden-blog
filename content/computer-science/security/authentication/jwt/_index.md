@@ -1,8 +1,9 @@
 ---
 type: default
-title: IT Security Basic
+title: jwt
+date: 2023-12-13T07:25:06.075Z
 description: ""
-linkTitle: IT Security Basic
+linkTitle: jwt
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -15,14 +16,16 @@ series:
 categories:
   - Computer Science
   - IT Security
-  - IT Security Basic
+  - jwt
+  - Authentication
 tags:
   - Computer Science
   - IT Security
-  - IT Security Basic
-lastmod: 2023-12-13T07:24:07.842Z
-date: 2023-11-26T13:02:12.342Z
+  - jwt
+  - Authentication
+lastmod: 2023-12-13T07:40:04.655Z
 draft: published
+slug: jwt
 ---
 
 ## Reference

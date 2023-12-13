@@ -376,8 +376,51 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Computer Science Security] Keycloak",
-      "path": "[[workspace]]/content/computer-science/security/keycloak",
+      "title": "[Computer Science Security] Authentication",
+      "path": "[[workspace]]/content/computer-science/security/authentication",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Authentication] Authentication Basic",
+      "path": "[[workspace]]/content/computer-science/security/authentication/basic",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Authentication] Basic Auth",
+      "path": "[[workspace]]/content/computer-science/security/authentication/basic-auth",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Authentication] OAuth",
+      "path": "[[workspace]]/content/computer-science/security/authentication/oauth",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Authentication] OIDC",
+      "path": "[[workspace]]/content/computer-science/security/authentication/oidc",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Authentication] SAML",
+      "path": "[[workspace]]/content/computer-science/security/authentication/saml",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Authentication] JWT",
+      "path": "[[workspace]]/content/computer-science/security/authentication/jwt",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+
+    {
+      "title": "[Authentication] Token Auth",
+      "path": "[[workspace]]/content/computer-science/security/authentication/token-auth",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
@@ -388,20 +431,8 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Computer Science Security] OAuth",
-      "path": "[[workspace]]/content/computer-science/security/oauth",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Computer Science Security] OIDC",
-      "path": "[[workspace]]/content/computer-science/security/oidc",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Computer Science Security] SAML",
-      "path": "[[workspace]]/content/computer-science/security/saml",
+      "title": "[Single Sign On(SSO)] Keycloak",
+      "path": "[[workspace]]/content/computer-science/security/single-sign-on/keycloak",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },

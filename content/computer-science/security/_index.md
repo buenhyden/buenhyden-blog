@@ -1,5 +1,5 @@
 ---
-type: notes
+type: default
 title: IT Security
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 및 통신에 관련된 보안
@@ -19,7 +19,7 @@ categories:
 tags:
   - IT Security
   - Computer Science
-lastmod: 2023-12-11T01:46:28.670Z
+lastmod: 2023-12-13T07:25:27.597Z
 draft: published
 ---
 

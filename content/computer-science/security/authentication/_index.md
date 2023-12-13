@@ -1,8 +1,9 @@
 ---
 type: default
-title: IT Security Basic
+title: authentication
+date: 2023-12-13T07:25:06.075Z
 description: ""
-linkTitle: IT Security Basic
+linkTitle: authentication
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -13,16 +14,16 @@ series:
   - Computer Science
   - IT Security
 categories:
+  - Authentication
   - Computer Science
   - IT Security
-  - IT Security Basic
 tags:
+  - Authentication
   - Computer Science
   - IT Security
-  - IT Security Basic
-lastmod: 2023-12-13T07:24:07.842Z
-date: 2023-11-26T13:02:12.342Z
+lastmod: 2023-12-13T07:33:58.471Z
 draft: published
+slug: jwt
 ---
 
 ## Reference

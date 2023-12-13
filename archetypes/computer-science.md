@@ -1,5 +1,5 @@
 ---
-type: docs
+type: default
 title: "{{ replace .Name "-" " " | title }}"
 # linkTitle:
 date: {{ .Date }}

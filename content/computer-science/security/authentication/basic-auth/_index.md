@@ -1,9 +1,9 @@
 ---
 type: default
-title: SAML
-date: 2023-11-25T00:10:18.380Z
+title: basic Auth
+date: 2023-12-13T07:29:19.645Z
 description: ""
-linkTitle: SAML
+linkTitle: basic Auth
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -14,15 +14,18 @@ series:
   - Computer Science
   - IT Security
 categories:
-  - IT Security
-  - SAML
+  - basic Auth
   - Computer Science
+  - IT Security
+  - Authentication
 tags:
-  - IT Security
-  - SAML
+  - basic Auth
   - Computer Science
-lastmod: 2023-12-11T01:16:31.973Z
+  - IT Security
+  - Authentication
+lastmod: 2023-12-13T07:39:47.235Z
 draft: published
+slug: jwt
 ---
 
 ## Reference

@@ -1,5 +1,5 @@
 ---
-type: docs
+type: default
 title: Frontend
 date: 2023-10-15T12:46:00+09:00
 description: 백엔드 API에서 가져온 데이터의 출력, 입력을 통한 비즈니스 로직 구성과 사용자와 대화하는 사용자 인터페이스 부분
@@ -16,7 +16,7 @@ categories:
   - Frontend
 tags:
   - Frontend
-lastmod: 2023-12-12T05:12:18.405Z
+lastmod: 2023-12-13T07:27:29.410Z
 draft: published
 ---
 

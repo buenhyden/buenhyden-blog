@@ -1,6 +1,6 @@
 ---
 title: Statistics
-type: docs
+type: default
 description: 산술적 방법을 기초로 하여, 주로 다량의 데이터를 관찰하고 정리 및 분석하는 방법을 연구하는 수학의 한 분야
 lastmod: 2023-11-13T01:00:30.196Z
 linkTitle: Statistics

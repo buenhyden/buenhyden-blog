@@ -14,18 +14,17 @@ series:
   - Computer Science
   - IT Security
 categories:
-  - IT Security
-  - OAuth
   - Computer Science
+  - IT Security
+  - SAML
+  - Authentication
 tags:
-  - IT Security
-  - OAuth
   - Computer Science
-lastmod: 2023-12-11T01:15:30.574Z
-authors: Hyunyoun Jo
+  - IT Security
+  - SAML
+  - Authentication
+lastmod: 2023-12-13T07:40:36.213Z
 draft: published
 ---
 
 ## Reference
-
-[OAuth와 춤을](https://d2.naver.com/helloworld/24942)

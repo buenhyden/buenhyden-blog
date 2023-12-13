@@ -1,8 +1,9 @@
 ---
 type: default
-title: IT Security Basic
+title: token Auth
+date: 2023-12-13T07:25:06.075Z
 description: ""
-linkTitle: IT Security Basic
+linkTitle: token Auth
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -15,14 +16,16 @@ series:
 categories:
   - Computer Science
   - IT Security
-  - IT Security Basic
+  - token Auth
+  - Authentication
 tags:
   - Computer Science
   - IT Security
-  - IT Security Basic
-lastmod: 2023-12-13T07:24:07.842Z
-date: 2023-11-26T13:02:12.342Z
+  - token Auth
+  - Authentication
+lastmod: 2023-12-13T07:40:45.239Z
 draft: published
+slug: jwt
 ---
 
 ## Reference

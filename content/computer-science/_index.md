@@ -1,5 +1,5 @@
 ---
-type: docs
+type: default
 title: Computer Science
 date: 2023-11-12T13:55:37.829Z
 description: 알고리즘 과정, 계산 기계 그리고 계산 자체에 대한 학문
@@ -16,7 +16,7 @@ categories:
   - Computer Science
 tags:
   - Computer Science
-lastmod: 2023-12-10T03:16:43.577Z
+lastmod: 2023-12-13T07:27:24.656Z
 draft: published
 slug: computer-science
 ---

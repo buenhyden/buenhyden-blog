@@ -23,7 +23,7 @@ tags:
   - Frontend
   - UI
   - UX
-lastmod: 2023-12-11T15:30:29.152Z
+lastmod: 2023-12-13T06:58:26.396Z
 draft: published
 ---
 
@@ -51,3 +51,4 @@ draft: published
 [디자인 생각](https://brunch.co.kr/brunchbook/newdesignthink)  
 [레이아웃에 대한 영감](https://brunch.co.kr/magazine/uilayout)  
 [2024년 웹 디자인 트렌드 8가지](https://www.openads.co.kr/content/contentDetail?contsId=12127)
+[Design Systems Database](https://designsystems.surf/)

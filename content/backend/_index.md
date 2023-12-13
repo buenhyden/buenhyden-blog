@@ -1,5 +1,5 @@
 ---
-type: docs
+type: default
 title: Backend
 date: 2023-10-15T12:46:00+09:00
 description: 프론트엔드에 있는 사용자들이 하고자 하는 행동을 처리하는 것
@@ -15,7 +15,7 @@ categories:
   - Backend
 tags:
   - Backend
-lastmod: 2023-12-10T04:20:16.375Z
+lastmod: 2023-12-13T07:27:21.545Z
 draft: published
 keywords:
   - Backend

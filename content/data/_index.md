@@ -1,5 +1,5 @@
 ---
-type: docs
+type: default
 title: Data
 date: 2023-10-15T12:46:00+09:00
 description: null
@@ -16,7 +16,7 @@ categories:
   - Data
 tags:
   - Data
-lastmod: 2023-12-10T03:16:39.956Z
+lastmod: 2023-12-13T07:27:27.078Z
 draft: published
 ---
 

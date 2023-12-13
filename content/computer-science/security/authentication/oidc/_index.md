@@ -1,8 +1,9 @@
 ---
 type: default
-title: IT Security Basic
+title: OIDC
+date: 2023-11-25T00:10:18.380Z
 description: ""
-linkTitle: IT Security Basic
+linkTitle: OIDC
 nav_weight: 1
 nav_icon:
   vendor: bs
@@ -15,13 +16,15 @@ series:
 categories:
   - Computer Science
   - IT Security
-  - IT Security Basic
+  - OIDC
+  - Authentication
 tags:
   - Computer Science
   - IT Security
-  - IT Security Basic
-lastmod: 2023-12-13T07:24:07.842Z
-date: 2023-11-26T13:02:12.342Z
+  - OIDC
+  - Authentication
+lastmod: 2023-12-13T07:40:26.300Z
+authors: Hyunyoun Jo
 draft: published
 ---
 
