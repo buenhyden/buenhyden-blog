@@ -1,9 +1,9 @@
 ---
 type: notes
-title: Fluentd
+title: Fluentbit
 date: 2023-11-04T12:52:00+09:00
 description: null
-linkTitle: Fluentd
+linkTitle: Fluentbit
 nav_weight: 3
 nav_icon:
   vendor: bs
@@ -16,19 +16,19 @@ series:
   - Tools
 categories:
   - Dev Ops
-  - Fluentd
   - Infrastructure as Code
-  - Log Management
-  - tools
+  - Logging
   - Management for Infrastructure
+  - tools
+  - Fluentbit
 tags:
   - Dev Ops
-  - Fluentd
   - Infrastructure as Code
-  - Log Management
-  - tools
+  - Logging
   - Management for Infrastructure
-lastmod: 2023-12-10T03:12:45.778Z
+  - tools
+  - Fluentbit
+lastmod: 2023-12-15T01:09:33.086Z
 draft: published
 ---
 

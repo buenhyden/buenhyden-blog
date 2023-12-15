@@ -25,7 +25,7 @@ tags:
   - Keycloak
   - Single Sign On
   - SSO
-lastmod: 2023-12-13T07:23:52.991Z
+lastmod: 2023-12-15T01:32:28.005Z
 draft: published
 ---
 
@@ -49,4 +49,5 @@ draft: published
 [Keyclock 구축 및 Opensearch 연동](https://velog.io/@ziggy/Keyclock-%EA%B5%AC%EC%B6%95-%EB%B0%8F-Opensearch-%EC%97%B0%EB%8F%99)  
 [LDAP 애플리케이션 사용자 인증하기, NGINX편](https://nginxstore.com/blog/nginx/ldap-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0-nginx%ED%8E%B8/)  
 [[INFRA] Installation Keycloak of Ubuntu 22.04.01 LTS in Docker Container](https://junyharang.tistory.com/376)  
-[SSO란(by 김정석님)](https://medium.com/twolinecode/sso%EB%9E%80-by-%EA%B9%80%EC%A0%95%EC%84%9D%EB%8B%98-62b5cc0da90d)
+[SSO란(by 김정석님)](https://medium.com/twolinecode/sso%EB%9E%80-by-%EA%B9%80%EC%A0%95%EC%84%9D%EB%8B%98-62b5cc0da90d)  
+[자습서-Keycloak 설치 구성](https://nginxstore.com/blog/keycloak/%EC%9E%90%EC%8A%B5%EC%84%9C-keycloak-%EC%84%A4%EC%B9%98-%EA%B5%AC%EC%84%B1/)

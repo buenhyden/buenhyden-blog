@@ -1,10 +1,10 @@
 ---
 type: notes
-title: Splunk
+title: Fluentd
 date: 2023-11-04T12:52:00+09:00
 description: null
-linkTitle: Splunk
-nav_weight: 9
+linkTitle: Fluentd
+nav_weight: 3
 nav_icon:
   vendor: bs
   name: book
@@ -12,24 +12,26 @@ nav_icon:
 featured: true
 series:
   - Dev Ops
-  - Tools
   - Management for Infrastructure
+  - Tools
 categories:
   - Dev Ops
-  - Log Management
-  - Splunk
-  - tools
+  - Fluentd
+  - Infrastructure as Code
   - Management for Infrastructure
+  - tools
+  - Logging
 tags:
   - Dev Ops
-  - Log Management
-  - Splunk
-  - tools
+  - Fluentd
+  - Infrastructure as Code
   - Management for Infrastructure
-lastmod: 2023-12-10T03:12:45.748Z
+  - tools
+  - Logging
+lastmod: 2023-12-15T00:52:48.270Z
 draft: published
 ---
 
 ## Reference
 
-[Splunk Official Homepage](https://www.splunk.com/)
+[Fluentd Official Homepage](https://www.fluentd.org/)

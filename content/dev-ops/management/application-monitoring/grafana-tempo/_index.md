@@ -1,9 +1,9 @@
 ---
 type: notes
-title: Jaeger
-date: 2023-11-04T12:52:00+09:00
+title: Grafana Tempo
+date: 2023-12-15T00:46:45.279Z
 description: null
-linkTitle: Jaeger
+linkTitle: Grafana Tempo
 nav_weight: 9
 nav_icon:
   vendor: bs
@@ -13,23 +13,21 @@ featured: true
 series:
   - Dev Ops
   - Management for Infrastructure
-  - Tools
 categories:
   - Application Monitoring
   - Dev Ops
-  - Jaeger
   - Management for Infrastructure
-  - tools
+  - Grafana Tempo
 tags:
   - Application Monitoring
   - Dev Ops
-  - Jaeger
   - Management for Infrastructure
-  - tools
-lastmod: 2023-12-10T03:12:45.644Z
+  - Grafana Tempo
+lastmod: 2023-12-15T00:46:47.426Z
 draft: published
+slug: grafana-tempo
 ---
 
 ## Reference
 
-[Jaeger Official Homepage](https://www.jaegertracing.io/)
+[트레이싱 관측 도구 Grafana Tempo로 트레이스를 관측해보자](https://nangman14.tistory.com/69)

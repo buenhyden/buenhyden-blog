@@ -21,7 +21,7 @@ tags:
   - API
   - Network
   - Computer Science
-lastmod: 2023-12-10T04:30:46.787Z
+lastmod: 2023-12-15T05:17:40.795Z
 draft: published
 keywords:
   - Network
@@ -41,4 +41,5 @@ keywords:
 [10 REST API BEST PRACTICES](https://medium.com/javarevisited/10-rest-api-best-practices-cd12e3904d00)  
 [▲ 2024년을 위한 API 트렌드](https://news.hada.io/topic?id=12096)  
 [▲ 2023년 API 프로토콜 현황](https://news.hada.io/topic?id=12179)  
-[Rest API 규칙](https://danyoujeong.tistory.com/210)
+[Rest API 규칙](https://danyoujeong.tistory.com/210)  
+[API란? API의 정의와 종류 그리고 장단점](https://www.hanl.tech/blog/api%eb%9e%80-api%ec%9d%98-%ec%a0%95%ec%9d%98%ec%99%80-%ec%a2%85%eb%a5%98-%ec%9e%a5%eb%8b%a8%ec%a0%90/)

@@ -25,7 +25,7 @@ tags:
   - Version Control
   - Continuous Integration(CI)
   - Git
-lastmod: 2023-12-10T03:12:44.946Z
+lastmod: 2023-12-15T05:20:14.822Z
 draft: published
 ---
 
@@ -43,4 +43,7 @@ draft: published
 [Git 형상관리 잘하는 법](https://news.hada.io/topic?id=11403)  
 [GN⁺: .git 디렉토리안에는 무엇이 있을까?](https://news.hada.io/topic?id=11232)  
 [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)  
-[Git / GitHub 안내서 핵심만 제대로 배우기](https://subicura.com/git/)
+[Git / GitHub 안내서 핵심만 제대로 배우기](https://subicura.com/git/)  
+[Git 기본 정복 실전 연습 – 1편 : 정의와 개념](https://www.hanl.tech/blog/git-%ea%b8%b0%eb%b3%b8-%ec%a0%95%eb%b3%b5-%ec%8b%a4%ec%a0%84-%ec%97%b0%ec%8a%b5-1%ed%8e%b8-%ec%a0%95%ec%9d%98%ec%99%80-%ea%b0%9c%eb%85%90/)  
+[Git 기본 정복 실전 연습 – 2편 : 기본명령어](https://www.hanl.tech/blog/git-%ea%b8%b0%eb%b3%b8-%ec%a0%95%eb%b3%b5-%ec%8b%a4%ec%a0%84-%ec%97%b0%ec%8a%b5-2%ed%8e%b8-%ea%b8%b0%eb%b3%b8%eb%aa%85%eb%a0%b9%ec%96%b4/)  
+[Git 실전 연습 1편 + 2편 개봉!](https://www.hanl.tech/blog/git-%ea%b8%b0%eb%b3%b8-%ec%a0%95%eb%b3%b5-%ec%8b%a4%ec%a0%84-%ec%97%b0%ec%8a%b5-1%ed%8e%b8-2%ed%8e%b8-%ea%b0%9c%eb%b4%89/)

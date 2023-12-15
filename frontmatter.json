@@ -34,14 +34,14 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[NoSQL] Basic",
-      "path": "[[workspace]]/content/backend/databases/nosql/basic",
+      "title": "[Databases] NoSQL",
+      "path": "[[workspace]]/content/backend/databases/nosql",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Databases] NoSQL",
-      "path": "[[workspace]]/content/backend/databases/nosql",
+      "title": "[NoSQL] Basic",
+      "path": "[[workspace]]/content/backend/databases/nosql/basic",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
@@ -94,7 +94,7 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Key Value DBs] redis",
+      "title": "[Key Value DBs] Redis",
       "path": "[[workspace]]/content/backend/databases/nosql/key-value/redis",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
@@ -112,7 +112,7 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Time Series DBs] influx-db",
+      "title": "[Time Series DBs] Influx DB",
       "path": "[[workspace]]/content/backend/databases/nosql/time-series/influx-db",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
@@ -172,7 +172,7 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Message Broker] rabbitMQ",
+      "title": "[Message Broker] RabbitMQ",
       "path": "[[workspace]]/content/backend/message-broker/rabbitmq",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
@@ -216,6 +216,12 @@
     {
       "title": "[Web Server] Nginx",
       "path": "[[workspace]]/content/backend/web-server/nginx",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Web Server] Apache",
+      "path": "[[workspace]]/content/backend/web-server/apache",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
@@ -417,10 +423,15 @@
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
-
     {
       "title": "[Authentication] Token Auth",
       "path": "[[workspace]]/content/computer-science/security/authentication/token-auth",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Authentication] Cookie Based",
+      "path": "[[workspace]]/content/computer-science/security/authentication/cookie-based",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
@@ -815,8 +826,8 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Application Monitoring] Jaeger",
-      "path": "[[workspace]]/content/dev-ops/management/application-monitoring/jaeger",
+      "title": "[Application Monitoring] Grafana Tempo",
+      "path": "[[workspace]]/content/dev-ops/management/application-monitoring/grafana-tempo",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
@@ -869,26 +880,26 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Log Management] Fluentd",
-      "path": "[[workspace]]/content/dev-ops/management/log-management/fluentd",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Log Management] Loki",
-      "path": "[[workspace]]/content/dev-ops/management/log-management/loki",
-      "excludeSubdir": true,
-      "contentTypes": ["notes"]
-    },
-    {
-      "title": "[Log Management] Splunk",
-      "path": "[[workspace]]/content/dev-ops/management/log-management/splunk",
+      "title": "[Log Management] Grafana Loki",
+      "path": "[[workspace]]/content/dev-ops/management/log-management/grafana-loki",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
     {
       "title": "[Infrastructure Management] Logging",
       "path": "[[workspace]]/content/dev-ops/management/logging",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Logging] Fluentd",
+      "path": "[[workspace]]/content/dev-ops/management/logging/fluentd",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Logging] Fluentbit",
+      "path": "[[workspace]]/content/dev-ops/management/logging/fluentbit",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
@@ -907,6 +918,12 @@
     {
       "title": "[Observability] Datadog",
       "path": "[[workspace]]/content/dev-ops/management/observability/datadog",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Observability] Open Telemetry",
+      "path": "[[workspace]]/content/dev-ops/management/observability/open-telemetry",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },
@@ -1157,7 +1174,7 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Typescript] JestJS",
+      "title": "[Javascript] JestJS",
       "path": "[[workspace]]/content/programming/programming-languages/javascript/JestJS",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
@@ -1271,7 +1288,7 @@
       "contentTypes": ["notes"]
     },
     {
-      "title": "[Programming Languages] typescript",
+      "title": "[Programming Languages] Typescript",
       "path": "[[workspace]]/content/programming/programming-languages/typescript",
       "excludeSubdir": true,
       "contentTypes": ["notes"]

@@ -1,9 +1,9 @@
 ---
 type: notes
-title: Loki
+title: Grafana Loki
 date: 2023-11-04T12:52:00+09:00
 description: null
-linkTitle: Loki
+linkTitle: Grafana Loki
 nav_weight: 9
 nav_icon:
   vendor: bs
@@ -18,15 +18,17 @@ categories:
   - Dev Ops
   - Log Management
   - Loki
-  - tools
   - Management for Infrastructure
+  - tools
+  - Grafana Loki
 tags:
   - Dev Ops
   - Log Management
   - Loki
-  - tools
   - Management for Infrastructure
-lastmod: 2023-12-10T03:12:45.721Z
+  - tools
+  - Grafana Loki
+lastmod: 2023-12-15T00:51:02.135Z
 draft: published
 ---
 
