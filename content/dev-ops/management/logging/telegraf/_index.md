@@ -1,10 +1,10 @@
 ---
 type: notes
-title: Fluentd
-date: 2023-11-04T12:52:00+09:00
-description: null
-linkTitle: Fluentd
-nav_weight: 3
+title: Telegraf
+date: 2023-12-17T06:08:21.515Z
+description: ""
+linkTitle: Telegraf
+nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
@@ -13,27 +13,20 @@ featured: true
 series:
   - Dev Ops
   - Management for Infrastructure
-  - Tools
 categories:
   - Dev Ops
-  - Fluentd
-  - Infrastructure as Code
-  - Logging
   - Management for Infrastructure
-  - tools
   - Monitoring System
+  - Telegraf
+  - Logging
 tags:
   - Dev Ops
-  - Fluentd
-  - Infrastructure as Code
-  - Logging
   - Management for Infrastructure
-  - tools
   - Monitoring System
-lastmod: 2023-12-17T06:13:51.064Z
+  - Telegraf
+  - Logging
+lastmod: 2023-12-17T06:13:37.807Z
 draft: published
 ---
 
 ## Reference
-
-[Fluentd Official Homepage](https://www.fluentd.org/)

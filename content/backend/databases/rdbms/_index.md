@@ -21,7 +21,7 @@ tags:
   - Backend
   - Database
   - RDBMS
-lastmod: 2023-12-10T04:39:13.113Z
+lastmod: 2023-12-16T19:13:30.978Z
 draft: published
 keywords:
   - 데이터베이스
@@ -31,4 +31,5 @@ keywords:
 
 ## Reference
 
-[관계형 데이터베이스(RDB)란 무엇인가요?](https://yozm.wishket.com/magazine/detail/675/)
+[관계형 데이터베이스(RDB)란 무엇인가요?](https://yozm.wishket.com/magazine/detail/675/)  
+[비전공자도 이해할수있는 DB와 SQL](https://www.whatap.io/ko/blog/141/index.html)

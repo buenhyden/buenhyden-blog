@@ -18,7 +18,7 @@ categories:
 tags:
   - Backend
   - Database
-lastmod: 2023-12-10T04:29:37.671Z
+lastmod: 2023-12-17T05:25:35.493Z
 draft: published
 keywords:
   - 데이터베이스
@@ -45,4 +45,7 @@ keywords:
 
 ## Reference
 
-[11 Database Optimization Techniques](https://danielfoo.medium.com/11-database-optimization-techniques-97fdbed1b627)
+[11 Database Optimization Techniques](https://danielfoo.medium.com/11-database-optimization-techniques-97fdbed1b627)  
+[RDBMS와 NoSQL의 차이](https://www.whatap.io/ko/blog/173/index.html)  
+[데이터베이스 확장 방식, 클러스터링과 리플리케이션의 차이점](https://www.whatap.io/ko/blog/172/index.html)  
+[DB도 형상관리를 해보자!](https://meetup.nhncloud.com/posts/173)

@@ -154,6 +154,12 @@
       "contentTypes": ["notes"]
     },
     {
+      "title": "[Databases] Vector Database Management System(VDBMS)",
+      "path": "[[workspace]]/content/backend/databases/vdbms",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
       "title": "[Backend] Message Broker",
       "path": "[[workspace]]/content/backend/message-broker",
       "excludeSubdir": true,
@@ -900,6 +906,18 @@
     {
       "title": "[Logging] Fluentbit",
       "path": "[[workspace]]/content/dev-ops/management/logging/fluentbit",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Logging] Telegraf",
+      "path": "[[workspace]]/content/dev-ops/management/logging/telegraf",
+      "excludeSubdir": true,
+      "contentTypes": ["notes"]
+    },
+    {
+      "title": "[Logging] Promtail",
+      "path": "[[workspace]]/content/dev-ops/management/logging/promtail",
       "excludeSubdir": true,
       "contentTypes": ["notes"]
     },

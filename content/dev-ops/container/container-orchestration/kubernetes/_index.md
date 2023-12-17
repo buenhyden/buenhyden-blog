@@ -24,7 +24,7 @@ tags:
   - Container
   - Container Orchestration(CO)
   - Kubernetes
-lastmod: 2023-12-10T03:12:46.483Z
+lastmod: 2023-12-17T05:52:52.118Z
 draft: published
 ---
 
@@ -89,4 +89,8 @@ draft: published
 [Kubernetes Scheduler 설명](https://devocean.sk.com/experts/techBoardDetail.do?ID=163909&boardType=experts)  
 [[Kubernetes] ConfigMap / Secret: config 정보를 container 외부에서](https://ooeunz.tistory.com/128)  
 [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager](https://tech.kakao.com/2021/03/03/network-node-manager/)  
-[[번역] 쿠버네티스에서 쉽게 저지르는 10가지 실수](https://coffeewhale.com/kubernetes/mistake/2020/11/29/mistake-10/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
+[[번역] 쿠버네티스에서 쉽게 저지르는 10가지 실수](https://coffeewhale.com/kubernetes/mistake/2020/11/29/mistake-10/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)  
+[Kubernetes 아키텍처 구성해보기](https://www.whatap.io/ko/blog/183/index.html)  
+[쿠버네티스의 등장 배경과 주요 특징](https://www.whatap.io/ko/blog/142/index.html)  
+[모니터링 관점에서의 쿠버네티스 주요 지표](https://www.whatap.io/ko/blog/132/index.html)  
+[Kubernetes](https://zerobig-k8s.tistory.com/category/Kubernetes)

@@ -19,7 +19,7 @@ categories:
 tags:
   - Backend
   - Web Server
-lastmod: 2023-12-10T04:27:25.011Z
+lastmod: 2023-12-16T19:16:42.507Z
 draft: published
 keywords:
   - Web Server
@@ -29,4 +29,5 @@ keywords:
 
 ## Reference
 
-[웹 서버와 WAS(Web Application Server)](https://yozm.wishket.com/magazine/detail/1780/)
+[웹 서버와 WAS(Web Application Server)](https://yozm.wishket.com/magazine/detail/1780/)  
+[Apache, Nginx 웹서버 모니터링 (Telegraf, WhaTap)](https://www.whatap.io/ko/blog/43/index.html)

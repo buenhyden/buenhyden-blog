@@ -21,7 +21,7 @@ tags:
   - Network
   - Protocol
   - Computer Science
-lastmod: 2023-12-10T15:07:25.926Z
+lastmod: 2023-12-16T19:12:09.321Z
 draft: published
 ---
 
@@ -29,4 +29,5 @@ draft: published
 
 ## Reference
 
-[인터넷 프로토콜](https://velog.io/@dkdjsema9808/%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
+[인터넷 프로토콜](https://velog.io/@dkdjsema9808/%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)  
+[네트워크 통신에 필수적인 프로토콜 이해하기](https://www.whatap.io/ko/blog/160/index.html)

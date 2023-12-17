@@ -21,7 +21,7 @@ tags:
   - Kotlin
   - Programming Language
   - Programming
-lastmod: 2023-12-10T04:09:51.177Z
+lastmod: 2023-12-17T05:35:04.387Z
 date: 2023-11-11T14:03:12.053Z
 draft: published
 keywords:
@@ -41,4 +41,5 @@ slug: kotlin
 ## Reference
 
 [Kotlin Official Homepage](https://kotlinlang.org/)  
-[Java 개발자의 Kotlin 기본 문법 정복기](https://velog.io/@joshuara7235/Java-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-Kotlin-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-%EA%B8%B0%EB%B3%B8%EA%B8%B0)
+[Java 개발자의 Kotlin 기본 문법 정복기](https://velog.io/@joshuara7235/Java-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-Kotlin-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-%EA%B8%B0%EB%B3%B8%EA%B8%B0)  
+[Kotlin: 초보 앱 개발자를 위한 단계별 가이드](https://appmaster.io/ko/blog/kotlin-dangyebyeol-gaideu)

@@ -24,7 +24,7 @@ tags:
   - Message Broker
   - tools
   - Kafka
-lastmod: 2023-12-10T04:28:55.068Z
+lastmod: 2023-12-17T06:31:15.364Z
 draft: published
 keywords:
   - Message Broker
@@ -58,4 +58,12 @@ keywords:
 [Kafka 기본 개념 (토픽, 파티션, 성능, 고가용성, 프로듀서, 컨슈머) 출처: https://sjh836.tistory.com/186 [빨간색코딩:티스토리]](https://sjh836.tistory.com/186)  
 [Airbnb의 이벤트 로그 처리](https://brunch.co.kr/@sonjoosik/3)  
 [Kafka와 MongoDB, Kubernetes로 유연하고 확장 가능한 LINE 쇼핑 플랫폼 구축하기](https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes)  
-[회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835/)
+[회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835/)  
+[[Kafka KRU] 2023 스터디 후기 및 커스텀 카프카 커넥터 만들기](https://devocean.sk.com/search/techBoardDetail.do?ID=165493&boardType=)  
+[[Kafka KRU] 2023 스터디 후기 및 카프카 성능 관련 이야기](https://devocean.sk.com/search/techBoardDetail.do?ID=165500&boardType=)  
+[[Kafka KRU] Consumer 내부 동작 원리와 구현](https://devocean.sk.com/blog/techBoardDetail.do?ID=165478&boardType=tags)  
+[ksqlDB를 활용한 CDC (Change Data Capture) 효과 내기](https://devocean.sk.com/blog/techBoardDetail.do?ID=164794&boardType=tags)  
+[pub/sub 기능을 활용하여 로컬 캐시 동기화하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=164373&boardType=tags)  
+[kafkaAdminClient API를 이용한 kafka Managing 서비스 개발](https://devocean.sk.com/blog/techBoardDetail.do?ID=164372&boardType=tags)  
+[카오스 엔지니어링 한스푼 추가한 Kafka MM2 성능 테스트!](https://devocean.sk.com/blog/techBoardDetail.do?ID=164371&boardType=tags)  
+[kcat(kafkacat) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163970&boardType=tags)

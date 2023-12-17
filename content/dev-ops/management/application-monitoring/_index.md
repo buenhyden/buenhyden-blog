@@ -21,10 +21,10 @@ tags:
   - Application Monitoring
   - Dev Ops
   - Management for Infrastructure
-lastmod: 2023-12-15T00:45:44.740Z
+lastmod: 2023-12-16T19:17:53.973Z
 draft: published
 ---
 
 ## Reference
 
-[오픈텔레메트리란 무엇일까요?](https://jennifersoft.com/ko/blog/tech/opentelemetry/)
+[APM에 대한 진지한 설명](https://www.whatap.io/ko/blog/19/index.html)

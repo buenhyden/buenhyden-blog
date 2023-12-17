@@ -19,7 +19,7 @@ categories:
 tags:
   - Programming Basics
   - Programming
-lastmod: 2023-12-10T04:07:52.454Z
+lastmod: 2023-12-16T19:11:27.144Z
 draft: published
 keywords:
   - Programming
@@ -32,4 +32,5 @@ slug: programming-basics
 [최고의 오픈 소스 개발 도구 Top 8](https://yozm.wishket.com/magazine/detail/1569/)  
 [빠른 웹 사이트를 만들기 위해 알면 좋은 '세 가지 원리'](https://yozm.wishket.com/magazine/detail/1705/)  
 [프로그래밍 용어 '멱등성(Idempotent)' 알아보기](https://yozm.wishket.com/magazine/detail/2106/)  
-[개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/)
+[개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/)  
+[멀티 스레드 프로그래밍 #1](https://www.whatap.io/ko/blog/164/index.html)

@@ -16,7 +16,7 @@ categories:
   - Dev Ops
 tags:
   - Dev Ops
-lastmod: 2023-12-13T07:27:28.298Z
+lastmod: 2023-12-16T19:20:35.068Z
 draft: published
 ---
 
@@ -44,4 +44,5 @@ draft: published
 [데브옵스(DevOps)의 최고기법 7가지, 대공개!](https://yozm.wishket.com/magazine/detail/246/)  
 [소프트웨어로 100% 자동화된 ‘데브옵스(DevOps)’ 구축하기](https://www.lgcns.com/blog/cns-tech/cloud/42845/)  
 [DevOps 기능](https://cloud.google.com/architecture/devops?hl=ko)  
-[DevOps 안내서 넓고 얕은 DevOps 도입기](https://subicura.com/devops/)
+[DevOps 안내서 넓고 얕은 DevOps 도입기](https://subicura.com/devops/)  
+[스타트업을 위한 최상의 데브옵스는 노옵스!](https://www.whatap.io/ko/blog/4/index.html)

@@ -20,7 +20,7 @@ categories:
 tags:
   - Dev Ops
   - Container
-lastmod: 2023-12-10T03:12:46.271Z
+lastmod: 2023-12-16T19:14:22.228Z
 draft: published
 ---
 
@@ -28,4 +28,5 @@ draft: published
 
 ## Reference
 
-[10분만에 이해하는 컨테이너 네트워크](https://devocean.sk.com/blog/techBoardDetail.do?ID=163803&boardType=techBlog)
+[10분만에 이해하는 컨테이너 네트워크](https://devocean.sk.com/blog/techBoardDetail.do?ID=163803&boardType=techBlog)  
+[컨테이너(Container) 이해하기](https://www.whatap.io/ko/blog/127/index.html)

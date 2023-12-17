@@ -25,7 +25,7 @@ tags:
   - Document DBs
   - NoSQL
   - InfluxDB
-lastmod: 2023-12-10T04:38:29.829Z
+lastmod: 2023-12-17T05:27:47.147Z
 draft: published
 keywords:
   - NoSQL
@@ -44,4 +44,7 @@ keywords:
 
 [MongoDB Official Homepage](https://www.mongodb.com/ko-kr)  
 [MongoDB index 개념과 indexing 전략](https://ryu-e.tistory.com/1)  
-[MongoDB 이해하기](https://kciter.so/posts/about-mongodb)
+[MongoDB 이해하기](https://kciter.so/posts/about-mongodb)  
+[mongoDB Story 1: mongoDB 정의와 NoSQL](https://meetup.nhncloud.com/posts/274)  
+[mongoDB Story 2: mongoDB 특징과 구성요소](https://meetup.nhncloud.com/posts/275)  
+[mongoDB Story 3: mongoDB 데이터 모델링](https://meetup.nhncloud.com/posts/276)

@@ -25,7 +25,7 @@ tags:
   - HTTP status code
   - HTTPS
   - Network
-lastmod: 2023-12-10T02:44:36.269Z
+lastmod: 2023-12-16T19:08:15.805Z
 draft: published
 ---
 
@@ -41,3 +41,4 @@ draft: published
 ## Reference
 
 [HTTP status Code](https://developer.mozilla.org/ko/docs/Web/HTTP/Status)
+[HTTP 상태 코드 정리](https://www.whatap.io/ko/blog/40/index.html)

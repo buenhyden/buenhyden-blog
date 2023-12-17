@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Observability
-lastmod: 2023-12-14T00:48:36.911Z
+lastmod: 2023-12-16T19:15:02.976Z
 draft: published
 ---
 
@@ -36,4 +36,6 @@ draft: published
 [옵저버빌리티: 로그라고해서 다 같은 로그가 아니다(2/2)](https://netmarble.engineering/observability-logging-b/)  
 [OpenTelemetry, Grafana, Loki, Tempo, Prometheus를 활용한 Flask Observability 구성하기](https://medium.com/@dudwls96/opentelemetry-grafana-loki-tempo-prometheus%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-flask-observability-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-9efc01495287)  
 [[Loki] Python으로 Loki에 로그 보내는 방법](https://nyyang.tistory.com/177)  
-[Grafana Monitoring 스택 LGTM 구성기 (Loki, Mimir, Tempo)](https://nyyang.tistory.com/175)
+[Grafana Monitoring 스택 LGTM 구성기 (Loki, Mimir, Tempo)](https://nyyang.tistory.com/175)  
+[모니터링에서 옵저버빌리티까지, IT 모니터링의 진화](https://www.whatap.io/ko/blog/184/index.html)  
+[Observability 톺아보기](https://www.whatap.io/ko/blog/103/index.html)

@@ -21,7 +21,7 @@ tags:
   - Dev Ops
   - Management for Infrastructure
   - Monitoring System
-lastmod: 2023-12-10T03:12:45.568Z
+lastmod: 2023-12-16T19:21:16.677Z
 draft: published
 ---
 
@@ -39,4 +39,12 @@ draft: published
 [KHP 모니터링과 알림 – 1부](https://tech.kakao.com/2022/12/19/khp-monitoring-and-alarm-1st/)  
 [KHP 모니터링과 알림 – 2부](https://tech.kakao.com/2022/12/19/khp-monitoring-and-alarm-2nd/)  
 [prometheus와 grafana를 이용한 통합모니터링 체계 구축](https://happycloud-lee.tistory.com/203)  
-[grafana와 prometheus로 모니터링 시스템 구축하기](https://solo5star.tistory.com/19)
+[grafana와 prometheus로 모니터링 시스템 구축하기](https://solo5star.tistory.com/19)  
+[비동기 애플리케이션 모니터링하는 방법](https://www.whatap.io/ko/blog/190/index.html)  
+[리눅스 서버 모니터링의 원리](https://www.whatap.io/ko/blog/137/index.html)  
+[데브옵스 엔지니어에게 모니터링이 중요한 이유](https://www.whatap.io/ko/blog/124/index.html)  
+[모니터링을 하는 이유와 모니터링을 하는 올바른 접근 방법](https://www.whatap.io/ko/blog/99/index.html)  
+[모니터링에서 주목해야 할 지표](https://www.whatap.io/ko/blog/94/index.html)  
+[IT 서비스 모니터링의 A TO Z](https://www.whatap.io/ko/blog/70/index.html)  
+[모니터링을 알지 못하는 사람을 위한 서버에서 무조건 체크해야 하는 핵심 모니터링 지표](https://www.whatap.io/ko/blog/6/index.html)  
+[스타트업이 서버 모니터링을 해야 하는 5가지 이유](https://www.whatap.io/ko/blog/5/index.html)

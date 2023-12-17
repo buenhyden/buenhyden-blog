@@ -1,10 +1,10 @@
 ---
 type: notes
-title: Fluentbit
-date: 2023-11-04T12:52:00+09:00
-description: null
-linkTitle: Fluentbit
-nav_weight: 3
+title: Promtail
+date: 2023-12-17T06:08:21.515Z
+description: ""
+linkTitle: Promtail
+nav_weight: 2
 nav_icon:
   vendor: bs
   name: book
@@ -13,27 +13,20 @@ featured: true
 series:
   - Dev Ops
   - Management for Infrastructure
-  - Tools
 categories:
   - Dev Ops
-  - Fluentbit
-  - Infrastructure as Code
   - Logging
   - Management for Infrastructure
-  - tools
+  - Promtail
   - Monitoring System
 tags:
   - Dev Ops
-  - Fluentbit
-  - Infrastructure as Code
   - Logging
   - Management for Infrastructure
-  - tools
+  - Promtail
   - Monitoring System
-lastmod: 2023-12-17T06:14:06.819Z
+lastmod: 2023-12-17T06:13:24.218Z
 draft: published
 ---
 
 ## Reference
-
-[Fluentd Official Homepage](https://www.fluentd.org/)
