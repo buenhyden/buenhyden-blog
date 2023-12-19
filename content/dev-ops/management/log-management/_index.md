@@ -2,7 +2,7 @@
 type: notes
 title: Log Management
 date: 2023-11-04T12:52:00+09:00
-description: null
+description:
 linkTitle: Log Management
 nav_weight: 9
 nav_icon:
@@ -23,6 +23,8 @@ tags:
   - Management for Infrastructure
 lastmod: 2023-12-10T03:12:45.694Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ## Reference

@@ -21,6 +21,8 @@ nav_icon:
   color: blue
 keywords:
   - Memory Size
+created: 2023-11-27T09:29
+updated: 2023-12-11T09:30
 ---
 
 ![Memory Size](/notes/memory-sizes-to-yotta.png?width=512px "https://cryptosmith.com/2013/10/18/memory-sizes-kilo-mega-giga-tera-peta-exa/")

@@ -30,6 +30,8 @@ tags:
 lastmod: 2023-12-09T06:20:32.939Z
 draft: published
 linkTitle: Git 설정하기
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Git Status](/dev-ops/git-init.jpg "https://medium.com/@nmpegetis/git-how-to-start-code-changes-commit-and-push-changes-when-working-in-a-team-dbc6da3cd34c")

@@ -18,6 +18,8 @@ tags:
   - Dev Ops
 lastmod: 2023-12-16T19:20:35.068Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-18T09:26
 ---
 
 ![Dev Ops](/dev-ops/devops.png?width=512px#center "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4")

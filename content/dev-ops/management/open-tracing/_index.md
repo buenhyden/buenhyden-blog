@@ -2,7 +2,7 @@
 type: notes
 title: Open Tracing
 date: 2023-12-07T05:53:49.042Z
-description: null
+description:
 linkTitle: Open Tracing
 nav_weight: 9
 nav_icon:
@@ -24,6 +24,8 @@ tags:
   - Open Tracing
 lastmod: 2023-12-15T01:15:33.753Z
 draft: published
+created: 2023-12-07T14:46
+updated: 2023-12-15T10:15
 ---
 
 ## Reference

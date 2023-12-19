@@ -21,6 +21,8 @@ tags:
   - Computer Science
 lastmod: 2023-12-10T03:12:47.299Z
 draft: published
+created: 2023-11-13T09:44
+updated: 2023-12-11T09:30
 ---
 
 ![System Design Master](/computer-science/system-design-master.webp#center "https://medium.com/gitconnected/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b")

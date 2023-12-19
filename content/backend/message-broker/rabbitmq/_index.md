@@ -29,6 +29,8 @@ draft: published
 keywords:
   - RabbitMQ
   - Message Broker
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![RabbitMQ](/backend/rabbitmq.png#center "https://stackoverflow.com/questions/63545249/rabbitmq-queue-per-message-type-vs-queue-per-destination")

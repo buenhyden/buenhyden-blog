@@ -30,6 +30,8 @@ keywords:
   - Javascript
   - Programming Language
   - VueJS
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Vue JS](/programming/vue-js.png#center "https://beginnersoftwaredeveloper.com/how-do-i-pass-data-from-one-view-to-another-view-in-vue/")

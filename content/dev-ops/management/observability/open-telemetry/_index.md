@@ -2,7 +2,7 @@
 type: notes
 title: Open Telemetry
 date: 2023-11-04T12:52:00+09:00
-description: null
+description:
 linkTitle: Open Telemetry
 nav_weight: 9
 nav_icon:
@@ -28,6 +28,8 @@ tags:
   - Observability
 lastmod: 2023-12-16T19:17:49.065Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-18T09:26
 ---
 
 ## Reference

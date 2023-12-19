@@ -29,6 +29,8 @@ draft: published
 keywords:
   - Search Engine
   - Elasticsearch
+created: 2023-11-08T09:25
+updated: 2023-12-14T09:46
 ---
 
 ![ELK](/backend/elk.jpg#center "https://www.linkedin.com/posts/anezkahonke_brazil-softwaredevelopers-softwareengineer-activity-6937760892772077568-QfQd?trk=public_profile")

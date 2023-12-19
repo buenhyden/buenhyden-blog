@@ -30,6 +30,8 @@ keywords:
   - Programming Language
   - Angular
 slug: angular
+created: 2023-11-16T16:19
+updated: 2023-12-11T09:30
 ---
 
 ![Angular](/programming/angular.webp)

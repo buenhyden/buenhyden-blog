@@ -23,6 +23,8 @@ lastmod: 2023-12-10T04:28:27.328Z
 draft: published
 keywords:
   - Message Broker
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Diagram Message Broker](/backend/diagram-message-broker.png "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%8B%9C%EC%A7%80_%EB%B8%8C%EB%A1%9C%EC%BB%A4")

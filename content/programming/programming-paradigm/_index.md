@@ -25,6 +25,8 @@ images: []
 keywords:
   - Programming Paradigm
 slug: programming-paradigm
+created: 2023-11-13T09:44
+updated: 2023-12-11T09:30
 ---
 
 ![Programming Paradigm](/programming/prg-paradigms.png#center "https://commons.wikimedia.org/wiki/Category:Programming_language_by_paradigm?uselang=ko")

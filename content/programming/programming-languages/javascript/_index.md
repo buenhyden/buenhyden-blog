@@ -27,6 +27,8 @@ keywords:
   - Programming Language
   - Javascript
 slug: javascript
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Javascript](/programming/javascript_badge.svg.png#center "https://commons.wikimedia.org/wiki/File:Javascript_badge.svg")

@@ -2,7 +2,7 @@
 type: notes
 title: Network Basic
 date: 2023-11-26T11:31:59.748Z
-description: null
+description:
 linkTitle: Network Basic
 nav_weight: 1
 nav_icon:
@@ -27,4 +27,6 @@ lastmod: 2023-12-10T15:04:53.085Z
 draft: published
 keywords:
   - Network
+created: 2023-11-27T09:29
+updated: 2023-12-11T09:30
 ---

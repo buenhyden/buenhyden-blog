@@ -28,6 +28,8 @@ tags:
 lastmod: 2023-12-13T07:39:33.484Z
 draft: published
 slug: jwt
+created: 2023-12-14T09:46
+updated: 2023-12-14T09:46
 ---
 
 ## Reference

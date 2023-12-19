@@ -29,6 +29,8 @@ featured: true
 authors: Hyunyoun Jo
 lastmod: 2023-12-09T06:18:01.690Z
 draft: published
+created: 2023-11-27T09:29
+updated: 2023-12-11T09:30
 ---
 
 ![Linux Permissions](/computer-science/linux-permissions.jpg#center "https://medium.com/@usamashafique00786/day-4-task-linux-permissions-and-access-control-lists-ef59cebf9324")

@@ -23,6 +23,8 @@ lastmod: 2023-12-16T19:16:42.507Z
 draft: published
 keywords:
   - Web Server
+created: 2023-11-08T09:25
+updated: 2023-12-18T09:26
 ---
 
 ![Web Server](/backend/web-server.webp#center "https://www.exabytes.my/blog/web-server-vs-application-server/")

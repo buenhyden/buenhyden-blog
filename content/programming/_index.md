@@ -19,6 +19,8 @@ draft: published
 keywords:
   - Programming
 slug: programming
+created: 2023-11-06T09:37
+updated: 2023-12-14T09:46
 ---
 
 ## Lecture

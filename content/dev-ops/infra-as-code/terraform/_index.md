@@ -28,6 +28,8 @@ tags:
   - tools
 lastmod: 2023-12-10T03:12:46.125Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Terraform](/dev-ops/what-is-terraform.webp "https://www.scaler.com/topics/aws/terraform-aws/")

@@ -30,6 +30,8 @@ keywords:
   - Programming Language
   - VueJS
 slug: vue-js-basic
+created: 2023-11-27T09:29
+updated: 2023-12-11T09:30
 ---
 
 ## Reference

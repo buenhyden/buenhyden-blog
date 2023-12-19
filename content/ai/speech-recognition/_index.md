@@ -25,6 +25,8 @@ keywords:
   - AI
   - Speech Recognition
 slug: speech-recognition
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ## Reference

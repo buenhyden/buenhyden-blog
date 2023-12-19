@@ -10,7 +10,7 @@ nav_icon:
   name: book
   color: blue
 featured: true
-images: null
+images:
 series:
   - Container
   - Dev Ops
@@ -24,6 +24,8 @@ tags:
   - Docker
 lastmod: 2023-12-10T03:12:46.565Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Docker](/dev-ops/docker.png?width=512px#center "https://developer.nvidia.com/ko-kr/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EB%B0%8F-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%97%90%EC%84%9C-nvidia-nsight-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/")

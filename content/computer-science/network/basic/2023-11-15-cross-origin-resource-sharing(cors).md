@@ -27,6 +27,8 @@ featured: false
 images: ""
 authors: Hyunyoun Jo
 draft: in progress
+created: 2023-11-27T09:29
+updated: 2023-12-11T09:30
 ---
 
 ![CORS](/computer-science/cors.png?width=1024px#center "https://securityzines.com/flyers/cors.html")

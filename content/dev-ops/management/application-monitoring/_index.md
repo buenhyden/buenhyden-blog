@@ -2,7 +2,7 @@
 type: notes
 title: Application Monitoring
 date: 2023-11-04T12:52:00+09:00
-description: null
+description:
 linkTitle: Application Monitoring
 nav_weight: 9
 nav_icon:
@@ -23,6 +23,8 @@ tags:
   - Management for Infrastructure
 lastmod: 2023-12-16T19:17:53.973Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-18T09:26
 ---
 
 ## Reference

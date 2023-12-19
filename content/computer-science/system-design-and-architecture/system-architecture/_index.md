@@ -23,6 +23,8 @@ tags:
   - Computer Science
 lastmod: 2023-12-10T03:12:47.347Z
 draft: published
+created: 2023-11-13T09:44
+updated: 2023-12-11T09:30
 ---
 
 ![Enterprise System Architecture](/computer-science/Enterprise-system-architecture-1.png#center "https://blogs.sw.siemens.com/thought-leadership/2018/11/26/future-ready-framework-for-enterprise-system-architecture/")

@@ -2,7 +2,7 @@
 type: notes
 title: Grafana Tempo
 date: 2023-12-15T00:46:45.279Z
-description: null
+description:
 linkTitle: Grafana Tempo
 nav_weight: 9
 nav_icon:
@@ -26,6 +26,8 @@ tags:
 lastmod: 2023-12-15T00:46:47.426Z
 draft: published
 slug: grafana-tempo
+created: 2023-12-15T09:45
+updated: 2023-12-15T09:46
 ---
 
 ## Reference

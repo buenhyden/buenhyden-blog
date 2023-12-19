@@ -24,6 +24,8 @@ draft: published
 keywords:
   - Programming Language
 slug: programming-languages
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Programming Language](/programming/programming-language.webp#center "https://www.computerhope.com/issues/ch000569.htm")

@@ -27,6 +27,8 @@ nav_icon:
   name: book
   color: blue
 draft: in progress
+created: 2023-11-13T09:44
+updated: 2023-12-11T09:30
 ---
 
 ![Web Socket](/computer-science/web-socket.png#center "https://blog.stackademic.com/api-101-introduction-imp-of-api-paradigms-8d8e0e463f96")

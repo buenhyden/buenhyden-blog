@@ -28,6 +28,8 @@ keywords:
   - Image Recognition
   - Computer Vision
 slug: image-recognition
+created: 2023-12-11T09:30
+updated: 2023-12-11T09:30
 ---
 
 ## Reference

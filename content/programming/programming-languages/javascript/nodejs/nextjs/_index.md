@@ -33,6 +33,8 @@ keywords:
   - Programming Language
   - NextJS
 slug: js
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Next JS](/programming/next-js.png#center "https://velog.io/@bang04/NextJS-%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC")

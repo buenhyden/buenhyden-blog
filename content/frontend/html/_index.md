@@ -20,6 +20,8 @@ tags:
   - HTML
 lastmod: 2023-12-10T03:12:46.869Z
 draft: published
+created: 2023-11-06T09:37
+updated: 2023-12-11T09:30
 ---
 
 ![HTML Page Structure](/frontend/html-page-structure.png#center "https://www.linkedin.com/pulse/html-basic-tanvir-hossain")

@@ -23,6 +23,8 @@ tags:
   - Monitoring System
 lastmod: 2023-12-16T19:21:16.677Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-18T09:26
 ---
 
 ![Monitoring](/dev-ops/types-it-monitoring.png#center "https://www.bmc.com/blogs/it-monitoring/")

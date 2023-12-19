@@ -2,7 +2,7 @@
 type: notes
 title: Customizing Git
 date: 2023-10-31T12:46:00+09:00
-description: null
+description:
 linkTitle: Customizing Git
 nav_weight: 10
 nav_icon:
@@ -27,6 +27,8 @@ tags:
   - Git
 lastmod: 2023-12-10T03:12:44.971Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ## Reference

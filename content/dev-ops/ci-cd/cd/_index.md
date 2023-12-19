@@ -23,6 +23,8 @@ tags:
   - Continuous Deployment(CD)
 lastmod: 2023-12-10T03:12:44.795Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![CD](/dev-ops/cd.png?width=512px#center "https://medium.com/buildpiper/continuous-delivery-vs-continuous-deployment-6f8d6fdf92d8")

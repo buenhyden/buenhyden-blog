@@ -27,6 +27,8 @@ tags:
   - Network
 lastmod: 2023-12-16T19:08:15.805Z
 draft: published
+created: 2023-12-11T09:30
+updated: 2023-12-18T09:26
 ---
 
 ![HTTP Status Code](/computer-science/http-status-code.webp "https://octaviocode.medium.com/http-status-code-2a5622ea52a4")

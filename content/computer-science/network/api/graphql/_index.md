@@ -25,6 +25,8 @@ tags:
   - Computer Science
 lastmod: 2023-12-10T02:43:30.194Z
 draft: published
+created: 2023-11-13T09:44
+updated: 2023-12-11T09:30
 ---
 
 ![What is GraphQL](/computer-science/what-is-graphql.png#center "https://medium.com/javarevisited/do-you-know-about-graphql-the-query-language-for-api-s-4038660865be")

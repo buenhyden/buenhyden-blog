@@ -2,7 +2,7 @@
 type: notes
 title: Fluentd
 date: 2023-11-04T12:52:00+09:00
-description: null
+description:
 linkTitle: Fluentd
 nav_weight: 3
 nav_icon:
@@ -32,6 +32,8 @@ tags:
   - Monitoring System
 lastmod: 2023-12-17T06:13:51.064Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-18T09:26
 ---
 
 ## Reference

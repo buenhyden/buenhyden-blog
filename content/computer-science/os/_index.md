@@ -24,6 +24,8 @@ tags:
   - OS
 lastmod: 2023-12-10T02:45:42.944Z
 draft: published
+created: 2023-11-13T09:44
+updated: 2023-12-11T09:30
 ---
 
 ![OS](/computer-science/os.png#center "https://www.facebook.com/111349887407960/posts/what-is-an-operating-system-definitionan-operating-system-is-a-program-that-acts/147503810459234/")

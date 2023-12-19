@@ -20,6 +20,8 @@ draft: published
 keywords:
   - statistics
 slug: statistics
+created: 2023-11-13T09:45
+updated: 2023-12-14T09:46
 ---
 
 ## Lecture

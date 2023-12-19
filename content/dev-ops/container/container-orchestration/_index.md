@@ -10,7 +10,7 @@ nav_icon:
   name: book
   color: blue
 featured: true
-images: null
+images:
 series:
   - Container
   - Dev Ops
@@ -24,6 +24,8 @@ tags:
   - Container Orchestration(CO)
 lastmod: 2023-12-10T03:12:46.345Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Center Orchestration](/dev-ops/automation-with-container-orchestration.png#center "https://devpress.csdn.net/cicd/62f4229bc6770329307f9728.html")

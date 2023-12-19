@@ -23,6 +23,8 @@ draft: published
 keywords:
   - 데이터베이스
   - Databases
+created: 2023-11-08T09:25
+updated: 2023-12-18T09:26
 ---
 
 ## 데이터베이스는

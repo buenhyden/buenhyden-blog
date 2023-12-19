@@ -2,7 +2,7 @@
 type: notes
 title: Nagios
 date: 2023-11-04T12:52:00+09:00
-description: null
+description:
 linkTitle: Nagios
 nav_weight: 6
 nav_icon:
@@ -28,6 +28,8 @@ tags:
   - tools
 lastmod: 2023-12-10T03:12:45.832Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ## Reference

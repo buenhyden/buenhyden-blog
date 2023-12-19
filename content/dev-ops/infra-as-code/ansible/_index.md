@@ -29,6 +29,8 @@ tags:
 lastmod: 2023-12-10T03:12:46.023Z
 authors: Hyunyoun Jo
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![Ansible](/dev-ops/0_4TFAqKIJIuldtG9X.webp "https://medium.com/@itsinil/ansible-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%90%EB%8F%99%ED%99%94-82376d4b9ca3")

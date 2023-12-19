@@ -26,6 +26,8 @@ tags:
   - Kubernetes
 lastmod: 2023-12-17T05:52:52.118Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-18T09:26
 ---
 
 ![Kubernetes](/dev-ops/kubernetes.png#center "https://kubernetes.io/ko/docs/concepts/overview/components/")

@@ -2,7 +2,7 @@
 type: notes
 title: CI & CD
 date: 2023-10-15T12:46:00+09:00
-description: null
+description:
 linkTitle: CI & CD
 nav_weight: 1
 nav_icon:
@@ -21,6 +21,8 @@ tags:
   - CI/CD
 lastmod: 2023-12-10T03:12:44.769Z
 draft: published
+created: 2023-11-08T09:25
+updated: 2023-12-11T09:30
 ---
 
 ![CI & CD2](/dev-ops/ci-cd2.png?width=512px#center "https://www.geeksforgeeks.org/ci-cd-continuous-integration-and-continuous-delivery/")
