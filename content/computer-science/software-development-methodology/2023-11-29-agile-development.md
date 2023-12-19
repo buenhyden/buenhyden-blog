@@ -25,8 +25,6 @@ tags:
   - Agile Development
 lastmod: 2023-12-09T06:18:56.495Z
 draft: in progress
-created: 2023-11-29T09:30
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

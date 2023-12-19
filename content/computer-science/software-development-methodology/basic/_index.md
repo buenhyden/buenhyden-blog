@@ -23,8 +23,6 @@ tags:
   - Software Development Methodology Basic
 lastmod: 2023-12-10T03:12:47.424Z
 draft: in progress
-created: 2023-11-29T09:30
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

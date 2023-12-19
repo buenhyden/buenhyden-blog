@@ -18,8 +18,6 @@ tags:
   - Frontend
 lastmod: 2023-12-13T07:27:29.410Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-14T09:46
 ---
 
 ## Web Application

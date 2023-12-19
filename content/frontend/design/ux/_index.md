@@ -23,8 +23,6 @@ tags:
   - UX
 lastmod: 2023-12-10T03:12:46.768Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 - UX : USER EXPERIENCE

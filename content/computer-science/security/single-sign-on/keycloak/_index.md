@@ -27,8 +27,6 @@ tags:
   - SSO
 lastmod: 2023-12-17T03:07:04.471Z
 draft: published
-created: 2023-12-14T09:46
-updated: 2023-12-18T09:26
 ---
 
 ## Reference

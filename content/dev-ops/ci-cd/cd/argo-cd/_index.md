@@ -25,8 +25,6 @@ tags:
   - Continuous Deployment(CD)
 lastmod: 2023-12-11T15:29:32.116Z
 draft: published
-created: 2023-11-27T09:29
-updated: 2023-12-12T09:40
 ---
 
 ## Reference

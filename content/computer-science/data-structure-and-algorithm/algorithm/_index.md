@@ -23,8 +23,6 @@ tags:
   - Computer Science
 lastmod: 2023-12-10T02:42:32.345Z
 draft: published
-created: 2023-11-13T09:44
-updated: 2023-12-11T09:30
 ---
 
 ![Data algorithms](/computer-science/Taxonomy-of-the-algorithms.png#center "https://www.researchgate.net/figure/Taxonomy-of-the-algorithms-and-data-structures-considered-for-the-AlgoVis-tool_fig1_329481179")

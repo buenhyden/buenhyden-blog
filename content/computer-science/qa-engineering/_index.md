@@ -21,8 +21,6 @@ tags:
   - Computer Science
 lastmod: 2023-12-16T19:16:15.775Z
 draft: published
-created: 2023-11-13T09:44
-updated: 2023-12-18T09:26
 ---
 
 ## Quality Assurance (QA)

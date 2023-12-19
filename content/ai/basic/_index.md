@@ -16,18 +16,16 @@ categories:
   - AI Basic
 tags:
   - AI
-  - AI
-  - Basic
+  - AI Basic
 lastmod: 2023-12-10T15:46:19.794Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 slug: ai-basic
-images: /ai/ml-algorithms.webp
+images:
+  - /ai/ml-algorithms.webp
 layout: list
 keywords:
   - AI
-created: 2023-11-27T09:29
-updated: 2023-12-19T10:34
 ---
 
 ![Machine Learning](/ai/ml-algorithms.webp "https://johnvastola.medium.com/10-must-know-machine-learning-algorithms-for-data-scientists-adbf3272398a")

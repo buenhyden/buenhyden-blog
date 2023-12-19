@@ -26,8 +26,6 @@ draft: published
 keywords:
   - Programming Language
   - Go
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ![Go Lang](/programming/go-lang.png#center "https://medium.com/@jayant99acharya/building-a-robust-event-delivery-system-with-go-and-redis-1c18525f1fe6")

@@ -30,8 +30,6 @@ draft: published
 keywords:
   - NoSQL
   - MongoDB
-created: 2023-11-08T09:25
-updated: 2023-12-18T09:26
 ---
 
 ![Mongo DB](/backend/mongodb.png#center "https://rahul319sinha.medium.com/regular-expression-in-mongodb-37f2161d9754")

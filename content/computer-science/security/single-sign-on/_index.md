@@ -25,8 +25,6 @@ tags:
   - Computer Science
 lastmod: 2023-12-13T07:24:23.598Z
 draft: published
-created: 2023-11-27T09:29
-updated: 2023-12-14T09:46
 ---
 
 ## Reference

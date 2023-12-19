@@ -23,8 +23,6 @@ tags:
   - Software Design Patterns
 lastmod: 2023-12-10T03:12:47.521Z
 draft: published
-created: 2023-11-21T09:52
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

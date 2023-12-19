@@ -26,8 +26,6 @@ lastmod: 2023-12-10T04:39:36.674Z
 draft: published
 keywords:
   - RDBMS
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ![MySQL DB](/backend/mysql.png#center "https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png")

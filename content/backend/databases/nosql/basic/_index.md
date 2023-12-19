@@ -27,8 +27,6 @@ tags:
 lastmod: 2023-12-10T02:40:18.535Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
-created: 2023-11-27T13:47
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

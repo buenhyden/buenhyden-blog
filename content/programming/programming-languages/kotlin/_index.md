@@ -28,8 +28,6 @@ keywords:
   - Programming Language
   - Kotlin
 slug: kotlin
-created: 2023-11-13T09:44
-updated: 2023-12-18T09:26
 ---
 
 ![Kotlin](/programming/kotlin.png "http://kotlin.kr/")

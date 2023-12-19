@@ -23,8 +23,6 @@ tags:
   - Computer Science
 lastmod: 2023-12-17T03:06:13.866Z
 draft: published
-created: 2023-11-13T09:44
-updated: 2023-12-18T09:26
 ---
 
 ![Software Architecture](/computer-science/software-architecture.webp#center "https://herbertograca.com/tag/explicit-architecture/")

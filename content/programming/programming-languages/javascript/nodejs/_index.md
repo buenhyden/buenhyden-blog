@@ -30,8 +30,6 @@ keywords:
   - Programming Language
   - NodeJS
 slug: node-js
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ![Node JS](/programming/node-js.png#center "https://zdnet.co.kr/view/?no=20220421181628")

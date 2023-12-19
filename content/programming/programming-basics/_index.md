@@ -2,7 +2,7 @@
 type: notes
 title: Programming Basics
 date: 2023-11-16T01:10:03.126Z
-description:
+description: null
 linkTitle: Programming Basics
 nav_weight: 2
 nav_icon:
@@ -24,8 +24,6 @@ draft: published
 keywords:
   - Programming
 slug: programming-basics
-created: 2023-11-08T09:25
-updated: 2023-12-18T09:26
 ---
 
 ## Reference

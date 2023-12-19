@@ -27,8 +27,6 @@ keywords:
   - Programming Language
   - Typescript
 slug: typescript
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ![TypeScript](/programming/typescript.webp#center "https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k")

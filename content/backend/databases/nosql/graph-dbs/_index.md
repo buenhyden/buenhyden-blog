@@ -27,8 +27,6 @@ lastmod: 2023-12-17T06:32:59.909Z
 draft: published
 keywords:
   - NoSQL
-created: 2023-11-08T09:25
-updated: 2023-12-18T09:26
 ---
 
 ## Reference

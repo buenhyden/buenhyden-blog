@@ -27,8 +27,6 @@ tags:
   - Git
 lastmod: 2023-12-15T05:20:14.822Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-15T14:20
 ---
 
 ## Git Version 관리

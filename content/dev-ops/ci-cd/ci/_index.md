@@ -23,8 +23,6 @@ tags:
   - Continuous Integration(CI)
 lastmod: 2023-12-10T03:12:44.921Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ![CI](/dev-ops/ci.png?width=512px#center "https://www.pagerduty.com/resources/learn/what-is-continuous-integration/")

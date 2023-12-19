@@ -2,7 +2,7 @@
 type: notes
 title: OpenSearch
 date: 2023-10-31T07:46:00+09:00
-description:
+description: null
 linkTitle: OpenSearch
 nav_weight: 2
 nav_icon:
@@ -29,8 +29,6 @@ draft: published
 keywords:
   - Search Engine
   - Opensearch
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

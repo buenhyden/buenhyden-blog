@@ -21,8 +21,6 @@ tags:
   - Progressive Web App
 lastmod: 2023-12-10T03:12:47.174Z
 draft: published
-created: 2023-11-16T15:58
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

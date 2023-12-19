@@ -27,8 +27,6 @@ featured: false
 images: ""
 authors: Hyunyoun Jo
 draft: in progress
-created: 2023-11-27T09:29
-updated: 2023-12-18T09:26
 ---
 
 ## Reference

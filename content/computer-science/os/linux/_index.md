@@ -24,8 +24,6 @@ tags:
   - Computer Science
 lastmod: 2023-12-16T19:18:30.112Z
 draft: published
-created: 2023-11-13T09:44
-updated: 2023-12-18T09:26
 ---
 
 ![Linux](/computer-science/linux.webp#center "https://steamcommunity.com/sharedfiles/filedetails/?l=koreana&id=1553640761")

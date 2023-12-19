@@ -25,8 +25,6 @@ tags:
   - Computer Science
 lastmod: 2023-12-18T05:06:45.173Z
 draft: published
-created: 2023-11-13T09:44
-updated: 2023-12-18T14:06
 ---
 
 ![What is Rest API](/computer-science/what-is-rest-api.png#center "https://mannhowie.com/rest-api")

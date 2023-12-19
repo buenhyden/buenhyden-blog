@@ -23,8 +23,6 @@ tags:
   - Styled-component
 lastmod: 2023-12-10T03:12:47.122Z
 draft: published
-created: 2023-11-14T10:03
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

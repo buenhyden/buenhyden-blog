@@ -2,7 +2,7 @@
 type: notes
 title: Git의 기초
 date: 2023-10-31T12:46:00+09:00
-description:
+description: null
 linkTitle: Git의 기초
 nav_weight: 4
 nav_icon:
@@ -27,8 +27,6 @@ tags:
   - Git
 lastmod: 2023-12-10T03:12:45.174Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

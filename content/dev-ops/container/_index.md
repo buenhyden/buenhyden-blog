@@ -10,7 +10,7 @@ nav_icon:
   name: book
   color: blue
 featured: true
-images:
+images: null
 series:
   - Dev Ops
   - Container
@@ -22,8 +22,6 @@ tags:
   - Container
 lastmod: 2023-12-16T19:14:22.228Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-18T09:26
 ---
 
 ![Container Strategy](/dev-ops/container-strategy.jpg#center "https://www.nextbigfuture.com/2019/09/what-is-a-container-in-information-technology-and-how-is-it-useful.html")

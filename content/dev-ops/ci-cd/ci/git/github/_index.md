@@ -2,7 +2,7 @@
 type: notes
 title: Github
 date: 2023-10-31T12:46:00+09:00
-description:
+description: null
 linkTitle: Github
 nav_weight: 8
 nav_icon:
@@ -27,8 +27,6 @@ tags:
   - Git
 lastmod: 2023-12-10T03:12:45.095Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ## Lecture

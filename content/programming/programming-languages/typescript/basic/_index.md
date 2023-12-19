@@ -27,8 +27,6 @@ keywords:
   - Programming Language
   - Typescript
 slug: typescript-basic
-created: 2023-11-27T09:29
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

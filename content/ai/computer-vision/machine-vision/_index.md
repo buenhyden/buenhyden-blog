@@ -27,8 +27,6 @@ keywords:
   - Computer Vision
   - Machine Vision
 slug: machine-vision
-created: 2023-12-11T09:30
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

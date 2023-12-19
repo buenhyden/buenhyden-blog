@@ -27,8 +27,6 @@ lastmod: 2023-12-10T04:39:31.480Z
 draft: published
 keywords:
   - RDBMS
-created: 2023-11-09T16:44
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

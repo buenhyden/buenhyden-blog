@@ -25,8 +25,6 @@ keywords:
   - AI
   - Computer Vision
 slug: computer-vision
-created: 2023-12-11T09:30
-updated: 2023-12-11T09:30
 ---
 
 ## Lecture

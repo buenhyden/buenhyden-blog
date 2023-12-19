@@ -28,8 +28,6 @@ nav_icon:
   name: book
   color: blue
 draft: in progress
-created: 2023-12-11T09:30
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

@@ -25,8 +25,6 @@ tags:
   - Computer Science
 lastmod: 2023-12-10T02:43:44.540Z
 draft: published
-created: 2023-11-13T09:44
-updated: 2023-12-11T09:30
 ---
 
 ![Components of SOAP message](/computer-science/the_components_of_a_soap_message-f.png#center "https://www.mindk.com/blog/api-development-explained/")

@@ -2,7 +2,7 @@
 type: notes
 title: Apollo
 date: 2023-11-05T08:25:00+09:00
-description:
+description: null
 linkTitle: Apollo
 nav_weight: 1
 nav_icon:
@@ -30,8 +30,6 @@ tags:
   - tools
 lastmod: 2023-12-10T02:43:26.574Z
 draft: published
-created: 2023-11-13T09:44
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

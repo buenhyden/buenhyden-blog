@@ -29,8 +29,6 @@ draft: published
 keywords:
   - Message Broker
   - Kafka
-created: 2023-11-08T09:25
-updated: 2023-12-18T09:26
 ---
 
 ![Kafka](/backend/kafka.png#center "https://www.uber.com/en-ZA/blog/ureplicator-apache-kafka-replicator/")

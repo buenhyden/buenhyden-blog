@@ -25,8 +25,6 @@ lastmod: 2023-12-16T19:13:30.978Z
 draft: published
 keywords:
   - 데이터베이스
-created: 2023-11-08T09:25
-updated: 2023-12-18T09:26
 ---
 
 ![RDBMS](/backend/rdbms.png#center "https://en.m.wikipedia.org/wiki/File:RDBMS_structure.png")

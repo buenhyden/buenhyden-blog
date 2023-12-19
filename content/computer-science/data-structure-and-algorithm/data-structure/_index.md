@@ -22,8 +22,6 @@ tags:
   - Computer Science
 lastmod: 2023-12-10T02:42:36.898Z
 draft: published
-created: 2023-11-13T09:44
-updated: 2023-12-11T09:30
 ---
 
 ![Data Structures](/computer-science/data-structures.png#center "https://www.linkedin.com/pulse/data-structure-smriti-saini")

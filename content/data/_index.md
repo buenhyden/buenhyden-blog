@@ -2,7 +2,7 @@
 type: default
 title: Data
 date: 2023-10-15T12:46:00+09:00
-description:
+description: null
 linkTitle: Data
 nav_weight: 12
 nav_icon:
@@ -18,8 +18,6 @@ tags:
   - Data
 lastmod: 2023-12-13T07:27:27.078Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-14T09:46
 ---
 
 ## Reference

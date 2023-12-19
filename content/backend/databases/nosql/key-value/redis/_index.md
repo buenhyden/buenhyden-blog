@@ -30,8 +30,6 @@ draft: published
 keywords:
   - NoSQL
   - Redis
-created: 2023-11-13T09:44
-updated: 2023-12-18T09:26
 ---
 
 ## Reference

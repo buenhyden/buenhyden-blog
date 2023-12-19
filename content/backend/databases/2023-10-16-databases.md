@@ -24,8 +24,6 @@ draft: published
 keywords:
   - Databases
   - 데이터베이스
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ![Database Types](/backend/database-types.png "https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev")

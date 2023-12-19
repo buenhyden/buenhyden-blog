@@ -30,8 +30,6 @@ draft: published
 keywords:
   - NoSQL
   - Cassandra
-created: 2023-11-20T09:33
-updated: 2023-12-18T09:26
 ---
 
 ## Reference

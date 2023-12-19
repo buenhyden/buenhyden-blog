@@ -2,7 +2,7 @@
 type: notes
 title: Data Pipeline
 date: 2023-10-22T03:46:00+09:00
-description:
+description: null
 linkTitle: Data Pipeline
 nav_weight: 10
 nav_icon:
@@ -23,8 +23,6 @@ lastmod: 2023-12-10T04:40:10.293Z
 draft: in progress
 keywords:
   - Data Pipeline
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ## Stages in Data Processing Pipeline

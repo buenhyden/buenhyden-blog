@@ -27,8 +27,6 @@ keywords:
   - Programming Language
   - Java
 slug: java
-created: 2023-11-13T09:44
-updated: 2023-12-11T09:30
 ---
 
 ## Lecture

@@ -23,8 +23,6 @@ tags:
   - Information Engineering Development
 lastmod: 2023-12-09T06:19:05.298Z
 draft: in progress
-created: 2023-11-29T09:30
-updated: 2023-12-11T09:30
 ---
 
 ## Reference

@@ -21,8 +21,6 @@ tags:
   - Web Browser
 lastmod: 2023-12-12T05:10:53.811Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-12T14:10
 ---
 
 ![Web Browser](/frontend/web-browser.webp#center "https://idealcomputer.biz/best-types-of-computer-software/")

@@ -23,8 +23,6 @@ tags:
   - Logging
 lastmod: 2023-12-17T06:09:21.797Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-18T09:26
 ---
 
 ![Data Logging](/dev-ops/data-logging.png#center "https://www.motadata.com/blog/what-is-data-logging/")

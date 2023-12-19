@@ -22,8 +22,6 @@ layout: list
 keywords:
   - AI
 slug: ai
-created: 2023-11-08T09:25
-updated: 2023-12-14T09:46
 ---
 
 ![What is Artificial Intelligence](/ai/what-is-artificial-intelligence-infographic.width-880.webp#center "https://www.fool.com/terms/a/artificial-intelligence/")

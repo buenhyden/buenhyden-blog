@@ -28,8 +28,6 @@ keywords:
   - Github Pages
   - hugo
   - Dev Blog
-created: 2023-12-11T09:30
-updated: 2023-12-11T09:30
 ---
 
 ## Prerequisites

@@ -21,8 +21,6 @@ tags:
   - Computer Science
 lastmod: 2023-12-10T03:12:47.474Z
 draft: published
-created: 2023-11-13T09:44
-updated: 2023-12-11T09:30
 ---
 
 ## 하나 이상의 서비스 구현을 추상화 하는 API

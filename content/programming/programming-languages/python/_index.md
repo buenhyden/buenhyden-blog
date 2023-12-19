@@ -26,8 +26,6 @@ keywords:
   - Programming Language
   - Python
 slug: python
-created: 2023-11-08T09:25
-updated: 2023-12-11T09:30
 ---
 
 ![Python](/programming/python.png#center "https://bootcamp.mapsahr.com/wp-content/uploads/2021/09/Python-Symbol-scaled.jpg")

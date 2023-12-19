@@ -4,8 +4,6 @@ nav_icon:
   vendor: bs
   name: house
   color: blue
-created: 2023-11-06T09:37
-updated: 2023-12-11T09:30
 ---
 
 기억보다는 기록을!\

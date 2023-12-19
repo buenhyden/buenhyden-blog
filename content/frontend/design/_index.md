@@ -2,7 +2,7 @@
 type: notes
 title: Design
 date: 2023-10-15T12:46:00+09:00
-description:
+description: null
 linkTitle: Design
 nav_weight: 2
 nav_icon:
@@ -25,8 +25,6 @@ tags:
   - UX
 lastmod: 2023-12-13T06:58:26.396Z
 draft: published
-created: 2023-11-08T09:25
-updated: 2023-12-14T09:46
 ---
 
 ![UI&UX](/frontend/ui-ux.jpg#center "https://medium.com/@sumaiya-journal/the-fundamentals-of-ui-and-ux-design-189d61821069")

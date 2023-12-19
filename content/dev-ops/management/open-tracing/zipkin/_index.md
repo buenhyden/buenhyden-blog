@@ -2,7 +2,7 @@
 type: notes
 title: Zipkin
 date: 2023-12-07T05:54:29.077Z
-description:
+description: null
 linkTitle: Zipkin
 nav_weight: 9
 nav_icon:
@@ -28,8 +28,6 @@ tags:
   - Zipkin
 lastmod: 2023-12-10T03:12:45.518Z
 draft: published
-created: 2023-12-07T14:46
-updated: 2023-12-11T09:30
 ---
 
 ## Reference
