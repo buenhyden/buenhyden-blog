@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa0ad9fcc7181358",
+        "id": "c23cf93cfb76e8f6",
         "type": "tabs",
         "children": [
           {
-            "id": "572f701d550a4205",
+            "id": "6356cccb4950ab48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/MonthlyPlannerTemplates.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/MonthlyPlannerTemplates.md",
+                "file": "_templates/WeeklyPlannerTemplates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/MonthlyPlannerTemplates.md",
+                "file": "_templates/WeeklyPlannerTemplates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/MonthlyPlannerTemplates.md"
+                "file": "_templates/WeeklyPlannerTemplates.md"
               }
             }
           },
@@ -178,53 +174,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "572f701d550a4205",
+  "active": "71847d266da8c521",
   "lastOpenFiles": [
-    "_templates/DailyPlannerTemplates.md",
-    "_templates/WeeklyPlannerTemplates.md",
-    "_templates/MonthlyPlannerTemplates.md",
-    "content/2021-Weekly Review.md",
-    "_templates/VisionTemplates.md",
-    "content/ai/basic/_index.md",
-    "content/2023-12-20.md",
-    "content/diary/2023-12-20.md",
-    "content/diary/yearly",
-    "content/diary/monthly",
-    "content/diary/weekly",
-    "content/diary/daily",
-    "content/Vision Board.md",
-    "_templates/RetrospectTemplates.md",
-    "static/dev-ops/what-is-terraform.webp",
-    "static/dev-ops/types-it-monitoring.png",
-    "static/dev-ops/responsibilities-of-an-infrastructure-manager.png",
-    "static/dev-ops/puppet_platform.webp",
-    "static/dev-ops/portainer-3.png",
-    "static/dev-ops/portainer-2.png",
-    "static/dev-ops/portainer-1.png",
-    "static/dev-ops/login-page-harbor.png",
-    "static/dev-ops/local-vcs.png",
-    "static/dev-ops/kubernetes.png",
-    "static/dev-ops",
-    "static/computer-science",
-    "static/backend",
-    "static/content/programming",
-    "static/content/notes",
-    "static/content/frontend",
-    "_templates/ReadingNotesTemplates.md",
-    "_templates/ReadingRecordNoteTemplates.md",
-    "_templates/ProjectManagementTemplates.md",
-    "_templates/NotesTemplates.md",
-    "templates/visionTemplates 1.md",
-    "archetypes/statistics.md",
-    "archetypes/programming.md",
-    "archetypes/notes.md",
-    "archetypes/gallery.md",
-    "archetypes/frontend.md",
-    "archetypes/diary.md",
-    "archetypes/dev-ops.md",
-    "archetypes/data.md",
-    "archetypes/computer-science.md",
-    "archetypes/blog.md",
-    "archetypes/backend.md"
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Typewriter-Regular.woff",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Typewriter-Regular.woff2",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Typewriter-Regular.ttf",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size4-Regular.woff2",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size4-Regular.woff",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size4-Regular.ttf",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size3-Regular.woff2",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size3-Regular.woff",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size3-Regular.ttf",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size2-Regular.woff2",
+    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size2-Regular.woff",
+    "themes/hugo-theme-bootstrap/static/images/none.png",
+    "themes/hbstack-theme/images/tn.png",
+    "themes/hbstack-theme/images/screenshot.png",
+    "themes/hbstack-theme/content/gallery/textures/index.zh-hans.md",
+    "themes/hbstack-theme/content/gallery/textures/index.md",
+    "themes/hbstack-theme/content/gallery/textures/20230106000000.jpg",
+    "themes/hbstack-theme/content/gallery/textures/20230105000000.jpg",
+    "themes/hbstack-theme/content/gallery/textures/20230104000000.jpg",
+    "themes/hbstack-theme/content/gallery/textures/20230103000000.jpg",
+    "themes/hbstack-theme/content/gallery/textures/20230102000000.jpg",
+    "themes/hbstack-theme/content/gallery/textures/20230101000000-feature.jpg",
+    "themes/hbstack-theme/content/docs/installation/linux/ubuntu/feature.png",
+    "themes/hbstack-theme/content/docs/installation/linux/ubuntu/index.zh-hans.md",
+    "themes/hbstack-theme/content/docs/installation/linux/ubuntu/index.md",
+    "themes/hbstack-theme/content/docs/installation/linux/archlinux/index.zh-hans.md",
+    "themes/hbstack-theme/content/docs/installation/linux/archlinux/index.md",
+    "themes/hbstack-theme/content/docs/installation/windows/index.zh-hans.md",
+    "themes/hbstack-theme/content/docs/installation/windows/index.md",
+    "themes/hbstack-theme/content/docs/installation/linux/_index.zh-hans.md",
+    "themes/hbstack-theme/content/docs/installation/linux/_index.md",
+    "themes/hbstack-theme/content/archives/2021/12/_index.zh-hans.md",
+    "themes/hbstack-theme/content/archives/2021/12/_index.md",
+    "themes/hbstack-theme/content/archives/2021/11/_index.zh-hans.md",
+    "themes/hbstack-theme/content/archives/2021/11/_index.md",
+    "themes/hbstack-theme/content/archives/2021/10/_index.zh-hans.md",
+    "themes/hbstack-theme/content/archives/2021/09/_index.zh-hans.md",
+    "themes/hbstack-theme/content/archives/2021/10/_index.md",
+    "themes/hbstack-theme/content/archives/2021/09/_index.md",
+    "themes/hbstack-theme/content/archives/2021/08/_index.zh-hans.md",
+    "themes/hbstack-theme/content/archives/2021/07/_index.zh-hans.md",
+    "themes/hbstack-theme/content/archives/2021/07/_index.md",
+    "themes/hbstack-theme/content/archives/2021/08/_index.md",
+    "themes/hbstack-theme/content/archives/2021/06/_index.zh-hans.md",
+    "themes/hbstack-theme/content/archives/2021/06/_index.md",
+    "themes/hbstack-theme/content/archives/2021/05/_index.zh-hans.md"
   ]
 }

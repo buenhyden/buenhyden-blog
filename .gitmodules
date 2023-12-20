@@ -1,9 +1,12 @@
 [submodule "themes/hugo-theme-bootstrap"]
 	path = themes/hugo-theme-bootstrap
-	url = https://github.com/razonyang/hugo-theme-bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap.git	
 [submodule "themes/hbstack-theme"]
 	path = themes/hbstack-theme
-	url = https://github.com/hbstack/theme
+	url = https://github.com/hbstack/theme.git	
 [submodule "public"]
 	path = public
 	url = https://github.com/buenhyden/buenhyden.github.io.git
+[submodule "themes/hugo-blox-builder"]
+	path = themes/hugo-blox-builder
+	url = https://github.com/HugoBlox/hugo-blox-builder.git

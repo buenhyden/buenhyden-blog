@@ -1,9 +1,15 @@
 ---
+banner: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2790&q=80"
+---
+
+---
+
 banner: https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2790&q=80
 banner_x: 0.5
 banner_y: 0.05
 banner_icon: 📚
 cssClasses: row-alt, table-small, col-lines, row-lines
+
 ---
 
 # 독서

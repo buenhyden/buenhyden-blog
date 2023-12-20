@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "MonthlyPlannerTemplates",
-      "path": "_templates/MonthlyPlannerTemplates.md"
-    },
-    {
-      "basename": "DailyPlannerTemplates",
-      "path": "_templates/DailyPlannerTemplates.md"
-    },
-    {
       "basename": "WeeklyPlannerTemplates",
       "path": "_templates/WeeklyPlannerTemplates.md"
     },
@@ -17,20 +9,8 @@
       "path": "_templates/VisionTemplates.md"
     },
     {
-      "basename": "_index",
-      "path": "content/ai/basic/_index.md"
-    },
-    {
       "basename": "RetrospectTemplates",
       "path": "_templates/RetrospectTemplates.md"
-    },
-    {
-      "basename": "ReadingNotesTemplates",
-      "path": "_templates/ReadingNotesTemplates.md"
-    },
-    {
-      "basename": "ReadingRecordNoteTemplates",
-      "path": "_templates/ReadingRecordNoteTemplates.md"
     },
     {
       "basename": "ProjectManagementTemplates",
@@ -39,6 +19,26 @@
     {
       "basename": "NotesTemplates",
       "path": "_templates/NotesTemplates.md"
+    },
+    {
+      "basename": "ReadingNotesTemplates",
+      "path": "_templates/ReadingNotesTemplates.md"
+    },
+    {
+      "basename": "MonthlyPlannerTemplates",
+      "path": "_templates/MonthlyPlannerTemplates.md"
+    },
+    {
+      "basename": "DailyPlannerTemplates",
+      "path": "_templates/DailyPlannerTemplates.md"
+    },
+    {
+      "basename": "ReadingRecordNoteTemplates",
+      "path": "_templates/ReadingRecordNoteTemplates.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/basic/_index.md"
     }
   ],
   "omittedPaths": [],

@@ -1,13 +1,17 @@
 ---
 type: notes
-title:
+title: <% tp.file.title %>
 description:
-linkTitle:
+linkTitle: <% tp.file.title %>
+nav_weight:
+nav_icon:
+  vendor: bs
+  name: book
+  color: blue
 tags:
 categories:
 series:
 keywords:
-nav_weight:
 draft:
 layout:
 authors: Hyunyoun Jo
