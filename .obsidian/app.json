@@ -2,5 +2,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "static",
   "newFileLocation": "folder",
-  "newFileFolderPath": "content"
+  "newFileFolderPath": "content",
+  "propertiesInDocument": "source"
 }

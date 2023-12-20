@@ -1,0 +1,5 @@
+{
+  "template": "_templates/DailyPlannerTemplates",
+  "folder": "content/diary/daily",
+  "format": "YYYY/MM//YYYY-MM-DD ( ddd )"
+}

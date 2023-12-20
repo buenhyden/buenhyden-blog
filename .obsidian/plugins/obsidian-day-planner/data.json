@@ -19,7 +19,7 @@
   "showDataviewMigrationWarning": true,
   "extendDurationUntilNext": false,
   "defaultDurationMinutes": 30,
-  "showTimestampInTaskBlock": false,
+  "showTimestampInTaskBlock": true,
   "unscheduledTasksHeight": 100,
   "showUncheduledTasks": true,
   "showUnscheduledNestedTasks": true,

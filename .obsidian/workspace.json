@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/ai/basic/_index.md",
+                "file": "_templates/MonthlyPlannerTemplates.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/ai/basic/_index.md",
+                "file": "_templates/MonthlyPlannerTemplates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/ai/basic/_index.md",
+                "file": "_templates/MonthlyPlannerTemplates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/ai/basic/_index.md"
+                "file": "_templates/MonthlyPlannerTemplates.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,6 +180,19 @@
   },
   "active": "572f701d550a4205",
   "lastOpenFiles": [
+    "_templates/DailyPlannerTemplates.md",
+    "_templates/WeeklyPlannerTemplates.md",
+    "_templates/MonthlyPlannerTemplates.md",
+    "content/2021-Weekly Review.md",
+    "_templates/VisionTemplates.md",
+    "content/ai/basic/_index.md",
+    "content/2023-12-20.md",
+    "content/diary/2023-12-20.md",
+    "content/diary/yearly",
+    "content/diary/monthly",
+    "content/diary/weekly",
+    "content/diary/daily",
+    "content/Vision Board.md",
     "_templates/RetrospectTemplates.md",
     "static/dev-ops/what-is-terraform.webp",
     "static/dev-ops/types-it-monitoring.png",
@@ -197,17 +210,10 @@
     "static/content/programming",
     "static/content/notes",
     "static/content/frontend",
-    "static/content/dev-ops",
-    "static/content/data",
-    "static/content/computer-science",
-    "static/content/backend",
-    "_templates/WeeklyPlannerTemplates.md",
     "_templates/ReadingNotesTemplates.md",
     "_templates/ReadingRecordNoteTemplates.md",
-    "_templates/VisionTemplates.md",
     "_templates/ProjectManagementTemplates.md",
     "_templates/NotesTemplates.md",
-    "_templates/DailyPlannerTemplates.md",
     "templates/visionTemplates 1.md",
     "archetypes/statistics.md",
     "archetypes/programming.md",
@@ -219,11 +225,6 @@
     "archetypes/data.md",
     "archetypes/computer-science.md",
     "archetypes/blog.md",
-    "archetypes/backend.md",
-    "archetypes/ai.md",
-    "content/ai/basic/무제 파일.md",
-    "content/ai/computer-vision/machine-vision/_index.md",
-    "content/diary/2023-12-20.md",
-    "content/ai/computer-vision/image-recognition/_index.md"
+    "archetypes/backend.md"
   ]
 }

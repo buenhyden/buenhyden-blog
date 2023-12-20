@@ -1,22 +1,24 @@
 {
   "showGettingStartedBanner": true,
-  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
-    "template": "_templates/DailyPlannerTemplates.md",
-    "folder": "content/diary",
+    "format": "YYYY/MM//YYYY-MM-DD ( ddd )",
+    "folder": "content/diary/daily",
+    "template": "_templates/DailyPlannerTemplates",
     "enabled": true
   },
   "weekly": {
-    "format": "",
-    "template": "",
-    "folder": ""
+    "format": "YYYY/MM/[W]ww",
+    "template": "_templates/WeeklyPlannerTemplates.md",
+    "folder": "content/diary/weekly",
+    "enabled": true
   },
   "monthly": {
-    "format": "",
-    "template": "",
-    "folder": ""
+    "format": "YYYY-MM",
+    "template": "_templates/MonthlyPlannerTemplates.md",
+    "folder": "content/diary/monthly",
+    "enabled": true
   },
   "quarterly": {
     "format": "",
@@ -24,8 +26,9 @@
     "folder": ""
   },
   "yearly": {
-    "format": "",
+    "format": "YYYY",
     "template": "",
-    "folder": ""
+    "folder": "content/diary/yearly",
+    "enabled": true
   }
 }
