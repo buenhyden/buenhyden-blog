@@ -1,9 +1,9 @@
 {
   "showFrontmatter": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative",
   "attachmentFolderPath": "static",
   "newFileLocation": "folder",
   "newFileFolderPath": "content",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "source",
+  "newLinkFormat": "relative"
 }

@@ -11,8 +11,12 @@
             "id": "6356cccb4950ab48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/WeeklyPlannerTemplates.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/WeeklyPlannerTemplates.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/WeeklyPlannerTemplates.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -150,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,8 +178,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71847d266da8c521",
+  "active": "6356cccb4950ab48",
   "lastOpenFiles": [
+    "content/ai/natural-language-processing/_index.md",
+    "content/ai/expert-system/_index.md",
+    "content/ai/computer-vision/_index.md",
+    "content/ai/computer-vision/machine-vision/_index.md",
+    "content/ai/computer-vision/image-recognition/_index.md",
+    "content/ai/basic/_index.md",
+    "content/works/무제 파일.md",
+    "_templates/WeeklyPlannerTemplates.md",
+    "content/works",
     "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Typewriter-Regular.woff",
     "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Typewriter-Regular.woff2",
     "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Typewriter-Regular.ttf",
@@ -185,8 +198,6 @@
     "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size3-Regular.woff2",
     "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size3-Regular.woff",
     "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size3-Regular.ttf",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size2-Regular.woff2",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size2-Regular.woff",
     "themes/hugo-theme-bootstrap/static/images/none.png",
     "themes/hbstack-theme/images/tn.png",
     "themes/hbstack-theme/images/screenshot.png",
@@ -214,13 +225,6 @@
     "themes/hbstack-theme/content/archives/2021/10/_index.zh-hans.md",
     "themes/hbstack-theme/content/archives/2021/09/_index.zh-hans.md",
     "themes/hbstack-theme/content/archives/2021/10/_index.md",
-    "themes/hbstack-theme/content/archives/2021/09/_index.md",
-    "themes/hbstack-theme/content/archives/2021/08/_index.zh-hans.md",
-    "themes/hbstack-theme/content/archives/2021/07/_index.zh-hans.md",
-    "themes/hbstack-theme/content/archives/2021/07/_index.md",
-    "themes/hbstack-theme/content/archives/2021/08/_index.md",
-    "themes/hbstack-theme/content/archives/2021/06/_index.zh-hans.md",
-    "themes/hbstack-theme/content/archives/2021/06/_index.md",
-    "themes/hbstack-theme/content/archives/2021/05/_index.zh-hans.md"
+    "themes/hbstack-theme/content/archives/2021/09/_index.md"
   ]
 }

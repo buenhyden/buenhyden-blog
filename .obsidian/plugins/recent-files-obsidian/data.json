@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/natural-language-processing/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/expert-system/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/computer-vision/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/computer-vision/machine-vision/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/computer-vision/image-recognition/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/basic/_index.md"
+    },
+    {
       "basename": "WeeklyPlannerTemplates",
       "path": "_templates/WeeklyPlannerTemplates.md"
     },
@@ -35,10 +63,6 @@
     {
       "basename": "ReadingRecordNoteTemplates",
       "path": "_templates/ReadingRecordNoteTemplates.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/basic/_index.md"
     }
   ],
   "omittedPaths": [],
