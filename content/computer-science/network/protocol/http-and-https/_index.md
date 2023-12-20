@@ -6,27 +6,28 @@ linkTitle: HTTP & HTTPS
 date: 2023-12-09T02:20:05.270Z
 lastmod: 2023-12-10T15:07:09.987Z
 tags:
-    - Computer Science
-    - HTTP
-    - Network
-    - Protocol
-    - HTTPS
+  - Computer Science
+  - HTTP
+  - Network
+  - Protocol
+  - HTTPS
 categories:
-    - Computer Science
-    - HTTP
-    - Network
-    - Protocol
-    - HTTPS
+  - Computer Science
+  - HTTP
+  - Network
+  - Protocol
+  - HTTPS
 series:
-    - Network
-    - Computer Science
+  - Network
+  - Computer Science
 
 nav_weight: 0
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 draft: in progress
+featured: true
 ---
 
 ## Reference

@@ -7,25 +7,26 @@ date: 2023-11-15T14:17:29.812Z
 lastmod: 2023-12-09T06:00:12.512Z
 nav_weight: 4
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 tags:
-    - Computer Science
-    - Network
-    - Network Basic
-    - CORS
+  - Computer Science
+  - Network
+  - Network Basic
+  - CORS
 categories:
-    - Computer Science
-    - Network
-    - Network Basic
-    - CORS
+  - Computer Science
+  - Network
+  - Network Basic
+  - CORS
 series:
-    - Computer Science
-    - Network
+  - Computer Science
+  - Network
 
 authors: Hyunyoun Jo
 draft: in progress
+featured: true
 ---
 
 ![CORS](/content/computer-science/cors.png?width=1024px#center "https://securityzines.com/flyers/cors.html")
@@ -36,8 +37,8 @@ draft: in progress
 
 ## What is CORS?
 
--   **HTTP-based security mechanism** controlled and enforced by the client (Web Browser)
-    -   웹 페이지 상의 제한된 리소스를 최초 자원이 서비스된 도메인 밖의 다른 도메인으로부터 요청할 수 있게 허용하는 구조
+- **HTTP-based security mechanism** controlled and enforced by the client (Web Browser)
+  - 웹 페이지 상의 제한된 리소스를 최초 자원이 서비스된 도메인 밖의 다른 도메인으로부터 요청할 수 있게 허용하는 구조
 
 ### How does it work?
 

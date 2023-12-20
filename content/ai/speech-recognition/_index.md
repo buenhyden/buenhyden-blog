@@ -7,24 +7,25 @@ linkTitle: Speech Recognition
 
 nav_weight: 4
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 series:
-    - AI
+  - AI
 categories:
-    - AI
-    - Speech Recognition
+  - AI
+  - Speech Recognition
 tags:
-    - AI
-    - Speech Recognition
+  - AI
+  - Speech Recognition
 lastmod: 2023-12-10T04:06:44.406Z
 draft: published
 layout: list
 keywords:
-    - AI
-    - Speech Recognition
+  - AI
+  - Speech Recognition
 slug: speech-recognition
+featured: true
 ---
 
 ## Reference

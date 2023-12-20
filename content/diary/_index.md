@@ -8,4 +8,5 @@ nav_icon:
   name: pen
   vendor: bs
   color: blue
+featured: true
 ---

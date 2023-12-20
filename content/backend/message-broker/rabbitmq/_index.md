@@ -6,29 +6,30 @@ description: 오픈 소스 메시지 브로커 소프트웨어로서, AMQP를 �
 linkTitle: RabbitMQ
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Backend
-    - Message Broker
-    - Tools
+  - Backend
+  - Message Broker
+  - Tools
 categories:
-    - Backend
-    - Message Broker
-    - tools
-    - RabbitMQ
+  - Backend
+  - Message Broker
+  - tools
+  - RabbitMQ
 tags:
-    - Backend
-    - Message Broker
-    - tools
-    - RabbitMQ
+  - Backend
+  - Message Broker
+  - tools
+  - RabbitMQ
 lastmod: 2023-12-10T04:28:41.564Z
 draft: published
 keywords:
-    - RabbitMQ
-    - Message Broker
+  - RabbitMQ
+  - Message Broker
+featured: true
 ---
 
 ![RabbitMQ](/content/backend/rabbitmq.png#center "https://stackoverflow.com/questions/63545249/rabbitmq-queue-per-message-type-vs-queue-per-destination")

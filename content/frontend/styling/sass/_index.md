@@ -6,25 +6,26 @@ description: Syntactically Awesome StyleSheet의 약어이며 코드의 재활�
 linkTitle: SASS
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Frontend
-    - Styling
+  - Frontend
+  - Styling
 categories:
-    - Frontend
-    - Styling
-    - SASS
-    - SCSS
+  - Frontend
+  - Styling
+  - SASS
+  - SCSS
 tags:
-    - Frontend
-    - Styling
-    - SASS
-    - SCSS
+  - Frontend
+  - Styling
+  - SASS
+  - SCSS
 lastmod: 2023-12-10T03:12:47.021Z
 draft: published
+featured: true
 ---
 
 ![SCSS-SASS](/content/frontend/scss-sass.png#center "https://yuvraj-agarkar.medium.com/your-very-first-sass-project-what-is-sass-how-to-use-it-d947e61d1713")

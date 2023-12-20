@@ -6,21 +6,22 @@ description: 주요 이해관계자들에게 시험 대상 제품 또는 서비�
 linkTitle: QA Engineering
 nav_weight: 5
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - QA Engineering
-    - Computer Science
+  - QA Engineering
+  - Computer Science
 categories:
-    - QA Engineering
-    - Computer Science
+  - QA Engineering
+  - Computer Science
 tags:
-    - QA Engineering
-    - Computer Science
+  - QA Engineering
+  - Computer Science
 lastmod: 2023-12-16T19:16:15.775Z
 draft: published
+featured: true
 ---
 
 ## Quality Assurance (QA)

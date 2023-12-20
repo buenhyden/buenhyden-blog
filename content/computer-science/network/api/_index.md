@@ -6,26 +6,27 @@ description: 애플리케이션 소프트웨어를 빌드하고 통합하기 위
 linkTitle: Application Programming Interfaces(APIs)
 nav_weight: 50
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Network
-    - Computer Science
+  - Network
+  - Computer Science
 categories:
-    - API
-    - Network
-    - Computer Science
+  - API
+  - Network
+  - Computer Science
 tags:
-    - API
-    - Network
-    - Computer Science
+  - API
+  - Network
+  - Computer Science
 lastmod: 2023-12-17T03:05:48.138Z
 draft: published
 keywords:
-    - Network
-    - API
+  - Network
+  - API
+featured: true
 ---
 
 ![API](/content/computer-science/api.png#center "https://medium.com/@singhrishabh1670/application-programming-interface-api-6f10964856cb")

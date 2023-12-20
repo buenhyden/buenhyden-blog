@@ -6,27 +6,28 @@ description: "'하나 이상의 시간'과 '하나 이상의 값' 쌍을 통해 
 linkTitle: Time Series
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Database
-    - Backend
+  - Database
+  - Backend
 categories:
-    - Backend
-    - Database
-    - NoSQL
-    - Time Series
+  - Backend
+  - Database
+  - NoSQL
+  - Time Series
 tags:
-    - Backend
-    - Database
-    - NoSQL
-    - Time Series
+  - Backend
+  - Database
+  - NoSQL
+  - Time Series
 lastmod: 2023-12-10T04:37:54.046Z
 draft: published
 keywords:
-    - NoSQL
+  - NoSQL
+featured: true
 ---
 
 ## Reference

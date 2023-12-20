@@ -5,28 +5,29 @@ linkTitle: Hugo를 이용한 GitHub Pages 블로그 만들기
 description: ""
 date: 2023-11-19T12:05:42.431Z
 tags:
-    - Blog
-    - Hugo
-    - Go
+  - Blog
+  - Hugo
+  - Go
 categories:
-    - Blog
-    - Hugo
-    - Go
+  - Blog
+  - Hugo
+  - Go
 series:
-    - Notes
-    - Blog
+  - Notes
+  - Blog
 
 authors: Hyunyoun Jo
 lastmod: 2023-12-10T04:01:09.242Z
 draft: published
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 keywords:
-    - Github Pages
-    - hugo
-    - Dev Blog
+  - Github Pages
+  - hugo
+  - Dev Blog
+featured: true
 ---
 
 ## Prerequisites
@@ -38,7 +39,7 @@ Chocolatey 설치가 되었다는 가정 아래 진행.
 
 #### Go
 
--   HB is a modular framework, requires Go installation to download and upgrade Hugo Modules.
+- HB is a modular framework, requires Go installation to download and upgrade Hugo Modules.
 
 ##### GoLang 설치
 
@@ -48,7 +49,7 @@ choco install golang
 
 #### Hugo
 
--   HB uses Hugo Pipes to compile SCSS, so an extended version of Hugo is required.
+- HB uses Hugo Pipes to compile SCSS, so an extended version of Hugo is required.
 
 ##### hugo 설치
 
@@ -64,7 +65,7 @@ choco install hugo-extended
 
 #### Git
 
--   The version control system, can be fetched on the downloads page.
+- The version control system, can be fetched on the downloads page.
 
 ##### git 설치
 
@@ -74,7 +75,7 @@ choco install git
 
 #### Node.js
 
--   Requires Node.js 16 or later.
+- Requires Node.js 16 or later.
 
 ##### Node.js 설치
 

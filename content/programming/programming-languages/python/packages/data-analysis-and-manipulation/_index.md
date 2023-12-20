@@ -5,32 +5,33 @@ description: ""
 linkTitle: data analysis and manipulation tool
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Programming
-    - Programming Language
+  - Programming
+  - Programming Language
 categories:
-    - Data Analysis
-    - Programming
-    - Programming Language
-    - Python
-    - Data Manipulation
+  - Data Analysis
+  - Programming
+  - Programming Language
+  - Python
+  - Data Manipulation
 tags:
-    - Data Analysis
-    - Programming
-    - Programming Language
-    - Python
-    - Data Manipulation
+  - Data Analysis
+  - Programming
+  - Programming Language
+  - Python
+  - Data Manipulation
 lastmod: 2023-12-10T04:06:10.286Z
 date: 2023-11-19T06:37:34.850Z
 draft: published
 keywords:
-    - Programming Language
-    - Python
+  - Programming Language
+  - Python
 slug: data-analysis-manipulation-tool
+featured: true
 ---
 
 ## Reference

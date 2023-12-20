@@ -7,23 +7,24 @@ date: 2023-11-21T12:33:59.980Z
 lastmod: 2023-12-09T06:18:36.093Z
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 tags:
-    - Computer Science
-    - Software Design & Architecture
-    - Software Design & Architecture Basic
+  - Computer Science
+  - Software Design & Architecture
+  - Software Design & Architecture Basic
 categories:
-    - Computer Science
-    - Software Design & Architecture
-    - Software Design & Architecture Basic
+  - Computer Science
+  - Software Design & Architecture
+  - Software Design & Architecture Basic
 series:
-    - Computer Science
-    - Software Design & Architecture
+  - Computer Science
+  - Software Design & Architecture
 
 authors: Hyunyoun Jo
 draft: in progress
+featured: true
 ---
 
 ## Reference

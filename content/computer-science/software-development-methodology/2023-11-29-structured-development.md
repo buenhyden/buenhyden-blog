@@ -6,23 +6,24 @@ description: 전체 시스템을 기능에 따라 나누어 개발하고, 이를
 linkTitle: Structured Development
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - Software Development Methodology
+  - Computer Science
+  - Software Development Methodology
 categories:
-    - Computer Science
-    - Software Development Methodology
-    - Structured Development
+  - Computer Science
+  - Software Development Methodology
+  - Structured Development
 tags:
-    - Computer Science
-    - Software Development Methodology
-    - Structured Development
+  - Computer Science
+  - Software Development Methodology
+  - Structured Development
 lastmod: 2023-12-09T06:19:17.555Z
 draft: in progress
+featured: true
 ---
 
 ## Reference

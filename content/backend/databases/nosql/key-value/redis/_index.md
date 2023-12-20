@@ -6,30 +6,31 @@ description: Remote Dictionary Server의 약자로서, "키-값" 구조의 비�
 linkTitle: Redis
 nav_weight: 5
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Database
-    - Backend
+  - Database
+  - Backend
 categories:
-    - Backend
-    - Database
-    - Key Value
-    - NoSQL
-    - Redis
+  - Backend
+  - Database
+  - Key Value
+  - NoSQL
+  - Redis
 tags:
-    - Backend
-    - Database
-    - Key Value
-    - NoSQL
-    - Redis
+  - Backend
+  - Database
+  - Key Value
+  - NoSQL
+  - Redis
 lastmod: 2023-12-17T05:34:05.873Z
 draft: published
 keywords:
-    - NoSQL
-    - Redis
+  - NoSQL
+  - Redis
+featured: true
 ---
 
 ## Reference

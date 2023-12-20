@@ -6,21 +6,22 @@ description: 컴퓨터 및 통신에 관련된 보안
 linkTitle: IT Security
 nav_weight: 6
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - IT Security
+  - Computer Science
+  - IT Security
 categories:
-    - IT Security
-    - Computer Science
+  - IT Security
+  - Computer Science
 tags:
-    - IT Security
-    - Computer Science
+  - IT Security
+  - Computer Science
 lastmod: 2023-12-13T07:25:27.597Z
 draft: published
+featured: true
 ---
 
 ![IT Security](/content/computer-science/it-security.webp#center "https://teamwin.in/index.php/services/security-system/")

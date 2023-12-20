@@ -6,21 +6,22 @@ description: 규모가 큰 시스템을 디자인 하는 것
 linkTitle: System Design & Architecture
 nav_weight: 7
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - System Design & Architecture
-    - Computer Science
+  - System Design & Architecture
+  - Computer Science
 categories:
-    - System Design & Architecture
-    - Computer Science
+  - System Design & Architecture
+  - Computer Science
 tags:
-    - System Design & Architecture
-    - Computer Science
+  - System Design & Architecture
+  - Computer Science
 lastmod: 2023-12-10T03:12:47.299Z
 draft: published
+featured: true
 ---
 
 ![System Design Master](/content/computer-science/system-design-master.webp#center "https://medium.com/gitconnected/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b")

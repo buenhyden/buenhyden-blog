@@ -27,6 +27,7 @@ draft: published
 keywords:
   - 데이터베이스
   - Databases
+featured: true
 ---
 
 ## Reference

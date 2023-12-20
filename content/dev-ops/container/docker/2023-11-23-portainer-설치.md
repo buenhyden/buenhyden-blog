@@ -7,31 +7,32 @@ date: 2023-11-23T09:49:52.650Z
 lastmod: 2023-12-09T06:21:06.074Z
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 tags:
-    - Container
-    - Dev Ops
-    - Docker
-    - Portainer
+  - Container
+  - Dev Ops
+  - Docker
+  - Portainer
 categories:
-    - Container
-    - Dev Ops
-    - Portainer
-    - Docker
+  - Container
+  - Dev Ops
+  - Portainer
+  - Docker
 series:
-    - Dev Ops
-    - Container
+  - Dev Ops
+  - Container
 
 authors: Hyunyoun Jo
 draft: published
+featured: true
 ---
 
 ## Portainer란?
 
--   Web GUI 기반 Container 관리 툴
--   Portainer를 통해 여러 개의 Container를 한 곳에서 모니터링, 관리
+- Web GUI 기반 Container 관리 툴
+- Portainer를 통해 여러 개의 Container를 한 곳에서 모니터링, 관리
 
 ## Portainer 설치
 
@@ -55,13 +56,13 @@ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v /kube
    ![Portainer 로그인](/content/dev-ops/portainer-1.png)
 
 4. Harbor와 Portainer 연동
-    1. 좌측의 Settings 아래에 Registies를 클릭하고 우측에 Add registry를 클릭
-       ![Harbor와 Portainer 연동 1](/content/dev-ops/portainer-2.png)
-    2. Custom registry 클릭후, Name과 Registry URL을 입력.
-       Harbor는 <https://dev.eq4all.co.kr:5000에> 연결되어 있어 이를 넣으면 됨
-       public이 아니므로, Authentication 입력이 필요
-       Harbor의 username과 password 입력
-       ![Harbor와 Portainer 연동 2](/content/dev-ops/portainer-3.png)
+   1. 좌측의 Settings 아래에 Registies를 클릭하고 우측에 Add registry를 클릭
+      ![Harbor와 Portainer 연동 1](/content/dev-ops/portainer-2.png)
+   2. Custom registry 클릭후, Name과 Registry URL을 입력.
+      Harbor는 <https://dev.eq4all.co.kr:5000에> 연결되어 있어 이를 넣으면 됨
+      public이 아니므로, Authentication 입력이 필요
+      Harbor의 username과 password 입력
+      ![Harbor와 Portainer 연동 2](/content/dev-ops/portainer-3.png)
 
 ## Reference
 

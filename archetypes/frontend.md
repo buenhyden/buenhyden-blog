@@ -9,15 +9,15 @@ noindex: false
 # comments: false
 nav_weight: 1000
 nav_icon:
-    vendor: bootstrap
-    name: toggles
-    color: "#e24d0e"
+  vendor: bootstrap
+  name: toggles
+  color: "#e24d0e"
 series:
-    - Docs
+  - Docs
 categories:
-    -
+  -
 tags:
-    -
+  -
 images:
 #  -
 # menu:
@@ -27,7 +27,8 @@ images:
 #       icon:
 #         vendor: bs
 #         name: book
-#         color: '#e24d0e'
+#         color: '#e24d0e
+featured: true
 ---
 
 Summary.

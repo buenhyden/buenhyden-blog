@@ -6,20 +6,21 @@ description: 프론트엔드에 있는 사용자들이 하고자 하는 행동�
 linkTitle: Backend
 nav_weight: 6
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series: []
 categories:
-    - Backend
+  - Backend
 tags:
-    - Backend
+  - Backend
 lastmod: 2023-12-13T07:27:21.545Z
 draft: published
 keywords:
-    - Backend
-    - Web Application
+  - Backend
+  - Web Application
+featured: true
 ---
 
 ## Web Application

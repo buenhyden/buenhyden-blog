@@ -6,21 +6,22 @@ description: 물리적 하드웨어 구성이나 인터페이스 구성 도구�
 linkTitle: Infrastructure as Code
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Infrastructure as Code
+  - Dev Ops
+  - Infrastructure as Code
 categories:
-    - Dev Ops
-    - Infrastructure as Code
+  - Dev Ops
+  - Infrastructure as Code
 tags:
-    - Dev Ops
-    - Infrastructure as Code
+  - Dev Ops
+  - Infrastructure as Code
 lastmod: 2023-12-10T03:12:45.994Z
 draft: published
+featured: true
 ---
 
 ![Infrastructure as Code](/content/dev-ops/infra-as-code.png#center "https://www.linkedin.com/pulse/cisco-network-devices-backup-configuration-using-ansible-samy-2xccie")

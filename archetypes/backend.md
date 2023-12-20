@@ -13,7 +13,7 @@ nav_weight: 1000
 #   name: toggles
 #   color: '#e24d0e'
 series:
-    -
+  -
 categories:
 #  -
 tags:
@@ -27,7 +27,8 @@ images:
 #       icon:
 #         vendor: bs
 #         name: book
-#         color: '#e24d0e'
+#         color: '#e24d0e
+featured: true
 ---
 
 Summary.

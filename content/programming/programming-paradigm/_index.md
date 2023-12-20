@@ -6,25 +6,26 @@ description: 전체적인 프로그래밍 방식
 linkTitle: Programming Paradigm
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Programming Paradigm
-    - Programming
+  - Programming Paradigm
+  - Programming
 categories:
-    - Programming Paradigm
-    - Programming
+  - Programming Paradigm
+  - Programming
 tags:
-    - Programming Paradigm
-    - Programming
+  - Programming Paradigm
+  - Programming
 lastmod: 2023-12-10T04:05:26.649Z
 draft: published
 images: []
 keywords:
-    - Programming Paradigm
+  - Programming Paradigm
 slug: programming-paradigm
+featured: true
 ---
 
 ![Programming Paradigm](/content/programming/prg-paradigms.png#center "https://commons.wikimedia.org/wiki/Category:Programming_language_by_paradigm?uselang=ko")

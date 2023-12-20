@@ -6,34 +6,35 @@ description: 컨테이너의 프로비저닝, 배포, 네트워킹, 확장, 가�
 linkTitle: Container Orchestration(CO)
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Container
-    - Dev Ops
+  - Container
+  - Dev Ops
 categories:
-    - Dev Ops
-    - Container
-    - Container Orchestration(CO)
+  - Dev Ops
+  - Container
+  - Container Orchestration(CO)
 tags:
-    - Dev Ops
-    - Container
-    - Container Orchestration(CO)
+  - Dev Ops
+  - Container
+  - Container Orchestration(CO)
 lastmod: 2023-12-10T03:12:46.345Z
 draft: published
+featured: true
 ---
 
 ![Center Orchestration](/content/dev-ops/automation-with-container-orchestration.png#center "https://devpress.csdn.net/cicd/62f4229bc6770329307f9728.html")
 여러 컨테이너의 배포 프로세스를 최적화하는 것을 목적으로 하며, 아래의 기능을 포함할 수 있다.
 
--   컨테이너 자동 배치 및 복제
--   컨테이너 그룹에 대한 로드 밸런싱
--   컨테이너 장애 복구
--   클러스터 외부에 서비스 노출
--   컨테이너 추가 또는 제거로 확장 및 축소
--   컨테이너 서비스간의 인터페이스를 통한 연결 및 네트워크 포트 노출 제어
+- 컨테이너 자동 배치 및 복제
+- 컨테이너 그룹에 대한 로드 밸런싱
+- 컨테이너 장애 복구
+- 클러스터 외부에 서비스 노출
+- 컨테이너 추가 또는 제거로 확장 및 축소
+- 컨테이너 서비스간의 인터페이스를 통한 연결 및 네트워크 포트 노출 제어
 
 ## Reference
 

@@ -52,5 +52,11 @@
       "prettier --write",
       "eslint --cache --fix"
     ]
-  }
+  },
+  "homepage": "https://github.com/buenhyden/buenhyden-blog#readme",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "keywords": [
+    "\\"
+  ]
 }

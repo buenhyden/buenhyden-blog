@@ -6,30 +6,31 @@ description: ""
 linkTitle: InfluxDB
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Database
-    - Backend
+  - Database
+  - Backend
 categories:
-    - Backend
-    - Database
-    - Document DBs
-    - NoSQL
-    - InfluxDB
+  - Backend
+  - Database
+  - Document DBs
+  - NoSQL
+  - InfluxDB
 tags:
-    - Backend
-    - Database
-    - Document DBs
-    - NoSQL
-    - InfluxDB
+  - Backend
+  - Database
+  - Document DBs
+  - NoSQL
+  - InfluxDB
 lastmod: 2023-12-17T05:27:47.147Z
 draft: published
 keywords:
-    - NoSQL
-    - MongoDB
+  - NoSQL
+  - MongoDB
+featured: true
 ---
 
 ![Mongo DB](/content/backend/mongodb.png#center "https://rahul319sinha.medium.com/regular-expression-in-mongodb-37f2161d9754")

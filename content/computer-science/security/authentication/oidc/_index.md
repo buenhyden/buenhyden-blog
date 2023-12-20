@@ -6,26 +6,27 @@ description: ""
 linkTitle: OIDC
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - IT Security
+  - Computer Science
+  - IT Security
 categories:
-    - Computer Science
-    - IT Security
-    - OIDC
-    - Authentication
+  - Computer Science
+  - IT Security
+  - OIDC
+  - Authentication
 tags:
-    - Computer Science
-    - IT Security
-    - OIDC
-    - Authentication
+  - Computer Science
+  - IT Security
+  - OIDC
+  - Authentication
 lastmod: 2023-12-13T07:40:26.300Z
 authors: Hyunyoun Jo
 draft: published
+featured: true
 ---
 
 ## Reference

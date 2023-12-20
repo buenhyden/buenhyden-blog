@@ -6,23 +6,24 @@ description: 특정 제품에 적용하고 싶은 공통된 기능을 정의하�
 linkTitle: Product Line Development
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - Software Development Methodology
+  - Computer Science
+  - Software Development Methodology
 categories:
-    - Computer Science
-    - Product Line Development
-    - Software Development Methodology
+  - Computer Science
+  - Product Line Development
+  - Software Development Methodology
 tags:
-    - Computer Science
-    - Product Line Development
-    - Software Development Methodology
+  - Computer Science
+  - Product Line Development
+  - Software Development Methodology
 lastmod: 2023-12-09T06:19:13.598Z
 draft: in progress
+featured: true
 ---
 
 ## Reference

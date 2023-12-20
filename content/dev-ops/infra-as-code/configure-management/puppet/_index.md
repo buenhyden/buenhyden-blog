@@ -6,28 +6,29 @@ description: ruby로 만들어진 시스템 관리 자동화 툴
 linkTitle: Puppet
 nav_weight: 4
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Infrastructure as Code
-    - Tools
+  - Dev Ops
+  - Infrastructure as Code
+  - Tools
 categories:
-    - Dev Ops
-    - Infrastructure as Code
-    - Configuration Management
-    - Puppet
-    - tools
+  - Dev Ops
+  - Infrastructure as Code
+  - Configuration Management
+  - Puppet
+  - tools
 tags:
-    - Dev Ops
-    - Infrastructure as Code
-    - Configuration Management
-    - Puppet
-    - tools
+  - Dev Ops
+  - Infrastructure as Code
+  - Configuration Management
+  - Puppet
+  - tools
 lastmod: 2023-12-10T03:12:46.184Z
 draft: published
+featured: true
 ---
 
 ![Puppet Platform](/content/dev-ops/puppet_platform.webp "https://www.puppet.com/docs/puppet/8/platform_components")

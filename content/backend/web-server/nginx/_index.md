@@ -6,29 +6,30 @@ description: 트래픽이 많은 웹사이트의 서버(WAS)를 도와주는 비
 linkTitle: Ngnix
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Backend
-    - Web Server
-    - Tools
+  - Backend
+  - Web Server
+  - Tools
 categories:
-    - Backend
-    - nginx
-    - Web Server
-    - tools
+  - Backend
+  - nginx
+  - Web Server
+  - tools
 tags:
-    - Backend
-    - nginx
-    - Web Server
-    - tools
+  - Backend
+  - nginx
+  - Web Server
+  - tools
 lastmod: 2023-12-15T01:32:08.773Z
 draft: published
 keywords:
-    - Nginx
-    - Web Server
+  - Nginx
+  - Web Server
+featured: true
 ---
 
 ## Reference

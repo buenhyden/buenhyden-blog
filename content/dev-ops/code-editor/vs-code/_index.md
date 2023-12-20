@@ -6,27 +6,28 @@ description: " 마이크로소프트가 마이크로소프트 윈도우, macOS, 
 linkTitle: VisualStudio Code
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Code Editor
-    - Dev Ops
+  - Code Editor
+  - Dev Ops
 categories:
-    - CI/CD
-    - Code Editor
-    - Dev Ops
-    - VisualStudio Code
-    - vs code
+  - CI/CD
+  - Code Editor
+  - Dev Ops
+  - VisualStudio Code
+  - vs code
 tags:
-    - Dev Ops
-    - CI/CD
-    - Code Editor
-    - VisualStudio Code
-    - vs code
+  - Dev Ops
+  - CI/CD
+  - Code Editor
+  - VisualStudio Code
+  - vs code
 lastmod: 2023-12-10T03:12:46.667Z
 draft: published
+featured: true
 ---
 
 ## Reference

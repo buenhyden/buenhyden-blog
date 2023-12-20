@@ -6,26 +6,27 @@ description: null
 linkTitle: Grafana Tempo
 nav_weight: 9
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 categories:
-    - Application Monitoring
-    - Dev Ops
-    - Management for Infrastructure
-    - Grafana Tempo
+  - Application Monitoring
+  - Dev Ops
+  - Management for Infrastructure
+  - Grafana Tempo
 tags:
-    - Application Monitoring
-    - Dev Ops
-    - Management for Infrastructure
-    - Grafana Tempo
+  - Application Monitoring
+  - Dev Ops
+  - Management for Infrastructure
+  - Grafana Tempo
 lastmod: 2023-12-15T00:46:47.426Z
 draft: published
 slug: grafana-tempo
+featured: true
 ---
 
 ## Reference

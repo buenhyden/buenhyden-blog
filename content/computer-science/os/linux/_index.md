@@ -6,24 +6,25 @@ description: 운영 체제 커널인 리눅스 커널에 기반을 둔 오픈 �
 linkTitle: Linux
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - Operating System
-    - OS
+  - Computer Science
+  - Operating System
+  - OS
 categories:
-    - Linux
-    - Operating System
-    - Computer Science
+  - Linux
+  - Operating System
+  - Computer Science
 tags:
-    - Linux
-    - Operating System
-    - Computer Science
+  - Linux
+  - Operating System
+  - Computer Science
 lastmod: 2023-12-16T19:18:30.112Z
 draft: published
+featured: true
 ---
 
 ![Linux](/content/computer-science/linux.webp#center "https://steamcommunity.com/sharedfiles/filedetails/?l=koreana&id=1553640761")

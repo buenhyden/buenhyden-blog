@@ -6,26 +6,27 @@ description: 전통적인 컴파일, 링크 모델을 따르는 범용 프로그
 linkTitle: Go
 nav_weight: 4
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Programming
-    - Programming Language
+  - Programming
+  - Programming Language
 categories:
-    - Go
-    - Programming Language
-    - Programming
+  - Go
+  - Programming Language
+  - Programming
 tags:
-    - Go
-    - Programming Language
-    - Programming
+  - Go
+  - Programming Language
+  - Programming
 lastmod: 2023-12-10T04:10:12.211Z
 draft: published
 keywords:
-    - Programming Language
-    - Go
+  - Programming Language
+  - Go
+featured: true
 ---
 
 ![Go Lang](/content/programming/go-lang.png#center "https://medium.com/@jayant99acharya/building-a-robust-event-delivery-system-with-go-and-redis-1c18525f1fe6")

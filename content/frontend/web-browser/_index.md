@@ -6,21 +6,22 @@ description: 웹 서버에서 이동하며 쌍방향으로 통신하고 HTML 문
 linkTitle: Web Browser
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Frontend
-    - Web Browser
+  - Frontend
+  - Web Browser
 categories:
-    - Frontend
-    - Web Browser
+  - Frontend
+  - Web Browser
 tags:
-    - Frontend
-    - Web Browser
+  - Frontend
+  - Web Browser
 lastmod: 2023-12-12T05:10:53.811Z
 draft: published
+featured: true
 ---
 
 ![Web Browser](/content/frontend/web-browser.webp#center "https://idealcomputer.biz/best-types-of-computer-software/")

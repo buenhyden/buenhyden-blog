@@ -6,25 +6,26 @@ description: null
 linkTitle: Network Basic
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Network
-    - Computer Science
+  - Network
+  - Computer Science
 categories:
-    - Computer Science
-    - IT Security
-    - Network
-    - Network Basic
+  - Computer Science
+  - IT Security
+  - Network
+  - Network Basic
 tags:
-    - Computer Science
-    - IT Security
-    - Network
-    - Network Basic
+  - Computer Science
+  - IT Security
+  - Network
+  - Network Basic
 lastmod: 2023-12-10T15:04:53.085Z
 draft: published
 keywords:
-    - Network
+  - Network
+featured: true
 ---

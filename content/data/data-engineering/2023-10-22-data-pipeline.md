@@ -6,23 +6,24 @@ description: null
 linkTitle: Data Pipeline
 nav_weight: 10
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Data Engineering
-    - Data
+  - Data Engineering
+  - Data
 categories:
-    - Data Engineering
-    - Data
+  - Data Engineering
+  - Data
 tags:
-    - Data Engineering
-    - Data
+  - Data Engineering
+  - Data
 lastmod: 2023-12-10T04:40:10.293Z
 draft: in progress
 keywords:
-    - Data Pipeline
+  - Data Pipeline
+featured: true
 ---
 
 ## Stages in Data Processing Pipeline

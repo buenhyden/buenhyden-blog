@@ -6,23 +6,24 @@ description: 컴퓨터 시스템에 저장된 정보를 찾아주거나 웹 검�
 linkTitle: Search Engine
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Backend
-    - Search Engine
+  - Backend
+  - Search Engine
 categories:
-    - Backend
-    - Search Engine
+  - Backend
+  - Search Engine
 tags:
-    - Backend
-    - Search Engine
+  - Backend
+  - Search Engine
 lastmod: 2023-12-10T04:27:44.424Z
 draft: published
 keywords:
-    - Search Engine
+  - Search Engine
+featured: true
 ---
 
 ## Reference

@@ -6,15 +6,16 @@ description: 까먹지 말고 기록으로 남기자
 linkTitle: notes
 
 series:
-    - Notes
+  - Notes
 categories: []
 tags: []
 lastmod: 2023-12-10T03:50:19.101Z
 draft: published
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
+featured: true
 ---
 
 ## Reference

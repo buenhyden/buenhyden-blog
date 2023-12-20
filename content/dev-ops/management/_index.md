@@ -6,21 +6,22 @@ description: 인프라를 모니터링하고 유지하는 방법
 linkTitle: Management for Infrastructure
 nav_weight: 4
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 categories:
-    - Dev Ops
-    - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 tags:
-    - Dev Ops
-    - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 lastmod: 2023-12-10T03:12:45.224Z
 draft: published
+featured: true
 ---
 
 ## Components of Infrastructure Management

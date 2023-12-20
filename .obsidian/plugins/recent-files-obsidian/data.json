@@ -2,23 +2,7 @@
   "recentFiles": [
     {
       "basename": "_index",
-      "path": "content/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/natural-language-processing/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/expert-system/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/computer-vision/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/computer-vision/machine-vision/_index.md"
+      "path": "content/ai/basic/_index.md"
     },
     {
       "basename": "_index",
@@ -26,7 +10,35 @@
     },
     {
       "basename": "_index",
-      "path": "content/ai/basic/_index.md"
+      "path": "content/ai/computer-vision/machine-vision/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/computer-vision/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/expert-system/_index.md"
+    },
+    {
+      "basename": "2023-12-21 ( 목 )",
+      "path": "content/diary/daily/2023/12/2023-12-21 ( 목 ).md"
+    },
+    {
+      "basename": "DailyPlannerTemplates",
+      "path": "_templates/DailyPlannerTemplates.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/natural-language-processing/_index.md"
     },
     {
       "basename": "WeeklyPlannerTemplates",
@@ -55,10 +67,6 @@
     {
       "basename": "MonthlyPlannerTemplates",
       "path": "_templates/MonthlyPlannerTemplates.md"
-    },
-    {
-      "basename": "DailyPlannerTemplates",
-      "path": "_templates/DailyPlannerTemplates.md"
     },
     {
       "basename": "ReadingRecordNoteTemplates",

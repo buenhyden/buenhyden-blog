@@ -6,27 +6,28 @@ description: 딕셔너리, 해시로 잘 알려져 있는 자료 구조인 연�
 linkTitle: Key Value
 nav_weight: 5
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Database
-    - Backend
+  - Database
+  - Backend
 categories:
-    - Backend
-    - Database
-    - NoSQL
-    - Key Value
+  - Backend
+  - Database
+  - NoSQL
+  - Key Value
 tags:
-    - Backend
-    - Database
-    - NoSQL
-    - Key Value
+  - Backend
+  - Database
+  - NoSQL
+  - Key Value
 lastmod: 2023-12-10T04:38:12.313Z
 draft: published
 keywords:
-    - NoSQL
+  - NoSQL
+featured: true
 ---
 
 ## Reference

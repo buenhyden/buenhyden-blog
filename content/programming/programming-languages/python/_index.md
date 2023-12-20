@@ -6,26 +6,27 @@ description: 인터프리터를 사용하는 객체지향 언어이자 플랫폼
 linkTitle: Python
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Programming Language
+  - Programming Language
 categories:
-    - Programming Language
-    - Python
-    - Programming
+  - Programming Language
+  - Python
+  - Programming
 tags:
-    - Programming Language
-    - Python
-    - Programming
+  - Programming Language
+  - Python
+  - Programming
 lastmod: 2023-12-10T04:06:00.948Z
 draft: published
 keywords:
-    - Programming Language
-    - Python
+  - Programming Language
+  - Python
 slug: python
+featured: true
 ---
 
 ![Python](/content/programming/python.png#center "https://bootcamp.mapsahr.com/wp-content/uploads/2021/09/Python-Symbol-scaled.jpg")

@@ -6,21 +6,22 @@ description: null
 linkTitle: Styling
 nav_weight: 5
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Frontend
-    - Styling
+  - Frontend
+  - Styling
 categories:
-    - Frontend
-    - Styling
+  - Frontend
+  - Styling
 tags:
-    - Frontend
-    - Styling
+  - Frontend
+  - Styling
 lastmod: 2023-12-10T03:12:46.989Z
 draft: published
+featured: true
 ---
 
 ## Lecture

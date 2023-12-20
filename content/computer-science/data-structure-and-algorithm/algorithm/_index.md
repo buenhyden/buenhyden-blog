@@ -6,23 +6,24 @@ description: 컴퓨터 프로그램에서 문제를 해결하기 위한 방법,�
 linkTitle: Algorithm
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - Data Structure & Algorithm
+  - Computer Science
+  - Data Structure & Algorithm
 categories:
-    - Algorithm
-    - Data Structure & Algorithm
-    - Computer Science
+  - Algorithm
+  - Data Structure & Algorithm
+  - Computer Science
 tags:
-    - Algorithm
-    - Data Structure & Algorithm
-    - Computer Science
+  - Algorithm
+  - Data Structure & Algorithm
+  - Computer Science
 lastmod: 2023-12-10T02:42:32.345Z
 draft: published
+featured: true
 ---
 
 ![Data algorithms](/content/computer-science/Taxonomy-of-the-algorithms.png#center "https://www.researchgate.net/figure/Taxonomy-of-the-algorithms-and-data-structures-considered-for-the-AlgoVis-tool_fig1_329481179")

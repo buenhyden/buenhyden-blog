@@ -7,26 +7,27 @@ description: ""
 date: 2023-12-10T14:51:17.734Z
 draft: ""
 tags:
-    - Computer Science
-    - Network
-    - Network Basic
-    - API Gateway
+  - Computer Science
+  - Network
+  - Network Basic
+  - API Gateway
 categories:
-    - API Gateway
-    - Network
-    - Network Basic
-    - Computer Science
+  - API Gateway
+  - Network
+  - Network Basic
+  - Computer Science
 series:
-    - Computer Science
-    - Network
+  - Computer Science
+  - Network
 
 authors: Hyunyoun Jo
 lastmod: 2023-12-10T14:58:06.805Z
 nav_weight: 0
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
+featured: true
 ---
 
 ## Reference

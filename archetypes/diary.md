@@ -9,11 +9,11 @@ noindex: false
 pinned: false
 # comments: false
 series:
-    -
+  -
 categories:
-    -
+  -
 tags:
-    -
+  -
 images:
 #  -
 # menu:
@@ -23,7 +23,8 @@ images:
 #       icon:
 #         vendor: bs
 #         name: book
-#         color: '#e24d0e'
+#         color: '#e24d0e
+featured: true
 ---
 
 Summary.

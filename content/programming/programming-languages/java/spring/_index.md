@@ -5,31 +5,32 @@ description: 자바 플랫폼을 위한 오픈 소스 애플리케이션 프레�
 linkTitle: Spring
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Programming
-    - Programming Language
+  - Programming
+  - Programming Language
 categories:
-    - Java
-    - Programming Language
-    - Spring
-    - Programming
+  - Java
+  - Programming Language
+  - Spring
+  - Programming
 tags:
-    - Java
-    - Programming Language
-    - Spring
-    - Programming
+  - Java
+  - Programming Language
+  - Spring
+  - Programming
 lastmod: 2023-12-10T04:10:59.246Z
 date: 2023-11-11T14:08:43.930Z
 draft: published
 keywords:
-    - Java
-    - Programming Language
-    - Spring
+  - Java
+  - Programming Language
+  - Spring
 slug: spring
+featured: true
 ---
 
 ## Reference

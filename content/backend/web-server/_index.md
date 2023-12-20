@@ -6,23 +6,24 @@ description: HTTP 또는 HTTPS를 통해 웹 브라우저에서 요청하는 HTM
 linkTitle: Web Server
 nav_weight: 4
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Backend
-    - Web Server
+  - Backend
+  - Web Server
 categories:
-    - Backend
-    - Web Server
+  - Backend
+  - Web Server
 tags:
-    - Backend
-    - Web Server
+  - Backend
+  - Web Server
 lastmod: 2023-12-16T19:16:42.507Z
 draft: published
 keywords:
-    - Web Server
+  - Web Server
+featured: true
 ---
 
 ![Web Server](/content/backend/web-server.webp#center "https://www.exabytes.my/blog/web-server-vs-application-server/")

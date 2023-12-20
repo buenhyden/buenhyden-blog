@@ -6,26 +6,27 @@ description: 컨테이너화된 애플리케이션의 자동 디플로이, 스�
 linkTitle: Kubernetes
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Container
-    - Dev Ops
-    - Tools
+  - Container
+  - Dev Ops
+  - Tools
 categories:
-    - Dev Ops
-    - Container
-    - Container Orchestration(CO)
-    - Kubernetes
+  - Dev Ops
+  - Container
+  - Container Orchestration(CO)
+  - Kubernetes
 tags:
-    - Dev Ops
-    - Container
-    - Container Orchestration(CO)
-    - Kubernetes
+  - Dev Ops
+  - Container
+  - Container Orchestration(CO)
+  - Kubernetes
 lastmod: 2023-12-17T05:52:52.118Z
 draft: published
+featured: true
 ---
 
 ![Kubernetes](/content/dev-ops/kubernetes.png#center "https://kubernetes.io/ko/docs/concepts/overview/components/")

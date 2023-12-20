@@ -6,23 +6,24 @@ description: 컴퓨터 시스템의 시스템 리소스와 성능을 모니터�
 linkTitle: Monitoring System
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 categories:
-    - Dev Ops
-    - Management for Infrastructure
-    - Monitoring System
+  - Dev Ops
+  - Management for Infrastructure
+  - Monitoring System
 tags:
-    - Dev Ops
-    - Management for Infrastructure
-    - Monitoring System
+  - Dev Ops
+  - Management for Infrastructure
+  - Monitoring System
 lastmod: 2023-12-16T19:21:16.677Z
 draft: published
+featured: true
 ---
 
 ![Monitoring](/content/dev-ops/types-it-monitoring.png#center "https://www.bmc.com/blogs/it-monitoring/")

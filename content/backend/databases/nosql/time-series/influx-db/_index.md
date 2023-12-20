@@ -6,29 +6,30 @@ description: ""
 linkTitle: Influx DB
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Database
-    - Backend
+  - Database
+  - Backend
 categories:
-    - Backend
-    - Database
-    - NoSQL
-    - Time Series
-    - InfluxDB
+  - Backend
+  - Database
+  - NoSQL
+  - Time Series
+  - InfluxDB
 tags:
-    - Backend
-    - Database
-    - NoSQL
-    - Time Series
-    - InfluxDB
+  - Backend
+  - Database
+  - NoSQL
+  - Time Series
+  - InfluxDB
 draft: published
 lastmod: 2023-12-17T06:03:34.742Z
 keywords:
-    - NoSQL
+  - NoSQL
+featured: true
 ---
 
 ## Reference

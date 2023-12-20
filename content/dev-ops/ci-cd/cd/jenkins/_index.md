@@ -6,25 +6,26 @@ description: 다른 일상적인 개발 작업을 자동화할 뿐 아니라 파
 linkTitle: Jenkins
 nav_weight: 4
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - CI/CD
-    - Dev Ops
+  - CI/CD
+  - Dev Ops
 categories:
-    - CI/CD
-    - Dev Ops
-    - Jenkins
-    - Continuous Deployment(CD)
+  - CI/CD
+  - Dev Ops
+  - Jenkins
+  - Continuous Deployment(CD)
 tags:
-    - CI/CD
-    - Dev Ops
-    - Jenkins
-    - Continuous Deployment(CD)
+  - CI/CD
+  - Dev Ops
+  - Jenkins
+  - Continuous Deployment(CD)
 lastmod: 2023-12-10T03:12:44.820Z
 draft: published
+featured: true
 ---
 
 ## Reference

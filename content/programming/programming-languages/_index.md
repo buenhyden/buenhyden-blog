@@ -7,23 +7,24 @@ linkTitle: Programming Languages
 
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 series:
-    - Programming Language
-    - Programming
+  - Programming Language
+  - Programming
 categories:
-    - Programming Language
-    - Programming
+  - Programming Language
+  - Programming
 tags:
-    - Programming Language
-    - Programming
+  - Programming Language
+  - Programming
 lastmod: 2023-12-10T04:05:31.114Z
 draft: published
 keywords:
-    - Programming Language
+  - Programming Language
 slug: programming-languages
+featured: true
 ---
 
 ![Programming Language](/content/programming/programming-language.webp#center "https://www.computerhope.com/issues/ch000569.htm")

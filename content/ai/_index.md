@@ -6,25 +6,26 @@ description: 컴퓨터에서 음성 및 작성된 언어를 보고 이해하고 
 linkTitle: AI
 nav_weight: 5
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - AI
+  - AI
 categories:
-    - AI
+  - AI
 tags:
-    - AI
+  - AI
 lastmod: 2023-12-13T07:27:02.912Z
 draft: published
 layout: list
 keywords:
-    - AI
+  - AI
 slug: ai
+featured: true
 ---
 
-![What is Artificial Intelligence](/content/content/ai/what-is-artificial-intelligence-infographic.width-880.webp#center "https://www.fool.com/terms/a/artificial-intelligence/")
+![What is Artificial Intelligence](content/ai/what-is-artificial-intelligence-infographic.width-880.webp#center "https://www.fool.com/terms/a/artificial-intelligence/")
 
 ## Reference
 

@@ -20,6 +20,7 @@ draft: published
 keywords:
   - statistics
 slug: statistics
+featured: true
 ---
 
 ## Lecture

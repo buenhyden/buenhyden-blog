@@ -6,21 +6,22 @@ description: 소프트웨어를 디자인
 linkTitle: Software Design & Architecture
 nav_weight: 6
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Software Design & Architecture
-    - Computer Science
+  - Software Design & Architecture
+  - Computer Science
 categories:
-    - Software Design & Architecture
-    - Computer Science
+  - Software Design & Architecture
+  - Computer Science
 tags:
-    - Software Design & Architecture
-    - Computer Science
+  - Software Design & Architecture
+  - Computer Science
 lastmod: 2023-12-10T03:12:47.474Z
 draft: published
+featured: true
 ---
 
 ## 하나 이상의 서비스 구현을 추상화 하는 API

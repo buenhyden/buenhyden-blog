@@ -19,6 +19,7 @@ draft: published
 keywords:
   - Programming
 slug: programming
+featured: true
 ---
 
 ## Lecture

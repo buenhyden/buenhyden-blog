@@ -6,21 +6,22 @@ description: 애플리케이션이 컴퓨팅 환경 간에 신속하고 신뢰�
 linkTitle: Container
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Container
+  - Dev Ops
+  - Container
 categories:
-    - Dev Ops
-    - Container
+  - Dev Ops
+  - Container
 tags:
-    - Dev Ops
-    - Container
+  - Dev Ops
+  - Container
 lastmod: 2023-12-16T19:14:22.228Z
 draft: published
+featured: true
 ---
 
 ![Container Strategy](/content/dev-ops/container-strategy.jpg#center "https://www.nextbigfuture.com/2019/09/what-is-a-container-in-information-technology-and-how-is-it-useful.html")

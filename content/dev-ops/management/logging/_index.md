@@ -6,23 +6,24 @@ description: 시스템이 작동할 때 시스템의 작동 상태의 기록과 
 linkTitle: Logging
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 categories:
-    - Dev Ops
-    - Management for Infrastructure
-    - Logging
+  - Dev Ops
+  - Management for Infrastructure
+  - Logging
 tags:
-    - Dev Ops
-    - Management for Infrastructure
-    - Logging
+  - Dev Ops
+  - Management for Infrastructure
+  - Logging
 lastmod: 2023-12-17T06:09:21.797Z
 draft: published
+featured: true
 ---
 
 ![Data Logging](/content/dev-ops/data-logging.png#center "https://www.motadata.com/blog/what-is-data-logging/")

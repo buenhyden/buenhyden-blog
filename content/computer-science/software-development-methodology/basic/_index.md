@@ -6,23 +6,24 @@ description: ""
 linkTitle: Software Development Methodology Basic
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - Software Development Methodology
+  - Computer Science
+  - Software Development Methodology
 categories:
-    - Computer Science
-    - Software Development Methodology
-    - Software Development Methodology Basic
+  - Computer Science
+  - Software Development Methodology
+  - Software Development Methodology Basic
 tags:
-    - Computer Science
-    - Software Development Methodology
-    - Software Development Methodology Basic
+  - Computer Science
+  - Software Development Methodology
+  - Software Development Methodology Basic
 lastmod: 2023-12-10T03:12:47.424Z
 draft: in progress
+featured: true
 ---
 
 ## Reference

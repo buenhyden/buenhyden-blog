@@ -6,23 +6,24 @@ description: 마크업 언어로 작성된 문서가 실제로 웹사이트에 �
 linkTitle: CSS
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Frontend
-    - Styling
+  - Frontend
+  - Styling
 categories:
-    - Frontend
-    - Styling
-    - CSS
+  - Frontend
+  - Styling
+  - CSS
 tags:
-    - Frontend
-    - Styling
-    - CSS
+  - Frontend
+  - Styling
+  - CSS
 lastmod: 2023-12-10T03:12:47.073Z
 draft: published
+featured: true
 ---
 
 ![CSS](/content/frontend/css.png#center "https://www.oxfordwebstudio.com/en/did-you-know/what-is-css")

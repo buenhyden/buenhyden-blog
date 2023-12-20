@@ -6,24 +6,25 @@ description: 몇 개의 독립적인 장치가 적절한 영역 내에서 적당
 linkTitle: Network
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Network
-    - Computer Science
+  - Network
+  - Computer Science
 categories:
-    - Network
-    - Computer Science
+  - Network
+  - Computer Science
 tags:
-    - Network
-    - Computer Science
+  - Network
+  - Computer Science
 lastmod: 2023-12-17T03:04:47.738Z
 draft: published
 keywords:
-    - 네트워크
-    - Network
+  - 네트워크
+  - Network
+featured: true
 ---
 
 네트워크란 **연결하는 선이나 장치 같은 물리적인 측면부터 데이터를 주고받는 데에 필요한 메시지나 규약과 같은 비물리적인 측면까지 모두 포함한 통신 과정 전체를 아우르는 개념**

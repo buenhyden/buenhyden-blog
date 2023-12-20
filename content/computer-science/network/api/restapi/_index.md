@@ -6,25 +6,26 @@ description: 두 컴퓨터 시스템이 인터넷을 통해 정보를 안전하�
 linkTitle: RESTful API
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - Network
+  - Computer Science
+  - Network
 categories:
-    - API
-    - Network
-    - REST API
-    - Computer Science
+  - API
+  - Network
+  - REST API
+  - Computer Science
 tags:
-    - API
-    - Network
-    - REST API
-    - Computer Science
+  - API
+  - Network
+  - REST API
+  - Computer Science
 lastmod: 2023-12-18T05:06:45.173Z
 draft: published
+featured: true
 ---
 
 ![What is Rest API](/content/computer-science/what-is-rest-api.png#center "https://mannhowie.com/rest-api")

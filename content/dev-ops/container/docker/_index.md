@@ -6,23 +6,24 @@ description: 빠르게 애플리케이션을 구축, 테스트 및 배포할 수
 linkTitle: Docker
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Container
-    - Dev Ops
+  - Container
+  - Dev Ops
 categories:
-    - Dev Ops
-    - Container
-    - Docker
+  - Dev Ops
+  - Container
+  - Docker
 tags:
-    - Dev Ops
-    - Container
-    - Docker
+  - Dev Ops
+  - Container
+  - Docker
 lastmod: 2023-12-10T03:12:46.565Z
 draft: published
+featured: true
 ---
 
 ![Docker](/content/dev-ops/docker.png?width=512px#center "https://developer.nvidia.com/ko-kr/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EB%B0%8F-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%97%90%EC%84%9C-nvidia-nsight-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/")

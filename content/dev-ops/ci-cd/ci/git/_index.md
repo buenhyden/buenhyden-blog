@@ -6,27 +6,28 @@ description: 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사�
 linkTitle: Git
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - CI/CD
-    - Dev Ops
+  - CI/CD
+  - Dev Ops
 categories:
-    - Dev Ops
-    - CI/CD
-    - Version Control
-    - Continuous Integration(CI)
-    - Git
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
 tags:
-    - Dev Ops
-    - CI/CD
-    - Version Control
-    - Continuous Integration(CI)
-    - Git
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
 lastmod: 2023-12-15T05:20:14.822Z
 draft: published
+featured: true
 ---
 
 ## Git Version 관리

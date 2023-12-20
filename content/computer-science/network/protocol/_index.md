@@ -6,23 +6,24 @@ description: null
 linkTitle: Protocol
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Network
-    - Computer Science
+  - Network
+  - Computer Science
 categories:
-    - Network
-    - Protocol
-    - Computer Science
+  - Network
+  - Protocol
+  - Computer Science
 tags:
-    - Network
-    - Protocol
-    - Computer Science
+  - Network
+  - Protocol
+  - Computer Science
 lastmod: 2023-12-16T19:12:09.321Z
 draft: published
+featured: true
 ---
 
 ![Protocol](/content/computer-science/protocol.png#center "http://www.tcpipguide.com/free/t_TCPIPProtocols.htm")

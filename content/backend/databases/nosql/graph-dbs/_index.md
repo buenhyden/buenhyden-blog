@@ -6,27 +6,28 @@ description: 시맨틱 쿼리를 위해 노드, 엣지, 프로퍼티와 함께 �
 linkTitle: Graph DBs
 nav_weight: 6
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Database
-    - Backend
+  - Database
+  - Backend
 categories:
-    - Backend
-    - Database
-    - NoSQL
-    - Graph DBs
+  - Backend
+  - Database
+  - NoSQL
+  - Graph DBs
 tags:
-    - Backend
-    - Database
-    - NoSQL
-    - Graph DBs
+  - Backend
+  - Database
+  - NoSQL
+  - Graph DBs
 lastmod: 2023-12-17T06:32:59.909Z
 draft: published
 keywords:
-    - NoSQL
+  - NoSQL
+featured: true
 ---
 
 ## Reference

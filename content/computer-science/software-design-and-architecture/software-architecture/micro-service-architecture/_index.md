@@ -6,27 +6,28 @@ description: 단일 애플리케이션을 작은 서비스 모음으로 개발�
 linkTitle: Micro Service Architecture(MSA)
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - System Design & Architecture
+  - Computer Science
+  - System Design & Architecture
 categories:
-    - Computer Science
-    - Micro Service Architecture
-    - MSA
-    - System Design & Architecture
-    - System Architecture
+  - Computer Science
+  - Micro Service Architecture
+  - MSA
+  - System Design & Architecture
+  - System Architecture
 tags:
-    - Computer Science
-    - Micro Service Architecture
-    - MSA
-    - System Design & Architecture
-    - System Architecture
+  - Computer Science
+  - Micro Service Architecture
+  - MSA
+  - System Design & Architecture
+  - System Architecture
 lastmod: 2023-12-16T19:20:09.864Z
 draft: published
+featured: true
 ---
 
 ## Micro Service Architecture vs Monolithic

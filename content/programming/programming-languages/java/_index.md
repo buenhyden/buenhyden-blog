@@ -5,28 +5,29 @@ description: 썬 마이크로시스템즈에서 1995년에 개발한 객체 지�
 linkTitle: Java
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Programming
-    - Programming Language
+  - Programming
+  - Programming Language
 categories:
-    - Java
-    - Programming Language
-    - Programming
+  - Java
+  - Programming Language
+  - Programming
 tags:
-    - Java
-    - Programming Language
-    - Programming
+  - Java
+  - Programming Language
+  - Programming
 lastmod: 2023-12-10T04:11:10.930Z
 date: 2023-11-11T14:08:18.503Z
 draft: published
 keywords:
-    - Programming Language
-    - Java
+  - Programming Language
+  - Java
 slug: java
+featured: true
 ---
 
 ## Lecture

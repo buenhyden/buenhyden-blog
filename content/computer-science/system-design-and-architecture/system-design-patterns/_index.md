@@ -6,23 +6,24 @@ description: ""
 linkTitle: System Design Patterns
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - System Design & Architecture
-    - Computer Science
+  - System Design & Architecture
+  - Computer Science
 categories:
-    - Computer Science
-    - System Design & Architecture
-    - System Design Patterns
+  - Computer Science
+  - System Design & Architecture
+  - System Design Patterns
 tags:
-    - Computer Science
-    - System Design & Architecture
-    - System Design Patterns
+  - Computer Science
+  - System Design & Architecture
+  - System Design Patterns
 lastmod: 2023-12-10T03:12:47.371Z
 draft: published
+featured: true
 ---
 
 ## Reference

@@ -8,4 +8,5 @@ nav_icon:
   vendor: bs
   name: images
   color: blue
+featured: true
 ---

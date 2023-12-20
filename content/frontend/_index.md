@@ -6,18 +6,19 @@ description: 백엔드 API에서 가져온 데이터의 출력, 입력을 통한
 linkTitle: Frontend
 nav_weight: 10
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Frontend
+  - Frontend
 categories:
-    - Frontend
+  - Frontend
 tags:
-    - Frontend
+  - Frontend
 lastmod: 2023-12-13T07:27:29.410Z
 draft: published
+featured: true
 ---
 
 ## Web Application

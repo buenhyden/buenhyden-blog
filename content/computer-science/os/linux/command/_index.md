@@ -6,28 +6,29 @@ description: ""
 linkTitle: Linux Command
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Computer Science
-    - Operating System
-    - OS
+  - Computer Science
+  - Operating System
+  - OS
 categories:
-    - Command
-    - Computer Science
-    - Linux
-    - Operating System
-    - OS
+  - Command
+  - Computer Science
+  - Linux
+  - Operating System
+  - OS
 tags:
-    - Command
-    - Computer Science
-    - Linux
-    - Operating System
-    - OS
+  - Command
+  - Computer Science
+  - Linux
+  - Operating System
+  - OS
 lastmod: 2023-12-10T02:45:21.724Z
 draft: published
+featured: true
 ---
 
 ## Reference

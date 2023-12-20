@@ -28,7 +28,8 @@ images:
 #       icon:
 #         vendor: bs
 #         name: book
-#         color: '#e24d0e'
+#         color: '#e24d0e
+featured: true
 ---
 
 Summary.

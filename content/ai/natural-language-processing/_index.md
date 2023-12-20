@@ -7,25 +7,26 @@ linkTitle: Natural Language Processing
 
 nav_weight: 5
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 series:
-    - AI
+  - AI
 categories:
-    - AI
-    - Natural Language Processing
+  - AI
+  - Natural Language Processing
 tags:
-    - AI
-    - Natural Language Processing
+  - AI
+  - Natural Language Processing
 lastmod: 2023-12-12T05:13:06.363Z
 draft: published
 layout: list
 keywords:
-    - AI
-    - NLP
-    - Natural Language Processing
+  - AI
+  - NLP
+  - Natural Language Processing
 slug: natural-language-processing
+featured: true
 ---
 
 ## Lecture

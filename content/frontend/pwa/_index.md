@@ -6,21 +6,22 @@ description: HTML, CSS, 자바스크립트(JavaScript)와 같은 웹 기술로 �
 linkTitle: Progressive Web Apps(PWA)
 nav_weight: 6
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Frontend
-    - Progressive Web App
+  - Frontend
+  - Progressive Web App
 categories:
-    - Frontend
-    - Progressive Web App
+  - Frontend
+  - Progressive Web App
 tags:
-    - Frontend
-    - Progressive Web App
+  - Frontend
+  - Progressive Web App
 lastmod: 2023-12-10T03:12:47.174Z
 draft: published
+featured: true
 ---
 
 ## Reference

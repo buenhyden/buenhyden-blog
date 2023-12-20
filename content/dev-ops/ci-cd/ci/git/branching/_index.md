@@ -6,27 +6,28 @@ description: null
 linkTitle: Git Branching
 nav_weight: 5
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - CI/CD
-    - Dev Ops
+  - CI/CD
+  - Dev Ops
 categories:
-    - Dev Ops
-    - CI/CD
-    - Version Control
-    - Continuous Integration(CI)
-    - Git
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
 tags:
-    - Dev Ops
-    - CI/CD
-    - Version Control
-    - Continuous Integration(CI)
-    - Git
+  - Dev Ops
+  - CI/CD
+  - Version Control
+  - Continuous Integration(CI)
+  - Git
 lastmod: 2023-12-10T03:12:45.147Z
 draft: published
+featured: true
 ---
 
 ## Reference

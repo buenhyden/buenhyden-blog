@@ -6,20 +6,21 @@ description: 원시 데이터(raw data)를 가져와 분석 및 머신러닝과 
 linkTitle: Data Engineering
 nav_weight: 11
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 series:
-    - Data Engineering
-    - Data
+  - Data Engineering
+  - Data
 categories:
-    - Data Engineering
-    - Data
+  - Data Engineering
+  - Data
 tags:
-    - Data Engineering
-    - Data
+  - Data Engineering
+  - Data
 lastmod: 2023-12-10T03:12:43.606Z
 draft: published
+featured: true
 ---
 
 ## Roadmap

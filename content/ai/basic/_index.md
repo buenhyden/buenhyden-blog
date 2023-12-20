@@ -24,9 +24,10 @@ slug: ai-basic
 layout: list
 keywords:
   - AI
+featured: true
 ---
 
-![Machine Learning](ai/ml-algorithms.webp "https://johnvastola.medium.com/10-must-know-machine-learning-algorithms-for-data-scientists-adbf3272398a")
+![Machine Learning](content/ai/ml-algorithms.webp "https://johnvastola.medium.com/10-must-know-machine-learning-algorithms-for-data-scientists-adbf3272398a")
 
 ## 기계 학습의 핵심
 

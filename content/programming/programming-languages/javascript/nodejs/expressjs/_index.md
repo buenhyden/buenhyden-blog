@@ -5,34 +5,35 @@ description: Node.js를 위한 웹 프레임워크의 하나로, MIT 허가서�
 linkTitle: Express.js
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Programming
-    - Programming Language
+  - Programming
+  - Programming Language
 categories:
-    - Express.js
-    - Javascript
-    - Node.js
-    - Programming Language
-    - Programming
+  - Express.js
+  - Javascript
+  - Node.js
+  - Programming Language
+  - Programming
 tags:
-    - Express.js
-    - Javascript
-    - Node.js
-    - Programming Language
-    - Programming
+  - Express.js
+  - Javascript
+  - Node.js
+  - Programming Language
+  - Programming
 lastmod: 2023-12-10T04:18:28.050Z
 date: 2023-11-16T01:09:23.260Z
 draft: published
 keywords:
-    - Javascript
-    - NodeJS
-    - Programming Language
-    - ExpressJS
+  - Javascript
+  - NodeJS
+  - Programming Language
+  - ExpressJS
 slug: express-js
+featured: true
 ---
 
 ![Express JS](/content/programming/express-js.png#center "https://medium.com/@dnvavinash/everything-about-express-ce2ab2f0b80d")

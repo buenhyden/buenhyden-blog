@@ -5,28 +5,29 @@ description: 자바스크립트의 단점을 보완하기 위해 만들어진 �
 linkTitle: Typescript
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Programming Language
-    - Programming
+  - Programming Language
+  - Programming
 categories:
-    - Programming Language
-    - Typescript
-    - Programming Paradigm
+  - Programming Language
+  - Typescript
+  - Programming Paradigm
 tags:
-    - Programming Language
-    - Typescript
-    - Programming
+  - Programming Language
+  - Typescript
+  - Programming
 lastmod: 2023-12-10T04:05:37.143Z
 date: 2023-11-16T01:10:09.414Z
 draft: published
 keywords:
-    - Programming Language
-    - Typescript
+  - Programming Language
+  - Typescript
 slug: typescript
+featured: true
 ---
 
 ![TypeScript](/content/programming/typescript.webp#center "https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k")

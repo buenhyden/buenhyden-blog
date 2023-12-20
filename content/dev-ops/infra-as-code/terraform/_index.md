@@ -6,28 +6,29 @@ description: HashiCorp가 개발한 오픈 소스 코드형 인프라스트럭�
 linkTitle: Terraform
 nav_weight: 3
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Infrastructure as Code
-    - Tools
+  - Dev Ops
+  - Infrastructure as Code
+  - Tools
 categories:
-    - Dev Ops
-    - Infrastructure as Code
-    - Infrastructure Provisioning
-    - Terraform
-    - tools
+  - Dev Ops
+  - Infrastructure as Code
+  - Infrastructure Provisioning
+  - Terraform
+  - tools
 tags:
-    - Dev Ops
-    - Infrastructure as Code
-    - Infrastructure Provisioning
-    - Terraform
-    - tools
+  - Dev Ops
+  - Infrastructure as Code
+  - Infrastructure Provisioning
+  - Terraform
+  - tools
 lastmod: 2023-12-10T03:12:46.125Z
 draft: published
+featured: true
 ---
 
 ![Terraform](/content/dev-ops/what-is-terraform.webp "https://www.scaler.com/topics/aws/terraform-aws/")

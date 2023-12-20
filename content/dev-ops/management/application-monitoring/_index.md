@@ -6,23 +6,24 @@ description: null
 linkTitle: Application Monitoring
 nav_weight: 9
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 categories:
-    - Application Monitoring
-    - Dev Ops
-    - Management for Infrastructure
+  - Application Monitoring
+  - Dev Ops
+  - Management for Infrastructure
 tags:
-    - Application Monitoring
-    - Dev Ops
-    - Management for Infrastructure
+  - Application Monitoring
+  - Dev Ops
+  - Management for Infrastructure
 lastmod: 2023-12-16T19:17:53.973Z
 draft: published
+featured: true
 ---
 
 ## Reference

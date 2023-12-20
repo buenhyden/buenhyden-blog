@@ -6,23 +6,24 @@ description: 시스템의 구조, 행위, 더 많은 뷰를 정의하는 개념�
 linkTitle: System Architecture
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - System Design & Architecture
-    - Computer Science
+  - System Design & Architecture
+  - Computer Science
 categories:
-    - System Architecture
-    - System Design & Architecture
-    - Computer Science
+  - System Architecture
+  - System Design & Architecture
+  - Computer Science
 tags:
-    - System Architecture
-    - System Design & Architecture
-    - Computer Science
+  - System Architecture
+  - System Design & Architecture
+  - Computer Science
 lastmod: 2023-12-10T03:12:47.347Z
 draft: published
+featured: true
 ---
 
 ![Enterprise System Architecture](/content/computer-science/Enterprise-system-architecture-1.png#center "https://blogs.sw.siemens.com/thought-leadership/2018/11/26/future-ready-framework-for-enterprise-system-architecture/")

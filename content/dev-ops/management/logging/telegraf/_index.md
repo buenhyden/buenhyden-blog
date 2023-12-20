@@ -6,27 +6,28 @@ description: ""
 linkTitle: Telegraf
 nav_weight: 2
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
+  vendor: bs
+  name: book
+  color: blue
 
 series:
-    - Dev Ops
-    - Management for Infrastructure
+  - Dev Ops
+  - Management for Infrastructure
 categories:
-    - Dev Ops
-    - Management for Infrastructure
-    - Monitoring System
-    - Telegraf
-    - Logging
+  - Dev Ops
+  - Management for Infrastructure
+  - Monitoring System
+  - Telegraf
+  - Logging
 tags:
-    - Dev Ops
-    - Management for Infrastructure
-    - Monitoring System
-    - Telegraf
-    - Logging
+  - Dev Ops
+  - Management for Infrastructure
+  - Monitoring System
+  - Telegraf
+  - Logging
 lastmod: 2023-12-17T06:13:37.807Z
 draft: published
+featured: true
 ---
 
 ## Reference
