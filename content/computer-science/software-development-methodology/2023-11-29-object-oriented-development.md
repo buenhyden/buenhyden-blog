@@ -6,21 +6,21 @@ description: "'객체'라는 기본 단위로 시스템을 분석 및 설계하�
 linkTitle: Object-Oriented Development
 nav_weight: 4
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - Software Development Methodology
+    - Computer Science
+    - Software Development Methodology
 categories:
-  - Computer Science
-  - Object-Oriented Development
-  - Software Development Methodology
+    - Computer Science
+    - Object-Oriented Development
+    - Software Development Methodology
 tags:
-  - Computer Science
-  - Object-Oriented Development
-  - Software Development Methodology
+    - Computer Science
+    - Object-Oriented Development
+    - Software Development Methodology
 lastmod: 2023-12-09T06:19:09.703Z
 draft: in progress
 ---

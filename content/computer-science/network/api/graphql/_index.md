@@ -6,28 +6,28 @@ description: API를 위한 쿼리 언어(Query Language)이며 타입 시스템�
 linkTitle: GraphQL
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - Network
+    - Computer Science
+    - Network
 categories:
-  - API
-  - GraphQL
-  - Network
-  - Computer Science
+    - API
+    - GraphQL
+    - Network
+    - Computer Science
 tags:
-  - API
-  - GraphQL
-  - Network
-  - Computer Science
+    - API
+    - GraphQL
+    - Network
+    - Computer Science
 lastmod: 2023-12-10T02:43:30.194Z
 draft: published
 ---
 
-![What is GraphQL](/computer-science/what-is-graphql.png#center "https://medium.com/javarevisited/do-you-know-about-graphql-the-query-language-for-api-s-4038660865be")
+![What is GraphQL](/content/computer-science/what-is-graphql.png#center "https://medium.com/javarevisited/do-you-know-about-graphql-the-query-language-for-api-s-4038660865be")
 
 ## Roadmap
 

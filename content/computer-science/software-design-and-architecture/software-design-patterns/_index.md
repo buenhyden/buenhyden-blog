@@ -6,21 +6,21 @@ description: 소프트웨어 개발 중 특정 문맥에서 발생할 수 있는
 linkTitle: Software Design Patterns
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Software Design & Architecture
-  - Computer Science
+    - Software Design & Architecture
+    - Computer Science
 categories:
-  - Computer Science
-  - Software Design & Architecture
-  - Software Design Patterns
+    - Computer Science
+    - Software Design & Architecture
+    - Software Design Patterns
 tags:
-  - Computer Science
-  - Software Design & Architecture
-  - Software Design Patterns
+    - Computer Science
+    - Software Design & Architecture
+    - Software Design Patterns
 lastmod: 2023-12-10T03:12:47.521Z
 draft: published
 ---

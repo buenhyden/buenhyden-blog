@@ -6,23 +6,23 @@ description: 데이터 테이블을 로우가 아닌 컬럼으로 저장하는 �
 linkTitle: Column DBs
 nav_weight: 4
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Database
-  - Backend
+    - Database
+    - Backend
 categories:
-  - Backend
-  - Database
-  - NoSQL
-  - Column DBs
+    - Backend
+    - Database
+    - NoSQL
+    - Column DBs
 tags:
-  - Backend
-  - Database
-  - NoSQL
-  - Column DBs
+    - Backend
+    - Database
+    - NoSQL
+    - Column DBs
 lastmod: 2023-12-10T02:40:14.123Z
 draft: published
 ---

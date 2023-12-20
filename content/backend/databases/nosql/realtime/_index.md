@@ -6,27 +6,27 @@ description: 스트리밍 기술을 사용하여 상태가 지속적으로 변�
 linkTitle: Realtime
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Database
-  - Backend
+    - Database
+    - Backend
 categories:
-  - Backend
-  - Database
-  - NoSQL
-  - Realtime
+    - Backend
+    - Database
+    - NoSQL
+    - Realtime
 tags:
-  - Backend
-  - Database
-  - NoSQL
-  - Realtime
+    - Backend
+    - Database
+    - NoSQL
+    - Realtime
 lastmod: 2023-12-10T04:37:59.811Z
 draft: published
 keywords:
-  - NoSQL
+    - NoSQL
 ---
 
 ## Reference

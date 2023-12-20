@@ -5,30 +5,30 @@ date: 2023-10-15T12:46:00+09:00
 description: 오픈 소스 관계형 데이터베이스 관리 시스템
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Backend
-  - Database
+    - Backend
+    - Database
 categories:
-  - Backend
-  - Database
-  - RDBMS
-  - MariaDB
+    - Backend
+    - Database
+    - RDBMS
+    - MariaDB
 tags:
-  - Backend
-  - Database
-  - RDBMS
-  - MariaDB
+    - Backend
+    - Database
+    - RDBMS
+    - MariaDB
 lastmod: 2023-12-10T04:39:41.907Z
 draft: published
 keywords:
-  - RDBMS
+    - RDBMS
 ---
 
-![Maria DB](/backend/mariadb.png#center "https://namu.wiki/w/MariaDB")
+![Maria DB](/content/backend/mariadb.png#center "https://namu.wiki/w/MariaDB")
 
 ## Reference
 

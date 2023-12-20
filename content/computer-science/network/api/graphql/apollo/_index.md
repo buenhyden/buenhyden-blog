@@ -6,28 +6,28 @@ description: null
 linkTitle: Apollo
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - Network
-  - Tools
+    - Computer Science
+    - Network
+    - Tools
 categories:
-  - API
-  - Apollo
-  - Computer Science
-  - GraphQL
-  - Network
-  - tools
+    - API
+    - Apollo
+    - Computer Science
+    - GraphQL
+    - Network
+    - tools
 tags:
-  - API
-  - Apollo
-  - Computer Science
-  - GraphQL
-  - Network
-  - tools
+    - API
+    - Apollo
+    - Computer Science
+    - GraphQL
+    - Network
+    - tools
 lastmod: 2023-12-10T02:43:26.574Z
 draft: published
 ---

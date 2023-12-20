@@ -6,29 +6,29 @@ description: 사용자가 제품 또는 서비스에 대해 갖는 경험에 관
 linkTitle: UX
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Design
-  - Frontend
+    - Design
+    - Frontend
 categories:
-  - Frontend
-  - Design
-  - UX
+    - Frontend
+    - Design
+    - UX
 tags:
-  - Frontend
-  - Design
-  - UX
+    - Frontend
+    - Design
+    - UX
 lastmod: 2023-12-10T03:12:46.768Z
 draft: published
 ---
 
-- UX : USER EXPERIENCE
-- UX는 사용자 경험의 약자로, 사용자가 어떠한 서비스/ 제품을 직간접적으로 이용하면서 느끼는 종합적인 만족을 의미
-- UX 디자인이란 사용자에게 만족스러운 경험을 제공하는 UI를 디자인 하는 것
-- 사용자가 만족할 수 있도록 사용자 중심적으로 설계된 디자인
+-   UX : USER EXPERIENCE
+-   UX는 사용자 경험의 약자로, 사용자가 어떠한 서비스/ 제품을 직간접적으로 이용하면서 느끼는 종합적인 만족을 의미
+-   UX 디자인이란 사용자에게 만족스러운 경험을 제공하는 UI를 디자인 하는 것
+-   사용자가 만족할 수 있도록 사용자 중심적으로 설계된 디자인
 
 ## Roadmap
 

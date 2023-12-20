@@ -5,21 +5,21 @@ description: ""
 linkTitle: QA Engineering Basic
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - QA Engineering
+    - Computer Science
+    - QA Engineering
 categories:
-  - Computer Science
-  - QA Engineering Basic
-  - QA Engineering
+    - Computer Science
+    - QA Engineering Basic
+    - QA Engineering
 tags:
-  - Computer Science
-  - QA Engineering
-  - QA Engineering Basic
+    - Computer Science
+    - QA Engineering
+    - QA Engineering Basic
 lastmod: 2023-12-10T03:12:47.620Z
 date: 2023-11-26T13:02:12.342Z
 draft: published

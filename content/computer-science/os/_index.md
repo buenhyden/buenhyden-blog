@@ -6,31 +6,31 @@ description: 사용자의 하드웨어, 시스템 리소스를 제어하고 프�
 linkTitle: Operating System
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - Operating System
-  - OS
+    - Computer Science
+    - Operating System
+    - OS
 categories:
-  - Computer Science
-  - Operating System
-  - OS
+    - Computer Science
+    - Operating System
+    - OS
 tags:
-  - Computer Science
-  - Operating System
-  - OS
+    - Computer Science
+    - Operating System
+    - OS
 lastmod: 2023-12-10T02:45:42.944Z
 draft: published
 ---
 
-![OS](/computer-science/os.png#center "https://www.facebook.com/111349887407960/posts/what-is-an-operating-system-definitionan-operating-system-is-a-program-that-acts/147503810459234/")
+![OS](/content/computer-science/os.png#center "https://www.facebook.com/111349887407960/posts/what-is-an-operating-system-definitionan-operating-system-is-a-program-that-acts/147503810459234/")
 
 ## OS Components
 
-![Operating System Components](/computer-science/os-components.png#center "https://medium.com/@rahulptl556/mastering-operating-systems-from-basics-to-advanced-concepts-6f6275621cc5")
+![Operating System Components](/content/computer-science/os-components.png#center "https://medium.com/@rahulptl556/mastering-operating-systems-from-basics-to-advanced-concepts-6f6275621cc5")
 
 ## Reference
 

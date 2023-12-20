@@ -6,30 +6,30 @@ description: 소프트웨어의 개발과 운영의 합성어로서, 소프트�
 linkTitle: Dev Ops
 nav_weight: 7
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Dev Ops
+    - Dev Ops
 categories:
-  - Dev Ops
+    - Dev Ops
 tags:
-  - Dev Ops
+    - Dev Ops
 lastmod: 2023-12-16T19:20:35.068Z
 draft: published
 ---
 
-![Dev Ops](/dev-ops/devops.png?width=512px#center "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4")
+![Dev Ops](/content/dev-ops/devops.png?width=512px#center "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4")
 
 ## Dev Ops란
 
-- 소프트웨어의 개발(Development)과 운영(Operations)의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화.
-- 소프트웨어 개발조직과 운영조직 간의 상호 의존적 대응이며 조직이 소프트웨어 제품과 서비스를 빠른 시간에 개발 및 배포하는 것을 목적으로 한다
+-   소프트웨어의 개발(Development)과 운영(Operations)의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화.
+-   소프트웨어 개발조직과 운영조직 간의 상호 의존적 대응이며 조직이 소프트웨어 제품과 서비스를 빠른 시간에 개발 및 배포하는 것을 목적으로 한다
 
 ## Dev Ops Marketplace
 
-![Dev Ops Marketplace](/dev-ops/DevOps-Marketplace-Infinity-Loop.png#center "https://deviq.com.au/devops/")
+![Dev Ops Marketplace](/content/dev-ops/DevOps-Marketplace-Infinity-Loop.png#center "https://deviq.com.au/devops/")
 
 ## Roadmap
 

@@ -6,28 +6,28 @@ description: 별도의 원격 제어를 위한 코딩 없이 다른 주소 공�
 linkTitle: RPC
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - Network
+    - Computer Science
+    - Network
 categories:
-  - API
-  - Network
-  - RPC
-  - Computer Science
+    - API
+    - Network
+    - RPC
+    - Computer Science
 tags:
-  - API
-  - Network
-  - RPC
-  - Computer Science
+    - API
+    - Network
+    - RPC
+    - Computer Science
 lastmod: 2023-12-10T02:43:40.296Z
 draft: published
 ---
 
-![RPC mechanism](/computer-science/rpc-mechanism.png#center "https://www.itrelease.com/2021/06/what-is-remote-procedure-call-rpc-in-operating-system/")
+![RPC mechanism](/content/computer-science/rpc-mechanism.png#center "https://www.itrelease.com/2021/06/what-is-remote-procedure-call-rpc-in-operating-system/")
 
 ## Reference
 

@@ -6,26 +6,26 @@ description: 요소, 관계, 원칙, 디자인으로 구현된 환경에서의 �
 linkTitle: Software Architecture
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Software Design & Architecture
-  - Computer Science
+    - Software Design & Architecture
+    - Computer Science
 categories:
-  - Software Architecture
-  - Software Design & Architecture
-  - Computer Science
+    - Software Architecture
+    - Software Design & Architecture
+    - Computer Science
 tags:
-  - Software Architecture
-  - Software Design & Architecture
-  - Computer Science
+    - Software Architecture
+    - Software Design & Architecture
+    - Computer Science
 lastmod: 2023-12-17T03:06:13.866Z
 draft: published
 ---
 
-![Software Architecture](/computer-science/software-architecture.webp#center "https://herbertograca.com/tag/explicit-architecture/")
+![Software Architecture](/content/computer-science/software-architecture.webp#center "https://herbertograca.com/tag/explicit-architecture/")
 
 ## Reference
 

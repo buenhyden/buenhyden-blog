@@ -5,34 +5,34 @@ description: 확장성 있는 네트워크 애플리케이션 개발에 사용�
 linkTitle: Node.js
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Programming
-  - Programming Language
+    - Programming
+    - Programming Language
 categories:
-  - Javascript
-  - Node.js
-  - Programming Language
-  - Programming
+    - Javascript
+    - Node.js
+    - Programming Language
+    - Programming
 tags:
-  - Javascript
-  - Node.js
-  - Programming Language
-  - Programming
+    - Javascript
+    - Node.js
+    - Programming Language
+    - Programming
 lastmod: 2023-12-10T04:17:16.871Z
 date: 2023-11-16T01:12:03.510Z
 draft: published
 keywords:
-  - Javascript
-  - Programming Language
-  - NodeJS
+    - Javascript
+    - Programming Language
+    - NodeJS
 slug: node-js
 ---
 
-![Node JS](/programming/node-js.png#center "https://zdnet.co.kr/view/?no=20220421181628")
+![Node JS](/content/programming/node-js.png#center "https://zdnet.co.kr/view/?no=20220421181628")
 
 ## Roadmap
 

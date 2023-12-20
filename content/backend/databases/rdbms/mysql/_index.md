@@ -5,30 +5,30 @@ date: 2023-10-15T12:46:00+09:00
 description: 오픈 소스 관계형 데이터베이스 관리 시스템
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Backend
-  - Database
+    - Backend
+    - Database
 categories:
-  - Backend
-  - Database
-  - RDBMS
-  - MySQL
+    - Backend
+    - Database
+    - RDBMS
+    - MySQL
 tags:
-  - Backend
-  - Database
-  - RDBMS
-  - MySQL
+    - Backend
+    - Database
+    - RDBMS
+    - MySQL
 lastmod: 2023-12-10T04:39:36.674Z
 draft: published
 keywords:
-  - RDBMS
+    - RDBMS
 ---
 
-![MySQL DB](/backend/mysql.png#center "https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png")
+![MySQL DB](/content/backend/mysql.png#center "https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png")
 
 ## Roadmap
 

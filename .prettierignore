@@ -2,3 +2,6 @@ public
 dist
 node_modules
 themes
+.obsidian
+.history
+.eslintcache

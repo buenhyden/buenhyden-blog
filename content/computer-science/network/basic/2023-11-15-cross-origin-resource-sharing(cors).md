@@ -7,68 +7,67 @@ date: 2023-11-15T14:17:29.812Z
 lastmod: 2023-12-09T06:00:12.512Z
 nav_weight: 4
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
+    vendor: bs
+    name: book
+    color: blue
 tags:
-  - Computer Science
-  - Network
-  - Network Basic
-  - CORS
+    - Computer Science
+    - Network
+    - Network Basic
+    - CORS
 categories:
-  - Computer Science
-  - Network
-  - Network Basic
-  - CORS
+    - Computer Science
+    - Network
+    - Network Basic
+    - CORS
 series:
-  - Computer Science
-  - Network
-featured: false
-images: ""
+    - Computer Science
+    - Network
+
 authors: Hyunyoun Jo
 draft: in progress
 ---
 
-![CORS](/computer-science/cors.png?width=1024px#center "https://securityzines.com/flyers/cors.html")
+![CORS](/content/computer-science/cors.png?width=1024px#center "https://securityzines.com/flyers/cors.html")
 
 ## CORS Principle
 
-![CORS Principle](/computer-science/cors_principle.png?width=1024px#center "https://medium.com/@jiri.caga/issue-call-put-method-on-rest-api-write-in-spring-framework-cross-origin-request-blocked-c68f9390b9b1")
+![CORS Principle](/content/computer-science/cors_principle.png?width=1024px#center "https://medium.com/@jiri.caga/issue-call-put-method-on-rest-api-write-in-spring-framework-cross-origin-request-blocked-c68f9390b9b1")
 
 ## What is CORS?
 
-- **HTTP-based security mechanism** controlled and enforced by the client (Web Browser)
-  - 웹 페이지 상의 제한된 리소스를 최초 자원이 서비스된 도메인 밖의 다른 도메인으로부터 요청할 수 있게 허용하는 구조
+-   **HTTP-based security mechanism** controlled and enforced by the client (Web Browser)
+    -   웹 페이지 상의 제한된 리소스를 최초 자원이 서비스된 도메인 밖의 다른 도메인으로부터 요청할 수 있게 허용하는 구조
 
 ### How does it work?
 
 ## What is a CORS preflight?
 
-![CORS preflight scheme Server Client](/computer-science/cors-preflight-scheme-server-client.jpg?width=768px#center)
+![CORS preflight scheme Server Client](/content/computer-science/cors-preflight-scheme-server-client.jpg?width=768px#center)
 
 ## CORS Headers
 
-![Browser Server preflight request and esponse Headers](/computer-science/browser-server-preflight-request-and-response-headers.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![Browser Server preflight request and esponse Headers](/content/computer-science/browser-server-preflight-request-and-response-headers.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ## Why is request blocked by CORS policy?
 
 ## How to fix CORS error?
 
-![Response preflight request doesnt pass access control check](/computer-science/response-preflight-request-doesnt-pass-access-control-check.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![Response preflight request doesnt pass access control check](/content/computer-science/response-preflight-request-doesnt-pass-access-control-check.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ### Configure a server
 
 ### Install a browser extension
 
-![CORS preflight Browser extension solution](/computer-science/cors-preflight-browser-extension-solution.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![CORS preflight Browser extension solution](/content/computer-science/cors-preflight-browser-extension-solution.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ### Disable browser CORS checks
 
-![Disble CORS preflight in Web Browser](/computer-science/disabled-cors-preflight-in-web-browser.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![Disble CORS preflight in Web Browser](/content/computer-science/disabled-cors-preflight-in-web-browser.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ### Set up proxy Server
 
-![CORS preflight Porxy server solution](/computer-science/cors-preflight-proxy-server-solution.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![CORS preflight Porxy server solution](/content/computer-science/cors-preflight-proxy-server-solution.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ## Reference
 

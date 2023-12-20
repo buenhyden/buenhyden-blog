@@ -6,24 +6,24 @@ description: 데이터 값의 모임, 또 데이터 간의 관계, 그리고 데
 linkTitle: Data Structure
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
+    vendor: bs
+    name: book
+    color: blue
 series:
-  - Computer Science
-  - Data Structure & Algorithm
+    - Computer Science
+    - Data Structure & Algorithm
 categories:
-  - Data Structure
-  - Data Structure & Algorithm
-  - Computer Science
+    - Data Structure
+    - Data Structure & Algorithm
+    - Computer Science
 tags:
-  - Data Structure
-  - Data Structure & Algorithm
-  - Computer Science
+    - Data Structure
+    - Data Structure & Algorithm
+    - Computer Science
 lastmod: 2023-12-10T02:42:36.898Z
 draft: published
 ---
 
-![Data Structures](/computer-science/data-structures.png#center "https://www.linkedin.com/pulse/data-structure-smriti-saini")
+![Data Structures](/content/computer-science/data-structures.png#center "https://www.linkedin.com/pulse/data-structure-smriti-saini")
 
 ## Reference

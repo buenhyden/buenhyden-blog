@@ -6,23 +6,23 @@ description: 백엔드 API에서 가져온 데이터의 출력, 입력을 통한
 linkTitle: Frontend
 nav_weight: 10
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Frontend
+    - Frontend
 categories:
-  - Frontend
+    - Frontend
 tags:
-  - Frontend
+    - Frontend
 lastmod: 2023-12-13T07:27:29.410Z
 draft: published
 ---
 
 ## Web Application
 
-![Web Application](/frontend/web-application.png?width=1280px#center "https://nitro04.blogspot.com/2020/01/web-web-application-architecture.html")
+![Web Application](/content/frontend/web-application.png?width=1280px#center "https://nitro04.blogspot.com/2020/01/web-web-application-architecture.html")
 
 ## Roadmap
 

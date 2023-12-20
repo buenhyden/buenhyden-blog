@@ -6,26 +6,26 @@ description: null
 linkTitle: Open Telemetry
 nav_weight: 9
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Dev Ops
-  - Management for Infrastructure
-  - Tools
+    - Dev Ops
+    - Management for Infrastructure
+    - Tools
 categories:
-  - Dev Ops
-  - Management for Infrastructure
-  - Open Telemetry
-  - tools
-  - Observability
+    - Dev Ops
+    - Management for Infrastructure
+    - Open Telemetry
+    - tools
+    - Observability
 tags:
-  - Dev Ops
-  - Management for Infrastructure
-  - Open Telemetry
-  - tools
-  - Observability
+    - Dev Ops
+    - Management for Infrastructure
+    - Open Telemetry
+    - tools
+    - Observability
 lastmod: 2023-12-16T19:17:49.065Z
 draft: published
 ---

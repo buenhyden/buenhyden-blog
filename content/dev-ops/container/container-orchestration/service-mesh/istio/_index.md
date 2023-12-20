@@ -6,29 +6,28 @@ description: 애플리케이션 네트워크 기능을 유연하고 쉽게 자�
 linkTitle: Istio
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
-images: null
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Container
-  - Dev Ops
-  - Tools
+    - Container
+    - Dev Ops
+    - Tools
 categories:
-  - Dev Ops
-  - Container
-  - Container Orchestration(CO)
-  - Service Mesh
-  - Istio
-  - tools
+    - Dev Ops
+    - Container
+    - Container Orchestration(CO)
+    - Service Mesh
+    - Istio
+    - tools
 tags:
-  - Dev Ops
-  - Container
-  - Container Orchestration(CO)
-  - Service Mesh
-  - Istio
-  - tools
+    - Dev Ops
+    - Container
+    - Container Orchestration(CO)
+    - Service Mesh
+    - Istio
+    - tools
 lastmod: 2023-12-10T03:12:46.431Z
 draft: published
 ---

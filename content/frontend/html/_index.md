@@ -6,23 +6,23 @@ description: 웹사이트의 모습을 기술하기 위한 마크업 언어(Hype
 linkTitle: HTML
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
+    vendor: bs
+    name: book
+    color: blue
 series:
-  - Frontend
-  - HTML
+    - Frontend
+    - HTML
 categories:
-  - Frontend
-  - HTML
+    - Frontend
+    - HTML
 tags:
-  - Frontend
-  - HTML
+    - Frontend
+    - HTML
 lastmod: 2023-12-10T03:12:46.869Z
 draft: published
 ---
 
-![HTML Page Structure](/frontend/html-page-structure.png#center "https://www.linkedin.com/pulse/html-basic-tanvir-hossain")
+![HTML Page Structure](/content/frontend/html-page-structure.png#center "https://www.linkedin.com/pulse/html-basic-tanvir-hossain")
 
 ## Lecture
 

@@ -5,29 +5,29 @@ description: 구글이 출시한 오픈 소스 크로스 플랫폼 GUI 애플리
 linkTitle: Flutter
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Flutter
-  - Programming Language
+    - Flutter
+    - Programming Language
 categories:
-  - Dart
-  - Flutter
-  - Programming Language
-  - Programming
+    - Dart
+    - Flutter
+    - Programming Language
+    - Programming
 tags:
-  - Programming Language
-  - Flutter
-  - Dart
+    - Programming Language
+    - Flutter
+    - Dart
 lastmod: 2023-12-10T04:09:10.426Z
 date: 2023-11-11T14:03:58.106Z
 draft: published
 keywords:
-  - Dart
-  - Programming Language
-  - Flutter
+    - Dart
+    - Programming Language
+    - Flutter
 slug: flutter
 ---
 

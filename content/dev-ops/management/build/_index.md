@@ -6,21 +6,21 @@ description: ""
 linkTitle: build
 nav_weight: 6
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Dev Ops
-  - Management for Infrastructure
+    - Dev Ops
+    - Management for Infrastructure
 categories:
-  - Dev Ops
-  - Management for Infrastructure
-  - Build
+    - Dev Ops
+    - Management for Infrastructure
+    - Build
 tags:
-  - Dev Ops
-  - Management for Infrastructure
-  - Build
+    - Dev Ops
+    - Management for Infrastructure
+    - Build
 lastmod: 2023-12-10T03:12:45.363Z
 draft: published
 ---

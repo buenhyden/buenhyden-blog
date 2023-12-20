@@ -6,25 +6,25 @@ description: ""
 linkTitle: Deployment Strategy
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - CI/CD
-  - Dev Ops
+    - CI/CD
+    - Dev Ops
 categories:
-  - ArgoCD
-  - CI/CD
-  - Continuous Deployment(CD)
-  - Dev Ops
-  - Deployment Strategy
+    - ArgoCD
+    - CI/CD
+    - Continuous Deployment(CD)
+    - Dev Ops
+    - Deployment Strategy
 tags:
-  - ArgoCD
-  - CI/CD
-  - Continuous Deployment(CD)
-  - Dev Ops
-  - Deployment Strategy
+    - ArgoCD
+    - CI/CD
+    - Continuous Deployment(CD)
+    - Dev Ops
+    - Deployment Strategy
 lastmod: 2023-12-10T03:12:44.844Z
 draft: published
 ---

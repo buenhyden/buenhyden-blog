@@ -6,34 +6,34 @@ description: 주요 이해관계자들에게 시험 대상 제품 또는 서비�
 linkTitle: QA Engineering
 nav_weight: 5
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - QA Engineering
-  - Computer Science
+    - QA Engineering
+    - Computer Science
 categories:
-  - QA Engineering
-  - Computer Science
+    - QA Engineering
+    - Computer Science
 tags:
-  - QA Engineering
-  - Computer Science
+    - QA Engineering
+    - Computer Science
 lastmod: 2023-12-16T19:16:15.775Z
 draft: published
 ---
 
 ## Quality Assurance (QA)
 
-![Quality Assurance](/computer-science/quality-assurance-1.png#center "https://www.cpfcoindia.com/quality-assurance/")
+![Quality Assurance](/content/computer-science/quality-assurance-1.png#center "https://www.cpfcoindia.com/quality-assurance/")
 
 ## QA Process
 
-![Quality Assurance](/computer-science/Quality-Assurance-Process-1.jpg#center "https://spinaciatech.com/services/testing-qa/")
+![Quality Assurance](/content/computer-science/Quality-Assurance-Process-1.jpg#center "https://spinaciatech.com/services/testing-qa/")
 
 ## QA Role & Skills
 
-![Quality Assurance](/computer-science/0_IQmoYSo_cFPuzbEM.webp#center "https://medium.com/hackernoon/qa-engineering-roles-skills-tools-and-responsibilities-in-a-testing-team-7c499adc8057")
+![Quality Assurance](/content/computer-science/0_IQmoYSo_cFPuzbEM.webp#center "https://medium.com/hackernoon/qa-engineering-roles-skills-tools-and-responsibilities-in-a-testing-team-7c499adc8057")
 
 ## Roadmap
 

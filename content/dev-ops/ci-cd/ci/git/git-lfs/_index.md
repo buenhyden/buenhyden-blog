@@ -6,25 +6,25 @@ description: null
 linkTitle: Git LFS
 nav_weight: 12
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - CI/CD
-  - Dev Ops
+    - CI/CD
+    - Dev Ops
 categories:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git LFS
+    - Dev Ops
+    - CI/CD
+    - Version Control
+    - Continuous Integration(CI)
+    - Git LFS
 tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git LFS
+    - Dev Ops
+    - CI/CD
+    - Version Control
+    - Continuous Integration(CI)
+    - Git LFS
 lastmod: 2023-12-10T03:12:45.046Z
 draft: published
 ---

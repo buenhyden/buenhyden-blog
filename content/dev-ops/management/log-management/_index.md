@@ -6,21 +6,21 @@ description: null
 linkTitle: Log Management
 nav_weight: 9
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Dev Ops
-  - Management for Infrastructure
+    - Dev Ops
+    - Management for Infrastructure
 categories:
-  - Dev Ops
-  - Log Management
-  - Management for Infrastructure
+    - Dev Ops
+    - Log Management
+    - Management for Infrastructure
 tags:
-  - Dev Ops
-  - Log Management
-  - Management for Infrastructure
+    - Dev Ops
+    - Log Management
+    - Management for Infrastructure
 lastmod: 2023-12-10T03:12:45.694Z
 draft: published
 ---

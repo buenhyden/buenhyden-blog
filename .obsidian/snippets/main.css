@@ -1,0 +1,20 @@
+h2, .markdown-rendered h2, .HyperMD-header-2, .HyperMD-list-line .cm-header-2 {
+  font-variant: var(--h2-variant);
+  letter-spacing: -0.015em;
+  line-height: var(--h2-line-height);
+  font-size: var(--h2-size);
+  /* 변경 부분: color */
+  color: var(--h5-color);
+  font-weight: var(--h2-weight);
+  font-style: var(--h2-style);
+  font-family: var(--h2-font);
+}
+
+.markdown-preview-view h2, .HyperMD-header-2, .cm-header-2 {
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+  font-size: var(--h2) !important;
+  /* 변경 부분: color */
+  color: var(--h5-color);
+  font-weight: var(--h2-weight) !important;
+}

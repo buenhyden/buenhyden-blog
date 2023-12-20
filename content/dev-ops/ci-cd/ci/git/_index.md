@@ -6,32 +6,32 @@ description: 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사�
 linkTitle: Git
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - CI/CD
-  - Dev Ops
+    - CI/CD
+    - Dev Ops
 categories:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
+    - Dev Ops
+    - CI/CD
+    - Version Control
+    - Continuous Integration(CI)
+    - Git
 tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
+    - Dev Ops
+    - CI/CD
+    - Version Control
+    - Continuous Integration(CI)
+    - Git
 lastmod: 2023-12-15T05:20:14.822Z
 draft: published
 ---
 
 ## Git Version 관리
 
-![Git](/dev-ops/git.png#center "https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EA%B8%B0%EC%B4%88")
+![Git](/content/dev-ops/git.png#center "https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EA%B8%B0%EC%B4%88")
 
 ## Reference
 

@@ -6,21 +6,21 @@ description: ""
 linkTitle: Observability
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Dev Ops
-  - Management for Infrastructure
+    - Dev Ops
+    - Management for Infrastructure
 categories:
-  - Dev Ops
-  - Management for Infrastructure
-  - Observability
+    - Dev Ops
+    - Management for Infrastructure
+    - Observability
 tags:
-  - Dev Ops
-  - Management for Infrastructure
-  - Observability
+    - Dev Ops
+    - Management for Infrastructure
+    - Observability
 lastmod: 2023-12-16T19:15:02.976Z
 draft: published
 ---

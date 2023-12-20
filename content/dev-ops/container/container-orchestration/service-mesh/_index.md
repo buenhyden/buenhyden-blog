@@ -6,24 +6,23 @@ description: 소프트웨어 아키텍처에서 서비스 메시는 프록시를
 linkTitle: Service Mesh
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
-images: null
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Container
-  - Dev Ops
+    - Container
+    - Dev Ops
 categories:
-  - Dev Ops
-  - Container
-  - Container Orchestration(CO)
-  - Service Mesh
+    - Dev Ops
+    - Container
+    - Container Orchestration(CO)
+    - Service Mesh
 tags:
-  - Dev Ops
-  - Container
-  - Container Orchestration(CO)
-  - Service Mesh
+    - Dev Ops
+    - Container
+    - Container Orchestration(CO)
+    - Service Mesh
 lastmod: 2023-12-10T03:12:46.405Z
 draft: published
 ---

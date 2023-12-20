@@ -5,27 +5,27 @@ date: 2023-10-31T07:46:00+09:00
 description: Git Submodule
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
+    vendor: bs
+    name: book
+    color: blue
 authors:
-  - Hyunyoun Jo
+    - Hyunyoun Jo
 series:
-  - CI/CD
-  - Dev Ops
+    - CI/CD
+    - Dev Ops
 categories:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
+    - Dev Ops
+    - CI/CD
+    - Version Control
+    - Continuous Integration(CI)
+    - Git
 tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
-featured: true
+    - Dev Ops
+    - CI/CD
+    - Version Control
+    - Continuous Integration(CI)
+    - Git
+
 lastmod: 2023-12-09T06:20:21.059Z
 draft: published
 linkTitle: Git Submodule
@@ -43,7 +43,7 @@ Git 저장소 안에 다른 Git 저장소를 디렉토리로 분리해 넣는 �
 
 `git submodule <저장소의 URL> <추가하고자 하는 폴더>`
 
-- 추가하고자 하는 폴더를 입력하지 않으면 저장소 URL의 repo name으로 지정된다.
+-   추가하고자 하는 폴더를 입력하지 않으면 저장소 URL의 repo name으로 지정된다.
 
 ## Reference
 

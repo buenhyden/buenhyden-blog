@@ -6,23 +6,23 @@ description: null
 linkTitle: Programming Basics
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Programming
-  - Programming Basics
+    - Programming
+    - Programming Basics
 categories:
-  - Programming Basics
-  - Programming
+    - Programming Basics
+    - Programming
 tags:
-  - Programming Basics
-  - Programming
+    - Programming Basics
+    - Programming
 lastmod: 2023-12-16T19:11:27.144Z
 draft: published
 keywords:
-  - Programming
+    - Programming
 slug: programming-basics
 ---
 

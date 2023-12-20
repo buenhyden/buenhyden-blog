@@ -6,30 +6,30 @@ description: ""
 linkTitle: Test Driven Development(TDD)
 nav_weight: 8
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - Software Development Methodology
+    - Computer Science
+    - Software Development Methodology
 categories:
-  - Computer Science
-  - Software Development Methodology
-  - Test Driven Development
-  - TDD
+    - Computer Science
+    - Software Development Methodology
+    - Test Driven Development
+    - TDD
 tags:
-  - Computer Science
-  - Software Development Methodology
-  - Test Driven Development
-  - TDD
+    - Computer Science
+    - Software Development Methodology
+    - Test Driven Development
+    - TDD
 lastmod: 2023-12-10T03:12:47.449Z
 draft: in progress
-images: ""
+
 authors: Hyunyoun Jo
 ---
 
-![TDD Lifecyle](/computer-science/1920px-TDD_Global_Lifecycle.png "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C")
+![TDD Lifecyle](/content/computer-science/1920px-TDD_Global_Lifecycle.png "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C")
 
 ## Reference
 

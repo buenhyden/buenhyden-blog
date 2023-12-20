@@ -6,30 +6,30 @@ description: 멀티-패러다임 언어로 명령형, 함수형, 객체 지향�
 linkTitle: Javascript
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Programming
-  - Programming Language
+    - Programming
+    - Programming Language
 categories:
-  - Javascript
-  - Programming Language
-  - Programming
+    - Javascript
+    - Programming Language
+    - Programming
 tags:
-  - Javascript
-  - Programming Language
-  - Programming
+    - Javascript
+    - Programming Language
+    - Programming
 lastmod: 2023-12-10T04:11:25.914Z
 draft: published
 keywords:
-  - Programming Language
-  - Javascript
+    - Programming Language
+    - Javascript
 slug: javascript
 ---
 
-![Javascript](/programming/javascript_badge.svg.png#center "https://commons.wikimedia.org/wiki/File:Javascript_badge.svg")
+![Javascript](/content/programming/javascript_badge.svg.png#center "https://commons.wikimedia.org/wiki/File:Javascript_badge.svg")
 
 ## Roadmap
 

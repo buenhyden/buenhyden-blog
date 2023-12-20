@@ -6,32 +6,32 @@ description: 서버의 프로비저닝, SW 배포 등의 자동화를 관리해�
 linkTitle: Ansible
 nav_weight: 5
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Dev Ops
-  - Infrastructure as Code
-  - Tools
+    - Dev Ops
+    - Infrastructure as Code
+    - Tools
 categories:
-  - Dev Ops
-  - Infrastructure as Code
-  - Configuration Management
-  - Ansible
-  - tools
+    - Dev Ops
+    - Infrastructure as Code
+    - Configuration Management
+    - Ansible
+    - tools
 tags:
-  - Dev Ops
-  - Infrastructure as Code
-  - Configuration Management
-  - Ansible
-  - tools
+    - Dev Ops
+    - Infrastructure as Code
+    - Configuration Management
+    - Ansible
+    - tools
 lastmod: 2023-12-10T03:12:46.023Z
 authors: Hyunyoun Jo
 draft: published
 ---
 
-![Ansible](/dev-ops/0_4TFAqKIJIuldtG9X.webp "https://medium.com/@itsinil/ansible-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%90%EB%8F%99%ED%99%94-82376d4b9ca3")
+![Ansible](/content/dev-ops/0_4TFAqKIJIuldtG9X.webp "https://medium.com/@itsinil/ansible-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%9E%90%EB%8F%99%ED%99%94-82376d4b9ca3")
 
 ## Reference
 

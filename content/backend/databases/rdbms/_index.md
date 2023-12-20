@@ -6,28 +6,28 @@ description: 관계형 데이터베이스
 linkTitle: RDBMS
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Backend
-  - Database
+    - Backend
+    - Database
 categories:
-  - Backend
-  - Database
-  - RDBMS
+    - Backend
+    - Database
+    - RDBMS
 tags:
-  - Backend
-  - Database
-  - RDBMS
+    - Backend
+    - Database
+    - RDBMS
 lastmod: 2023-12-16T19:13:30.978Z
 draft: published
 keywords:
-  - 데이터베이스
+    - 데이터베이스
 ---
 
-![RDBMS](/backend/rdbms.png#center "https://en.m.wikipedia.org/wiki/File:RDBMS_structure.png")
+![RDBMS](/content/backend/rdbms.png#center "https://en.m.wikipedia.org/wiki/File:RDBMS_structure.png")
 
 ## Reference
 

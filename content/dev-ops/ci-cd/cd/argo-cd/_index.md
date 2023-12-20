@@ -6,23 +6,23 @@ description: GitOps를 구현하기 위한 도구 중 하나로 Kubernetes 애�
 linkTitle: ArgoCD
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - CI/CD
-  - Dev Ops
+    - CI/CD
+    - Dev Ops
 categories:
-  - ArgoCD
-  - CI/CD
-  - Dev Ops
-  - Continuous Deployment(CD)
+    - ArgoCD
+    - CI/CD
+    - Dev Ops
+    - Continuous Deployment(CD)
 tags:
-  - ArgoCD
-  - CI/CD
-  - Dev Ops
-  - Continuous Deployment(CD)
+    - ArgoCD
+    - CI/CD
+    - Dev Ops
+    - Continuous Deployment(CD)
 lastmod: 2023-12-11T15:29:32.116Z
 draft: published
 ---

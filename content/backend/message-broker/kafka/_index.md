@@ -6,32 +6,32 @@ description: 아파치 소프트웨어 재단이 스칼라로 개발한 오픈 �
 linkTitle: Kafka
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Backend
-  - Message Broker
-  - Tools
+    - Backend
+    - Message Broker
+    - Tools
 categories:
-  - Backend
-  - Message Broker
-  - tools
-  - Kafka
+    - Backend
+    - Message Broker
+    - tools
+    - Kafka
 tags:
-  - Backend
-  - Message Broker
-  - tools
-  - Kafka
+    - Backend
+    - Message Broker
+    - tools
+    - Kafka
 lastmod: 2023-12-17T06:31:15.364Z
 draft: published
 keywords:
-  - Message Broker
-  - Kafka
+    - Message Broker
+    - Kafka
 ---
 
-![Kafka](/backend/kafka.png#center "https://www.uber.com/en-ZA/blog/ureplicator-apache-kafka-replicator/")
+![Kafka](/content/backend/kafka.png#center "https://www.uber.com/en-ZA/blog/ureplicator-apache-kafka-replicator/")
 
 ## Reference
 

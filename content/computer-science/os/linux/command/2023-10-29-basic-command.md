@@ -6,26 +6,26 @@ description: Linux에서 자주 사용하는 명령어 모음
 linkTitle: Linux Basic Command
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - Operating System
-  - OS
+    - Computer Science
+    - Operating System
+    - OS
 categories:
-  - Command
-  - Computer Science
-  - Linux
-  - Operating System
-  - OS
+    - Command
+    - Computer Science
+    - Linux
+    - Operating System
+    - OS
 tags:
-  - Command
-  - Computer Science
-  - Linux
-  - Operating System
-  - OS
+    - Command
+    - Computer Science
+    - Linux
+    - Operating System
+    - OS
 lastmod: 2023-12-09T06:17:53.548Z
 draft: published
 ---
@@ -58,7 +58,7 @@ draft: published
 
 ### pwd
 
-- work directory의 약자로 작업 중인 디렉터리를 보여줌
+-   work directory의 약자로 작업 중인 디렉터리를 보여줌
 
 ```bash
 $ pwd
@@ -67,20 +67,20 @@ $ pwd
 
 ### ls
 
-- list segments의 약자로 현재 디렉터리의 파일과 디렉터리를 보여준다.
+-   list segments의 약자로 현재 디렉터리의 파일과 디렉터리를 보여준다.
 
-- 보통 단독으로 잘 사용하지 않고 a,l 등의 옵션과 함께 사용
+-   보통 단독으로 잘 사용하지 않고 a,l 등의 옵션과 함께 사용
 
-  | Option | Description                                                                                  |
-  | ------ | -------------------------------------------------------------------------------------------- |
-  | ls -l  | 파일들의 상세 정보를 보여줌                                                                  |
-  | ls -a  | 숨김 파일 표시                                                                               |
-  | ls -t  | 최신 파일부터 표시                                                                           |
-  | ls -rt | 오래된 파일부터 표시                                                                         |
-  | ls -F  | 파일을 표시할 때 파일의 타입을 나타내는 문자열을 표시(/ 디렉터리, \* 실행파일, @심볼릭 링크) |
-  | ls -R  | 하위 디렉터리의 내용까지 표시                                                                |
+    | Option | Description                                                                                  |
+    | ------ | -------------------------------------------------------------------------------------------- |
+    | ls -l  | 파일들의 상세 정보를 보여줌                                                                  |
+    | ls -a  | 숨김 파일 표시                                                                               |
+    | ls -t  | 최신 파일부터 표시                                                                           |
+    | ls -rt | 오래된 파일부터 표시                                                                         |
+    | ls -F  | 파일을 표시할 때 파일의 타입을 나타내는 문자열을 표시(/ 디렉터리, \* 실행파일, @심볼릭 링크) |
+    | ls -R  | 하위 디렉터리의 내용까지 표시                                                                |
 
-- 보통은 위 옵셥들을 조합해 ls -al, ls -alt, ls -altF 등으로 사용
+-   보통은 위 옵셥들을 조합해 ls -al, ls -alt, ls -altF 등으로 사용
 
 ```bash
 $ ls -altF
@@ -122,35 +122,35 @@ drwxrwxr-x  5 hyden hyden     4096 Aug  3 14:47 manage_kubernetes/
 -rwx------  1 hyden hyden    11345 Aug  2 10:13 get_helm.sh*
 ```
 
-- 심볼릭 링크(symbolic link) : 원본 파일을 가리키도록 링크만 연결. 윈도우의 바로가기 링크와 같은 개념
+-   심볼릭 링크(symbolic link) : 원본 파일을 가리키도록 링크만 연결. 윈도우의 바로가기 링크와 같은 개념
 
 ### cd
 
-- change directory의 약자로 디렉터리 이동시 사용하는 명령어
-  |Option|Description|
-  |------|-----------|
-  |cd ~|홈 디렉터리로 이동|
-  |cd ..|상위 디렉터리로 이동. cd ../../ 같은 식으로 여러 단계를 한 번에 이동 가능|
-  |cd /dir|절대 경로를 지정해 이동 가능|
-  |cd -|바로 전의 디렉터리로 이동|
+-   change directory의 약자로 디렉터리 이동시 사용하는 명령어
+    |Option|Description|
+    |------|-----------|
+    |cd ~|홈 디렉터리로 이동|
+    |cd ..|상위 디렉터리로 이동. cd ../../ 같은 식으로 여러 단계를 한 번에 이동 가능|
+    |cd /dir|절대 경로를 지정해 이동 가능|
+    |cd -|바로 전의 디렉터리로 이동|
 
 ### mkdir
 
-- make directory의 약자로 디렉터리를 만들 때 사용
+-   make directory의 약자로 디렉터리를 만들 때 사용
 
 ```bash
 # <이름>의 디렉터리를 현재 디렉터리에 만든다
 $ mkdir <이름>
 ```
 
-- 절대 경로를 지정하여 만들 수도 있다.
+-   절대 경로를 지정하여 만들 수도 있다.
 
 ```bash
 # <이름>의 디렉터리를 절대 경로의 디렉터리에 만든다
 $ mkdir /home/hyden/<이름>
 ```
 
-- -p 옵션으로 하위 디렉터리까지 한 번에 생성할 수 있다
+-   -p 옵션으로 하위 디렉터리까지 한 번에 생성할 수 있다
 
 ```bash
 mkdir -p <디렉터리명>/<하위 디렉터리명>
@@ -158,7 +158,7 @@ mkdir -p <디렉터리명>/<하위 디렉터리명>
 
 ### cp
 
-- copy의 약자로 파일 또는 디렉터리를 복사할 때 사용
+-   copy의 약자로 파일 또는 디렉터리를 복사할 때 사용
 
 ```bash
 # source를 target으로 복사
@@ -173,7 +173,7 @@ $ cp -R sourceDir targetDir
 
 ### mv
 
-- move의 약자로 파일 또는 디렉터리의 위치를 옮길 때 사용. 혹은 이름을 변경할 때도 사용
+-   move의 약자로 파일 또는 디렉터리의 위치를 옮길 때 사용. 혹은 이름을 변경할 때도 사용
 
 ```bash
 # afile 이름을 bfile로 변경
@@ -188,7 +188,7 @@ $ mv afile /opt/
 
 ### rm
 
-- remove의 약자로 파일 또는 디렉터리를 삭제할 때 사용
+-   remove의 약자로 파일 또는 디렉터리를 삭제할 때 사용
 
 ```bash
 # afile을 삭제
@@ -206,7 +206,7 @@ $ rm -i *.txt
 
 ### cat
 
-- catenate의 약자로 파일의 내용을 확인할 때 사용.
+-   catenate의 약자로 파일의 내용을 확인할 때 사용.
 
 ```bash
 # test.txt 파일의 내용을 확인
@@ -215,7 +215,7 @@ $ cat test.txt
 
 ### touch
 
-- touch는 빈 파일을 생성. 혹은 파일의 날짜와 시간을 수정할 때 사용합니다
+-   touch는 빈 파일을 생성. 혹은 파일의 날짜와 시간을 수정할 때 사용합니다
 
 ```bash
 # afile을 생성
@@ -230,7 +230,7 @@ $ touch -r afile bfile
 
 ### echo
 
-- echo는 어떤 문자열을 화면에 보여줄 때 사용. echo와 리다이렉션을 사용해 파일을 생성, 추가하는 작업을 많이 합니다.
+-   echo는 어떤 문자열을 화면에 보여줄 때 사용. echo와 리다이렉션을 사용해 파일을 생성, 추가하는 작업을 많이 합니다.
 
 ```bash
 # helloworld 출력
@@ -257,7 +257,7 @@ $ echo hello2 >> hello.txt
 
 ### ip addr/ifconfig
 
-- 접속한 리눅스의 IP 정보를 알아낼 때 사용.
+-   접속한 리눅스의 IP 정보를 알아낼 때 사용.
 
 ```bash
 $ ip addr
@@ -273,7 +273,7 @@ inet 10.201.1.10/16 brd 10.202.255.255 scope global eth0
 valid_lft forever preferred_lft forever
 ```
 
-- ip addr이 설치되어 있지 않은 경우에는 ifconfig를 사용.
+-   ip addr이 설치되어 있지 않은 경우에는 ifconfig를 사용.
 
 ```bash
 $ ifconfig
@@ -298,19 +298,19 @@ RX bytes:349206971 (349.2 MB) TX bytes:349206971 (349.2 MB)
 
 ### ss
 
-- socket statistics의 약자로 네트워크 상태를 확인하는 데 사용.
+-   socket statistics의 약자로 네트워크 상태를 확인하는 데 사용.
 
-- nestat과 동일. 옵션으로 a, t, u, l, p, n 등이 있다.
-  |Option|Description|
-  |------|-----------|
-  |ss -a | 모든 포트 확인|
-  |ss -t | TCP 포트 확인|
-  |ss -u | UDP 포트 확인|
-  |ss -l | LISTEN 상태 포트 확인|
-  |ss -p | 프로세스 표시|
-  |ss -n | 호스트, 포트, 사용자명을 숫자로 표시|
+-   nestat과 동일. 옵션으로 a, t, u, l, p, n 등이 있다.
+    |Option|Description|
+    |------|-----------|
+    |ss -a | 모든 포트 확인|
+    |ss -t | TCP 포트 확인|
+    |ss -u | UDP 포트 확인|
+    |ss -l | LISTEN 상태 포트 확인|
+    |ss -p | 프로세스 표시|
+    |ss -n | 호스트, 포트, 사용자명을 숫자로 표시|
 
-- TCP 포트 중 LISTEN 상태인 포트의 번호를 알고 싶을 때 다음과 같이.
+-   TCP 포트 중 LISTEN 상태인 포트의 번호를 알고 싶을 때 다음과 같이.
 
 ```bash
 $ ss -tln
@@ -321,7 +321,7 @@ LISTEN 0 511 *:80 *:*
 
 ### nc
 
-- netcat의 약자로 예전에는 포트가 열렸는지 확인하는 데 사용.
+-   netcat의 약자로 예전에는 포트가 열렸는지 확인하는 데 사용.
 
 ```bash
 # 포트가 오픈됐는지 확인
@@ -336,7 +336,7 @@ $ nc -l 포트
 
 ### which, whereis, locate
 
-- which는 특정 명령어의 위치를 찾아줌.
+-   which는 특정 명령어의 위치를 찾아줌.
 
 ```bash
 $ which git
@@ -363,7 +363,7 @@ $ locate *.java
 
 ### tail
 
-- tail은 파일의 마지막 부분을 보여준다. 이와 반대로 head는 파일의 첫 부분을 보여준다.
+-   tail은 파일의 마지막 부분을 보여준다. 이와 반대로 head는 파일의 첫 부분을 보여준다.
 
 ```bash
 # 파일의 마지막 라인부터 숫자만큼의 파일의 라인 수를 보여주기
@@ -385,7 +385,7 @@ $ tail -n {숫자} -s {초} -f {파일경로}
 
 ### find
 
-- find는 명령어의 뜻 그대로 파일이나 디렉터리를 찾는 데 사용하는 명령어.
+-   find는 명령어의 뜻 그대로 파일이나 디렉터리를 찾는 데 사용하는 명령어.
 
 ```bash
 # 확장자 명으로 찾기
@@ -412,7 +412,7 @@ $ find {디렉터리} -type f -empty -delete
 
 ### ps
 
-- 현재 실행 중인 프로세스 목록과 상태를 보여준다.
+-   현재 실행 중인 프로세스 목록과 상태를 보여준다.
 
 ```bash
 # 실행 중인 모든 프로세스를 보여주기
@@ -428,13 +428,13 @@ $ ps aus | grep {패턴}
 $ ps --sort size
 ```
 
-- ps와 grep을 pipe로 사용하여 현재 실행 중인 프로세스 목록중 특정 명칭을 포함하는 프로세스를 찾는 식으로 사용하기도 한다.
+-   ps와 grep을 pipe로 사용하여 현재 실행 중인 프로세스 목록중 특정 명칭을 포함하는 프로세스를 찾는 식으로 사용하기도 한다.
 
 ### grep
 
-- grep은 입력에서 패턴에 매칭되는 내용을 찾는 명령어.
-- grep이라는 이름은 ed의 명령어인 g/re/p(내용 전체를 정규식으로 찾은 다음 프린트하라: globally search for a regular expression and print matching lines)에서 왔음.
-- 보통 find, ps 등과 조합해 사용.
+-   grep은 입력에서 패턴에 매칭되는 내용을 찾는 명령어.
+-   grep이라는 이름은 ed의 명령어인 g/re/p(내용 전체를 정규식으로 찾은 다음 프린트하라: globally search for a regular expression and print matching lines)에서 왔음.
+-   보통 find, ps 등과 조합해 사용.
 
 ```bash
 # 파일에서 특정 패턴을 만족하는 부분 찾기
@@ -452,10 +452,10 @@ $ cat 파일경로 | grep "패턴"
 
 ### kill
 
-- 프로세스를 죽이는 명령어
-- 프로세스를 죽인다고는 하지만 원리는 프로세스에 중지하라는 시그널을 보내는 것
-- SIGKILL, SIGSTOP은 강제 종료이며 나머지는 정상적으로 종료.
-- 프로세스 아이디는 ps 명령어로 알아낼 수 있다.
+-   프로세스를 죽이는 명령어
+-   프로세스를 죽인다고는 하지만 원리는 프로세스에 중지하라는 시그널을 보내는 것
+-   SIGKILL, SIGSTOP은 강제 종료이며 나머지는 정상적으로 종료.
+-   프로세스 아이디는 ps 명령어로 알아낼 수 있다.
 
 ```bash
 # kill에서 사용할 수 있는 시그널 표시하기
@@ -473,7 +473,7 @@ $ kill -9 | KILL 프로세스ID
 
 ### alias
 
-- alias를 사용하면 줄여서 사용할 수 있다
+-   alias를 사용하면 줄여서 사용할 수 있다
 
 ```bash
 # 모든 alias 표시하기
@@ -496,7 +496,7 @@ $ unalias 단어
 
 ### vi / vim
 
-- vi 혹은 vim은 대부분의 리눅스에 기본적으로 설치되어 있는 텍스트 에디터
+-   vi 혹은 vim은 대부분의 리눅스에 기본적으로 설치되어 있는 텍스트 에디터
 
 ```bash
 vi test.txt

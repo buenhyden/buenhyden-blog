@@ -6,29 +6,29 @@ description: null
 linkTitle: OpenSearch
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Backend
-  - Search Engine
-  - Tools
+    - Backend
+    - Search Engine
+    - Tools
 categories:
-  - Backend
-  - OpenSearch
-  - Search Engine
-  - tools
+    - Backend
+    - OpenSearch
+    - Search Engine
+    - tools
 tags:
-  - Backend
-  - OpenSearch
-  - Search Engine
-  - tools
+    - Backend
+    - OpenSearch
+    - Search Engine
+    - tools
 lastmod: 2023-12-10T04:27:54.652Z
 draft: published
 keywords:
-  - Search Engine
-  - Opensearch
+    - Search Engine
+    - Opensearch
 ---
 
 ## Reference

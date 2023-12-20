@@ -6,25 +6,25 @@ description: 현대의 애플리케이션과 서비스에 초점을 둔 아이�
 linkTitle: Keycloak
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Dev Ops
-  - Management for Infrastructure
+    - Dev Ops
+    - Management for Infrastructure
 categories:
-  - Dev Ops
-  - IT Security
-  - Keycloak
-  - Single Sign On
-  - SSO
+    - Dev Ops
+    - IT Security
+    - Keycloak
+    - Single Sign On
+    - SSO
 tags:
-  - Computer Science
-  - IT Security
-  - Keycloak
-  - Single Sign On
-  - SSO
+    - Computer Science
+    - IT Security
+    - Keycloak
+    - Single Sign On
+    - SSO
 lastmod: 2023-12-17T03:07:04.471Z
 draft: published
 ---

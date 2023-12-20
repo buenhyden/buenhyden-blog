@@ -6,25 +6,25 @@ description: null
 linkTitle: Git Internals
 nav_weight: 11
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - CI/CD
-  - Dev Ops
+    - CI/CD
+    - Dev Ops
 categories:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
+    - Dev Ops
+    - CI/CD
+    - Version Control
+    - Continuous Integration(CI)
+    - Git
 tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
-  - Git
+    - Dev Ops
+    - CI/CD
+    - Version Control
+    - Continuous Integration(CI)
+    - Git
 lastmod: 2023-12-10T03:12:45.022Z
 draft: published
 ---

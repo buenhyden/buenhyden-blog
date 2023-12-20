@@ -1,25 +1,25 @@
 ---
 type: default
-title: "{{ replace .Name "-" " " | title }}"
+title: { { replace .Name "-" " " | title } }
 # linkTitle:
-date: {{ .Date }}
-description: 
+date: { { .Date } }
+description:
 draft:
 noindex: false
 # comments: false
 nav_weight: 1000
 nav_icon:
-  vendor: bootstrap
-  name: toggles
-  color: '#e24d0e'
+    vendor: bootstrap
+    name: toggles
+    color: "#e24d0e"
 series:
-  - 
+    -
 categories:
-  - 
+    -
 tags:
-  - 
+    -
 images:
-#  - 
+#  -
 # menu:
 #   main:
 #     weight: 100

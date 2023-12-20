@@ -6,34 +6,34 @@ description: 소프트웨어를 디자인
 linkTitle: Software Design & Architecture
 nav_weight: 6
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Software Design & Architecture
-  - Computer Science
+    - Software Design & Architecture
+    - Computer Science
 categories:
-  - Software Design & Architecture
-  - Computer Science
+    - Software Design & Architecture
+    - Computer Science
 tags:
-  - Software Design & Architecture
-  - Computer Science
+    - Software Design & Architecture
+    - Computer Science
 lastmod: 2023-12-10T03:12:47.474Z
 draft: published
 ---
 
 ## 하나 이상의 서비스 구현을 추상화 하는 API
 
-![하나 이상의 서비스 구현을 추상화 하는 API](/computer-science/service-implementations.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
+![하나 이상의 서비스 구현을 추상화 하는 API](/content/computer-science/service-implementations.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
 
 ## Application Architecture
 
-![Application Architecture](/computer-science/service-architecture.jpg#center "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
+![Application Architecture](/content/computer-science/service-architecture.jpg#center "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
 
 ## 애플리케이션 서비스 아키텍처 선택 위한 결정 도구
 
-![애플리케이션 서비스 아키텍처 선택 위한 결정 도구](/computer-science/179757_102967_289.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
+![애플리케이션 서비스 아키텍처 선택 위한 결정 도구](/content/computer-science/179757_102967_289.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
 
 ## Roadmap
 

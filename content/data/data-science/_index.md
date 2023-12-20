@@ -6,24 +6,24 @@ description: 데이터 마이닝(Data Mining)과 유사하게 정형, 비정형 
 linkTitle: Data Science
 nav_weight: 12
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Data Science
-  - Data
+    - Data Science
+    - Data
 categories:
-  - Data Science
-  - Data
+    - Data Science
+    - Data
 tags:
-  - Data Science
-  - Data
+    - Data Science
+    - Data
 lastmod: 2023-12-10T03:12:43.544Z
 draft: published
 ---
 
-![Data Science Lifecycle](/data/data-science-lifecycle.png#center "https://medium.com/@milanbhadja7932/data-cleaning-in-data-science-e8d0c0d3efdf")
+![Data Science Lifecycle](/content/data/data-science-lifecycle.png#center "https://medium.com/@milanbhadja7932/data-cleaning-in-data-science-e8d0c0d3efdf")
 
 ## Roadmap
 

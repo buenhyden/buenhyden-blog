@@ -5,34 +5,34 @@ description: 자바스크립트 라이브러리의 하나로서 사용자 인터
 linkTitle: React
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Programming
-  - Programming Language
+    - Programming
+    - Programming Language
 categories:
-  - Javascript
-  - Programming Language
-  - React
-  - Programming
+    - Javascript
+    - Programming Language
+    - React
+    - Programming
 tags:
-  - Javascript
-  - Programming Language
-  - React
-  - Programming
+    - Javascript
+    - Programming Language
+    - React
+    - Programming
 lastmod: 2023-12-10T04:16:39.700Z
 date: 2023-11-16T01:12:15.654Z
 draft: published
 keywords:
-  - Javascript
-  - Programming Language
-  - React
+    - Javascript
+    - Programming Language
+    - React
 slug: react
 ---
 
-![Reeact](/programming/react.jpeg#center "https://2oneweek.dev/frontend/react/010.%20Hook%20-%20useCallback/")
+![Reeact](/content/programming/react.jpeg#center "https://2oneweek.dev/frontend/react/010.%20Hook%20-%20useCallback/")
 
 ## Roadmap
 

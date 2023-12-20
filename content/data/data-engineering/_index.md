@@ -6,29 +6,29 @@ description: 원시 데이터(raw data)를 가져와 분석 및 머신러닝과 
 linkTitle: Data Engineering
 nav_weight: 11
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
+    vendor: bs
+    name: book
+    color: blue
 series:
-  - Data Engineering
-  - Data
+    - Data Engineering
+    - Data
 categories:
-  - Data Engineering
-  - Data
+    - Data Engineering
+    - Data
 tags:
-  - Data Engineering
-  - Data
+    - Data Engineering
+    - Data
 lastmod: 2023-12-10T03:12:43.606Z
 draft: published
 ---
 
 ## Roadmap
 
-![Data Engineering Roadmap](/data/data-engineering-roadmap.png?width=768px#center "https://github.com/ErdemOzgen/Data-Engineering-Roadmap")
+![Data Engineering Roadmap](/content/data/data-engineering-roadmap.png?width=768px#center "https://github.com/ErdemOzgen/Data-Engineering-Roadmap")
 
 ## State of Data Engineering 2022 map
 
-![State of Data Engineering 2022 map](/data/State-of-Data-Engineering-2022-map.jpg#center "https://medium.com/@rahulxsharma/decoding-the-el-in-elt-2393eb4d714f")
+![State of Data Engineering 2022 map](/content/data/State-of-Data-Engineering-2022-map.jpg#center "https://medium.com/@rahulxsharma/decoding-the-el-in-elt-2393eb4d714f")
 
 ## Reference
 

@@ -7,28 +7,28 @@ description: 윈도우 소프트웨어를 위한 머신 수준의 명령 줄 패
 draft: published
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
+    vendor: bs
+    name: book
+    color: blue
 tags:
-  - Chocolatey
-  - Computer Science
-  - Operating System
-  - Package
-  - Windows
-  - OS
+    - Chocolatey
+    - Computer Science
+    - Operating System
+    - Package
+    - Windows
+    - OS
 categories:
-  - Chocolatey
-  - Computer Science
-  - Operating System
-  - Package
-  - Windows
-  - OS
+    - Chocolatey
+    - Computer Science
+    - Operating System
+    - Package
+    - Windows
+    - OS
 series:
-  - Computer Science
-  - Operating System
-  - OS
-featured: false
+    - Computer Science
+    - Operating System
+    - OS
+
 authors: Hyunyoun Jo
 lastmod: 2023-12-09T06:18:18.112Z
 ---
@@ -39,20 +39,20 @@ The Package Manager for Windows
 
 ## 설치조건
 
-- Supported Windows client and server Operating Systems (can run on older Operating Systems)
-  - Clients
-    - Windows 11
-    - Windows 10 22H2
-    - Windows 10 21H2
-  - Servers
-    - Windows Server 2022
-    - Windows Server 2019
-    - Windows Server 2016
-    - Windows Server 2012 R2
-    - Windows Server 2012
-    - Windows Server 2008 R2 (in Azure only)
-- PowerShell v2+ (minimum is v3 for install from this website due to TLS 1.2 requirement)
-- .NET Framework 4.8 (the installation will attempt to install .NET 4.8 if you do not have it installed)
+-   Supported Windows client and server Operating Systems (can run on older Operating Systems)
+    -   Clients
+        -   Windows 11
+        -   Windows 10 22H2
+        -   Windows 10 21H2
+    -   Servers
+        -   Windows Server 2022
+        -   Windows Server 2019
+        -   Windows Server 2016
+        -   Windows Server 2012 R2
+        -   Windows Server 2012
+        -   Windows Server 2008 R2 (in Azure only)
+-   PowerShell v2+ (minimum is v3 for install from this website due to TLS 1.2 requirement)
+-   .NET Framework 4.8 (the installation will attempt to install .NET 4.8 if you do not have it installed)
 
 ## Windows Chocolatey 설치
 
@@ -111,12 +111,12 @@ choco info <패키지 명>
 choco search <패키지 명> -f
 ```
 
-![chocolatey-package-info](/computer-science/chocolatey-package-info.png)
+![chocolatey-package-info](/content/computer-science/chocolatey-package-info.png)
 
 ## Install Package
 
-- Chocolatey가 지원하는 패키지 목록
-  - [Chocolatey Packages](https://community.chocolatey.org/packages)
+-   Chocolatey가 지원하는 패키지 목록
+    -   [Chocolatey Packages](https://community.chocolatey.org/packages)
 
 ```bash
 choco install <패키지 명>

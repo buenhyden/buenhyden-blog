@@ -6,16 +6,16 @@ description: 알고리즘 과정, 계산 기계 그리고 계산 자체에 대�
 linkTitle: Computer Science
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
+    - Computer Science
 categories:
-  - Computer Science
+    - Computer Science
 tags:
-  - Computer Science
+    - Computer Science
 lastmod: 2023-12-13T07:27:24.656Z
 draft: published
 slug: computer-science

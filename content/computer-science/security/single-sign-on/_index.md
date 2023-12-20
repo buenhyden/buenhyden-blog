@@ -6,23 +6,23 @@ description: 통합 인증은 한 번의 인증 과정으로 여러 컴퓨터 �
 linkTitle: Single Sign On(SSO)
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - IT Security
+    - Computer Science
+    - IT Security
 categories:
-  - Computer Science
-  - IT Security
-  - Single Sign On
-  - SSO
+    - Computer Science
+    - IT Security
+    - Single Sign On
+    - SSO
 tags:
-  - IT Security
-  - Single Sign On
-  - SSO
-  - Computer Science
+    - IT Security
+    - Single Sign On
+    - SSO
+    - Computer Science
 lastmod: 2023-12-13T07:24:23.598Z
 draft: published
 ---

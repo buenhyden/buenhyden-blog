@@ -6,24 +6,24 @@ description: " 소프트웨어를 생산하는 데에 필요한 프로그래밍 
 linkTitle: Software Development Methodology
 nav_weight: 4
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Computer Science
-  - Software Development Methodology
+    - Computer Science
+    - Software Development Methodology
 categories:
-  - Computer Science
-  - Software Development Methodology
+    - Computer Science
+    - Software Development Methodology
 tags:
-  - Computer Science
-  - Software Development Methodology
+    - Computer Science
+    - Software Development Methodology
 lastmod: 2023-12-10T03:12:47.395Z
 draft: published
 ---
 
-![Top 12 Software Development Methodologies](/computer-science/top-12-software-development-methodologies.jpg "https://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantages-disadvantages/")
+![Top 12 Software Development Methodologies](/content/computer-science/top-12-software-development-methodologies.jpg "https://www.tatvasoft.com/blog/top-12-software-development-methodologies-and-its-advantages-disadvantages/")
 
 ## Reference
 

@@ -6,32 +6,32 @@ description: 컴퓨터 시스템에 저장된 정보를 찾아주거나 웹 검�
 linkTitle: Elasticsearch
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Backend
-  - Search Engine
-  - Tools
+    - Backend
+    - Search Engine
+    - Tools
 categories:
-  - Backend
-  - Elasticsearch
-  - Search Engine
-  - tools
+    - Backend
+    - Elasticsearch
+    - Search Engine
+    - tools
 tags:
-  - Backend
-  - Elasticsearch
-  - Search Engine
-  - tools
+    - Backend
+    - Elasticsearch
+    - Search Engine
+    - tools
 lastmod: 2023-12-13T07:09:45.961Z
 draft: published
 keywords:
-  - Search Engine
-  - Elasticsearch
+    - Search Engine
+    - Elasticsearch
 ---
 
-![ELK](/backend/elk.jpg#center "https://www.linkedin.com/posts/anezkahonke_brazil-softwaredevelopers-softwareengineer-activity-6937760892772077568-QfQd?trk=public_profile")
+![ELK](/content/backend/elk.jpg#center "https://www.linkedin.com/posts/anezkahonke_brazil-softwaredevelopers-softwareengineer-activity-6937760892772077568-QfQd?trk=public_profile")
 
 ## Reference
 

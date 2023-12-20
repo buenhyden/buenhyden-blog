@@ -5,32 +5,32 @@ description: 젯브레인즈사에서 개발하는 크로스 플랫폼 범용 �
 linkTitle: Kotlin
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Kotlin
-  - Programming Language
-  - Programming
+    - Kotlin
+    - Programming Language
+    - Programming
 categories:
-  - Kotlin
-  - Programming Language
-  - Programming
+    - Kotlin
+    - Programming Language
+    - Programming
 tags:
-  - Kotlin
-  - Programming Language
-  - Programming
+    - Kotlin
+    - Programming Language
+    - Programming
 lastmod: 2023-12-17T05:35:04.387Z
 date: 2023-11-11T14:03:12.053Z
 draft: published
 keywords:
-  - Programming Language
-  - Kotlin
+    - Programming Language
+    - Kotlin
 slug: kotlin
 ---
 
-![Kotlin](/programming/kotlin.png "http://kotlin.kr/")
+![Kotlin](/content/programming/kotlin.png "http://kotlin.kr/")
 
 ## Lecture
 

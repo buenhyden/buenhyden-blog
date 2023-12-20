@@ -6,21 +6,21 @@ description: null
 linkTitle: Infrastructure Provisioning
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Dev Ops
-  - Infrastructure as Code
+    - Dev Ops
+    - Infrastructure as Code
 categories:
-  - Dev Ops
-  - Infrastructure as Code
-  - Infrastructure Provisioning
+    - Dev Ops
+    - Infrastructure as Code
+    - Infrastructure Provisioning
 tags:
-  - Dev Ops
-  - Infrastructure as Code
-  - Infrastructure Provisioning
+    - Dev Ops
+    - Infrastructure as Code
+    - Infrastructure Provisioning
 lastmod: 2023-12-10T03:12:46.089Z
 draft: published
 ---

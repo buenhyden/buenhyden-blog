@@ -1,18 +1,18 @@
 ---
 type: blog
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-description: 
+title: { { replace .Name "-" " " | title } }
+date: { { .Date } }
+description:
 draft:
 # comments: false
 series:
-  - 
+    -
 categories:
-  - 
+    -
 tags:
-  - 
+    -
 images:
-  - 
+    -
 # menu:
 #   main:
 #     weight: 100

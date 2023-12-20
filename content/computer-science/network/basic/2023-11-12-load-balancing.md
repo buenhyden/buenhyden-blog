@@ -4,25 +4,25 @@ description: 애플리케이션을 지원하는 리소스 풀 전체에 네트�
 linkTitle: load balancing
 date: 2023-11-11T15:22:53.319Z
 tags:
-  - Computer Science
-  - Network
-  - Network Basic
-  - Load Balancing
+    - Computer Science
+    - Network
+    - Network Basic
+    - Load Balancing
 categories:
-  - Computer Science
-  - Network
-  - Network Basic
-  - Load Balancing
+    - Computer Science
+    - Network
+    - Network Basic
+    - Load Balancing
 series:
-  - Network
-  - Computer Science
+    - Network
+    - Computer Science
 type: notes
 nav_weight: 49
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: false
+    vendor: bs
+    name: book
+    color: blue
+
 lastmod: 2023-12-17T02:27:33.086Z
 draft: in progress
 ---

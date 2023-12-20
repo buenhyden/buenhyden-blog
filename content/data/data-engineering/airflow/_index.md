@@ -6,24 +6,24 @@ description: 데이터 공학 파이프라인을 위한 오픈 소스 워크플�
 linkTitle: Airflow
 nav_weight: 3
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Data Engineering
-  - Tools
-  - Data
+    - Data Engineering
+    - Tools
+    - Data
 categories:
-  - Airflow
-  - Data Engineering
-  - tools
-  - Data
+    - Airflow
+    - Data Engineering
+    - tools
+    - Data
 tags:
-  - Airflow
-  - Data Engineering
-  - tools
-  - Data
+    - Airflow
+    - Data Engineering
+    - tools
+    - Data
 lastmod: 2023-12-13T06:59:20.192Z
 draft: published
 ---

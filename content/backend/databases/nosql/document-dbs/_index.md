@@ -6,27 +6,27 @@ description: 도큐먼트 지향 정보, 이른바 반정형 데이터를 저장
 linkTitle: Documnet DBs
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Database
-  - Backend
+    - Database
+    - Backend
 categories:
-  - Backend
-  - Database
-  - NoSQL
-  - Document DBs
+    - Backend
+    - Database
+    - NoSQL
+    - Document DBs
 tags:
-  - Backend
-  - Database
-  - NoSQL
-  - Document DBs
+    - Backend
+    - Database
+    - NoSQL
+    - Document DBs
 lastmod: 2023-12-10T04:38:33.639Z
 draft: published
 keywords:
-  - NoSQL
+    - NoSQL
 ---
 
 ## Reference

@@ -6,28 +6,28 @@ description: null
 linkTitle: Design
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Frontend
-  - Design
+    - Frontend
+    - Design
 categories:
-  - Design
-  - Frontend
-  - UX
-  - UI
+    - Design
+    - Frontend
+    - UX
+    - UI
 tags:
-  - Design
-  - Frontend
-  - UI
-  - UX
+    - Design
+    - Frontend
+    - UI
+    - UX
 lastmod: 2023-12-13T06:58:26.396Z
 draft: published
 ---
 
-![UI&UX](/frontend/ui-ux.jpg#center "https://medium.com/@sumaiya-journal/the-fundamentals-of-ui-and-ux-design-189d61821069")
+![UI&UX](/content/frontend/ui-ux.jpg#center "https://medium.com/@sumaiya-journal/the-fundamentals-of-ui-and-ux-design-189d61821069")
 
 ## Lecture
 

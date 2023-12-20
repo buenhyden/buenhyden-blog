@@ -6,28 +6,28 @@ description: null
 linkTitle: Grafana Loki
 nav_weight: 9
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Dev Ops
-  - Management for Infrastructure
-  - Tools
+    - Dev Ops
+    - Management for Infrastructure
+    - Tools
 categories:
-  - Dev Ops
-  - Log Management
-  - Loki
-  - Management for Infrastructure
-  - tools
-  - Grafana Loki
+    - Dev Ops
+    - Log Management
+    - Loki
+    - Management for Infrastructure
+    - tools
+    - Grafana Loki
 tags:
-  - Dev Ops
-  - Log Management
-  - Loki
-  - Management for Infrastructure
-  - tools
-  - Grafana Loki
+    - Dev Ops
+    - Log Management
+    - Loki
+    - Management for Infrastructure
+    - tools
+    - Grafana Loki
 lastmod: 2023-12-15T00:51:02.135Z
 draft: published
 ---

@@ -5,37 +5,37 @@ description: 서버 사이트 렌더링, 정적 웹 페이지 생성 등 리액�
 linkTitle: Next.js
 nav_weight: 2
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Programming Language
-  - Programming
+    - Programming Language
+    - Programming
 categories:
-  - Javascript
-  - Next.js
-  - Node.js
-  - Programming Language
-  - Programming
+    - Javascript
+    - Next.js
+    - Node.js
+    - Programming Language
+    - Programming
 tags:
-  - Javascript
-  - Next.js
-  - Node.js
-  - Programming Language
-  - Programming
+    - Javascript
+    - Next.js
+    - Node.js
+    - Programming Language
+    - Programming
 lastmod: 2023-12-10T04:19:07.481Z
 date: 2023-11-16T01:11:42.161Z
 draft: published
 keywords:
-  - Javascript
-  - NodeJS
-  - Programming Language
-  - NextJS
+    - Javascript
+    - NodeJS
+    - Programming Language
+    - NextJS
 slug: js
 ---
 
-![Next JS](/programming/next-js.png#center "https://velog.io/@bang04/NextJS-%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC")
+![Next JS](/content/programming/next-js.png#center "https://velog.io/@bang04/NextJS-%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC")
 
 ## Tutorial
 

@@ -6,16 +6,16 @@ description: null
 linkTitle: Data
 nav_weight: 12
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Data
+    - Data
 categories:
-  - Data
+    - Data
 tags:
-  - Data
+    - Data
 lastmod: 2023-12-13T07:27:27.078Z
 draft: published
 ---

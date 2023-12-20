@@ -1,6 +1,6 @@
 ---
 type: default
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .Name "-" " " | title }}
 # linkTitle:
 date: {{ .Date }}
 description: 

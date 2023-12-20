@@ -6,30 +6,30 @@ description: ""
 linkTitle: Cassandra
 nav_weight: 1
 nav_icon:
-  vendor: bs
-  name: book
-  color: blue
-featured: true
+    vendor: bs
+    name: book
+    color: blue
+
 series:
-  - Database
-  - Backend
+    - Database
+    - Backend
 categories:
-  - Backend
-  - Database
-  - Document DBs
-  - NoSQL
-  - Cassandra
+    - Backend
+    - Database
+    - Document DBs
+    - NoSQL
+    - Cassandra
 tags:
-  - Backend
-  - Database
-  - Document DBs
-  - NoSQL
-  - Cassandra
+    - Backend
+    - Database
+    - Document DBs
+    - NoSQL
+    - Cassandra
 lastmod: 2023-12-17T05:24:57.216Z
 draft: published
 keywords:
-  - NoSQL
-  - Cassandra
+    - NoSQL
+    - Cassandra
 ---
 
 ## Reference
