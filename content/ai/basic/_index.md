@@ -5,34 +5,33 @@ description: ""
 linkTitle: AI Basic
 nav_weight: 1
 nav_icon:
-    vendor: bs
-    name: book
-    color: blue
-
+  vendor: bs
+  name: book
+  color: blue
 series:
-    - AI
+  - AI
 categories:
-    - AI
-    - AI Basic
+  - AI
+  - AI Basic
 tags:
-    - AI
-    - AI
-    - Basic
+  - AI
+  - AI
+  - Basic
 lastmod: 2023-12-10T15:46:19.794Z
 date: 2023-11-26T13:02:12.342Z
 draft: published
 slug: ai-basic
 layout: list
 keywords:
-    - AI
+  - AI
 ---
 
 ![Machine Learning](ai/ml-algorithms.webp "https://johnvastola.medium.com/10-must-know-machine-learning-algorithms-for-data-scientists-adbf3272398a")
 
 ## 기계 학습의 핵심
 
--   표현(representation) : 데이터의 평가
--   일반화(generalization) : 아직 알 수 없는 데이터에 대한 처리
+- 표현(representation) : 데이터의 평가
+- 일반화(generalization) : 아직 알 수 없는 데이터에 대한 처리
 
 ## Lecture
 
