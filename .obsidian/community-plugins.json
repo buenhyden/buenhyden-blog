@@ -26,5 +26,7 @@
   "obsidian-checklist-plugin",
   "obsidian-banners",
   "obsidian-sortable",
-  "periodic-notes"
+  "periodic-notes",
+  "make-md",
+  "obsidian-custom-frames"
 ]

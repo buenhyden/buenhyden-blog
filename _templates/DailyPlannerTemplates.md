@@ -1,30 +1,57 @@
 ---
 title: <% tp.file.title %>
-date: <% tp.file.creation_date() %>
-tags:
-    - dailynote
+created: <% tp.file.creation_date() %>
+type: [[Daily Notes]]
+tag: ["dailynote"]
 ---
 
 # <% tp.file.title %>
 
-## [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>| <<]] | <% tp.file.title %> | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> | >>]]
+## [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %> |<<]] <% tp.file.title %> [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %> | >>]]
 
-### [[2021-W44]] | [[Vision Board]] | [[Dashboard]]
+## 1. Preparation
 
-## 일정
+- **Highlight**
+  - 오늘은 정말 이것만해도 완벽하다. 한가지만 적자
+- **Gratitude** - 감사한 일 한가지만 적기, 그리고 진심으로 감사한 마음을 가지기
+  \
+
+
+## 2. Schedule and Todolist
+
+### Schedule
 
 -
 
-## 할일
+### Todolist
 
--   [ ] 할 일 1
--   [ ] 할 일 2
+#todo
 
-## 메모
+- [ ] todolist 1
 
-## 회고
+### Time Plan
 
-### 습관
+- [ ] 08:00 기상
 
--   [ ] 습관 1
--   [ ] 습관 2
+\
+
+
+## 3. Zettelkasten
+
+### Fleeting Notes
+
+### Literature Notes
+
+### Permanent Notes
+
+\
+
+
+## 4. Review
+
+- 오늘 정말 최선을 다했는가?
+- 더 잘하려면 어떻게 해야하는가?
+  \
+
+
+<% tp.web.daily_quote() %>

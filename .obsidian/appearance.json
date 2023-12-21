@@ -3,6 +3,8 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "main",
-    "pub-Image"
+    "pub-Image",
+    "calender",
+    "calendar"
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0151ea5ce086c9d5",
+        "id": "be8462af3d492bc2",
         "type": "tabs",
         "children": [
           {
-            "id": "54d589b0412dd9a7",
+            "id": "ae5f3966a552b356",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -68,8 +68,17 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "2145605c57a63136",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -126,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tasks Plugin - Review and check your Statuses 2023-12-20 23-44-50.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +179,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71847d266da8c521",
+  "active": "ae5f3966a552b356",
   "lastOpenFiles": [
+    "_templates/ProjectManagementTemplates.md",
+    "Spaces/Home",
+    "Spaces",
+    "_templates/DailyPlannerTemplates.md",
+    "_templates/VisionTemplates.md",
+    "content/ai/natural-language-processing/_index.md",
+    "_templates/ReadingRecordNoteTemplates.md",
+    "_templates/ReadingNotesTemplates.md",
     "content/diary/daily/2023/12/2023-12-20 ( 수 ).md",
     "Tasks Plugin - Review and check your Statuses 2023-12-20 23-44-50.md",
     "content/ai/basic/_index.md",
@@ -185,8 +200,6 @@
     "node_modules/css-tree/data",
     "node_modules/common-tags/es/oneLineCommaLists/index.js",
     "node_modules/common-tags/es/oneLineCommaLists/oneLineCommaLists.js",
-    "node_modules/common-tags/es/oneLineCommaLists",
-    "node_modules/common-tags/es/oneLineCommaListsAnd/oneLineCommaListsAnd.js",
     "node_modules/eslint-plugin-import/memo-parser/README.md",
     "node_modules/normalize-path/README.md",
     "node_modules/es-abstract/README.md",
@@ -203,13 +216,6 @@
     "node_modules/@typescript-eslint/eslint-plugin/docs/rules/block-spacing.md",
     "node_modules/@typescript-eslint/eslint-plugin/docs/rules/strict-boolean-expressions.md",
     "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-infix-ops.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-before-function-paren.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-before-blocks.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/sort-type-constituents.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/semi.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/return-await.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-template-expressions.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/restrict-plus-operands.md",
     "themes/hugo-theme-bootstrap/static/images/none.png",
     "themes/hugo-blox-builder/test/assets/media/cake.svg",
     "themes/hugo-blox-builder/modules/blox-tailwind/assets/media/icons/brands/edx.svg",

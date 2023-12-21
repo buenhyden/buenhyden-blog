@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "ProjectManagementTemplates",
+      "path": "_templates/ProjectManagementTemplates.md"
+    },
+    {
+      "basename": "DailyPlannerTemplates",
+      "path": "_templates/DailyPlannerTemplates.md"
+    },
+    {
+      "basename": "VisionTemplates",
+      "path": "_templates/VisionTemplates.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/natural-language-processing/_index.md"
+    },
+    {
       "basename": "2023-12-20 ( 수 )",
       "path": "content/diary/daily/2023/12/2023-12-20 ( 수 ).md"
     },
@@ -29,10 +45,6 @@
       "path": "content/diary/daily/2023/12/2023-12-21 ( 목 ).md"
     },
     {
-      "basename": "DailyPlannerTemplates",
-      "path": "_templates/DailyPlannerTemplates.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -41,40 +53,20 @@
       "path": "content/_index.md"
     },
     {
-      "basename": "_index",
-      "path": "content/ai/natural-language-processing/_index.md"
-    },
-    {
       "basename": "WeeklyPlannerTemplates",
       "path": "_templates/WeeklyPlannerTemplates.md"
-    },
-    {
-      "basename": "VisionTemplates",
-      "path": "_templates/VisionTemplates.md"
     },
     {
       "basename": "RetrospectTemplates",
       "path": "_templates/RetrospectTemplates.md"
     },
     {
-      "basename": "ProjectManagementTemplates",
-      "path": "_templates/ProjectManagementTemplates.md"
-    },
-    {
       "basename": "NotesTemplates",
       "path": "_templates/NotesTemplates.md"
     },
     {
-      "basename": "ReadingNotesTemplates",
-      "path": "_templates/ReadingNotesTemplates.md"
-    },
-    {
       "basename": "MonthlyPlannerTemplates",
       "path": "_templates/MonthlyPlannerTemplates.md"
-    },
-    {
-      "basename": "ReadingRecordNoteTemplates",
-      "path": "_templates/ReadingRecordNoteTemplates.md"
     }
   ],
   "omittedPaths": [],
