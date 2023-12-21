@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "content/diary/_index.md"
+    },
+    {
+      "basename": "2023-12-21 ( 목 )",
+      "path": "content/diary/daily/2023/12/2023-12-21 ( 목 ).md"
+    },
+    {
+      "basename": "offline",
+      "path": "assets/images/pwa/offline.png"
+    },
+    {
+      "basename": "icon",
+      "path": "assets/images/pwa/icon.png"
+    },
+    {
       "basename": "2023-10-16-databases",
       "path": "content/backend/databases/2023-10-16-databases.md"
     },
@@ -151,10 +167,6 @@
     {
       "basename": "2023-12-20 ( 수 )",
       "path": "content/diary/daily/2023/12/2023-12-20 ( 수 ).md"
-    },
-    {
-      "basename": "2023-12-21 ( 목 )",
-      "path": "content/diary/daily/2023/12/2023-12-21 ( 목 ).md"
     },
     {
       "basename": "README",

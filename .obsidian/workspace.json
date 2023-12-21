@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "be8462af3d492bc2",
+        "id": "a497e8c066e40b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "ae5f3966a552b356",
+            "id": "7ed7047298910d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/backend/databases/2023-10-16-databases.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -101,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/backend/databases/2023-10-16-databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/backend/databases/2023-10-16-databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/backend/databases/2023-10-16-databases.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,9 +153,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "8a6dea1be5a70a43",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -186,8 +187,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ae5f3966a552b356",
+  "active": "7ed7047298910d64",
   "lastOpenFiles": [
+    "content/diary/_index.md",
+    "content/diary/daily/2023/12/2023-12-21 ( 목 ).md",
+    "무제 파일.canvas",
+    "assets/images/pwa/offline.png",
+    "assets/images/pwa/icon.png",
+    "content/backend/databases/2023-10-16-databases.md",
     "content/backend/databases/_index.md",
     "content/backend/databases/vdbms/_index.md",
     "content/backend/databases/rdbms/_index.md",
@@ -211,9 +218,6 @@
     "content/backend/databases/nosql/column-dbs/HBase/_index.md",
     "content/backend/databases/nosql/column-dbs/Cassandra/_index.md",
     "content/backend/databases/nosql/basic/_index.md",
-    "content/backend/databases/basic/_index.md",
-    "content/ai/_index.md",
-    "content/ai/computer-vision/_index.md",
     "Spaces/Home",
     "Spaces",
     "node_modules/acorn/bin/acorn",
@@ -231,8 +235,6 @@
     "themes/hugo-blox-builder/modules/blox-tailwind/assets/media/icons/brands/coursera.svg",
     "themes/hugo-blox-builder/modules/blox-bootstrap/assets/media/icons/brands/edx.svg",
     "themes/hugo-blox-builder/modules/blox-bootstrap/assets/media/icons/brands/datacamp.svg",
-    "themes/hugo-blox-builder/modules/blox-bootstrap/assets/media/icons/brands/coursera.svg",
-    "themes/hugo-blox-builder/modules/blox-tailwind/assets/media/icon.png",
-    "themes/hugo-blox-builder/modules/blox-seo/assets/media/icon.png"
+    "themes/hugo-blox-builder/modules/blox-bootstrap/assets/media/icons/brands/coursera.svg"
   ]
 }
