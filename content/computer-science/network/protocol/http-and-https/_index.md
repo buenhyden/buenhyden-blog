@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: HTTP & HTTPS
 description: ""
 linkTitle: HTTP & HTTPS
@@ -20,7 +20,6 @@ categories:
 series:
   - Network
   - Computer Science
-
 nav_weight: 0
 nav_icon:
   vendor: bs

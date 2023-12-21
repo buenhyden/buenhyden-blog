@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Test Driven Development(TDD)
 date: 2023-11-28T14:31:11.197Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Software Development Methodology
@@ -30,7 +29,7 @@ authors: Hyunyoun Jo
 featured: true
 ---
 
-![TDD Lifecyle](/content/computer-science/1920px-TDD_Global_Lifecycle.png "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C")
+![TDD Lifecyle](content/computer-science/1920px-TDD_Global_Lifecycle.png "https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C")
 
 ## Reference
 

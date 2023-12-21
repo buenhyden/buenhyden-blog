@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: HTTP Request Method
 date: 2023-12-09T02:15:06.372Z
 description: HTTP는 요청 메서드를 정의하여, 주어진 리소스에 수행하길 원하는 행동을 나타낸다.
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Network

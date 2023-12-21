@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Databases
 date: 2023-10-15T12:46:00+09:00
 description: 여러 사람이 공유하여 사용할 목적으로 체계화해 통합, 관리하는 데이터의 집합
@@ -42,7 +42,7 @@ featured: true
   - 최신 소프트웨어 시스템은 데이터베이스를 사용하여 데이터를 분석한다.
   -
 
-![Where RDBMS and other DBMS technologies intersect](/content/backend/differencetypeofdbms2.png#center "https://www.facebook.com/photo/?fbid=935327580286542&set=pcb.935327616953205")
+![Where RDBMS and other DBMS technologies intersect](content/backend/differencetypeofdbms2.png#center "https://www.facebook.com/photo/?fbid=935327580286542&set=pcb.935327616953205")
 
 ## Reference
 

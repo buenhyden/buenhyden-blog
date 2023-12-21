@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Management for Infrastructure
 date: 2023-10-15T12:46:00+09:00
 description: 인프라를 모니터링하고 유지하는 방법
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Management for Infrastructure
@@ -26,10 +25,10 @@ featured: true
 
 ## Components of Infrastructure Management
 
-![Components of Infrastructure Management](/content/dev-ops/3-components-of-infrastructure-management.png?width=512px#center "https://zapier.com/blog/infrastructure-management/")
+![Components of Infrastructure Management](content/dev-ops/3-components-of-infrastructure-management.png?width=512px#center "https://zapier.com/blog/infrastructure-management/")
 
 ## Responsibilities of an Infrastructure Manager
 
-![Responsibilities of an Infrastructure Manager](/content/dev-ops/responsibilities-of-an-infrastructure-manager.png?width=512px#center "https://zapier.com/blog/infrastructure-management/")
+![Responsibilities of an Infrastructure Manager](content/dev-ops/responsibilities-of-an-infrastructure-manager.png?width=512px#center "https://zapier.com/blog/infrastructure-management/")
 
 ## Reference

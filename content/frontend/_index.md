@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: Frontend
 date: 2023-10-15T12:46:00+09:00
 description: 백엔드 API에서 가져온 데이터의 출력, 입력을 통한 비즈니스 로직 구성과 사용자와 대화하는 사용자 인터페이스 부분
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Frontend
 categories:
@@ -23,7 +22,7 @@ featured: true
 
 ## Web Application
 
-![Web Application](/content/frontend/web-application.png?width=1280px#center "https://nitro04.blogspot.com/2020/01/web-web-application-architecture.html")
+![Web Application](content/frontend/web-application.png?width=1280px#center "https://nitro04.blogspot.com/2020/01/web-web-application-architecture.html")
 
 ## Roadmap
 

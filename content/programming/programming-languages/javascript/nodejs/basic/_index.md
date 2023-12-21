@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Node.js Basic
 description: ""
 linkTitle: Node.js Basic
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Language

@@ -11,8 +11,12 @@
             "id": "ae5f3966a552b356",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/backend/databases/2023-10-16-databases.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -77,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/backend/databases/2023-10-16-databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/backend/databases/2023-10-16-databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/backend/databases/2023-10-16-databases.md"
+              }
             }
           },
           {
@@ -181,17 +188,34 @@
   },
   "active": "ae5f3966a552b356",
   "lastOpenFiles": [
-    "_templates/ProjectManagementTemplates.md",
+    "content/backend/databases/_index.md",
+    "content/backend/databases/vdbms/_index.md",
+    "content/backend/databases/rdbms/_index.md",
+    "content/backend/databases/rdbms/sqlite/_index.md",
+    "content/backend/databases/rdbms/postgresql/_index.md",
+    "content/backend/databases/rdbms/mysql/_index.md",
+    "content/backend/databases/rdbms/mariadb/_index.md",
+    "content/backend/databases/rdbms/basic/_index.md",
+    "content/backend/databases/nosql/_index.md",
+    "content/backend/databases/nosql/time-series/_index.md",
+    "content/backend/databases/nosql/time-series/influx-db/_index.md",
+    "content/backend/databases/nosql/realtime/_index.md",
+    "content/backend/databases/nosql/key-value/_index.md",
+    "content/backend/databases/nosql/key-value/redis/_index.md",
+    "content/backend/databases/nosql/graph-dbs/_index.md",
+    "content/backend/databases/nosql/graph-dbs/Neo4j/_index.md",
+    "content/backend/databases/nosql/document-dbs/_index.md",
+    "content/backend/databases/nosql/document-dbs/mongodb/_index.md",
+    "content/backend/mongodb.png.md",
+    "content/backend/databases/nosql/column-dbs/_index.md",
+    "content/backend/databases/nosql/column-dbs/HBase/_index.md",
+    "content/backend/databases/nosql/column-dbs/Cassandra/_index.md",
+    "content/backend/databases/nosql/basic/_index.md",
+    "content/backend/databases/basic/_index.md",
+    "content/ai/_index.md",
+    "content/ai/computer-vision/_index.md",
     "Spaces/Home",
     "Spaces",
-    "_templates/DailyPlannerTemplates.md",
-    "_templates/VisionTemplates.md",
-    "content/ai/natural-language-processing/_index.md",
-    "_templates/ReadingRecordNoteTemplates.md",
-    "_templates/ReadingNotesTemplates.md",
-    "content/diary/daily/2023/12/2023-12-20 ( 수 ).md",
-    "Tasks Plugin - Review and check your Statuses 2023-12-20 23-44-50.md",
-    "content/ai/basic/_index.md",
     "node_modules/acorn/bin/acorn",
     "node_modules/acorn/bin",
     "node_modules/autoprefixer/bin/autoprefixer",
@@ -200,22 +224,6 @@
     "node_modules/css-tree/data",
     "node_modules/common-tags/es/oneLineCommaLists/index.js",
     "node_modules/common-tags/es/oneLineCommaLists/oneLineCommaLists.js",
-    "node_modules/eslint-plugin-import/memo-parser/README.md",
-    "node_modules/normalize-path/README.md",
-    "node_modules/es-abstract/README.md",
-    "node_modules/es-abstract/CHANGELOG.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/switch-exhaustiveness-check.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/no-explicit-any.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/unified-signatures.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/unbound-method.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/typedef.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/type-annotation-spacing.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/TEMPLATE.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/triple-slash-reference.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/no-duplicate-enum-values.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/block-spacing.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/strict-boolean-expressions.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-infix-ops.md",
     "themes/hugo-theme-bootstrap/static/images/none.png",
     "themes/hugo-blox-builder/test/assets/media/cake.svg",
     "themes/hugo-blox-builder/modules/blox-tailwind/assets/media/icons/brands/edx.svg",

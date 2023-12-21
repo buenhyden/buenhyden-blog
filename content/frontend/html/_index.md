@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: HTML
 date: 2023-10-15T12:46:00+09:00
 description: 웹사이트의 모습을 기술하기 위한 마크업 언어(Hypertext Markup Language)
@@ -23,7 +23,7 @@ draft: published
 featured: true
 ---
 
-![HTML Page Structure](/content/frontend/html-page-structure.png#center "https://www.linkedin.com/pulse/html-basic-tanvir-hossain")
+![HTML Page Structure](content/frontend/html-page-structure.png#center "https://www.linkedin.com/pulse/html-basic-tanvir-hossain")
 
 ## Lecture
 

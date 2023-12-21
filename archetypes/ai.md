@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: { { replace .Name "-" " " | title } }
 # linkTitle:
 date: { { .Date } }

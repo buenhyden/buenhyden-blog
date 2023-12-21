@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Linux Basic
 date: 2023-11-26T11:53:09.690Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Operating System

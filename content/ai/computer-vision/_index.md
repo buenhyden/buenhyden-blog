@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Computer Vision
 date: 2023-12-09T00:16:42.357Z
 description: 컴퓨터의 시각적인 부분을 연구하여 디지털 이미지, 비디오 등에서 의미 있는 정보를 추출하는 기술

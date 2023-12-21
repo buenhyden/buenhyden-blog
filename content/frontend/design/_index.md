@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Design
 date: 2023-10-15T12:46:00+09:00
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Frontend
   - Design
@@ -28,7 +27,7 @@ draft: published
 featured: true
 ---
 
-![UI&UX](/content/frontend/ui-ux.jpg#center "https://medium.com/@sumaiya-journal/the-fundamentals-of-ui-and-ux-design-189d61821069")
+![UI&UX](content/frontend/ui-ux.jpg#center "https://medium.com/@sumaiya-journal/the-fundamentals-of-ui-and-ux-design-189d61821069")
 
 ## Lecture
 

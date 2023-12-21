@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: RabbitMQ
 date: 2023-10-15T02:46:00+09:00
 description: 오픈 소스 메시지 브로커 소프트웨어로서, AMQP를 구현
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Backend
   - Message Broker
@@ -32,7 +31,7 @@ keywords:
 featured: true
 ---
 
-![RabbitMQ](/content/backend/rabbitmq.png#center "https://stackoverflow.com/questions/63545249/rabbitmq-queue-per-message-type-vs-queue-per-destination")
+![RabbitMQ](content/backend/rabbitmq.png#center "https://stackoverflow.com/questions/63545249/rabbitmq-queue-per-message-type-vs-queue-per-destination")
 
 ## Reference
 

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Message Broker Basic
 date: 2023-11-26T13:02:12.342Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Backend

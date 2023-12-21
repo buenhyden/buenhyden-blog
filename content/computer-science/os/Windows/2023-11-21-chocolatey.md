@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: chocolatey
 date: 2023-11-20T20:26:05.655Z
 linkTitle: chocolatey
@@ -28,7 +28,6 @@ series:
   - Computer Science
   - Operating System
   - OS
-
 authors: Hyunyoun Jo
 lastmod: 2023-12-09T06:18:18.112Z
 featured: true
@@ -112,7 +111,7 @@ choco info <패키지 명>
 choco search <패키지 명> -f
 ```
 
-![chocolatey-package-info](/content/computer-science/chocolatey-package-info.png)
+![chocolatey-package-info](content/computer-science/chocolatey-package-info.png)
 
 ## Install Package
 

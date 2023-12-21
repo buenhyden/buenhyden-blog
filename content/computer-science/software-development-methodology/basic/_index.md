@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Software Development Methodology Basic
 date: 2023-11-28T14:31:11.197Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Software Development Methodology

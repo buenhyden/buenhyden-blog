@@ -16,7 +16,6 @@ categories:
   - Backend
 series:
   - Backend
-
 authors: Hyunyoun Jo
 lastmod: 2023-12-10T04:01:20.250Z
 draft: in progress

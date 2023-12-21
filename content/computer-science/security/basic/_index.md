@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: IT Security Basic
 description: ""
 linkTitle: IT Security Basic
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - IT Security

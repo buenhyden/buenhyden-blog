@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: RDBMS
 date: 2023-10-15T12:46:00+09:00
 description: 관계형 데이터베이스
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Backend
   - Database
@@ -28,7 +27,7 @@ keywords:
 featured: true
 ---
 
-![RDBMS](/content/backend/rdbms.png#center "https://en.m.wikipedia.org/wiki/File:RDBMS_structure.png")
+![RDBMS](content/backend/rdbms.png#center "https://en.m.wikipedia.org/wiki/File:RDBMS_structure.png")
 
 ## Reference
 

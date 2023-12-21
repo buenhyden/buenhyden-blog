@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Domain Driven Design
 description: 해당 도메인과 일치하도록 소프트웨어를 모델링하는 데 중점을 둔 소프트웨어 설계 접근 방식
 linkTitle: Domain Driven Design
@@ -21,7 +21,6 @@ categories:
 series:
   - Computer Science
   - Software Design & Architecture
-
 authors: Hyunyoun Jo
 draft: in progress
 featured: true

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Typescript
 description: 자바스크립트의 단점을 보완하기 위해 만들어진 정적 타입 언어(static type language)
 linkTitle: Typescript
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming Language
   - Programming
@@ -30,7 +29,7 @@ slug: typescript
 featured: true
 ---
 
-![TypeScript](/content/programming/typescript.webp#center "https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k")
+![TypeScript](content/programming/typescript.webp#center "https://dev.to/shivamblog/8-tips-for-clean-typescript-code-you-must-know-488k")
 
 ## Roadmap
 

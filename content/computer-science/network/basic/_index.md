@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Network Basic
 date: 2023-11-26T11:31:59.748Z
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Network
   - Computer Science

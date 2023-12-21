@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Web Socket
 description: 하나의 TCP 접속에 전이중 통신 채널을 제공하는 컴퓨터 통신 프로토콜
 linkTitle: Web Socket
@@ -18,9 +18,8 @@ categories:
 series:
   - Network
   - Computer Science
-
 images:
-  - /content/computer-science/protocol.png
+  - content/computer-science/protocol.png
 nav_weight: 0
 nav_icon:
   vendor: bs
@@ -30,7 +29,7 @@ draft: in progress
 featured: true
 ---
 
-![Web Socket](/content/computer-science/web-socket.png#center "https://blog.stackademic.com/api-101-introduction-imp-of-api-paradigms-8d8e0e463f96")
+![Web Socket](content/computer-science/web-socket.png#center "https://blog.stackademic.com/api-101-introduction-imp-of-api-paradigms-8d8e0e463f96")
 
 ## Web Socket이란?
 

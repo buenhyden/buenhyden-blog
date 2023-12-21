@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: RDBMS Basic
 description: ""
 linkTitle: RDBMS Basic
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Backend

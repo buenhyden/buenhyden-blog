@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: IP address
 linkTitle: IP address
 description: 컴퓨터 네트워크에서 장치들이 서로를 인식하고 통신을 하기 위해서 사용하는 특수한 번호
@@ -23,7 +23,6 @@ categories:
 series:
   - Computer Science
   - Network
-
 authors: Hyunyoun Jo
 draft: in progress
 featured: true

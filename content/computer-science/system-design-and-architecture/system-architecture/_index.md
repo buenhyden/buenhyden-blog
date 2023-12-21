@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: System Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 시스템의 구조, 행위, 더 많은 뷰를 정의하는 개념적 모형
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - System Design & Architecture
   - Computer Science
@@ -26,7 +25,7 @@ draft: published
 featured: true
 ---
 
-![Enterprise System Architecture](/content/computer-science/Enterprise-system-architecture-1.png#center "https://blogs.sw.siemens.com/thought-leadership/2018/11/26/future-ready-framework-for-enterprise-system-architecture/")
+![Enterprise System Architecture](content/computer-science/Enterprise-system-architecture-1.png#center "https://blogs.sw.siemens.com/thought-leadership/2018/11/26/future-ready-framework-for-enterprise-system-architecture/")
 
 ## Reference
 

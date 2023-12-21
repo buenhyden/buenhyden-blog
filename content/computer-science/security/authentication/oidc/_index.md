@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: OIDC
 date: 2023-11-25T00:10:18.380Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - IT Security

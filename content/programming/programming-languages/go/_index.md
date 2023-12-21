@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Go
 date: 2023-10-15T12:46:00+09:00
 description: 전통적인 컴파일, 링크 모델을 따르는 범용 프로그래밍 언어
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Language
@@ -29,7 +28,7 @@ keywords:
 featured: true
 ---
 
-![Go Lang](/content/programming/go-lang.png#center "https://medium.com/@jayant99acharya/building-a-robust-event-delivery-system-with-go-and-redis-1c18525f1fe6")
+![Go Lang](content/programming/go-lang.png#center "https://medium.com/@jayant99acharya/building-a-robust-event-delivery-system-with-go-and-redis-1c18525f1fe6")
 
 ## Roadmap
 

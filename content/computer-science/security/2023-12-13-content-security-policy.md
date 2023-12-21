@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Content Security Policy
 linkTitle: |
   Content Security Policy
@@ -16,7 +16,6 @@ categories:
 series:
   - Computer Science
   - IT Security
-
 authors: Hyunyoun Jo
 lastmod: 2023-12-13T07:45:11.890Z
 nav_weight: 0

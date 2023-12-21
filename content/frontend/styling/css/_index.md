@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: CSS
 date: 2023-10-15T12:46:00+09:00
 description: 마크업 언어로 작성된 문서가 실제로 웹사이트에 표현되는 방법을 정해주는 스타일 시트 언어
@@ -26,7 +26,7 @@ draft: published
 featured: true
 ---
 
-![CSS](/content/frontend/css.png#center "https://www.oxfordwebstudio.com/en/did-you-know/what-is-css")
+![CSS](content/frontend/css.png#center "https://www.oxfordwebstudio.com/en/did-you-know/what-is-css")
 
 ## Lecture
 

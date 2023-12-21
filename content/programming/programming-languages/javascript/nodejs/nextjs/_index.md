@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Next.js
 description: 서버 사이트 렌더링, 정적 웹 페이지 생성 등 리액트 기반 웹 애플리케이션 기능들을 가능케 하는 Node.js 위에서 빌드된 오픈 소스 웹 개발 프레임워크
 linkTitle: Next.js
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming Language
   - Programming
@@ -36,7 +35,7 @@ slug: js
 featured: true
 ---
 
-![Next JS](/content/programming/next-js.png#center "https://velog.io/@bang04/NextJS-%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC")
+![Next JS](content/programming/next-js.png#center "https://velog.io/@bang04/NextJS-%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC")
 
 ## Tutorial
 

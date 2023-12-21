@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: QA Engineering
 date: 2023-10-15T12:46:00+09:00
 description: 주요 이해관계자들에게 시험 대상 제품 또는 서비스의 품질에 관한 정보를 제공하는 조사 과정
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - QA Engineering
   - Computer Science
@@ -26,15 +25,15 @@ featured: true
 
 ## Quality Assurance (QA)
 
-![Quality Assurance](/content/computer-science/quality-assurance-1.png#center "https://www.cpfcoindia.com/quality-assurance/")
+![Quality Assurance](content/computer-science/quality-assurance-1.png#center "https://www.cpfcoindia.com/quality-assurance/")
 
 ## QA Process
 
-![Quality Assurance](/content/computer-science/Quality-Assurance-Process-1.jpg#center "https://spinaciatech.com/services/testing-qa/")
+![Quality Assurance](content/computer-science/Quality-Assurance-Process-1.jpg#center "https://spinaciatech.com/services/testing-qa/")
 
 ## QA Role & Skills
 
-![Quality Assurance](/content/computer-science/0_IQmoYSo_cFPuzbEM.webp#center "https://medium.com/hackernoon/qa-engineering-roles-skills-tools-and-responsibilities-in-a-testing-team-7c499adc8057")
+![Quality Assurance](content/computer-science/0_IQmoYSo_cFPuzbEM.webp#center "https://medium.com/hackernoon/qa-engineering-roles-skills-tools-and-responsibilities-in-a-testing-team-7c499adc8057")
 
 ## Roadmap
 

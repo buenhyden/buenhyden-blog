@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Helm
 date: 2023-11-22T01:27:19.937Z
 description: 쿠버네티스를 위한 패키지 관리 도구
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Container
   - Dev Ops

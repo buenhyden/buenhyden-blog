@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Gateway & Router
 linkTitle: Gateway & Router
 layout: ""
@@ -19,7 +19,6 @@ categories:
 series:
   - Computer Science
   - Network
-
 authors: Hyunyoun Jo
 lastmod: 2023-12-10T15:35:02.552Z
 nav_weight: 0

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Angular
 description: ""
 linkTitle: Angular
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming Language
   - Programming Languages
@@ -33,7 +32,7 @@ slug: angular
 featured: true
 ---
 
-![Angular](/content/programming/angular.webp)
+![Angular](content/programming/angular.webp)
 
 ## Reference
 

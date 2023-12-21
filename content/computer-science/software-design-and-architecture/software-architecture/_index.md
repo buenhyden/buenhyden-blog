@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Software Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 요소, 관계, 원칙, 디자인으로 구현된 환경에서의 시스템의 근본적인 개념 혹은 속성
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Software Design & Architecture
   - Computer Science
@@ -26,7 +25,7 @@ draft: published
 featured: true
 ---
 
-![Software Architecture](/content/computer-science/software-architecture.webp#center "https://herbertograca.com/tag/explicit-architecture/")
+![Software Architecture](content/computer-science/software-architecture.webp#center "https://herbertograca.com/tag/explicit-architecture/")
 
 ## Reference
 

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Vector Database
 date: 2023-12-17T06:45:34.601Z
 description: ""

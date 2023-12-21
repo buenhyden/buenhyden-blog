@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Jagger
 date: 2023-12-07T05:55:16.840Z
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Management for Infrastructure

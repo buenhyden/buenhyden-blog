@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Observability
 date: 2023-11-26T05:43:29.037Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Management for Infrastructure

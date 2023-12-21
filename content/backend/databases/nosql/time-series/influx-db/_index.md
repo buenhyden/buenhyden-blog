@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Influx DB
 date: 2023-12-09T06:14:08.284Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Database
   - Backend

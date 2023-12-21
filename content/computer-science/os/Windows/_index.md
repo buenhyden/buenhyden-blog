@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Windows
 date: 2023-10-15T12:46:00+09:00
 description: 마이크로소프트가 개발한 컴퓨터 운영 체제
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Operating System
@@ -29,6 +28,6 @@ draft: published
 featured: true
 ---
 
-![Windows](/content/computer-science/windows.png#center)
+![Windows](content/computer-science/windows.png#center)
 
 ## Reference

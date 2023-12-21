@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Continuous Integration(CI)
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 통합
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - CI/CD
   - Dev Ops
@@ -26,7 +25,7 @@ draft: published
 featured: true
 ---
 
-![CI](/content/dev-ops/ci.png?width=512px#center "https://www.pagerduty.com/resources/learn/what-is-continuous-integration/")
+![CI](content/dev-ops/ci.png?width=512px#center "https://www.pagerduty.com/resources/learn/what-is-continuous-integration/")
 
 - 자동화된 빌드 및 테스트가 수행된 후, 개발자가 코드 변경 사항을 중앙 리포지토리에 정기적으로 병합하는 데브옵스 소프트웨어 개발 방식
 - 지속적 통합은 소프트웨어 릴리스 프로세스 중 빌드 또는 통합 단계를 주로 가리키며 자동화 구성 요소(예: CI 또는 빌드 서비스)와 문화적 구성 요소(예: 빌번하게 통합하도록 학습) 모두를 포함

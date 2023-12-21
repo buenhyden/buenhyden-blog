@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Fluentbit
 date: 2023-11-04T12:52:00+09:00
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Management for Infrastructure

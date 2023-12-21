@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: AI Basic
 description: ""
 linkTitle: AI Basic

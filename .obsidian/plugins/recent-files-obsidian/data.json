@@ -1,6 +1,142 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-10-16-databases",
+      "path": "content/backend/databases/2023-10-16-databases.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/vdbms/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/rdbms/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/rdbms/sqlite/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/rdbms/postgresql/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/rdbms/mysql/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/rdbms/mariadb/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/rdbms/basic/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/time-series/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/time-series/influx-db/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/realtime/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/key-value/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/key-value/redis/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/graph-dbs/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/graph-dbs/Neo4j/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/document-dbs/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/document-dbs/mongodb/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/column-dbs/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/column-dbs/HBase/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/column-dbs/Cassandra/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/nosql/basic/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/backend/databases/basic/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/computer-vision/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/speech-recognition/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/recommender-system/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/natural-language-processing/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/expert-system/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/computer-vision/machine-vision/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/computer-vision/image-recognition/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/ai/basic/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/archives/2021/01/_index.md"
+    },
+    {
       "basename": "ProjectManagementTemplates",
       "path": "_templates/ProjectManagementTemplates.md"
     },
@@ -13,32 +149,8 @@
       "path": "_templates/VisionTemplates.md"
     },
     {
-      "basename": "_index",
-      "path": "content/ai/natural-language-processing/_index.md"
-    },
-    {
       "basename": "2023-12-20 ( 수 )",
       "path": "content/diary/daily/2023/12/2023-12-20 ( 수 ).md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/basic/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/computer-vision/image-recognition/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/computer-vision/machine-vision/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/computer-vision/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/ai/expert-system/_index.md"
     },
     {
       "basename": "2023-12-21 ( 목 )",

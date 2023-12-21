@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Inbound & Outbound
 linkTitle: Inbound & Outbound
 layout: ""
@@ -19,7 +19,6 @@ categories:
 series:
   - Computer Science
   - Network
-
 authors: Hyunyoun Jo
 lastmod: 2023-12-10T14:58:16.484Z
 nav_weight: 0

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: HTTP Status Code
 date: 2023-10-16T11:52:00+09:00
 description: 특정 HTTP 요청이 성공적으로 완료되었는지 알려준다.
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Network
@@ -30,7 +29,7 @@ draft: published
 featured: true
 ---
 
-![HTTP Status Code](/content/computer-science/http-status-code.webp "https://octaviocode.medium.com/http-status-code-2a5622ea52a4")
+![HTTP Status Code](content/computer-science/http-status-code.webp "https://octaviocode.medium.com/http-status-code-2a5622ea52a4")
 
 - 응답은 5개의 그룹으로 나뉘어 진다
   - 정보를 제공하는 응답 (1xx)

@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: Computer Science
 date: 2023-11-12T13:55:37.829Z
 description: 알고리즘 과정, 계산 기계 그리고 계산 자체에 대한 학문
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
 categories:

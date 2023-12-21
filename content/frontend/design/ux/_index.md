@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: UX
 date: 2023-10-15T12:46:00+09:00
 description: 사용자가 제품 또는 서비스에 대해 갖는 경험에 관한 것
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Design
   - Frontend

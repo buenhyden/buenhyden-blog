@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Micro Service Architecture(MSA)
 date: 2023-10-23T07:08:00+09:00
 description: 단일 애플리케이션을 작은 서비스 모음으로 개발하는 접근 방식
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - System Design & Architecture
@@ -32,7 +31,7 @@ featured: true
 
 ## Micro Service Architecture vs Monolithic
 
-![MSA vs Monolithic](/content/computer-science/msa-monolithic.png#center "https://www.linkedin.com/posts/saadkhalid1987_architecture-monolithic-microservices-activity-7046390481009668096-nE_f?trk=public_profile")
+![MSA vs Monolithic](content/computer-science/msa-monolithic.png#center "https://www.linkedin.com/posts/saadkhalid1987_architecture-monolithic-microservices-activity-7046390481009668096-nE_f?trk=public_profile")
 
 ## Reference
 

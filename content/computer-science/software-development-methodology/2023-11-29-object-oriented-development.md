@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Object-Oriented Development
 date: 2023-11-28T14:31:11.197Z
 description: "'객체'라는 기본 단위로 시스템을 분석 및 설계하는 방법론"
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Software Development Methodology

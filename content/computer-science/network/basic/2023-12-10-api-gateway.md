@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: API Gateway
 linkTitle: API Gateway
 layout: ""
@@ -19,7 +19,6 @@ categories:
 series:
   - Computer Science
   - Network
-
 authors: Hyunyoun Jo
 lastmod: 2023-12-10T14:58:06.805Z
 nav_weight: 0

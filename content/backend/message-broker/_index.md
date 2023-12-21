@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Message Broker
 date: 2023-10-15T12:46:00+09:00
 description: 애플리케이션, 시스템 및 서비스가 서로 간에 통신하고 정보를 교환할 수 있도록 해주는 소프트웨어
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Backend
   - Message Broker
@@ -26,7 +25,7 @@ keywords:
 featured: true
 ---
 
-![Diagram Message Broker](/content/backend/diagram-message-broker.png "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%8B%9C%EC%A7%80_%EB%B8%8C%EB%A1%9C%EC%BB%A4")
+![Diagram Message Broker](content/backend/diagram-message-broker.png "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%8B%9C%EC%A7%80_%EB%B8%8C%EB%A1%9C%EC%BB%A4")
 
 ## 메시지 브로커란?
 

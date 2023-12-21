@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Programming Paradigm
 date: 2023-11-16T01:10:18.964Z
 description: 전체적인 프로그래밍 방식
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming Paradigm
   - Programming
@@ -28,7 +27,7 @@ slug: programming-paradigm
 featured: true
 ---
 
-![Programming Paradigm](/content/programming/prg-paradigms.png#center "https://commons.wikimedia.org/wiki/Category:Programming_language_by_paradigm?uselang=ko")
+![Programming Paradigm](content/programming/prg-paradigms.png#center "https://commons.wikimedia.org/wiki/Category:Programming_language_by_paradigm?uselang=ko")
 
 ## Reference
 

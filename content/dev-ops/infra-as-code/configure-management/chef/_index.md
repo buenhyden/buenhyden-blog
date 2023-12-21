@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Chef
 date: 2023-11-04T12:52:00+09:00
 description: 루비와 얼랭으로 작성된 형상 관리 도구
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Infrastructure as Code
@@ -31,7 +30,7 @@ draft: published
 featured: true
 ---
 
-![Chef Architecture](/content/dev-ops/chef%20architecture.png "https://www.tecmint.com/chef-automation-tool/")
+![Chef Architecture](content/dev-ops/chef%20architecture.png "https://www.tecmint.com/chef-automation-tool/")
 
 ## Reference
 

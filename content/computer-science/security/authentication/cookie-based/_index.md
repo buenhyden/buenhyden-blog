@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: Cookie Based
 date: 2023-12-15T01:48:21.927Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - IT Security

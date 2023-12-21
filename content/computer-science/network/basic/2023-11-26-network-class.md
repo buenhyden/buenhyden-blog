@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Network Class
 linkTitle: Network Class
 description: ""
@@ -23,7 +23,6 @@ categories:
 series:
   - Computer Science
   - Network
-
 authors: Hyunyoun Jo
 draft: in progress
 featured: true

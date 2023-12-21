@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: System Design & Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 규모가 큰 시스템을 디자인 하는 것
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - System Design & Architecture
   - Computer Science
@@ -24,7 +23,7 @@ draft: published
 featured: true
 ---
 
-![System Design Master](/content/computer-science/system-design-master.webp#center "https://medium.com/gitconnected/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b")
+![System Design Master](content/computer-science/system-design-master.webp#center "https://medium.com/gitconnected/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b")
 
 ## Roadmap
 

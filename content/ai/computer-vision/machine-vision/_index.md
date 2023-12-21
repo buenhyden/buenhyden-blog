@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Machine Vision
 date: 2023-12-09T00:18:49.880Z
 description: ""

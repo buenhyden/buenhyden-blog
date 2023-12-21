@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Spring
 description: 자바 플랫폼을 위한 오픈 소스 애플리케이션 프레임워크
 linkTitle: Spring
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Language

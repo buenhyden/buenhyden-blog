@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Typescript Basic
 description: ""
 linkTitle: Typescript Basic
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Language

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: System Design & Architecture
 description: ""
 linkTitle: System Design & Architecture
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - System Design & Architecture

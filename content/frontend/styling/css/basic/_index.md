@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: CSS Basic
 description: ""
 linkTitle: CSS Basic

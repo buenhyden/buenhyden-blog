@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Continuous Deployment Basic
 date: 2023-11-28T03:34:52.044Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - CI/CD
   - Dev Ops

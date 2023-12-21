@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Globs(Glob Patterns) 문법 정리
 description: ""
 linkTitle: Globs(Glob Patterns) 문법 정리
@@ -26,7 +26,6 @@ series:
   - Computer Science
   - Operating System
   - OS
-
 authors: Hyunyoun Jo
 draft: in progress
 featured: true

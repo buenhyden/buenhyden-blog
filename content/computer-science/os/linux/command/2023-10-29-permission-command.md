@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Linux Permission Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux 권한 설정 Command
@@ -25,14 +25,13 @@ tags:
   - Linux
   - Operating System
   - OS
-
 authors: Hyunyoun Jo
 lastmod: 2023-12-09T06:18:01.690Z
 draft: published
 featured: true
 ---
 
-![Linux Permissions](/content/computer-science/linux-permissions.jpg#center "https://medium.com/@usamashafique00786/day-4-task-linux-permissions-and-access-control-lists-ef59cebf9324")
+![Linux Permissions](content/computer-science/linux-permissions.jpg#center "https://medium.com/@usamashafique00786/day-4-task-linux-permissions-and-access-control-lists-ef59cebf9324")
 
 - File type : 파일 유형
   |type|Description|
@@ -46,7 +45,7 @@ featured: true
   |b|block device|
 
 - Permissions : 각 파일에 접근해서 읽거나 쓰거나 실행할 권리를 갖는 소유자 / 그룹 / 다른 사용자로 나눠서 관리
-  ![Linux Permission](/content/computer-science/Files-permissions-and-ownership-basics-in-Linux.png "https://pamirwebhost.com/check-linux-file-permissions-with-ls/")
+  ![Linux Permission](content/computer-science/Files-permissions-and-ownership-basics-in-Linux.png "https://pamirwebhost.com/check-linux-file-permissions-with-ls/")
 
   - Permission은 3개로 나눠서 관리
     | |Description|
@@ -65,7 +64,7 @@ featured: true
     |-|r,w,x에 대한 권한이 없음을 표시|r,w,x에 대한 권한이 없음을 표시|
 
   - Permission\
-    ![Linux File permissions](/content/computer-science/linux-file-permissions.jpg?width=512px "https://medium.com/@gumbershruti1119/day-6-file-permissions-and-access-control-lists-2126f994a5b8")
+    ![Linux File permissions](content/computer-science/linux-file-permissions.jpg?width=512px "https://medium.com/@gumbershruti1119/day-6-file-permissions-and-access-control-lists-2126f994a5b8")
 
 - number of hard links
 

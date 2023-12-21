@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Monitoring System
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 시스템의 시스템 리소스와 성능을 모니터링하는 데 사용되는 하드웨어 또는 소프트웨어 구성 요소
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Management for Infrastructure
@@ -26,7 +25,7 @@ draft: published
 featured: true
 ---
 
-![Monitoring](/content/dev-ops/types-it-monitoring.png#center "https://www.bmc.com/blogs/it-monitoring/")
+![Monitoring](content/dev-ops/types-it-monitoring.png#center "https://www.bmc.com/blogs/it-monitoring/")
 
 ## Reference
 

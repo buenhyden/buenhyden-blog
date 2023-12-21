@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Python Basic
 date: 2023-11-26T13:02:12.342Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Language

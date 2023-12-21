@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 date: 2023-10-15T15:46:00+09:00
 title: Container Orchestration(CO) Tools
 description: Container Orchestration(CO)을 위해 많이 사용되는 도구와 각 도구별 특성을 정리
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 authors:
   - Hyunyoun Jo
 series:
@@ -26,7 +25,7 @@ draft: published
 featured: true
 ---
 
-![CO Tools](/content/dev-ops/co-tools.webp "https://www.suse.com/c/rancher_blog/kubernetes-mesos-and-swarm-comparing-the-rancher-orchestration-engine-options/")
+![CO Tools](content/dev-ops/co-tools.webp "https://www.suse.com/c/rancher_blog/kubernetes-mesos-and-swarm-comparing-the-rancher-orchestration-engine-options/")
 
 ## 종류
 

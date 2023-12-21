@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: <% tp.file.title %>
 description:
 linkTitle: <% tp.file.title %>

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: UI
 date: 2023-10-15T12:46:00+09:00
 description: 사람들이 제품과 상호 작용하는 미적 요소
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Design
   - Frontend

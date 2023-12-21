@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Protocol
 date: 2023-10-15T12:46:00+09:00
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Network
   - Computer Science
@@ -26,7 +25,7 @@ draft: published
 featured: true
 ---
 
-![Protocol](/content/computer-science/protocol.png#center "http://www.tcpipguide.com/free/t_TCPIPProtocols.htm")
+![Protocol](content/computer-science/protocol.png#center "http://www.tcpipguide.com/free/t_TCPIPProtocols.htm")
 
 ## Reference
 

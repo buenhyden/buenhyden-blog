@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Git LFS
 date: 2023-11-05T06:46:00+09:00
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - CI/CD
   - Dev Ops

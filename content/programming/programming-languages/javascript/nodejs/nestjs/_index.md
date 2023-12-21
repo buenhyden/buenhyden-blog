@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Nest.js
 description: A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 linkTitle: Nest.js
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming Language
   - Programming
@@ -36,7 +35,7 @@ slug: nest-js
 featured: true
 ---
 
-![Nest JS](/content/programming/nestjs.webp "https://bradbeighton.medium.com/nestjs-the-pros-and-cons-aff714607b07")
+![Nest JS](content/programming/nestjs.webp "https://bradbeighton.medium.com/nestjs-the-pros-and-cons-aff714607b07")
 
 ## Reference
 

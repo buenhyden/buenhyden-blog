@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Web Server Basic
 description: ""
 linkTitle: Web Server Basic
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Backend

@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: IT Security
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 및 통신에 관련된 보안
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - IT Security
@@ -24,7 +23,7 @@ draft: published
 featured: true
 ---
 
-![IT Security](/content/computer-science/it-security.webp#center "https://teamwin.in/index.php/services/security-system/")
+![IT Security](content/computer-science/it-security.webp#center "https://teamwin.in/index.php/services/security-system/")
 
 ## Reference
 

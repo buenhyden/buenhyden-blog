@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: Keycloak
 date: 2023-11-24T23:45:27.229Z
 description: 현대의 애플리케이션과 서비스에 초점을 둔 아이덴티티 및 접근 관리에 통합 인증을 허용하는 오픈 소스 소프트웨어 제품
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Management for Infrastructure

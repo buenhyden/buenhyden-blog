@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Version Control
 date: 2023-10-15T12:46:00+09:00
 description: 동일한 정보에 대한 여러 버전을 관리하는 것
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - CI/CD
   - Dev Ops
@@ -33,7 +32,7 @@ featured: true
 데이터베이스를 사용해서 파일의 변경 정보를 관리하는 시스템
 RCS(Revision Control System)은 파일에서 변경되는 부분(Patch)만 기억해 용량 문제를 해결
 RCS에서 버전 변경은 해당 버전까지의 일련의 변화들(Patch Set)을 적용/해제하는 식으로 동작
-![Distributed version control](/content/dev-ops/local-vcs.png#center "https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control")
+![Distributed version control](content/dev-ops/local-vcs.png#center "https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control")
 
 ## 중앙집중식 버전관리(CVCS)
 
@@ -46,7 +45,7 @@ RCS에서 버전 변경은 해당 버전까지의 일련의 변화들(Patch Set)
   - 오프라인 상태에서는 버전 관리 시스템을 사용할 수 없다
   - 모든 버전 관리 관련 동작은 적어도 한 번 서버를 경유해야 하므로 속도가 느리다.
   - 서버에서 데이터가 망가지거나 삭제되면 복구하기 어렵다
-  - ![Distributed version control](/content/dev-ops/cvcs.png#center "https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control")
+  - ![Distributed version control](content/dev-ops/cvcs.png#center "https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control")
 
 ## 분산 버전관리 시스템(DVCS)
 
@@ -57,7 +56,7 @@ RCS에서 버전 변경은 해당 버전까지의 일련의 변화들(Patch Set)
 - 단점
   - 중앙 집중식 버전 관리 시스템에 비해 복잡하다
   - 동기화 문제가 있다
-    ![Distributed version control](/content/dev-ops/distributed-version-control.png#center "https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control")
+    ![Distributed version control](content/dev-ops/distributed-version-control.png#center "https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control")
 
 ## Reference
 

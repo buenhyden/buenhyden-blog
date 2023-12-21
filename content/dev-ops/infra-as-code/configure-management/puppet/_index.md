@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Puppet
 date: 2023-11-04T12:52:00+09:00
 description: ruby로 만들어진 시스템 관리 자동화 툴
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Infrastructure as Code
@@ -31,7 +30,7 @@ draft: published
 featured: true
 ---
 
-![Puppet Platform](/content/dev-ops/puppet_platform.webp "https://www.puppet.com/docs/puppet/8/platform_components")
+![Puppet Platform](content/dev-ops/puppet_platform.webp "https://www.puppet.com/docs/puppet/8/platform_components")
 
 ## Reference
 

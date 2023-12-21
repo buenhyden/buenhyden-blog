@@ -16,7 +16,7 @@ categories:
 series:
   - Network
   - Computer Science
-type: notes
+type: docs
 nav_weight: 49
 nav_icon:
   vendor: bs

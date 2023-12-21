@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Database 타입
 date: 2023-10-16T16:26:00+09:00
 linkTitle: Database 타입
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Backend
   - Database
@@ -27,7 +26,7 @@ keywords:
 featured: true
 ---
 
-![Database Types](/content/backend/database-types.png "https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev")
+![Database Types](content/backend/database-types.png "https://blog.bytebytego.com/p/understanding-database-types?ref=dailydev")
 
 ## 관계형 데이터베이스
 

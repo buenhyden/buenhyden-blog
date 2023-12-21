@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Vue.js
 description: 웹 애플리케이션의 사용자 인터페이스를 만들기 위해 사용하는 오픈 소스 프로그레시브 자바스크립트 프레임워크
 linkTitle: Vue.js
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming Language
   - Programming Languages
@@ -33,7 +32,7 @@ keywords:
 featured: true
 ---
 
-![Vue JS](/content/programming/vue-js.png#center "https://beginnersoftwaredeveloper.com/how-do-i-pass-data-from-one-view-to-another-view-in-vue/")
+![Vue JS](content/programming/vue-js.png#center "https://beginnersoftwaredeveloper.com/how-do-i-pass-data-from-one-view-to-another-view-in-vue/")
 
 ## Roadmap
 

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Data Engineering
 date: 2023-10-15T12:46:00+09:00
 description: 원시 데이터(raw data)를 가져와 분석 및 머신러닝과 같은 다운스트림 사용 사례를 지원하고, 고품질의 일관된 정보를 생성하는 시스템과 프로세스의 개발, 구현 및 유지 관리
@@ -25,11 +25,11 @@ featured: true
 
 ## Roadmap
 
-![Data Engineering Roadmap](/content/data/data-engineering-roadmap.png?width=768px#center "https://github.com/ErdemOzgen/Data-Engineering-Roadmap")
+![Data Engineering Roadmap](content/data/data-engineering-roadmap.png?width=768px#center "https://github.com/ErdemOzgen/Data-Engineering-Roadmap")
 
 ## State of Data Engineering 2022 map
 
-![State of Data Engineering 2022 map](/content/data/State-of-Data-Engineering-2022-map.jpg#center "https://medium.com/@rahulxsharma/decoding-the-el-in-elt-2393eb4d714f")
+![State of Data Engineering 2022 map](content/data/State-of-Data-Engineering-2022-map.jpg#center "https://medium.com/@rahulxsharma/decoding-the-el-in-elt-2393eb4d714f")
 
 ## Reference
 

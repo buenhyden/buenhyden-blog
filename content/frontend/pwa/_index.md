@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Progressive Web Apps(PWA)
 date: 2023-11-16T06:59:30.735Z
 description: HTML, CSS, 자바스크립트(JavaScript)와 같은 웹 기술로 만드는 앱
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Frontend
   - Progressive Web App

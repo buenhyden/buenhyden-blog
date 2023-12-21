@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Terraform
 date: 2023-11-04T12:52:00+09:00
 description: HashiCorp가 개발한 오픈 소스 코드형 인프라스트럭처
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Infrastructure as Code
@@ -31,7 +30,7 @@ draft: published
 featured: true
 ---
 
-![Terraform](/content/dev-ops/what-is-terraform.webp "https://www.scaler.com/topics/aws/terraform-aws/")
+![Terraform](content/dev-ops/what-is-terraform.webp "https://www.scaler.com/topics/aws/terraform-aws/")
 
 ## Reference
 

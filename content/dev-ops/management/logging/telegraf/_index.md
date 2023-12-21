@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Telegraf
 date: 2023-12-17T06:08:21.515Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Management for Infrastructure

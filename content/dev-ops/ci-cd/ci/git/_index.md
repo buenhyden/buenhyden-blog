@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Git
 date: 2023-10-31T12:46:00+09:00
 description: 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 스냅샷 스트림 기반의 분산 버전 관리 시스템
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - CI/CD
   - Dev Ops
@@ -32,7 +31,7 @@ featured: true
 
 ## Git Version 관리
 
-![Git](/content/dev-ops/git.png#center "https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EA%B8%B0%EC%B4%88")
+![Git](content/dev-ops/git.png#center "https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EA%B8%B0%EC%B4%88")
 
 ## Reference
 

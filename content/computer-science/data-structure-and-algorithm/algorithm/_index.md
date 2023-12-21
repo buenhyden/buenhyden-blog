@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Algorithm
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 프로그램에서 문제를 해결하기 위한 방법,순서,명령어들의 집합체
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Data Structure & Algorithm
@@ -26,7 +25,7 @@ draft: published
 featured: true
 ---
 
-![Data algorithms](/content/computer-science/Taxonomy-of-the-algorithms.png#center "https://www.researchgate.net/figure/Taxonomy-of-the-algorithms-and-data-structures-considered-for-the-AlgoVis-tool_fig1_329481179")
+![Data algorithms](content/computer-science/Taxonomy-of-the-algorithms.png#center "https://www.researchgate.net/figure/Taxonomy-of-the-algorithms-and-data-structures-considered-for-the-AlgoVis-tool_fig1_329481179")
 
 ## Lecture
 

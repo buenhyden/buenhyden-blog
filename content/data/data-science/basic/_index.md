@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Data Science Basic
 description: ""
 linkTitle: Data Science Basic
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series: []
 categories:
   - Computer Science

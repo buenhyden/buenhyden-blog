@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: System Design Patterns
 date: 2023-11-20T11:46:55.067Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - System Design & Architecture
   - Computer Science

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Kotlin
 description: 젯브레인즈사에서 개발하는 크로스 플랫폼 범용 프로그래밍 언어
 linkTitle: Kotlin
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Kotlin
   - Programming Language
@@ -31,7 +30,7 @@ slug: kotlin
 featured: true
 ---
 
-![Kotlin](/content/programming/kotlin.png "http://kotlin.kr/")
+![Kotlin](content/programming/kotlin.png "http://kotlin.kr/")
 
 ## Lecture
 

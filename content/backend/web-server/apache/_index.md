@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Apache
 date: 2023-10-31T07:46:00+09:00
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Backend
   - Web Server

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Dart
 description: 구글이 멀티 플랫폼 상에서 동작되도록 하는 앱을 위해 디자인된 프로그래밍 언어
 linkTitle: Dart
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Language

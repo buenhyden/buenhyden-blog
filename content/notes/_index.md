@@ -4,7 +4,6 @@ title: notes
 date: 2023-10-15T12:46:00+09:00
 description: 까먹지 말고 기록으로 남기자
 linkTitle: notes
-
 series:
   - Notes
 categories: []

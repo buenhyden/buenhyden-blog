@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: InfluxDB
 date: 2023-11-19T11:11:13.822Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Database
   - Backend
@@ -33,7 +32,7 @@ keywords:
 featured: true
 ---
 
-![Mongo DB](/content/backend/mongodb.png#center "https://rahul319sinha.medium.com/regular-expression-in-mongodb-37f2161d9754")
+![Mongo DB](content/backend/mongodb.png#center "https://rahul319sinha.medium.com/regular-expression-in-mongodb-37f2161d9754")
 
 ## Roadmap
 

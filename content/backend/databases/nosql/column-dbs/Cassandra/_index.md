@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Cassandra
 date: 2023-11-19T11:16:08.047Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Database
   - Backend

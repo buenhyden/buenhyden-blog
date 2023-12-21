@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Programming Basics
 date: 2023-11-16T01:10:03.126Z
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Basics

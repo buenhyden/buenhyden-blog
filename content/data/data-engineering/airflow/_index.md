@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Airflow
 date: 2023-11-04T12:52:00+09:00
 description: 데이터 공학 파이프라인을 위한 오픈 소스 워크플로 관리 플랫폼
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Data Engineering
   - Tools

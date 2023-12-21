@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Bandwidth
 linkTitle: Bandwidth
 description: 특정한 기능을 수행할 수 있는 주파수의 범위
@@ -23,7 +23,6 @@ categories:
 series:
   - Computer Science
   - Network
-
 authors: Hyunyoun Jo
 draft: in progress
 featured: true
@@ -61,7 +60,7 @@ featured: true
   - bps(bit per second) : 채널이나 링크, 네트워크 등이 통과시킬 수 있는 초당 비트의 수
 - 대역폭은 링크의 잠재 성능의 측정치 (상한)
   - 네트워크의 실질적인 성능을 나타내지 않는다.
-    ![Compare the differences between network bandwidth vs. throughput.](/content/computer-science/network_bandwidth_vs_throughput-f.png "https://www.techtarget.com/searchnetworking/feature/Network-bandwidth-vs-throughput-Whats-the-difference")
+    ![Compare the differences between network bandwidth vs. throughput.](content/computer-science/network_bandwidth_vs_throughput-f.png "https://www.techtarget.com/searchnetworking/feature/Network-bandwidth-vs-throughput-Whats-the-difference")
 
 #### Bandwidth(대역폭)와 Throughput(네트워크 출력 또는 처리율)은 동일한가?
 
@@ -74,7 +73,7 @@ IT 시스템의 네트워크 레이어에서 출력이 일정하지 않다는 �
   : 네트워크 출력을 지속적으로 모니터링하는 것이 필요.
   - 실시간 모니터링하고 대시보드 그래프를 통해 모니터링하면서 Threshold 값의 범위를 넘어가는 경우 알람을 발생하는 방식을 많이 사용
 
-![Bandwidth vs. Throughput](/content/computer-science/throughput-bandwidth.png#center "https://obkio.com/blog/network-speed-bandwidth-throughput/")
+![Bandwidth vs. Throughput](content/computer-science/throughput-bandwidth.png#center "https://obkio.com/blog/network-speed-bandwidth-throughput/")
 
 #### 지연 (Delay, Latency)
 

@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: Data
 date: 2023-10-15T12:46:00+09:00
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Data
 categories:

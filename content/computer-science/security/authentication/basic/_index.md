@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: basic Auth
 date: 2023-12-13T07:29:19.645Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - IT Security

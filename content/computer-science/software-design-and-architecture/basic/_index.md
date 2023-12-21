@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Software Design & Architecture Basic
 description: ""
 linkTitle: Software Design & Architecture Basic
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Software Design & Architecture

@@ -15,7 +15,6 @@ categories:
 series:
   - Notes
   - Blog
-
 authors: Hyunyoun Jo
 lastmod: 2023-12-10T04:01:09.242Z
 draft: published

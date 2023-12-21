@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: data analysis and manipulation tool
 description: ""
 linkTitle: data analysis and manipulation tool
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Language

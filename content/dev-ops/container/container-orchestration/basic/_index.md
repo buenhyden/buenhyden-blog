@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Container Orchestration(CO) Basic
 description: ""
 linkTitle: Container Orchestration(CO) Basic
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Dev Ops

@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Linux Basic Command
 date: 2023-10-29T03:38:00+09:00
 description: Linux에서 자주 사용하는 명령어 모음
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Computer Science
   - Operating System

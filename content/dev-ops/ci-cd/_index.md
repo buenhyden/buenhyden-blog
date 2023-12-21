@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: CI & CD
 date: 2023-10-15T12:46:00+09:00
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - CI/CD
@@ -24,8 +23,8 @@ draft: published
 featured: true
 ---
 
-![CI & CD2](/content/dev-ops/ci-cd2.png?width=512px#center "https://www.geeksforgeeks.org/ci-cd-continuous-integration-and-continuous-delivery/")
-![CI & CD](/content/dev-ops/6-5-Explanation-of-CI-CD-stages.png?width=512px#center "https://aws.amazon.com/ko/blogs/compute/building-well-architected-serverless-applications-approaching-application-lifecycle-management-part-3/")
+![CI & CD2](content/dev-ops/ci-cd2.png?width=512px#center "https://www.geeksforgeeks.org/ci-cd-continuous-integration-and-continuous-delivery/")
+![CI & CD](content/dev-ops/6-5-Explanation-of-CI-CD-stages.png?width=512px#center "https://aws.amazon.com/ko/blogs/compute/building-well-architected-serverless-applications-approaching-application-lifecycle-management-part-3/")
 
 - 기능적인 소프트웨어 제공 시 문제 발생 위험을 줄이고자 코드를 `지속적으로`테스트하고 `배포하는 전술`
 - 팀이 짧은 주기로 소프트웨어를 개발하는 소프트웨어 공학적 접근의 하나

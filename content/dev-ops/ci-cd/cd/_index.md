@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Continuous Deployment(CD)
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 배포
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - CI/CD
   - Dev Ops
@@ -26,7 +25,7 @@ draft: published
 featured: true
 ---
 
-![CD](/content/dev-ops/cd.png?width=512px#center "https://medium.com/buildpiper/continuous-delivery-vs-continuous-deployment-6f8d6fdf92d8")
+![CD](content/dev-ops/cd.png?width=512px#center "https://medium.com/buildpiper/continuous-delivery-vs-continuous-deployment-6f8d6fdf92d8")
 
 - 지속적인 서비스 제공(Continuous Delivery) 또는 지속적인 배포(Continuous Deployment)를 의미하며 이는 상호 교환적으로 사용된다.
 - 두 가지 의미 모두 파이프라인의 추가 단계에 대한 자동화를 뜻하지만 때로는 얼마나 많은 자동화가 이루어지고 있는지를 설명하기 위해 별도로 사용되기도 한다.

@@ -1,5 +1,5 @@
 ---
-type: default
+type: docs
 title: Dev Ops
 date: 2023-10-15T12:46:00+09:00
 description: 소프트웨어의 개발과 운영의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
 categories:
@@ -21,7 +20,7 @@ draft: published
 featured: true
 ---
 
-![Dev Ops](/content/dev-ops/devops.png?width=512px#center "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4")
+![Dev Ops](content/dev-ops/devops.png?width=512px#center "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4")
 
 ## Dev Ops란
 
@@ -30,7 +29,7 @@ featured: true
 
 ## Dev Ops Marketplace
 
-![Dev Ops Marketplace](/content/dev-ops/DevOps-Marketplace-Infinity-Loop.png#center "https://deviq.com.au/devops/")
+![Dev Ops Marketplace](content/dev-ops/DevOps-Marketplace-Infinity-Loop.png#center "https://deviq.com.au/devops/")
 
 ## Roadmap
 

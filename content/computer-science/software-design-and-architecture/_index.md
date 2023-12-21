@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Software Design & Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 소프트웨어를 디자인
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Software Design & Architecture
   - Computer Science
@@ -26,15 +25,15 @@ featured: true
 
 ## 하나 이상의 서비스 구현을 추상화 하는 API
 
-![하나 이상의 서비스 구현을 추상화 하는 API](/content/computer-science/service-implementations.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
+![하나 이상의 서비스 구현을 추상화 하는 API](content/computer-science/service-implementations.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
 
 ## Application Architecture
 
-![Application Architecture](/content/computer-science/service-architecture.jpg#center "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
+![Application Architecture](content/computer-science/service-architecture.jpg#center "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
 
 ## 애플리케이션 서비스 아키텍처 선택 위한 결정 도구
 
-![애플리케이션 서비스 아키텍처 선택 위한 결정 도구](/content/computer-science/179757_102967_289.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
+![애플리케이션 서비스 아키텍처 선택 위한 결정 도구](content/computer-science/179757_102967_289.jpg "https://www.datanet.co.kr/news/articleView.html?idxno=179757")
 
 ## Roadmap
 

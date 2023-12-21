@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Kubernetes Basic
 description: ""
 linkTitle: Kubernetes Basic
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Computer Science

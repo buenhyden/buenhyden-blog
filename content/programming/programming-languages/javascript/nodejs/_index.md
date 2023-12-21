@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Node.js
 description: 확장성 있는 네트워크 애플리케이션 개발에 사용되는 소프트웨어 플랫폼
 linkTitle: Node.js
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Language
@@ -33,7 +32,7 @@ slug: node-js
 featured: true
 ---
 
-![Node JS](/content/programming/node-js.png#center "https://zdnet.co.kr/view/?no=20220421181628")
+![Node JS](content/programming/node-js.png#center "https://zdnet.co.kr/view/?no=20220421181628")
 
 ## Roadmap
 

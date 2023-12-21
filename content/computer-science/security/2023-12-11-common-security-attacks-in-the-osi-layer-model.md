@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Common Security Attacks in the OSI Layer Model
 linkTitle: Common Security Attacks in the OSI Layer Model
 layout: ""
@@ -17,7 +17,6 @@ categories:
 series:
   - Computer Science
   - IT Security
-
 authors: Hyunyoun Jo
 lastmod: 2023-12-11T01:18:40.378Z
 nav_weight: 0
@@ -30,6 +29,6 @@ featured: true
 
 ## Common Security Attacks in the OSI Layer Model
 
-![Common Security Attacks in the OSI Layer Model](/content/computer-science/common-security-attacks-in-the-osi-layer-model.jpg?width=512px)
+![Common Security Attacks in the OSI Layer Model](content/computer-science/common-security-attacks-in-the-osi-layer-model.jpg?width=512px)
 
 ## Reference

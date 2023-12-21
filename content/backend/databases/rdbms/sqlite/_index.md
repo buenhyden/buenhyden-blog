@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: SQLite
 date: 2023-11-07T03:46:00+09:00
 description: ""
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Backend
   - Database

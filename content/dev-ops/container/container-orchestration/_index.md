@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Container Orchestration(CO)
 date: 2023-10-15T12:46:00+09:00
 description: 컨테이너의 프로비저닝, 배포, 네트워킹, 확장, 가용성, 라이프사이클 관리를 자동화
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Container
   - Dev Ops
@@ -26,7 +25,7 @@ draft: published
 featured: true
 ---
 
-![Center Orchestration](/content/dev-ops/automation-with-container-orchestration.png#center "https://devpress.csdn.net/cicd/62f4229bc6770329307f9728.html")
+![Center Orchestration](content/dev-ops/automation-with-container-orchestration.png#center "https://devpress.csdn.net/cicd/62f4229bc6770329307f9728.html")
 여러 컨테이너의 배포 프로세스를 최적화하는 것을 목적으로 하며, 아래의 기능을 포함할 수 있다.
 
 - 컨테이너 자동 배치 및 복제

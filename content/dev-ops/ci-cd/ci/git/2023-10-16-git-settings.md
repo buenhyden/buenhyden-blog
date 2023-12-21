@@ -1,9 +1,8 @@
 ---
-type: notes
+type: docs
 title: Git 설정하기
 date: 2023-10-16T11:52:00+09:00
 description: Git을 초기 설정해보자
-
 nav_weight: 3
 nav_icon:
   vendor: bs
@@ -33,7 +32,7 @@ linkTitle: Git 설정하기
 featured: true
 ---
 
-![Git Status](/content/dev-ops/git-init.jpg "https://medium.com/@nmpegetis/git-how-to-start-code-changes-commit-and-push-changes-when-working-in-a-team-dbc6da3cd34c")
+![Git Status](content/dev-ops/git-init.jpg "https://medium.com/@nmpegetis/git-how-to-start-code-changes-commit-and-push-changes-when-working-in-a-team-dbc6da3cd34c")
 
 ## Git 설정하기
 

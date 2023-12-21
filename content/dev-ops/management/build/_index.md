@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: build
 date: 2023-11-24T18:13:32.460Z
 description: ""
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Management for Infrastructure

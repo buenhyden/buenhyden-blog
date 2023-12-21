@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Express.js
 description: Node.js를 위한 웹 프레임워크의 하나로, MIT 허가서로 라이선스되는 자유-오픈 소스 소프트웨어로 출시
 linkTitle: Express.js
@@ -8,7 +8,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Programming
   - Programming Language
@@ -36,7 +35,7 @@ slug: express-js
 featured: true
 ---
 
-![Express JS](/content/programming/express-js.png#center "https://medium.com/@dnvavinash/everything-about-express-ce2ab2f0b80d")
+![Express JS](content/programming/express-js.png#center "https://medium.com/@dnvavinash/everything-about-express-ce2ab2f0b80d")
 
 ## Tutorial
 

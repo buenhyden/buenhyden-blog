@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Grafana Tempo
 date: 2023-12-15T00:46:45.279Z
 description: null
@@ -9,7 +9,6 @@ nav_icon:
   vendor: bs
   name: book
   color: blue
-
 series:
   - Dev Ops
   - Management for Infrastructure

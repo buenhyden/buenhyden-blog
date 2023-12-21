@@ -1,5 +1,5 @@
 ---
-type: notes
+type: docs
 title: Cross Origin Resource Sharing(CORS)
 description: 추가 HTTP 헤더를 사용하여, 한 출처에서 실행 중인 웹 애플리케이션이 다른 출처의 선택한 자원에 접근할 수 있는 권한을 부여하도록 브라우저에 알려주는 체제
 linkTitle: Cross Origin Resource Sharing(CORS)
@@ -29,11 +29,11 @@ draft: in progress
 featured: true
 ---
 
-![CORS](/content/computer-science/cors.png?width=1024px#center "https://securityzines.com/flyers/cors.html")
+![CORS](content/computer-science/cors.png?width=1024px#center "https://securityzines.com/flyers/cors.html")
 
 ## CORS Principle
 
-![CORS Principle](/content/computer-science/cors_principle.png?width=1024px#center "https://medium.com/@jiri.caga/issue-call-put-method-on-rest-api-write-in-spring-framework-cross-origin-request-blocked-c68f9390b9b1")
+![CORS Principle](content/computer-science/cors_principle.png?width=1024px#center "https://medium.com/@jiri.caga/issue-call-put-method-on-rest-api-write-in-spring-framework-cross-origin-request-blocked-c68f9390b9b1")
 
 ## What is CORS?
 
@@ -44,31 +44,31 @@ featured: true
 
 ## What is a CORS preflight?
 
-![CORS preflight scheme Server Client](/content/computer-science/cors-preflight-scheme-server-client.jpg?width=768px#center)
+![CORS preflight scheme Server Client](content/computer-science/cors-preflight-scheme-server-client.jpg?width=768px#center)
 
 ## CORS Headers
 
-![Browser Server preflight request and esponse Headers](/content/computer-science/browser-server-preflight-request-and-response-headers.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![Browser Server preflight request and esponse Headers](content/computer-science/browser-server-preflight-request-and-response-headers.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ## Why is request blocked by CORS policy?
 
 ## How to fix CORS error?
 
-![Response preflight request doesnt pass access control check](/content/computer-science/response-preflight-request-doesnt-pass-access-control-check.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![Response preflight request doesnt pass access control check](content/computer-science/response-preflight-request-doesnt-pass-access-control-check.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ### Configure a server
 
 ### Install a browser extension
 
-![CORS preflight Browser extension solution](/content/computer-science/cors-preflight-browser-extension-solution.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![CORS preflight Browser extension solution](content/computer-science/cors-preflight-browser-extension-solution.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ### Disable browser CORS checks
 
-![Disble CORS preflight in Web Browser](/content/computer-science/disabled-cors-preflight-in-web-browser.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![Disble CORS preflight in Web Browser](content/computer-science/disabled-cors-preflight-in-web-browser.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ### Set up proxy Server
 
-![CORS preflight Porxy server solution](/content/computer-science/cors-preflight-proxy-server-solution.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
+![CORS preflight Porxy server solution](content/computer-science/cors-preflight-proxy-server-solution.jpg?width=768px#center "https://simplelocalize.io/blog/posts/what-is-cors/")
 
 ## Reference
 
