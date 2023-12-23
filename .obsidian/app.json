@@ -5,5 +5,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content",
   "propertiesInDocument": "source",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }
