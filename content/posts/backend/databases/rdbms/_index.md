@@ -1,0 +1,4 @@
+---
+title: RDBMS
+description: "관계형 데이터베이스"
+---

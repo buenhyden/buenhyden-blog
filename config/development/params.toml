@@ -1,0 +1,36 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+[comments]  
+  enabled = false
+  provider = "giscus"
+
+[comments.utterances]
+  repo = "buenhyden/buenhyden-blog"
+  issueTerm = "og:title"
+  label = "Comments"
+
+[comments.giscus]
+  repo = "buenhyden/buenhyden-blog"
+  repoID = "R_kgDOKeOkIg"
+  category = "Announcements"
+  categoryID = "DIC_kwDOKeOkIs4CaDqD"
+  mapping = ""
+  lightTheme = ""
+  darkTheme = ""
+  reactionsEnabled = 1
+  emitMetadata = 0
+
+[firebase]
+  apiKey = "AIzaSyCHVJg0xT_y8LvKX-afbnBNZB_xs6NHN80"
+  authDomain = "buenhyden-blog.firebaseapp.com"
+  projectId = "buenhyden-blog"
+  storageBucket = "buenhyden-blog.appspot.com"
+  messagingSenderId = "15921042518"
+  appId = "1:15921042518:web:c26614a99aefb390b2d7f7"
+  measurementId = "G-W8XTMYPTLC"
+

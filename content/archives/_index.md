@@ -1,7 +1,6 @@
 ---
-title: Archives
-nav_icon:
-  vendor: bs
-  name: archive
-  color: blue
+title: ""
+layout: "archives"
 ---
+
+까먹지 말고 기록으로 남기자
