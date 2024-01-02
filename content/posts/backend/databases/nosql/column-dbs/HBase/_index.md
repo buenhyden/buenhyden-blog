@@ -1,16 +1,17 @@
 ---
-title: |
-  HBase
+title: HBase
 date: 2023-11-19T11:15:27.760Z
-description: ""
+description: "하둡 플랫폼을 위한 공개 비관계형 분산 데이터베이스"
+summary: "하둡 플랫폼을 위한 공개 비관계형 분산 데이터베이스"
 linkTitle: HBase
 series:
-  - Database
-tags:
+  - Databases
+categories:
   - Backend
-  - Database
-  - Document DBs
+  - Databases
   - NoSQL
+  - Document DBs
+tags:
   - HBase
 lastmod: 2023-12-10T04:38:56.145Z
 draft: false

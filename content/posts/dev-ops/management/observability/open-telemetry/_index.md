@@ -2,23 +2,16 @@
 title: Open Telemetry
 date: 2023-11-04T12:52:00+09:00
 description: null
+summary: ""
 linkTitle: Open Telemetry
-series:
-  - Dev Ops
+series:  
   - Management for Infrastructure
-  - Tools
 categories:
   - Dev Ops
   - Management for Infrastructure
-  - Open Telemetry
-  - tools
   - Observability
 tags:
-  - Dev Ops
-  - Management for Infrastructure
   - Open Telemetry
-  - tools
-  - Observability
 lastmod: 2023-12-16T19:17:49.065Z
 draft: false
 featured: true

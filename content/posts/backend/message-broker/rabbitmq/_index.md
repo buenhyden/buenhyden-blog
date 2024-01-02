@@ -6,10 +6,10 @@ summary: 오픈 소스 메시지 브로커 소프트웨어로서, AMQP를 구현
 linkTitle: RabbitMQ
 series:
   - Message Broker
-tags:
+categories:
   - Backend
   - Message Broker
-  - tools
+tags:
   - RabbitMQ
 lastmod: 2023-12-10T04:28:41.564Z
 draft: false

@@ -2,13 +2,15 @@
 title: Time Series
 date: 2023-10-31T07:46:00+09:00
 description: "'하나 이상의 시간'과 '하나 이상의 값' 쌍을 통해 시계열을 저장하고 서비스하는데 최적화된 소프트웨어 시스템"
+summary: "'하나 이상의 시간'과 '하나 이상의 값' 쌍을 통해 시계열을 저장하고 서비스하는데 최적화된 소프트웨어 시스템"
 linkTitle: Time Series
 series:
-  - Database
-tags:
+  - Databases
+categories:
   - Backend
-  - Database
+  - Databases
   - NoSQL
+tags:
   - Time Series
 lastmod: 2023-12-10T04:37:54.046Z
 draft: false

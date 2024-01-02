@@ -1,20 +1,15 @@
 ---
 title: JestJS
-description: Node.js 런타임 위에서 동작하는 TypeScript용 오픈 소스 백엔드 웹 프레임워크.
+description: 메타가 유지보수하는 재스민 위에서 빌드되는 테스팅 프레임워크
+summary: "메타가 유지보수하는 재스민 위에서 빌드되는 테스팅 프레임워크"
 linkTitle: JestJS
-
 series:
   - Programming Language
-  - Programming
 categories:
-  - Programming
   - Programming Language
-  - Typescript
-  - JestJS
+  - Programming
+  - Javascript
 tags:
-  - Programming
-  - Programming Language
-  - Typescript
   - JestJS
 lastmod: 2023-12-10T04:16:01.906Z
 date: 2023-11-19T06:32:31.887Z

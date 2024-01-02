@@ -4,10 +4,9 @@ date: 2023-11-16T01:10:18.964Z
 description: 전체적인 프로그래밍 방식
 linkTitle: Programming Paradigm
 series:
-  - Programming
+  - Programming Paradigm
 categories:
   - Programming
-tags:
   - Programming Paradigm
 lastmod: 2023-12-10T04:05:26.649Z
 draft: false

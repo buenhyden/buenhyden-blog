@@ -2,19 +2,18 @@
 title: HTTP Status Code
 date: 2023-10-16T11:52:00+09:00
 description: 특정 HTTP 요청이 성공적으로 완료되었는지 알려준다.
+summary: 특정 HTTP 요청이 성공적으로 완료되었는지 알려준다.
 linkTitle: HTTP Status Code
 series:
-  - Network
+  - HTTP
+  - HTTPS
 categories:
-  - HTTP
-  - HTTP status code
-  - HTTPS
   - Network
+  - Protocol
+  - HTTP
+  - HTTPS
 tags:
-  - HTTP
   - HTTP status code
-  - HTTPS
-  - Network
 lastmod: 2023-12-16T19:08:15.805Z
 draft: false
 featured: true

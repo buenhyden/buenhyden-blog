@@ -1,25 +1,17 @@
 ---
 title: Kotlin
 description: 젯브레인즈사에서 개발하는 크로스 플랫폼 범용 프로그래밍 언어
+summary: "젯브레인즈사에서 개발하는 크로스 플랫폼 범용 프로그래밍 언어"
 linkTitle: Kotlin
-
 series:
-  - Kotlin
   - Programming Language
-  - Programming
 categories:
-  - Kotlin
   - Programming Language
   - Programming
 tags:
   - Kotlin
-  - Programming Language
-  - Programming
 lastmod: 2023-12-17T05:35:04.387Z
 date: 2023-11-11T14:03:12.053Z
-keywords:
-  - Programming Language
-  - Kotlin
 featured: true
 ---
 

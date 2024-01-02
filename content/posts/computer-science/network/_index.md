@@ -2,18 +2,16 @@
 title: Network
 date: 2023-10-15T12:46:00+09:00
 description: 몇 개의 독립적인 장치가 적절한 영역 내에서 적당히 빠른 속도의 물리적 통신 채널을 통하여 서로가 직접 통신할 수 있도록 지원해 주는 데이터 통신 체계
+summary: 몇 개의 독립적인 장치가 적절한 영역 내에서 적당히 빠른 속도의 물리적 통신 채널을 통하여 서로가 직접 통신할 수 있도록 지원해 주는 데이터 통신 체계
 linkTitle: Network
 series:
-  - Network
+  - Protocol
 categories:
-  - Network
-tags:
-  - Network
+  - Protocol
 lastmod: 2023-12-17T03:04:47.738Z
-keywords:
-  - 네트워크
-  - Network
 featured: true
+authors:
+  - Hyunyoun Jo
 ---
 
 네트워크란 **연결하는 선이나 장치 같은 물리적인 측면부터 데이터를 주고받는 데에 필요한 메시지나 규약과 같은 비물리적인 측면까지 모두 포함한 통신 과정 전체를 아우르는 개념**

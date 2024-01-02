@@ -2,23 +2,17 @@
 title: Nagios
 date: 2023-11-04T12:52:00+09:00
 description: null
+summary: ""
 linkTitle: Nagios
-series:
-  - Dev Ops
-  - Tools
+series:  
   - Management for Infrastructure
 categories:
   - Dev Ops
-  - Infrastructure Monitoring
   - Management for Infrastructure
-  - Nagios
-  - tools
+  - Infrastructure Monitoring
 tags:
-  - Dev Ops
-  - Infrastructure Monitoring
-  - Management for Infrastructure
   - Nagios
-  - tools
+
 lastmod: 2023-12-10T03:12:45.832Z
 draft: false
 featured: true

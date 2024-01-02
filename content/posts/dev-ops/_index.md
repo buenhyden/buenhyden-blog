@@ -6,8 +6,6 @@ series:
   - Dev Ops
 categories:
   - Dev Ops
-tags:
-  - 데브옵스
 authors:
   - Hyunyoun Jo
 cascade:

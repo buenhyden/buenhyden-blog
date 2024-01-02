@@ -3,11 +3,10 @@ title: Databases
 description: "여러 사람이 공유하여 사용할 목적으로 체계화해 통합, 관리하는 데이터의 집합"
 summary: "여러 사람이 공유하여 사용할 목적으로 체계화해 통합, 관리하는 데이터의 집합"
 series:
-  - Database
+  - Databases
 categories:
-  - Database
-tags:
-  - 데이터베이스
+  - Backend
+  - Databases
 authors:
   - Hyunyoun Jo
 ---

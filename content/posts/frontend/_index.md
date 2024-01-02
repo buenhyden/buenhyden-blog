@@ -6,8 +6,6 @@ series:
   - Frontend
 categories:
   - Frontend
-tags:
-  - Web Application
 authors:
   - Hyunyoun Jo
 cascade:

@@ -2,22 +2,21 @@
 title: Micro Service Architecture(MSA)
 date: 2023-10-23T07:08:00+09:00
 description: 단일 애플리케이션을 작은 서비스 모음으로 개발하는 접근 방식
+summary: 단일 애플리케이션을 작은 서비스 모음으로 개발하는 접근 방식
 linkTitle: Micro Service Architecture(MSA)
 series:
   - System Design & Architecture
 categories:
-  - Micro Service Architecture
-  - MSA
   - System Design & Architecture
-  - System Architecture
+  - Software Architecture
 tags:
   - Micro Service Architecture
   - MSA
-  - System Design & Architecture
-  - System Architecture
 lastmod: 2023-12-16T19:20:09.864Z
 draft: false
 featured: true
+authors:
+  - Hyunyoun Jo
 ---
 
 ## Micro Service Architecture vs Monolithic

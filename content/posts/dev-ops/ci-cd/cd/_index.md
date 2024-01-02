@@ -3,10 +3,8 @@ title: Continuous Deployment(CD)
 date: 2023-10-15T12:46:00+09:00
 description: 지속적인 배포
 linkTitle: Continuous Deployment(CD)
-
 series:
-  - CI/CD
-  - Dev Ops
+  - Continuous Deployment(CD)
 categories:
   - Dev Ops
   - CI/CD

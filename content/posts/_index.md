@@ -2,7 +2,7 @@
 title: "Posts"
 description: "까먹지 말고 기록으로 남기자"
 cascade:
-  cardView: false
+  cardView: true
   showReadingTime: false
   showDate: true
   showsummary: true
@@ -10,7 +10,6 @@ cascade:
   invertPagination: true
   showViews: true
   showLikes: true
-  showComments: false
   showTaxonomies: true
 ---
 

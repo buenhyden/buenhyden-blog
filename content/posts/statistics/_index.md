@@ -6,7 +6,6 @@ series:
   - Statistics
 categories:
   - Statistics
-  - Basic
 authours:
   - Hyunyoun Jo
 cascade:

@@ -2,21 +2,20 @@
 title: Single Sign On(SSO)
 date: 2023-11-24T23:45:27.229Z
 description: 통합 인증은 한 번의 인증 과정으로 여러 컴퓨터 상의 자원을 이용 가능하게 하는 인증 기능
+summary: 통합 인증은 한 번의 인증 과정으로 여러 컴퓨터 상의 자원을 이용 가능하게 하는 인증 기능
 linkTitle: Single Sign On(SSO)
 series:
   - IT Security
 categories:
   - IT Security
-  - Single Sign On
-  - SSO
 tags:
-  - IT Security
   - Single Sign On
   - SSO
-
 lastmod: 2023-12-13T07:24:23.598Z
 draft: false
 featured: true
+authors:
+  - Hyunyoun Jo
 ---
 
 ## Reference

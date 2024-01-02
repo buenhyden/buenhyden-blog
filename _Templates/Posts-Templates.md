@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
 description: ""
-summary: <% tp.file.description %>
+summary: ""
 linkTitle: <% tp.file.title %>
 series: []
 categories: []
@@ -12,12 +12,11 @@ date: <% tp.file.creation_date() %>
 draft: false
 featured: true
 ---
+
 ## What is ?
+
 {{< typeit tag=h2 lifeLike=true >}}
 
-<% tp.file.description %>
-
 {{< /typeit >}}
-
 
 ## Reference

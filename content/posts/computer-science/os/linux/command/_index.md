@@ -1,23 +1,16 @@
 ---
 title: Linux Command
 date: 2023-11-26T11:53:09.690Z
-description: ""
+description: "Linux Command"
+summary: Linux Command
 linkTitle: Linux Command
 series:
   - Operating System
-  - OS
 categories:
-  - Command
-
-  - Linux
   - Operating System
-  - OS
+  - Linux
 tags:
   - Command
-
-  - Linux
-  - Operating System
-  - OS
 lastmod: 2023-12-10T02:45:21.724Z
 draft: false
 featured: true

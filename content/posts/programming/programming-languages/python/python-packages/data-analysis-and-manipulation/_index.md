@@ -1,6 +1,7 @@
 ---
 title: data analysis and manipulation tool
-description: ""
+description: "data analysis and manipulation tool"
+summary: "data analysis and manipulation tool"
 linkTitle: data analysis and manipulation tool
 series:
   - Programming

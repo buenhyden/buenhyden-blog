@@ -2,22 +2,15 @@
 title: Zipkin
 date: 2023-12-07T05:54:29.077Z
 description: null
+summary: ""
 linkTitle: Zipkin
-series:
-  - Dev Ops
+series:  
   - Management for Infrastructure
-  - Tools
 categories:
   - Dev Ops
   - Management for Infrastructure
   - Open Tracing
-  - tools
-  - Zipkin
 tags:
-  - Dev Ops
-  - Management for Infrastructure
-  - Open Tracing
-  - tools
   - Zipkin
 lastmod: 2023-12-10T03:12:45.518Z
 draft: false

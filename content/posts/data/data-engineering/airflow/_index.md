@@ -4,19 +4,12 @@ date: 2023-11-04T12:52:00+09:00
 description: 데이터 공학 파이프라인을 위한 오픈 소스 워크플로 관리 플랫폼
 linkTitle: Airflow
 series:
-  - Data Engineering
-  - Tools
-  - Data
+  - Data Engineering  
 categories:
-  - Airflow
-  - Data Engineering
-  - tools
   - Data
+  - Data Engineering  
 tags:
   - Airflow
-  - Data Engineering
-  - tools
-  - Data
 lastmod: 2023-12-13T06:59:20.192Z
 draft: false
 featured: true

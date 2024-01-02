@@ -2,12 +2,15 @@
 title: MySQL
 date: 2023-10-15T12:46:00+09:00
 description: 오픈 소스 관계형 데이터베이스 관리 시스템
+summary: 오픈 소스 관계형 데이터베이스 관리 시스템
+linkTitle: MySQL
 series:
-  - Database
-tags:
+  - Databases
+categories:
   - Backend
-  - Database
+  - Databases
   - RDBMS
+tags:
   - MySQL
 lastmod: 2023-12-10T04:39:36.674Z
 draft: false

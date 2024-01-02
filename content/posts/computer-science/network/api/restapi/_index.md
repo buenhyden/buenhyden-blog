@@ -2,12 +2,14 @@
 title: RESTful API
 date: 2023-10-15T12:46:00+09:00
 description: 두 컴퓨터 시스템이 인터넷을 통해 정보를 안전하게 교환하기 위해 사용하는 인터페이스
+summary: 두 컴퓨터 시스템이 인터넷을 통해 정보를 안전하게 교환하기 위해 사용하는 인터페이스
 linkTitle: RESTful API
 series:
-  - API
-tags:
-  - API
+  - APIs
+categories:
+  - APIs
   - Network
+tags:
   - REST API
 lastmod: 2023-12-18T05:06:45.173Z
 draft: false

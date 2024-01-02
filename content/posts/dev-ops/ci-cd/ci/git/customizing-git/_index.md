@@ -4,18 +4,13 @@ date: 2023-10-31T12:46:00+09:00
 description: null
 linkTitle: Customizing Git
 series:
-  - Git
+  - Continuous Integration(CI)
 categories:
   - Dev Ops
   - CI/CD
-  - Version Control
   - Continuous Integration(CI)
-  - Git
+  - Version Control
 tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
   - Git
 lastmod: 2023-12-10T03:12:44.971Z
 draft: false

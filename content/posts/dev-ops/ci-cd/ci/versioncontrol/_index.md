@@ -2,13 +2,15 @@
 title: Version Control
 date: 2023-10-15T12:46:00+09:00
 description: 동일한 정보에 대한 여러 버전을 관리하는 것
+summary: 동일한 정보에 대한 여러 버전을 관리하는 것
 linkTitle: Version Control
 series:
-  - Version Control
-tags:
+  - Continuous Integration(CI)
+categories:
   - Dev Ops
   - CI/CD
   - Continuous Integration(CI)
+tags:
   - Version Control
 lastmod: 2023-12-10T03:12:45.200Z
 draft: false

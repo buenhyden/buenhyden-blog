@@ -1,22 +1,16 @@
 ---
 title: Packages
 description: Python Packages
+summary: "Python Packages"
 linkTitle: Packages
 series:
-  - Programming
   - Programming Language
 categories:
-  - Package
-  - Programming
   - Programming Language
-  - Syntax
+  - Programming
   - Python
 tags:
-  - Package
-  - Programming
-  - Programming Language
-  - Syntax
-  - Python
+  - Python Packages
 lastmod: 2023-12-10T04:06:06.293Z
 date: 2023-11-16T01:08:50.962Z
 draft: false

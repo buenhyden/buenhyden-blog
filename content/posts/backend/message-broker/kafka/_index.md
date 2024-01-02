@@ -6,10 +6,10 @@ summary: 아파치 소프트웨어 재단이 스칼라로 개발한 오픈 소�
 linkTitle: Kafka
 series:
   - Message Broker
-tags:
+categories:
   - Backend
   - Message Broker
-  - tools
+tags:
   - Kafka
 lastmod: 2023-12-17T06:31:15.364Z
 draft: false

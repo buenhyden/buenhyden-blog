@@ -1,15 +1,12 @@
 ---
 title: Design
 description: ""
+summary: ""
 series:
-  - Frontend
-categories:
   - Design
+categories:  
   - Frontend
-tags:
-  - Design
-  - Frontend
-
+  - Design  
 cascade:
   cardView: true
 ---

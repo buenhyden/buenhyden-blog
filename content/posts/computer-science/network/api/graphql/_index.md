@@ -2,13 +2,15 @@
 title: GraphQL
 date: 2023-10-15T12:46:00+09:00
 description: API를 위한 쿼리 언어(Query Language)이며 타입 시스템을 사용하여 쿼리를 실행하는 서버사이드 런타임
+summary: API를 위한 쿼리 언어(Query Language)이며 타입 시스템을 사용하여 쿼리를 실행하는 서버사이드 런타임
 linkTitle: GraphQL
 series:
-  - GraphQL
-tags:
-  - API
-  - GraphQL
+  - APIs
+categories:
+  - APIs
   - Network
+tags:
+  - GraphQL
 lastmod: 2023-12-10T02:43:30.194Z
 draft: false
 featured: true

@@ -2,23 +2,16 @@
 title: Javascript
 date: 2023-10-15T12:46:00+09:00
 description: 멀티-패러다임 언어로 명령형, 함수형, 객체 지향형 언어
+summary: "멀티-패러다임 언어로 명령형, 함수형, 객체 지향형 언어"
 linkTitle: Javascript
-
 series:
-  - Programming
   - Programming Language
 categories:
-  - Javascript
   - Programming Language
   - Programming
 tags:
   - Javascript
-  - Programming Language
-  - Programming
 lastmod: 2023-12-10T04:11:25.914Z
-keywords:
-  - Programming Language
-  - Javascript
 featured: true
 ---
 

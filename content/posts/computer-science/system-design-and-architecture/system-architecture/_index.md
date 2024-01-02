@@ -2,18 +2,14 @@
 title: System Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 시스템의 구조, 행위, 더 많은 뷰를 정의하는 개념적 모형
+summary: 시스템의 구조, 행위, 더 많은 뷰를 정의하는 개념적 모형
 linkTitle: System Architecture
 series:
   - System Design & Architecture
-
 categories:
-  - System Architecture
   - System Design & Architecture
-
 tags:
   - System Architecture
-  - System Design & Architecture
-
 lastmod: 2023-12-10T03:12:47.347Z
 draft: false
 featured: true

@@ -2,17 +2,15 @@
 title: SAML
 date: 2023-11-25T00:10:18.380Z
 description: ""
+summary:
 linkTitle: SAML
 series:
-  - IT Security
+  - Authentication
 categories:
   - IT Security
-  - OAuth
-  - Authentication
+  - Authentication  
 tags:
-  - IT Security
   - OAuth
-  - Authentication
 lastmod: 2023-12-13T07:40:14.209Z
 authors:
   - Hyunyoun Jo

@@ -2,14 +2,11 @@
 title: Progressive Web Apps(PWA)
 date: 2023-11-16T06:59:30.735Z
 description: HTML, CSS, 자바스크립트(JavaScript)와 같은 웹 기술로 만드는 앱
+summary: "HTML, CSS, 자바스크립트(JavaScript)와 같은 웹 기술로 만드는 앱"
 linkTitle: Progressive Web Apps(PWA)
 series:
-  - Frontend
   - Progressive Web App
 categories:
-  - Frontend
-  - Progressive Web App
-tags:
   - Frontend
   - Progressive Web App
 lastmod: 2023-12-10T03:12:47.174Z

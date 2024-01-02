@@ -2,18 +2,15 @@
 title: Python
 date: 2023-10-15T12:46:00+09:00
 description: 인터프리터를 사용하는 객체지향 언어이자 플랫폼에 독립적인, 동적 타이핑 대화형 언어
+summary: 인터프리터를 사용하는 객체지향 언어이자 플랫폼에 독립적인, 동적 타이핑 대화형 언어
 linkTitle: Python
-
 series:
   - Programming Language
 categories:
   - Programming Language
-  - Python
   - Programming
-tags:
-  - Programming Language
+tags:  
   - Python
-  - Programming
 lastmod: 2023-12-10T04:06:00.948Z
 keywords:
   - Programming Language

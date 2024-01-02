@@ -2,18 +2,13 @@
 title: Protocol
 date: 2023-10-15T12:46:00+09:00
 description: "컴퓨터나 원거리 통신 장비 사이에서 메시지를 주고 받는 양식과 규칙의 체계이다. 통신 프로토콜은 신호 체계, 인증, 그리고 오류 감지 및 수정 기능을 포함"
+summary: "컴퓨터나 원거리 통신 장비 사이에서 메시지를 주고 받는 양식과 규칙의 체계이다. 통신 프로토콜은 신호 체계, 인증, 그리고 오류 감지 및 수정 기능을 포함"
 linkTitle: Protocol
 series:
-  - Network
-
+  - Protocol
 categories:
   - Network
   - Protocol
-
-tags:
-  - Network
-  - Protocol
-
 lastmod: 2023-12-16T19:12:09.321Z
 draft: false
 featured: true

@@ -1,16 +1,16 @@
 ---
 title: Tailwind CSS
-
 linkTitle: Tailwind CSS
-
+description: ""
+summary: ""
 series:
-  - Frontend
+  - Styling
 categories:
-  - CSS
   - Frontend
+  - Styling
+  - CSS
 tags:
-  - CSS
-  - Frontend
+  - Tailwind CSS
 lastmod: 2023-12-10T03:12:47.098Z
 date: 2023-11-26T13:02:12.342Z
 draft: false

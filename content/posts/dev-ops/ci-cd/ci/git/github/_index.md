@@ -5,17 +5,14 @@ description: null
 linkTitle: Github
 series:
   - Git
+series:
+  - Continuous Integration(CI)
 categories:
   - Dev Ops
   - CI/CD
-  - Version Control
   - Continuous Integration(CI)
-  - Git
+  - Version Control
 tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
   - Git
 lastmod: 2023-12-10T03:12:45.095Z
 draft: false

@@ -1,15 +1,17 @@
 ---
 title: Influx DB
 date: 2023-12-09T06:14:08.284Z
-description: ""
+description: "인플럭스데이터가 개발한 오픈 소스 시계열 데이터베이스"
+summary: "인플럭스데이터가 개발한 오픈 소스 시계열 데이터베이스"
 linkTitle: Influx DB
 series:
-  - Database
-tags:
+  - Databases
+categories:
   - Backend
-  - Database
+  - Databases
   - NoSQL
   - Time Series
+tags:
   - InfluxDB
 draft: false
 lastmod: 2023-12-17T06:03:34.742Z

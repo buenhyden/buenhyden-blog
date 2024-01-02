@@ -2,17 +2,14 @@
 title: System Design & Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 규모가 큰 시스템을 디자인 하는 것
+summary: 규모가 큰 시스템을 디자인 하는 것
 linkTitle: System Design & Architecture
-
 series:
   - System Design & Architecture
-
 categories:
   - System Design & Architecture
-
-tags:
-  - System Design & Architecture
-
+authors:
+  - Hyunyoun Jo
 lastmod: 2023-12-10T03:12:47.299Z
 featured: true
 ---

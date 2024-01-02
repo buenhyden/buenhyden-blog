@@ -1,22 +1,18 @@
 ---
 title: HTTP & HTTPS
 description: ""
+summary: ""
 linkTitle: HTTP & HTTPS
 date: 2023-12-09T02:20:05.270Z
 lastmod: 2023-12-10T15:07:09.987Z
+series:
+  - Protocol
+categories:
+  - Network
+  - Protocol  
 tags:
   - HTTP
-  - Network
-  - Protocol
   - HTTPS
-categories:
-  - HTTP
-  - Network
-  - Protocol
-  - HTTPS
-series:
-  - Network
-
 draft: false
 featured: true
 ---

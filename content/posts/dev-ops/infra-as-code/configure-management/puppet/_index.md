@@ -2,23 +2,17 @@
 title: Puppet
 date: 2023-11-04T12:52:00+09:00
 description: ruby로 만들어진 시스템 관리 자동화 툴
+summary: ruby로 만들어진 시스템 관리 자동화 툴
 linkTitle: Puppet
 series:
-  - Dev Ops
   - Infrastructure as Code
-  - Tools
 categories:
   - Dev Ops
   - Infrastructure as Code
   - Configuration Management
-  - Puppet
-  - tools
 tags:
-  - Dev Ops
-  - Infrastructure as Code
-  - Configuration Management
   - Puppet
-  - tools
+
 lastmod: 2023-12-10T03:12:46.184Z
 draft: false
 featured: true

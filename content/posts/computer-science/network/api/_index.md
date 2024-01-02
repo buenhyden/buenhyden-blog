@@ -2,24 +2,19 @@
 title: Application Programming Interfaces(APIs)
 date: 2023-10-15T12:46:00+09:00
 description: 애플리케이션 소프트웨어를 빌드하고 통합하기 위한 정의 및 프로토콜 세트인 애플리케이션 프로그래밍 인터페이스(Application Programming Interface)
+summary: 애플리케이션 소프트웨어를 빌드하고 통합하기 위한 정의 및 프로토콜 세트인 애플리케이션 프로그래밍 인터페이스(Application Programming Interface)
 linkTitle: Application Programming Interfaces(APIs)
-
 series:
   - Network
-
 categories:
-  - API
   - Network
-
 tags:
-  - API
-  - Network
-
+  - APIs
+  - Application Programming Interfaces
 lastmod: 2023-12-17T03:05:48.138Z
-keywords:
-  - Network
-  - API
 featured: true
+authors:
+  - Hyunyoun Jo
 ---
 
 ![API](media/images/api.png "https://medium.com/@singhrishabh1670/application-programming-interface-api-6f10964856cb")

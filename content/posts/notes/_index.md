@@ -5,6 +5,8 @@ description: 까먹지 말고 기록으로 남기자
 linkTitle: notes
 lastmod: 2023-12-10T03:50:19.101Z
 featured: true
+series:
+  - Notes
 ---
 
 ## Reference

@@ -8,8 +8,8 @@ series:
   - AI
 categories:
   - AI
-tags:
   - Computer Vision
+tags:
   - Machine Vision
 lastmod: 2023-12-10T15:46:30.797Z
 draft: false

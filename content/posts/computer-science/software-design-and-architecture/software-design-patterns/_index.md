@@ -2,19 +2,19 @@
 title: Software Design Patterns
 date: 2023-11-20T11:46:47.497Z
 description: 소프트웨어 개발 중 특정 문맥에서 발생할 수 있는 문제에 대한 solution을 나타내는 패턴
+summary: 소프트웨어 개발 중 특정 문맥에서 발생할 수 있는 문제에 대한 solution을 나타내는 패턴
 linkTitle: Software Design Patterns
 series:
   - Software Design & Architecture
-
 categories:
   - Software Design & Architecture
-  - Software Design Patterns
 tags:
-  - Software Design & Architecture
   - Software Design Patterns
 lastmod: 2023-12-10T03:12:47.521Z
 draft: false
 featured: true
+authors:
+  - Hyunyoun Jo
 ---
 
 ## Reference

@@ -2,12 +2,14 @@
 title: Algorithm
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 프로그램에서 문제를 해결하기 위한 방법,순서,명령어들의 집합체
+summary: 컴퓨터 프로그램에서 문제를 해결하기 위한 방법,순서,명령어들의 집합체
 linkTitle: Algorithm
 series:
   - Data Structure & Algorithm
+categories:
+  - Data Structure & Algorithm
 tags:
   - Algorithm
-  - Data Structure & Algorithm
 lastmod: 2023-12-10T02:42:32.345Z
 draft: false
 featured: true

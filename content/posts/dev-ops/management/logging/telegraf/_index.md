@@ -2,22 +2,16 @@
 title: Telegraf
 date: 2023-12-17T06:08:21.515Z
 description: ""
+summary: ""
 linkTitle: Telegraf
-series:
-  - Dev Ops
+series:  
   - Management for Infrastructure
 categories:
   - Dev Ops
   - Management for Infrastructure
-  - Monitoring System
-  - Telegraf
   - Logging
-tags:
-  - Dev Ops
-  - Management for Infrastructure
-  - Monitoring System
+tags:  
   - Telegraf
-  - Logging
 lastmod: 2023-12-17T06:13:37.807Z
 draft: false
 featured: true

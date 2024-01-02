@@ -2,23 +2,16 @@
 title: Zabbix
 date: 2023-11-04T12:52:00+09:00
 description: null
+summary: ""
 linkTitle: Zabbix
-series:
-  - Dev Ops
+series:  
   - Management for Infrastructure
-  - Tools
 categories:
   - Dev Ops
-  - Infrastructure Monitoring
-  - tools
-  - Zabbix
   - Management for Infrastructure
+  - Infrastructure Monitoring
 tags:
-  - Dev Ops
-  - Infrastructure Monitoring
-  - tools
   - Zabbix
-  - Management for Infrastructure
 lastmod: 2023-12-10T03:12:45.911Z
 draft: false
 featured: true

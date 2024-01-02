@@ -3,18 +3,13 @@ title: Git의 기초
 date: 2023-10-31T12:46:00+09:00
 linkTitle: Git의 기초
 series:
-  - Git
+  - Continuous Integration(CI)
 categories:
   - Dev Ops
   - CI/CD
-  - Version Control
   - Continuous Integration(CI)
-  - Git
+  - Version Control
 tags:
-  - Dev Ops
-  - CI/CD
-  - Version Control
-  - Continuous Integration(CI)
   - Git
 lastmod: 2023-12-10T03:12:45.174Z
 draft: false

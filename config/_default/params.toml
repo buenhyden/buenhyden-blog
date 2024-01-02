@@ -18,8 +18,8 @@ mainSections = ["posts"]
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/img/ocean.jpg"
-defaultFeaturedImage = "/img/ocean.jpg"
+defaultBackgroundImage = "media/images/background2.jpg"
+defaultFeaturedImage = "media/images/featured-image1.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -53,7 +53,7 @@ smartTOCHideUnfocusedChildren = true
   showLikes = true
   showDateUpdated = true
   showAuthor = true
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -77,7 +77,7 @@ smartTOCHideUnfocusedChildren = true
 
 
 [list]
-  showHero = false
+  showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true

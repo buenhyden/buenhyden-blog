@@ -2,18 +2,14 @@
 title: basic Auth
 date: 2023-12-13T07:29:19.645Z
 description: ""
+summary:
 linkTitle: basic Auth
 series:
-  - IT Security
-categories:
-  - basic Auth
-
-  - IT Security
   - Authentication
-tags:
-  - basic Auth
-
+categories:
   - IT Security
+  - Authentication  
+tags:
   - Authentication
 lastmod: 2023-12-13T07:39:47.235Z
 draft: false

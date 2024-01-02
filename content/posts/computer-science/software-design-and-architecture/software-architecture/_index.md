@@ -2,21 +2,19 @@
 title: Software Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 요소, 관계, 원칙, 디자인으로 구현된 환경에서의 시스템의 근본적인 개념 혹은 속성
+summary: 요소, 관계, 원칙, 디자인으로 구현된 환경에서의 시스템의 근본적인 개념 혹은 속성
 linkTitle: Software Architecture
 series:
   - Software Design & Architecture
-
 categories:
-  - Software Architecture
   - Software Design & Architecture
-
 tags:
   - Software Architecture
-  - Software Design & Architecture
-
 lastmod: 2023-12-17T03:06:13.866Z
 draft: false
 featured: true
+authors:
+  - Hyunyoun Jo
 ---
 
 ![Software Architecture](media/images/software-architecture.webp "https://herbertograca.com/tag/explicit-architecture/")

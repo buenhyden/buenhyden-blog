@@ -2,20 +2,17 @@
 title: Test Driven Development(TDD)
 date: 2023-11-28T14:31:11.197Z
 description: ""
+summary: ""
 linkTitle: Test Driven Development(TDD)
 series:
   - Software Development Methodology
 categories:
   - Software Development Methodology
-  - Test Driven Development
-  - TDD
 tags:
-  - Software Development Methodology
   - Test Driven Development
   - TDD
 lastmod: 2023-12-10T03:12:47.449Z
 draft: false
-
 authors:
   - Hyunyoun Jo
 featured: true

@@ -1,27 +1,18 @@
 ---
 title: Vue.js
 description: 웹 애플리케이션의 사용자 인터페이스를 만들기 위해 사용하는 오픈 소스 프로그레시브 자바스크립트 프레임워크
+summary: "웹 애플리케이션의 사용자 인터페이스를 만들기 위해 사용하는 오픈 소스 프로그레시브 자바스크립트 프레임워크"
 linkTitle: Vue.js
-
 series:
   - Programming Language
-  - Programming Languages
 categories:
-  - Javascript
   - Programming Language
-  - Vue.js
   - Programming
+  - Javascript
 tags:
-  - Javascript
-  - Programming Language
   - Vue.js
-  - Programming
 lastmod: 2023-12-10T04:16:21.761Z
 date: 2023-11-16T01:11:32.999Z
-keywords:
-  - Javascript
-  - Programming Language
-  - VueJS
 featured: true
 ---
 

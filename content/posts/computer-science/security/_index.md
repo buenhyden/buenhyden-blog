@@ -2,18 +2,16 @@
 title: IT Security
 date: 2023-10-15T12:46:00+09:00
 description: 컴퓨터 및 통신에 관련된 보안
+summary: 컴퓨터 및 통신에 관련된 보안
 linkTitle: IT Security
-
 series:
   - IT Security
 categories:
   - IT Security
-
-tags:
-  - IT Security
-
 lastmod: 2023-12-13T07:25:27.597Z
 featured: true
+authors:
+  - Hyunyoun Jo
 ---
 
 ![IT Security](media/images/it-security.webp "https://teamwin.in/index.php/services/security-system/")

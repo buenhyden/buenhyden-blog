@@ -8,9 +8,9 @@ series:
   - AI
 categories:
   - AI
+  - Computer Vision
 tags:
   - Image Recognition
-  - Computer Vision
 lastmod: 2023-12-10T04:07:36.552Z
 draft: false
 featured: true

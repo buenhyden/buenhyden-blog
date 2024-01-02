@@ -2,22 +2,17 @@
 title: New Relic
 date: 2023-11-04T12:52:00+09:00
 description: null
+summary: ""
 linkTitle: New Relic
-series:
-  - Dev Ops
+series:  
   - Management for Infrastructure
-  - Tools
 categories:
-  - Application Monitoring
   - Dev Ops
-  - New Relic
-  - tools
   - Management for Infrastructure
-tags:
   - Application Monitoring
-  - Dev Ops
+tags:    
   - New Relic
-  - tools
+
   - Management for Infrastructure
 lastmod: 2023-12-10T03:12:45.669Z
 draft: false

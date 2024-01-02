@@ -2,23 +2,16 @@
 title: Prometheus
 date: 2023-11-04T12:52:00+09:00
 description: null
+summary: ""
 linkTitle: Prometheus
 series:
-  - Dev Ops
   - Management for Infrastructure
-  - Tools
 categories:
   - Dev Ops
-  - Infrastructure Monitoring
   - Management for Infrastructure
-  - Prometheus
-  - tools
+  - Infrastructure Monitoring
 tags:
-  - Dev Ops
-  - Infrastructure Monitoring
-  - Management for Infrastructure
   - Prometheus
-  - tools
 lastmod: 2023-12-10T03:12:45.858Z
 draft: false
 featured: true

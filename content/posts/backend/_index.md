@@ -6,8 +6,6 @@ series:
   - Backend
 categories:
   - Backend
-tags:
-  - Web Application
 authors:
   - Hyunyoun Jo
 cascade:

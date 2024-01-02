@@ -2,19 +2,16 @@
 title: Software Design & Architecture
 date: 2023-10-15T12:46:00+09:00
 description: 소프트웨어를 디자인
+summary: 소프트웨어를 디자인
 linkTitle: Software Design & Architecture
-
 series:
   - Software Design & Architecture
-
 categories:
   - Software Design & Architecture
-
-tags:
-  - Software Design & Architecture
-
 lastmod: 2023-12-10T03:12:47.474Z
 featured: true
+authors:
+  - Hyunyoun Jo
 ---
 
 ## 하나 이상의 서비스 구현을 추상화 하는 API
@@ -60,4 +57,6 @@ featured: true
 [Graphic Design for Software Engineers and Architects](https://betterprogramming.pub/graphic-design-for-software-engineers-and-architects-c616bb6c3366)  
 [12 Software Architecture Styles Software Engineers Should Know](https://medium.com/@xsronhou/12-software-architecture-styles-software-engineer-should-know-ee92e3b1f9ac)  
 [지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture)  
-[디자인 패턴들](https://refactoring.guru/ko/design-patterns)
+[디자인 패턴들](https://refactoring.guru/ko/design-patterns)  
+[DDD 핵심만 빠르게 이해하기](https://happycloud-lee.tistory.com/94)  
+[https://incheol-jung.gitbook.io/docs/q-and-a/architecture/undefined](https://incheol-jung.gitbook.io/docs/q-and-a/architecture/undefined)
