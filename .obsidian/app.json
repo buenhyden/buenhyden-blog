@@ -1,10 +1,11 @@
 {
   "showFrontmatter": true,
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "static",
+  "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "content",
-  "propertiesInDocument": "source",
-  "newLinkFormat": "relative",
-  "showUnsupportedFiles": true
+  "propertiesInDocument": "visible",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }

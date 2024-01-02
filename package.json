@@ -8,6 +8,7 @@
     "postinstall": "vendor-copy",
     "assets": "rimraf assets/vendor && vendor-copy",
     "dev": "./node_modules/tailwindcss/lib/cli.js -i ./assets/css/main.css -o ./assets/css/compiled/main.css --jit -w",
+    "dev-hugo" : "hugo server --gc --disableFastRender --enableGitInfo -D",
     "build": "./node_modules/tailwindcss/lib/cli.js -i ./assets/css/main.css -o ./assets/css/compiled/main.css --jit",
     "build-hugo": "hugo --gc -D --minify --enableGitInfo",
     "example": "hugo server -E -F --minify --buildDrafts -b http://localhost/ -p 1313",

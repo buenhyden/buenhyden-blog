@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a497e8c066e40b6c",
+        "id": "ea371fbfc068ee53",
         "type": "tabs",
         "children": [
           {
-            "id": "7ed7047298910d64",
+            "id": "58c4b53c8e5a9174",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,15 @@
             }
           },
           {
-            "id": "2145605c57a63136",
+            "id": "1ae96af59d327dd1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "31e3d1f3b0929c91",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -138,7 +146,15 @@
             }
           },
           {
-            "id": "9f0ef5ee2913e6f9",
+            "id": "88485a69d738c3d9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "724a719b494f7024",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,18 +162,10 @@
             }
           },
           {
-            "id": "1513378e65a9b421",
+            "id": "e68f7415fd5f6787",
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "8a6dea1be5a70a43",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           }
@@ -186,22 +194,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71847d266da8c521",
+  "active": "58c4b53c8e5a9174",
   "lastOpenFiles": [
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Typewriter-Regular.ttf",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Typewriter-Regular.woff2",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Typewriter-Regular.woff",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size4-Regular.woff2",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size4-Regular.woff",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size4-Regular.ttf",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size3-Regular.woff2",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size3-Regular.woff",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size3-Regular.ttf",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size2-Regular.woff2",
-    "themes/hugo-theme-bootstrap/static/assets/katex/fonts/KaTeX_Size2-Regular.woff",
-    "themes/hugo-theme-bootstrap/static/images/none.png",
-    "themes/hugo-theme-bootstrap/images/tn.png",
-    "themes/hugo-theme-bootstrap/images/screenshot.png",
+    "_Templates/Posts-Templates.md",
+    "content/Untitled.md",
+    "content/about/index.md",
+    "_Templates/NotesTemplates.md",
+    "_Templates",
+    "resources/_gen/images/python_hu1c40d569e06993026ae2d64f86ec7f2f_25994_1320x0_resize_box_3.png",
+    "resources/_gen/images/kotlin_hu9b80bf116db3012adfe1ccbed6f57832_3852_1320x0_resize_box_3.png",
+    "resources/_gen/images/python_hu1c40d569e06993026ae2d64f86ec7f2f_25994_1024x0_resize_box_3.png",
+    "resources/_gen/images/vue-js_hu94d67033f2aa8eb3ea99363797320da1_12346_1320x0_resize_box_3.png",
+    "resources/_gen/images/kotlin_hu9b80bf116db3012adfe1ccbed6f57832_3852_1024x0_resize_box_3.png",
+    "resources/_gen/images/python_hu1c40d569e06993026ae2d64f86ec7f2f_25994_660x0_resize_box_3.png",
+    "resources/_gen/images/vue-js_hu94d67033f2aa8eb3ea99363797320da1_12346_1024x0_resize_box_3.png",
+    "resources/_gen/images/react_hu340ff314f8e244d641b140f1eabd37cc_86774_1320x0_resize_q75_box.jpeg",
+    "resources/_gen/images/kotlin_hu9b80bf116db3012adfe1ccbed6f57832_3852_660x0_resize_box_3.png",
+    "resources/_gen/images/python_hu1c40d569e06993026ae2d64f86ec7f2f_25994_330x0_resize_box_3.png",
+    "resources/_gen/images/posts/ai",
+    "resources/_gen/images/posts/backend",
+    "resources/_gen/images/posts/computer-science",
+    "resources/_gen/images/posts/data",
+    "resources/_gen/images/posts/dev-ops",
+    "resources/_gen/images/posts/frontend",
+    "resources/_gen/images/posts/programming",
+    "resources/_gen/images/posts/statistics",
+    "resources/_gen/images/posts",
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/starter-template/index.zh-hant.md",
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/starter-template/index.md",
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/starter-template/index.zh-hans.md",
@@ -220,20 +238,10 @@
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/repository/index.zh-hant.md",
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/repository/index.zh-hans.md",
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/repository/index.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/repository/featured.png",
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/funding/index.zh-hant.md",
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/funding/index.zh-hans.md",
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/funding/index.md",
     "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/comments/index.zh-hant.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/comments/index.zh-hans.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/author/index.zh-hant.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/comments/index.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/topics/algolia/featured.png",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/shortcodes/code-toggle/featured.png",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/layouts/docs/structure.png",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/layouts/docs/featured.png",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/configuration/menu/featured.png",
-    "themes/hugo-theme-bootstrap/exampleSite/static/images/reward/wechat.png",
     "무제 파일.canvas"
   ]
 }

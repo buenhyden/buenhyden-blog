@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 [comments]
-  enabled = false
+  enabled = true
   provider = "giscus"
 
 [comments.disqusjs]
@@ -23,13 +23,28 @@
 [comments.giscus]
   repo = "buenhyden/buenhyden.github.io"
   repoID = "R_kgDOKa2JLg"
-  category = "Announcements"
-  categoryID = "DIC_kwDOKa2JLs4CaDqJ"
-  mapping = ""
-  lightTheme = ""
-  darkTheme = ""
+  category = "General"
+  categoryID = "DIC_kwDOKa2JLs4CaDqK"
+  mapping = "og:title"
+  lightTheme = "light"
+  darkTheme = "dark"
   reactionsEnabled = 1
-  emitMetadata = 0
+  emitMetadata = 1
+#   <script src="https://giscus.app/client.js"
+#         data-repo="buenhyden/buenhyden.github.io"
+#         data-repo-id="R_kgDOKa2JLg"
+#         data-category="General"
+#         data-category-id="DIC_kwDOKa2JLs4CaDqK"
+#         data-mapping="og:title"
+#         data-strict="0"
+#         data-reactions-enabled="1"
+#         data-emit-metadata="1"
+#         data-input-position="bottom"
+#         data-theme="dark"
+#         data-lang="ko"
+#         crossorigin="anonymous"
+#         async>
+# </script>
   
 [firebase]
   apiKey = "AIzaSyCHVJg0xT_y8LvKX-afbnBNZB_xs6NHN80"

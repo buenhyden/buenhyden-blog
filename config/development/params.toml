@@ -6,7 +6,7 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 [comments]  
-  enabled = false
+  enabled = true
   provider = "giscus"
 
 [comments.utterances]
@@ -17,14 +17,28 @@
 [comments.giscus]
   repo = "buenhyden/buenhyden-blog"
   repoID = "R_kgDOKeOkIg"
-  category = "Announcements"
-  categoryID = "DIC_kwDOKeOkIs4CaDqD"
-  mapping = ""
-  lightTheme = ""
-  darkTheme = ""
+  category = "General"
+  categoryID = "DIC_kwDOKeOkIs4CaDqE"
+  mapping = "og:title"
+  lightTheme = "light"
+  darkTheme = "dark"
   reactionsEnabled = 1
-  emitMetadata = 0
-
+  emitMetadata = 1
+# <script src="https://giscus.app/client.js"
+#         data-repo="buenhyden/buenhyden-blog"
+#         data-repo-id="R_kgDOKeOkIg"
+#         data-category="General"
+#         data-category-id="DIC_kwDOKeOkIs4CaDqE"
+#         data-mapping="og:title"
+#         data-strict="0"
+#         data-reactions-enabled="1"
+#         data-emit-metadata="1"
+#         data-input-position="bottom"
+#         data-theme="preferred_color_scheme"
+#         data-lang="ko"
+#         crossorigin="anonymous"
+#         async>
+# </script>
 [firebase]
   apiKey = "AIzaSyCHVJg0xT_y8LvKX-afbnBNZB_xs6NHN80"
   authDomain = "buenhyden-blog.firebaseapp.com"
