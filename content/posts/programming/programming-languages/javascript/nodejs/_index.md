@@ -1,7 +1,7 @@
 ---
 title: Node.js
 description: 확장성 있는 네트워크 애플리케이션 개발에 사용되는 소프트웨어 플랫폼
-summary: "확장성 있는 네트워크 애플리케이션 개발에 사용되는 소프트웨어 플랫폼"
+summary: 확장성 있는 네트워크 애플리케이션 개발에 사용되는 소프트웨어 플랫폼
 linkTitle: Node.js
 series:
   - Programming Language
@@ -9,9 +9,9 @@ categories:
   - Programming Language
   - Programming
   - Javascript
-tags:  
-  - Node.js  
-lastmod: 2023-12-10T04:17:16.871Z
+tags:
+  - Node.js
+lastmod: 2024-01-03T00:54:23
 date: 2023-11-16T01:12:03.510Z
 keywords:
   - Javascript

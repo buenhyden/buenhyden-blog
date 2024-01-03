@@ -10,11 +10,14 @@ categories:
   - CI/CD
   - Continuous Deployment(CD)
 tags:
-  - Dev Ops
+  - Dev
+  - Ops
   - CI/CD
-  - Continuous Deployment(CD)
-lastmod: 2023-12-10T03:12:44.795Z
+  - Continuous
+  - Deployment(CD)
+lastmod: 2024-01-03T23:16:05
 featured: true
+summary: 지속적인 배포
 ---
 
 ![CD](media/images/cd.png "https://medium.com/buildpiper/continuous-delivery-vs-continuous-deployment-6f8d6fdf92d8")

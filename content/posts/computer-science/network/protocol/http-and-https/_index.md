@@ -4,12 +4,12 @@ description: ""
 summary: ""
 linkTitle: HTTP & HTTPS
 date: 2023-12-09T02:20:05.270Z
-lastmod: 2023-12-10T15:07:09.987Z
+lastmod: 2024-01-03T22:50:01
 series:
   - Protocol
 categories:
   - Network
-  - Protocol  
+  - Protocol
 tags:
   - HTTP
   - HTTPS

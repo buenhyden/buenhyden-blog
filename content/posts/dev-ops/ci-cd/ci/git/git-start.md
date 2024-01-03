@@ -14,7 +14,7 @@ categories:
   - Version Control
 tags:
   - Git
-lastmod: 2023-12-09T06:20:29.025Z
+lastmod: 2024-01-03T23:16:37
 draft: false
 linkTitle: Git 시작하기
 featured: true

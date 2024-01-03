@@ -7,7 +7,7 @@ series:
 categories:
   - Programming
   - Programming Basics
-lastmod: 2023-12-16T19:11:27.144Z
+lastmod: 2024-01-03T23:39:12
 draft: false
 featured: true
 ---

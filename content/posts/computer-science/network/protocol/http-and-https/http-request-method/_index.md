@@ -14,7 +14,7 @@ categories:
   - HTTPS
 tags:
   - HTTP request Method
-lastmod: 2023-12-10T02:44:32.325Z
+lastmod: 2024-01-03T22:48:21
 draft: false
 featured: true
 ---

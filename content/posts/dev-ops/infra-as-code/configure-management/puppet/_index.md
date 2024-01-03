@@ -12,8 +12,7 @@ categories:
   - Configuration Management
 tags:
   - Puppet
-
-lastmod: 2023-12-10T03:12:46.184Z
+lastmod: 2024-01-03T23:19:27
 draft: false
 featured: true
 ---

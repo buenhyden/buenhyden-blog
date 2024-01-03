@@ -4,7 +4,7 @@ description: 하나의 TCP 접속에 전이중 통신 채널을 제공하는 컴
 summary: 하나의 TCP 접속에 전이중 통신 채널을 제공하는 컴퓨터 통신 프로토콜
 linkTitle: Web Socket
 date: 2023-11-12T10:38:46.815Z
-lastmod: 2023-12-10T16:01:20.016Z
+lastmod: 2024-01-03T22:50:31
 series:
   - Protocol
 categories:

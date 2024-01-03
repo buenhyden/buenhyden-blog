@@ -1,7 +1,7 @@
 ---
 title: Packages
 description: Python Packages
-summary: "Python Packages"
+summary: Python Packages
 linkTitle: Packages
 series:
   - Programming Language
@@ -11,7 +11,7 @@ categories:
   - Python
 tags:
   - Python Packages
-lastmod: 2023-12-10T04:06:06.293Z
+lastmod: 2024-01-03T23:40:03
 date: 2023-11-16T01:08:50.962Z
 draft: false
 keywords:

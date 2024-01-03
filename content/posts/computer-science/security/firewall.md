@@ -4,7 +4,7 @@ linkTitle: Firewall
 description: 미리 정의된 보안 규칙에 기반한, 들어오고 나가는 네트워크 트래픽을 모니터링하고 제어하는 네트워크 보안 시스템
 summary: 미리 정의된 보안 규칙에 기반한, 들어오고 나가는 네트워크 트래픽을 모니터링하고 제어하는 네트워크 보안 시스템
 date: 2023-11-25T11:55:52.057Z
-lastmod: 2023-12-11T01:17:50.548Z
+lastmod: 2024-01-03T23:05:11
 categories:
   - IT Security
 series:

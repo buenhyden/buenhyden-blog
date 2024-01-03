@@ -4,12 +4,12 @@ description: 월드 와이드 웹 통신 프로토콜인 HTTP의 보안이 강�
 summary: 월드 와이드 웹 통신 프로토콜인 HTTP의 보안이 강화된 버전
 linkTitle: https
 date: 2023-11-12T10:24:00.332Z
-lastmod: 2023-12-10T16:00:25.307Z
+lastmod: 2024-01-02T23:33:17
 series:
   - Protocol
 categories:
   - Network
-  - Protocol  
+  - Protocol
 tags:
   - HTTPS
 draft: false

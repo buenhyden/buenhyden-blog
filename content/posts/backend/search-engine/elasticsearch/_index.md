@@ -11,7 +11,7 @@ categories:
   - Search Engine
 tags:
   - Elasticsearch
-lastmod: 2023-12-13T07:09:45.961Z
+lastmod: 2024-01-03T22:30:28
 draft: false
 featured: true
 authors:

@@ -1,18 +1,19 @@
 ---
 title: Open Telemetry
 date: 2023-11-04T12:52:00+09:00
-description: null
-summary: ""
+description: a collection of APIs, SDKs, and tools. Use it to instrument, generate, collect, and export telemetry data (metrics, logs, and traces) to help you analyze your software’s performance and behavior
+summary: a collection of APIs, SDKs, and tools. Use it to instrument, generate, collect, and export telemetry data (metrics, logs, and traces) to help you analyze your software’s performance and behavior
 linkTitle: Open Telemetry
-series:  
+series:
   - Management for Infrastructure
 categories:
   - Dev Ops
   - Management for Infrastructure
   - Observability
 tags:
-  - Open Telemetry
-lastmod: 2023-12-16T19:17:49.065Z
+  - Open
+  - Telemetry
+lastmod: 2024-01-03T23:26:36
 draft: false
 featured: true
 ---

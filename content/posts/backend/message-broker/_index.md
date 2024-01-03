@@ -1,7 +1,7 @@
 ---
 title: Message Broker
-description: "애플리케이션, 시스템 및 서비스가 서로 간에 통신하고 정보를 교환할 수 있도록 해주는 소프트웨어"
-summary: "애플리케이션, 시스템 및 서비스가 서로 간에 통신하고 정보를 교환할 수 있도록 해주는 소프트웨어"
+description: 애플리케이션, 시스템 및 서비스가 서로 간에 통신하고 정보를 교환할 수 있도록 해주는 소프트웨어
+summary: 애플리케이션, 시스템 및 서비스가 서로 간에 통신하고 정보를 교환할 수 있도록 해주는 소프트웨어
 series:
   - Message Broker
 categories:
@@ -9,6 +9,8 @@ categories:
   - Message Broker
 authors:
   - Hyunyoun Jo
+date: 2024-01-02T02:06:07
+lastmod: 2024-01-03T22:30:25
 ---
 
 ![Diagram Message Broker](media/images/diagram-message-broker.png "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%8B%9C%EC%A7%80_%EB%B8%8C%EB%A1%9C%EC%BB%A4")

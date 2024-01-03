@@ -1,7 +1,7 @@
 ---
 title: Java
 description: 썬 마이크로시스템즈에서 1995년에 개발한 객체 지향 프로그래밍 언어
-summary: "썬 마이크로시스템즈에서 1995년에 개발한 객체 지향 프로그래밍 언어"
+summary: 썬 마이크로시스템즈에서 1995년에 개발한 객체 지향 프로그래밍 언어
 linkTitle: Java
 series:
   - Programming Language
@@ -10,7 +10,7 @@ categories:
   - Programming
 tags:
   - Java
-lastmod: 2023-12-10T04:11:10.930Z
+lastmod: 2024-01-03T23:40:22
 date: 2023-11-11T14:08:18.503Z
 keywords:
   - Programming Language

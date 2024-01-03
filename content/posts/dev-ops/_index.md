@@ -1,7 +1,7 @@
 ---
 title: Dev Ops
-description: "소프트웨어의 개발과 운영의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화"
-summary: "소프트웨어의 개발과 운영의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화"
+description: 소프트웨어의 개발과 운영의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화
+summary: 소프트웨어의 개발과 운영의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화
 series:
   - Dev Ops
 categories:
@@ -10,6 +10,8 @@ authors:
   - Hyunyoun Jo
 cascade:
   cardView: true
+date: 2024-01-02T02:06:08
+lastmod: 2024-01-03T23:32:23
 ---
 
 ![Dev Ops](media/images/devops.png "https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4")

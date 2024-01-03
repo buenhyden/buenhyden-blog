@@ -11,7 +11,7 @@ categories:
   - Javascript
 tags:
   - Angular
-lastmod: 2023-12-10T04:15:48.954Z
+lastmod: 2024-01-03T23:40:23
 date: 2023-11-16T07:19:57.057Z
 featured: true
 ---

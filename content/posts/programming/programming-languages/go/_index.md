@@ -2,16 +2,16 @@
 title: Go
 date: 2023-10-15T12:46:00+09:00
 description: 전통적인 컴파일, 링크 모델을 따르는 범용 프로그래밍 언어
-summary: "전통적인 컴파일, 링크 모델을 따르는 범용 프로그래밍 언어"
+summary: 전통적인 컴파일, 링크 모델을 따르는 범용 프로그래밍 언어
 linkTitle: Go
 series:
   - Programming Language
 categories:
   - Programming Language
   - Programming
-tags:  
+tags:
   - Go
-lastmod: 2023-12-10T04:10:12.211Z
+lastmod: 2024-01-03T23:40:18
 keywords:
   - Programming Language
   - Go

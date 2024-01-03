@@ -2,16 +2,16 @@
 title: Cookie Based
 date: 2023-12-15T01:48:21.927Z
 description: ""
-summary:
+summary: 
 linkTitle: Cookie Based
 series:
   - Authentication
 categories:
   - IT Security
-  - Authentication  
+  - Authentication
 tags:
   - Cookie Based
-lastmod: 2023-12-15T01:48:39.834Z
+lastmod: 2024-01-03T22:51:40
 draft: false
 featured: true
 ---

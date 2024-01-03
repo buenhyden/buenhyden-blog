@@ -1,7 +1,7 @@
 ---
 title: WebHooks
 linkTitle: WebHooks
-description: "웹 개발에서 사용자 정의 콜백을 사용하여 웹 페이지 또는 웹 애플리케이션의 동작을 강화하거나 변경하는 방법"
+description: 웹 개발에서 사용자 정의 콜백을 사용하여 웹 페이지 또는 웹 애플리케이션의 동작을 강화하거나 변경하는 방법
 summary: 웹 개발에서 사용자 정의 콜백을 사용하여 웹 페이지 또는 웹 애플리케이션의 동작을 강화하거나 변경하는 방법
 date: 2023-12-11T01:49:10.675Z
 draft: false
@@ -14,7 +14,7 @@ tags:
   - WebHooks
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-11T01:59:10.463Z
+lastmod: 2024-01-03T22:50:07
 featured: true
 ---
 

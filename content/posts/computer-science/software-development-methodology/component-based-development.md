@@ -10,7 +10,7 @@ categories:
   - Software Development Methodology
 tags:
   - Component Based Development
-lastmod: 2023-12-09T06:19:00.376Z
+lastmod: 2024-01-03T23:06:42
 draft: false
 featured: true
 authors:

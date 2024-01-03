@@ -3,13 +3,13 @@ title: Memory Sizes
 linkTitle: Memory Sizes
 description: ""
 date: 2023-11-26T00:47:42.565Z
-tags:
-categories:
+tags: 
+categories: 
 series:
   - Notes
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-10T04:01:30.297Z
+lastmod: 2024-01-02T21:24:18
 keywords:
   - Memory Size
 featured: true

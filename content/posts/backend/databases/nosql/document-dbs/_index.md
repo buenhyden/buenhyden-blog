@@ -12,7 +12,7 @@ categories:
   - NoSQL
 tags:
   - Document DBs
-lastmod: 2023-12-10T04:38:33.639Z
+lastmod: 2024-01-03T22:28:22
 draft: false
 featured: true
 authors:

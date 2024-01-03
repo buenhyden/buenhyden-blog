@@ -12,7 +12,7 @@ categories:
   - GraphQL
 tags:
   - Apollo
-lastmod: 2023-12-10T02:43:26.574Z
+lastmod: 2024-01-03T22:42:20
 draft: false
 featured: true
 authors:

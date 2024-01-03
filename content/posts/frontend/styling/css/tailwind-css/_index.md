@@ -1,8 +1,8 @@
 ---
 title: Tailwind CSS
 linkTitle: Tailwind CSS
-description: ""
-summary: ""
+description: 오픈 소스 CSS 프레임워크입니다. 이 라이브러리의 주요 특징은 Bootstrap과 같은 다른 CSS 프레임워크와 달리 버튼이나 테이블과 같은 요소에 대해 미리 정의된 일련의 클래스를 제공하지 않는다는 것
+summary: 오픈 소스 CSS 프레임워크입니다. 이 라이브러리의 주요 특징은 Bootstrap과 같은 다른 CSS 프레임워크와 달리 버튼이나 테이블과 같은 요소에 대해 미리 정의된 일련의 클래스를 제공하지 않는다는 것
 series:
   - Styling
 categories:
@@ -10,32 +10,24 @@ categories:
   - Styling
   - CSS
 tags:
-  - Tailwind CSS
-lastmod: 2023-12-10T03:12:47.098Z
+  - Tailwind
+  - CSS
+lastmod: 2024-01-03T23:38:42
 date: 2023-11-26T13:02:12.342Z
 draft: false
 featured: true
 ---
 
-![CSS](media/images/css.png "https://www.oxfordwebstudio.com/en/did-you-know/what-is-css")
+
 
 ## Lecture
 
-[디자이너의 언어, CSS](https://www.edwith.org/codingd_css)
-
 ## Tutorial
-
-[차세대 CSS 레이아웃](https://studiomeal.com/archives/197)
 
 ## Reference
 
-[CSS를 이용한 HTML 스타일링 익히기](https://developer.mozilla.org/ko/docs/Learn/CSS)  
-[css](https://developer.mozilla.org/ko/docs/Web/CSS)  
-[ofcourse CSS](https://ofcourse.kr/css-course/CSS-%EC%9E%85%EB%AC%B8)  
-[The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)  
-[CSS in 2022](https://wit.nts-corp.com/2022/02/24/6490)  
-[역사로 알아보는 CSS가 어려워진 이유: 1. 웹 문서에서 웹 어플리케이션으로](https://yozm.wishket.com/magazine/detail/1319/)  
-[역사로 알아보는 CSS가 어려워진 이유: 2. CSS in JS와 Atomic CSS](https://yozm.wishket.com/magazine/detail/1326/)  
-[HTML, CSS 기초 입문부터 HTML CSS 적용 방법, 예제까지](https://www.codestates.com/blog/content/html-css-%EA%B8%B0%EC%B4%88)  
-[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)  
-[content-visibility: the new CSS property that boosts your rendering performance](https://wit.nts-corp.com/2020/09/11/6223)
+[Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)
+[Hello Tailwind CSS! | 장점, 단점, 사용법 | Wonny Log](https://wonny.space/writing/dev/hello-tailwind-css)
+[[번역] Tailwind CSS에서 혼란을 방지하기 위한 5가지 모범 사례](https://velog.io/@lky5697/5-best-practices-for-preventing-chaos-in-tailwind-css)
+[Tailwind CSS 사용기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220303-tailwind-tips/)
+[FrontEnd Styling: Tailwind CSS KAKAO.GG IT Tech Blog](https://www.kakao.gg/information/frontend/tailwindcss-function-basic)

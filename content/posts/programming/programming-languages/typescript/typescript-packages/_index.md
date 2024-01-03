@@ -11,7 +11,7 @@ categories:
   - Typescript
 tags:
   - Typescript Package
-lastmod: 2023-12-10T04:05:42.971Z
+lastmod: 2024-01-03T23:40:00
 date: 2023-11-24T01:00:21.533Z
 draft: false
 keywords:

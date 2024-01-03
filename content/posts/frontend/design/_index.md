@@ -1,14 +1,16 @@
 ---
 title: Design
-description: ""
-summary: ""
+description: Frontend design involves creating the HTML, CSS, and presentational JavaScript code that makes up a user interface
+summary: Frontend design involves creating the HTML, CSS, and presentational JavaScript code that makes up a user interface
 series:
   - Design
-categories:  
+categories:
   - Frontend
-  - Design  
+  - Design
 cascade:
   cardView: true
+date: 2024-01-02T02:06:08
+lastmod: 2024-01-03T23:33:21
 ---
 
 ![UI&UX](media/images/ui-ux.jpg "https://medium.com/@sumaiya-journal/the-fundamentals-of-ui-and-ux-design-189d61821069")
@@ -36,3 +38,4 @@ cascade:
 [레이아웃에 대한 영감](https://brunch.co.kr/magazine/uilayout)  
 [2024년 웹 디자인 트렌드 8가지](https://www.openads.co.kr/content/contentDetail?contsId=12127)
 [Design Systems Database](https://designsystems.surf/)
+[Frontend Design | Brad Frost](https://bradfrost.com/blog/post/frontend-design/)

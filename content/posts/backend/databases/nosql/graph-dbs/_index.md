@@ -12,7 +12,7 @@ categories:
   - NoSQL
 tags:
   - Graph DBs
-lastmod: 2023-12-17T06:32:59.909Z
+lastmod: 2024-01-03T22:28:28
 draft: false
 featured: true
 authors:

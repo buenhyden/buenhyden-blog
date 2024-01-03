@@ -10,7 +10,7 @@ categories:
   - System Design & Architecture
 tags:
   - System Architecture
-lastmod: 2023-12-10T03:12:47.347Z
+lastmod: 2024-01-03T23:06:52
 draft: false
 featured: true
 ---

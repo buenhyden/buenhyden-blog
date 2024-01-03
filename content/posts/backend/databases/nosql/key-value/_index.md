@@ -12,7 +12,7 @@ categories:
   - NoSQL
 tags:
   - Key Value
-lastmod: 2023-12-10T04:38:12.313Z
+lastmod: 2024-01-03T22:28:40
 draft: false
 featured: true
 authors:

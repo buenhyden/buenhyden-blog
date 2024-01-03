@@ -1,8 +1,8 @@
 ---
 title: Encapsulation & Decapsulation
 linkTitle: Encapsulation & Decapsulation
-description: "데이터에 헤더(Header)를 붙이고 아래 계층에 보내는 것을 캡슐화(Encapsulation), 데이터에 헤더를 제거하고 위 계층에 보내는 것을 역캡슐화(Decapsulation)"
-summary: "데이터에 헤더(Header)를 붙이고 아래 계층에 보내는 것을 캡슐화(Encapsulation), 데이터에 헤더를 제거하고 위 계층에 보내는 것을 역캡슐화(Decapsulation)"
+description: 데이터에 헤더(Header)를 붙이고 아래 계층에 보내는 것을 캡슐화(Encapsulation), 데이터에 헤더를 제거하고 위 계층에 보내는 것을 역캡슐화(Decapsulation)
+summary: 데이터에 헤더(Header)를 붙이고 아래 계층에 보내는 것을 캡슐화(Encapsulation), 데이터에 헤더를 제거하고 위 계층에 보내는 것을 역캡슐화(Decapsulation)
 date: 2023-12-10T15:28:58.133Z
 draft: false
 series:
@@ -13,10 +13,9 @@ categories:
 tags:
   - Encapsulation
   - Decapsulation
-
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-10T15:34:49.529Z
+lastmod: 2024-01-03T22:45:35
 featured: true
 ---
 

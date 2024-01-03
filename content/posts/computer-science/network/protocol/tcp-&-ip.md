@@ -4,7 +4,7 @@ description: 컴퓨터 사이의 통신 표준 및 네트워크의 라우팅 및
 summary: 컴퓨터 사이의 통신 표준 및 네트워크의 라우팅 및 상호연결에 대한 자세한 규칙을 지정하는 프로토콜 스위트
 linkTitle: TCP & IP
 date: 2023-11-12T10:24:56.265Z
-lastmod: 2023-12-10T16:00:58.771Z
+lastmod: 2024-01-03T22:50:25
 series:
   - Protocol
 categories:

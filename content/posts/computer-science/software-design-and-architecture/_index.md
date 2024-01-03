@@ -8,7 +8,7 @@ series:
   - Software Design & Architecture
 categories:
   - Software Design & Architecture
-lastmod: 2023-12-10T03:12:47.474Z
+lastmod: 2024-01-03T23:06:13
 featured: true
 authors:
   - Hyunyoun Jo

@@ -8,9 +8,9 @@ series:
 categories:
   - Programming Language
   - Programming
-tags:  
-  - Typescript  
-lastmod: 2023-12-10T04:05:37.143Z
+tags:
+  - Typescript
+lastmod: 2024-01-03T23:39:54
 date: 2023-11-16T01:10:09.414Z
 keywords:
   - Programming Language

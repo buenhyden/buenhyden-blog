@@ -1,7 +1,7 @@
 ---
 title: Linux Command
 date: 2023-11-26T11:53:09.690Z
-description: "Linux Command"
+description: Linux Command
 summary: Linux Command
 linkTitle: Linux Command
 series:
@@ -11,7 +11,7 @@ categories:
   - Linux
 tags:
   - Command
-lastmod: 2023-12-10T02:45:21.724Z
+lastmod: 2024-01-03T22:50:43
 draft: false
 featured: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: JestJS
 description: 메타가 유지보수하는 재스민 위에서 빌드되는 테스팅 프레임워크
-summary: "메타가 유지보수하는 재스민 위에서 빌드되는 테스팅 프레임워크"
+summary: 메타가 유지보수하는 재스민 위에서 빌드되는 테스팅 프레임워크
 linkTitle: JestJS
 series:
   - Programming Language
@@ -11,7 +11,7 @@ categories:
   - Javascript
 tags:
   - JestJS
-lastmod: 2023-12-10T04:16:01.906Z
+lastmod: 2024-01-03T23:40:29
 date: 2023-11-19T06:32:31.887Z
 keywords:
   - Javascript

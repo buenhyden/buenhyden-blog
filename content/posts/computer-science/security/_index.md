@@ -8,7 +8,7 @@ series:
   - IT Security
 categories:
   - IT Security
-lastmod: 2023-12-13T07:25:27.597Z
+lastmod: 2024-01-03T23:02:20
 featured: true
 authors:
   - Hyunyoun Jo

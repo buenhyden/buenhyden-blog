@@ -10,7 +10,7 @@ categories:
   - Software Design & Architecture
 tags:
   - Software Architecture
-lastmod: 2023-12-17T03:06:13.866Z
+lastmod: 2024-01-03T23:05:22
 draft: false
 featured: true
 authors:

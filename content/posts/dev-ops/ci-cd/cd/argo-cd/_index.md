@@ -12,7 +12,7 @@ categories:
   - Continuous Deployment(CD)
 tags:
   - ArgoCD
-lastmod: 2023-12-11T15:29:32.116Z
+lastmod: 2024-01-03T23:12:23
 draft: false
 featured: true
 ---

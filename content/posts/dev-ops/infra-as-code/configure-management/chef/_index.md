@@ -12,7 +12,7 @@ categories:
   - Configuration Management
 tags:
   - Chef
-lastmod: 2023-12-10T03:12:46.224Z
+lastmod: 2024-01-03T23:19:26
 draft: false
 featured: true
 ---

@@ -4,7 +4,7 @@ description: 네트워크 장치에서 네트워크 통신 문제를 진단하�
 summary: 네트워크 장치에서 네트워크 통신 문제를 진단하는 데 사용하는 네트워크 계층 프로토콜
 linkTitle: ICMP
 date: 2023-11-12T10:24:08.499Z
-lastmod: 2023-12-10T16:00:31.260Z
+lastmod: 2024-01-03T22:50:14
 series:
   - Protocol
 categories:

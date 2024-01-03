@@ -2,8 +2,8 @@
 title: Database 타입
 date: 2023-10-16T16:26:00+09:00
 linkTitle: Database 타입
-description: "Database 타입"
-summary: "Database 타입"
+description: Database 타입
+summary: Database 타입
 series:
   - Databases
 categories:
@@ -11,7 +11,7 @@ categories:
   - Databases
 tags:
   - Database Types
-lastmod: 2023-12-10T04:29:20.746Z
+lastmod: 2024-01-03T22:29:47
 keywords:
   - Databases
   - 데이터베이스

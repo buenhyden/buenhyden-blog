@@ -9,7 +9,7 @@ series:
 categories:
   - Frontend
   - Web Browser
-lastmod: 2023-12-12T05:10:53.811Z
+lastmod: 2024-01-03T23:39:01
 featured: true
 ---
 

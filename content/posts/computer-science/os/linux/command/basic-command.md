@@ -11,7 +11,7 @@ categories:
   - Linux
 tags:
   - Command
-lastmod: 2023-12-09T06:17:53.548Z
+lastmod: 2024-01-03T22:50:44
 draft: false
 featured: true
 ---

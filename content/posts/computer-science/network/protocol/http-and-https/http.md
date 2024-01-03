@@ -1,17 +1,17 @@
 ---
 title: http
 description: W3 상에서 정보를 주고받을 수 있는 프로토콜
-summary: "W3 상에서 정보를 주고받을 수 있는 프로토콜"
+summary: W3 상에서 정보를 주고받을 수 있는 프로토콜
 linkTitle: http
 date: 2023-11-12T10:23:51.841Z
-lastmod: 2023-12-10T16:00:19.778Z
+lastmod: 2024-01-03T22:50:03
 series:
   - Protocol
 categories:
   - Network
-  - Protocol  
+  - Protocol
 tags:
-  - HTTP  
+  - HTTP
 draft: false
 featured: true
 ---

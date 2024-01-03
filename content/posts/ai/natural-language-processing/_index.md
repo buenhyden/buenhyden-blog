@@ -11,7 +11,7 @@ categories:
 tags:
   - Natural Language Processing
   - NLP
-lastmod: 2023-12-12T05:13:06.363Z
+lastmod: 2024-01-03T22:23:49
 draft: false
 featured: true
 authors:
@@ -36,3 +36,5 @@ authors:
 [GN⁺: 임베딩(Embeddings): 그것이 무엇인지와 왜 중요한지](https://news.hada.io/topic?id=11518)  
 [LLM 비교/테스트: 39개 모델 테스트(7B~70B + ChatGPT/GPT-4)](https://news.hada.io/topic?id=11517)  
 [생성형 AI 시대를 이해하기 위한 필수 용어 사전](https://yozm.wishket.com/magazine/detail/2360/)
+[대규모 언어 모델을 위한 검색-증강 생성(RAG) 기술 현황 - 1/2편](https://discuss.pytorch.kr/t/rag-1-2/3135?utm_source=geeknews)
+[대규모 언어 모델을 위한 검색-증강 생성(RAG) 기술 현황 - 2/2편](https://discuss.pytorch.kr/t/rag-2-2/3160?utm_source=geeknews)

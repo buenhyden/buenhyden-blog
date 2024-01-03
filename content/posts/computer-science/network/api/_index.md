@@ -11,7 +11,7 @@ categories:
 tags:
   - APIs
   - Application Programming Interfaces
-lastmod: 2023-12-17T03:05:48.138Z
+lastmod: 2024-01-03T22:45:08
 featured: true
 authors:
   - Hyunyoun Jo

@@ -4,7 +4,7 @@ description: Web GUI 기반 Container 관리 툴
 summary: Web GUI 기반 Container 관리 툴
 linkTitle: Portainer 설치
 date: 2023-11-23T09:49:52.650Z
-lastmod: 2023-12-09T06:21:06.074Z
+lastmod: 2024-01-03T23:19:06
 series:
   - Container
 categories:

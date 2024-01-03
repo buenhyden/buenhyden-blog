@@ -2,16 +2,16 @@
 title: UX
 date: 2023-10-15T12:46:00+09:00
 description: 사용자가 제품 또는 서비스에 대해 갖는 경험에 관한 것
-summary: "사용자가 제품 또는 서비스에 대해 갖는 경험에 관한 것"
+summary: 사용자가 제품 또는 서비스에 대해 갖는 경험에 관한 것
 linkTitle: UX
 series:
   - Design
-categories:  
+categories:
   - Frontend
-  - Design  
+  - Design
 tags:
   - UX
-lastmod: 2023-12-10T03:12:46.768Z
+lastmod: 2024-01-03T23:32:27
 draft: false
 featured: true
 ---

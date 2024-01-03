@@ -1,10 +1,10 @@
 ---
 title: Globs(Glob Patterns) 문법 정리
-description: "Globs(Glob Patterns) 문법 정리"
+description: Globs(Glob Patterns) 문법 정리
 linkTitle: Globs(Glob Patterns) 문법 정리
 summary: Globs(Glob Patterns) 문법 정리
 date: 2023-11-19T06:27:53.162Z
-lastmod: 2023-12-09T06:18:06.972Z
+lastmod: 2024-01-03T22:50:45
 series:
   - Operating System
 categories:

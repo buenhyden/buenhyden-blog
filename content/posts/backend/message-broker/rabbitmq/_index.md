@@ -11,7 +11,7 @@ categories:
   - Message Broker
 tags:
   - RabbitMQ
-lastmod: 2023-12-10T04:28:41.564Z
+lastmod: 2024-01-03T22:30:21
 draft: false
 featured: true
 authors:

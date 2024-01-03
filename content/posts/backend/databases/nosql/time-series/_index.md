@@ -12,7 +12,7 @@ categories:
   - NoSQL
 tags:
   - Time Series
-lastmod: 2023-12-10T04:37:54.046Z
+lastmod: 2024-01-03T22:28:58
 draft: false
 featured: true
 authors:

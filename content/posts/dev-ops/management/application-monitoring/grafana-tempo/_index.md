@@ -1,8 +1,8 @@
 ---
 title: Grafana Tempo
 date: 2023-12-15T00:46:45.279Z
-description: null
-summary: ""
+description: is an open source, easy-to-use, and high-scale distributed tracing backend
+summary: is an open source, easy-to-use, and high-scale distributed tracing backend
 linkTitle: Grafana Tempo
 series:
   - Management for Infrastructure
@@ -11,8 +11,9 @@ categories:
   - Management for Infrastructure
   - Application Monitoring
 tags:
-  - Grafana Tempo
-lastmod: 2023-12-15T00:46:47.426Z
+  - Grafana
+  - Tempo
+lastmod: 2024-01-03T23:20:29
 draft: false
 featured: true
 ---

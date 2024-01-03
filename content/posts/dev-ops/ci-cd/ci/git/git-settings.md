@@ -14,7 +14,7 @@ categories:
   - Version Control
 tags:
   - Git
-lastmod: 2023-12-09T06:20:32.939Z
+lastmod: 2024-01-03T23:16:38
 draft: false
 linkTitle: Git 설정하기
 featured: true

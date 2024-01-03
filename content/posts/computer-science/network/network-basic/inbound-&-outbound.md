@@ -15,7 +15,7 @@ tags:
   - Outbound
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-10T14:58:16.484Z
+lastmod: 2024-01-03T22:46:07
 featured: true
 ---
 

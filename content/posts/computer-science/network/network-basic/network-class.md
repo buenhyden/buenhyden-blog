@@ -1,17 +1,18 @@
 ---
 title: Network Class
 linkTitle: Network Class
-description: ""
-summary: ""
+description: IPv4 에서 첫 번째 구조 변화를 나타내는 기법
+summary: IPv4 에서 첫 번째 구조 변화를 나타내는 기법
 date: 2023-11-26T11:06:12.447Z
-lastmod: 2023-12-17T02:55:21.537Z
+lastmod: 2024-01-03T22:47:29
 series:
   - Network Basic
 categories:
   - Network
   - Network Basic
 tags:
-  - Network Class
+  - Network
+  - Class
 authors:
   - Hyunyoun Jo
 draft: false

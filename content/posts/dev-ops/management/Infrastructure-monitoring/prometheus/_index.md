@@ -1,8 +1,8 @@
 ---
 title: Prometheus
 date: 2023-11-04T12:52:00+09:00
-description: null
-summary: ""
+description: 이벤트 모니터링 및 경고에 사용되는 무료 소프트웨어 애플리케이션
+summary: 이벤트 모니터링 및 경고에 사용되는 무료 소프트웨어 애플리케이션
 linkTitle: Prometheus
 series:
   - Management for Infrastructure
@@ -12,7 +12,7 @@ categories:
   - Infrastructure Monitoring
 tags:
   - Prometheus
-lastmod: 2023-12-10T03:12:45.858Z
+lastmod: 2024-01-03T23:23:13
 draft: false
 featured: true
 ---

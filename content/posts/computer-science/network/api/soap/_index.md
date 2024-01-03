@@ -11,7 +11,7 @@ categories:
   - Network
 tags:
   - SOAP
-lastmod: 2023-12-10T02:43:44.540Z
+lastmod: 2024-01-03T22:45:06
 draft: false
 featured: true
 ---

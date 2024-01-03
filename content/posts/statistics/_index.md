@@ -10,6 +10,8 @@ authours:
   - Hyunyoun Jo
 cascade:
   cardView: true
+date: 2024-01-02T02:06:08
+lastmod: 2024-01-03T23:05:18
 ---
 
 ![Statistics](media/images/statistics.webp "https://www.mathnasium.com/northvancouverwa/news/math-vs-statistics-important-points-one-should-know-nv")

@@ -1,6 +1,6 @@
 ---
-title: "Posts"
-description: "까먹지 말고 기록으로 남기자"
+title: Posts
+description: 까먹지 말고 기록으로 남기자
 cascade:
   cardView: true
   showReadingTime: false
@@ -11,6 +11,8 @@ cascade:
   showViews: true
   showLikes: true
   showTaxonomies: true
+date: 2024-01-02T02:06:07
+lastmod: 2024-01-02T21:02:17
 ---
 
 {{< typeit tag=h2 lifeLike=true >}}

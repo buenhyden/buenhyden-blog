@@ -12,7 +12,7 @@ categories:
   - Container Orchestration(CO)
 tags:
   - Kubernetes
-lastmod: 2023-12-17T05:52:52.118Z
+lastmod: 2024-01-03T23:16:53
 featured: true
 ---
 

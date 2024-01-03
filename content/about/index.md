@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: About Me
 showDate: false
 showDateUpdated: false
 showHeadingAnchors: false
@@ -14,6 +14,8 @@ showEdit: false
 showViews: true
 showLikes: false
 showComments: false
+date: 2024-01-02T02:06:07
+lastmod: 2024-01-02T21:11:45
 ---
 
 ## Work Experience

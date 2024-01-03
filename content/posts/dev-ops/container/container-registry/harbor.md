@@ -1,9 +1,9 @@
 ---
 title: Harbor
-description: ""
+description: an open source registry that secures artifacts with policies and role-based access control, ensures images are scanned and free from vulnerabilities, and signs images as trusted
 linkTitle: Harbor
 date: 2023-11-23T07:46:43.773Z
-lastmod: 2023-12-09T06:20:58.886Z
+lastmod: 2024-01-03T23:18:20
 series:
   - Container
 categories:
@@ -16,6 +16,7 @@ authors:
   - Hyunyoun Jo
 draft: false
 featured: true
+summary: an open source registry that secures artifacts with policies and role-based access control, ensures images are scanned and free from vulnerabilities, and signs images as trusted
 ---
 
 ## Harbor란?

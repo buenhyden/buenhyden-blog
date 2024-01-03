@@ -1,176 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Posts-Templates",
-      "path": "_Templates/Posts-Templates.md"
-    },
-    {
-      "basename": "index",
-      "path": "content/about/index.md"
+      "basename": "_index",
+      "path": "content/posts/programming/programming-languages/javascript/nodejs/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/diary/_index.md"
-    },
-    {
-      "basename": "2023-12-21 ( 목 )",
-      "path": "content/diary/daily/2023/12/2023-12-21 ( 목 ).md"
-    },
-    {
-      "basename": "offline",
-      "path": "assets/images/pwa/offline.png"
-    },
-    {
-      "basename": "icon",
-      "path": "assets/images/pwa/icon.png"
-    },
-    {
-      "basename": "2023-10-16-databases",
-      "path": "content/backend/databases/2023-10-16-databases.md"
+      "path": "content/posts/programming/programming-languages/javascript/nodejs/nextjs/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/_index.md"
+      "path": "content/posts/programming/programming-languages/javascript/nodejs/nestjs/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/vdbms/_index.md"
+      "path": "content/posts/programming/programming-languages/javascript/nodejs/expressjs/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/rdbms/_index.md"
+      "path": "content/posts/programming/programming-languages/javascript/JestJS/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/rdbms/sqlite/_index.md"
+      "path": "content/posts/programming/programming-languages/javascript/javascript-packages/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/rdbms/postgresql/_index.md"
+      "path": "content/posts/programming/programming-languages/javascript/angular/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/rdbms/mysql/_index.md"
+      "path": "content/posts/programming/programming-languages/java/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/rdbms/mariadb/_index.md"
+      "path": "content/posts/programming/programming-languages/java/spring/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/rdbms/basic/_index.md"
+      "path": "content/posts/programming/programming-languages/go/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/_index.md"
+      "path": "content/posts/programming/programming-languages/dart/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/time-series/_index.md"
+      "path": "content/posts/programming/programming-languages/dart/flutter/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/time-series/influx-db/_index.md"
+      "path": "content/posts/programming/programming-languages/kotlin/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/realtime/_index.md"
+      "path": "content/posts/programming/programming-languages/python/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/key-value/_index.md"
+      "path": "content/posts/programming/programming-languages/python/python-packages/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/key-value/redis/_index.md"
+      "path": "content/posts/programming/programming-languages/python/python-packages/data-analysis-and-manipulation/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/graph-dbs/_index.md"
+      "path": "content/posts/programming/programming-languages/typescript/typescript-packages/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/graph-dbs/Neo4j/_index.md"
+      "path": "content/posts/programming/programming-languages/typescript/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/document-dbs/_index.md"
+      "path": "content/posts/programming/programming-languages/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/document-dbs/mongodb/_index.md"
+      "path": "content/posts/programming/programming-paradigm/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/column-dbs/_index.md"
+      "path": "content/posts/programming/programming-basics/_index.md"
+    },
+    {
+      "basename": "폴더-구조",
+      "path": "content/posts/programming/programming-basics/폴더-구조.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/column-dbs/HBase/_index.md"
+      "path": "content/posts/programming/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/column-dbs/Cassandra/_index.md"
+      "path": "content/posts/frontend/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/nosql/basic/_index.md"
+      "path": "content/posts/frontend/web-browser/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/backend/databases/basic/_index.md"
+      "path": "content/posts/frontend/styling/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/ai/_index.md"
+      "path": "content/posts/frontend/styling/css/tailwind-css/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/ai/computer-vision/_index.md"
+      "path": "content/posts/frontend/styling/styled-component/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/ai/speech-recognition/_index.md"
+      "path": "content/posts/frontend/styling/sass/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/ai/recommender-system/_index.md"
+      "path": "content/posts/frontend/styling/css/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/ai/natural-language-processing/_index.md"
+      "path": "content/posts/frontend/styling/css/bootstrap/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/ai/expert-system/_index.md"
+      "path": "content/posts/frontend/pwa/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/ai/computer-vision/machine-vision/_index.md"
+      "path": "content/posts/frontend/htmx/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/ai/computer-vision/image-recognition/_index.md"
+      "path": "content/posts/frontend/html/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/ai/basic/_index.md"
+      "path": "content/posts/frontend/design/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/archives/2021/01/_index.md"
-    },
-    {
-      "basename": "2023-12-20 ( 수 )",
-      "path": "content/diary/daily/2023/12/2023-12-20 ( 수 ).md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
+      "path": "content/posts/frontend/design/ux/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/_index.md"
+      "path": "content/posts/frontend/design/ui/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/open-tracing/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/open-tracing/zipkin/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/open-tracing/jaeger/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/observability/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/observability/open-telemetry/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/observability/datadog/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/monitoring/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/logging/telegraf/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/logging/promtail/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/logging/grafana-loki/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/management/logging/fluentd/_index.md"
     }
   ],
   "omittedPaths": [],

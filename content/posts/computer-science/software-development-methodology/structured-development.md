@@ -10,7 +10,7 @@ categories:
   - Software Development Methodology
 tags:
   - Structured Development
-lastmod: 2023-12-09T06:19:17.555Z
+lastmod: 2024-01-03T23:06:49
 draft: false
 featured: true
 authors:

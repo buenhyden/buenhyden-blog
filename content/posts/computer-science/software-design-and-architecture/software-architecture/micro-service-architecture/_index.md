@@ -12,7 +12,7 @@ categories:
 tags:
   - Micro Service Architecture
   - MSA
-lastmod: 2023-12-16T19:20:09.864Z
+lastmod: 2024-01-03T23:05:20
 draft: false
 featured: true
 authors:

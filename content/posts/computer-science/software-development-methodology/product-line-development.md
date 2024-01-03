@@ -10,7 +10,7 @@ categories:
   - Software Development Methodology
 tags:
   - Product Line Development
-lastmod: 2023-12-09T06:19:13.598Z
+lastmod: 2024-01-03T23:06:46
 draft: false
 featured: true
 authors:

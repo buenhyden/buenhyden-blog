@@ -10,6 +10,8 @@ authors:
   - Hyunyoun Jo
 cascade:
   cardView: true
+date: 2024-01-02T02:06:08
+lastmod: 2024-01-03T23:39:07
 ---
 
 ## Web Application

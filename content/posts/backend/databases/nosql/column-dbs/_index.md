@@ -12,7 +12,7 @@ categories:
   - NoSQL
 tags:
   - Column DBs
-lastmod: 2023-12-10T02:40:14.123Z
+lastmod: 2024-01-03T22:28:18
 draft: false
 featured: true
 authors:

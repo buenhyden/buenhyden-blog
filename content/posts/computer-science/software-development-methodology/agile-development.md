@@ -11,7 +11,7 @@ categories:
 tags:
   - Agile
   - Agile Development
-lastmod: 2023-12-09T06:18:56.495Z
+lastmod: 2024-01-03T23:06:41
 draft: false
 featured: true
 authors:

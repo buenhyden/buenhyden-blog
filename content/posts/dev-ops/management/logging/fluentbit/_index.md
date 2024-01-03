@@ -1,8 +1,8 @@
 ---
 title: Fluentbit
 date: 2023-11-04T12:52:00+09:00
-description: null
-summary: ""
+description: a super fast, lightweight, and highly scalable logging and metrics processor and forwarder
+summary: a super fast, lightweight, and highly scalable logging and metrics processor and forwarder
 linkTitle: Fluentbit
 series:
   - Management for Infrastructure
@@ -12,7 +12,7 @@ categories:
   - Logging
 tags:
   - Fluentbit
-lastmod: 2023-12-17T06:14:06.819Z
+lastmod: 2024-01-03T23:24:40
 draft: false
 featured: true
 ---

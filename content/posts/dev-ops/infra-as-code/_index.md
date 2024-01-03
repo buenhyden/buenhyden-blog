@@ -9,7 +9,7 @@ series:
 categories:
   - Dev Ops
   - Infrastructure as Code
-lastmod: 2023-12-10T03:12:45.994Z
+lastmod: 2024-01-03T23:20:01
 featured: true
 ---
 

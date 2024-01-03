@@ -5,12 +5,12 @@ description: 운영 체제 커널인 리눅스 커널에 기반을 둔 오픈 �
 summary: 운영 체제 커널인 리눅스 커널에 기반을 둔 오픈 소스 유닉스 계열 운영 체제 계열
 linkTitle: Linux
 series:
-  - Operating System  
+  - Operating System
 categories:
   - Operating System
 tags:
   - Linux
-lastmod: 2023-12-16T19:18:30.112Z
+lastmod: 2024-01-03T22:50:51
 featured: true
 ---
 

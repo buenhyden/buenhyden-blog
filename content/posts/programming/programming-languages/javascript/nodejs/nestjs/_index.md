@@ -1,7 +1,7 @@
 ---
 title: Nest.js
 description: A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
-summary: "A progressive Node.js framework for building efficient, reliable and scalable server-side applications."
+summary: A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
 linkTitle: Nest.js
 series:
   - Programming Language
@@ -10,9 +10,9 @@ categories:
   - Programming
   - Javascript
   - Node.js
-tags:  
+tags:
   - Nest.js
-lastmod: 2023-12-10T04:18:45.589Z
+lastmod: 2024-01-03T23:40:35
 date: 2023-11-25T01:02:28.607Z
 featured: true
 ---

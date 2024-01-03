@@ -2,7 +2,7 @@
 title: UI
 date: 2023-10-15T12:46:00+09:00
 description: 사람들이 제품과 상호 작용하는 미적 요소
-summary: "사람들이 제품과 상호 작용하는 미적 요소"
+summary: 사람들이 제품과 상호 작용하는 미적 요소
 linkTitle: UI
 series:
   - Design
@@ -11,7 +11,7 @@ categories:
   - Design
 tags:
   - UI
-lastmod: 2023-12-10T03:12:46.805Z
+lastmod: 2024-01-03T23:32:25
 draft: false
 featured: true
 ---

@@ -1,17 +1,19 @@
 ---
 title: Test Driven Development(TDD)
 date: 2023-11-28T14:31:11.197Z
-description: ""
-summary: ""
+description: 선 개발 후 테스트 방식이 아닌 선 테스트 후 개발 방식의 프로그래밍 방법
+summary: 선 개발 후 테스트 방식이 아닌 선 테스트 후 개발 방식의 프로그래밍 방법
 linkTitle: Test Driven Development(TDD)
 series:
   - Software Development Methodology
 categories:
   - Software Development Methodology
 tags:
-  - Test Driven Development
+  - Test
+  - Driven
+  - Development
   - TDD
-lastmod: 2023-12-10T03:12:47.449Z
+lastmod: 2024-01-03T23:06:35
 draft: false
 authors:
   - Hyunyoun Jo

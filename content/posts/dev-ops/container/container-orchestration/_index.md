@@ -9,10 +9,8 @@ series:
 categories:
   - Dev Ops
   - Container
-tags:
-  - Container Orchestration(CO)
-tags:
-lastmod: 2023-12-10T03:12:46.345Z
+tags: 
+lastmod: 2024-01-03T23:18:05
 featured: true
 ---
 

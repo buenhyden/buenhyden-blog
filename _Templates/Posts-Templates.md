@@ -1,12 +1,13 @@
 ---
-title: <% tp.file.title %>
+title:
 description: ""
 summary: ""
 linkTitle: <% tp.file.title %>
 series: []
 categories: []
 tags: []
-authors: ["Hyunyoun Jo"]
+authors:
+  - Hyunyoun Jo
 lastmod: <% tp.file.last_modified_date() %>
 date: <% tp.file.creation_date() %>
 draft: false

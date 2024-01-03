@@ -1,8 +1,8 @@
 ---
 title: Subnet
 linkTitle: Subnet
-description: ""
-summary: ""
+description: 네트워크 내부의 네트워크
+summary: 네트워크 내부의 네트워크
 date: 2023-12-10T15:03:29.333Z
 draft: false
 series:
@@ -14,7 +14,7 @@ tags:
   - Subnet
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-10T15:34:57.388Z
+lastmod: 2024-01-03T22:48:14
 featured: true
 ---
 

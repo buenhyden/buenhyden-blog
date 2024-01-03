@@ -14,7 +14,7 @@ tags:
   - API Gateway
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-10T14:58:06.805Z
+lastmod: 2024-01-03T22:45:21
 featured: true
 ---
 

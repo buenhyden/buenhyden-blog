@@ -1,14 +1,14 @@
 ---
 title: Software Development Methodology
 date: 2023-10-15T12:46:00+09:00
-description: "소프트웨어를 생산하는 데에 필요한 프로그래밍 개발 과정들을 정리하고 표준화하여 프로그래머들이 프로그래밍 개발과정에서 각개인이 개발과정에서의 일관성을 유지하고 프로그래머들간의 효과적인 협업이 이루어질수 있도록 돕기 위한 방법"
-summary: "소프트웨어를 생산하는 데에 필요한 프로그래밍 개발 과정들을 정리하고 표준화하여 프로그래머들이 프로그래밍 개발과정에서 각개인이 개발과정에서의 일관성을 유지하고 프로그래머들간의 효과적인 협업이 이루어질수 있도록 돕기 위한 방법"
+description: 소프트웨어를 생산하는 데에 필요한 프로그래밍 개발 과정들을 정리하고 표준화하여 프로그래머들이 프로그래밍 개발과정에서 각개인이 개발과정에서의 일관성을 유지하고 프로그래머들간의 효과적인 협업이 이루어질수 있도록 돕기 위한 방법
+summary: 소프트웨어를 생산하는 데에 필요한 프로그래밍 개발 과정들을 정리하고 표준화하여 프로그래머들이 프로그래밍 개발과정에서 각개인이 개발과정에서의 일관성을 유지하고 프로그래머들간의 효과적인 협업이 이루어질수 있도록 돕기 위한 방법
 linkTitle: Software Development Methodology
 series:
   - Software Development Methodology
 categories:
   - Software Development Methodology
-lastmod: 2023-12-10T03:12:47.395Z
+lastmod: 2024-01-03T23:06:38
 featured: true
 authors:
   - Hyunyoun Jo

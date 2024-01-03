@@ -4,7 +4,7 @@ linkTitle: DNS(Domain Name System)
 description: 특정 컴퓨터(또는 네트워크로 연결된 임의의 장치)의 주소를 찾기 위해, 사람이 이해하기 쉬운 도메인 이름을 숫자로 된 식별 번호(IP 주소)로 변환
 summary: 특정 컴퓨터(또는 네트워크로 연결된 임의의 장치)의 주소를 찾기 위해, 사람이 이해하기 쉬운 도메인 이름을 숫자로 된 식별 번호(IP 주소)로 변환
 date: 2023-11-26T11:11:06.253Z
-lastmod: 2023-12-09T06:00:23.196Z
+lastmod: 2024-01-03T22:45:32
 series:
   - Network Basic
 categories:

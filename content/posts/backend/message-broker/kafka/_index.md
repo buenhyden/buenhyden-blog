@@ -11,7 +11,7 @@ categories:
   - Message Broker
 tags:
   - Kafka
-lastmod: 2023-12-17T06:31:15.364Z
+lastmod: 2024-01-03T22:19:00
 draft: false
 featured: true
 authors:
@@ -53,4 +53,5 @@ authors:
 [pub/sub 기능을 활용하여 로컬 캐시 동기화하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=164373&boardType=tags)  
 [kafkaAdminClient API를 이용한 kafka Managing 서비스 개발](https://devocean.sk.com/blog/techBoardDetail.do?ID=164372&boardType=tags)  
 [카오스 엔지니어링 한스푼 추가한 Kafka MM2 성능 테스트!](https://devocean.sk.com/blog/techBoardDetail.do?ID=164371&boardType=tags)  
-[kcat(kafkacat) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163970&boardType=tags)
+[kcat(kafkacat) 소개](https://devocean.sk.com/blog/techBoardDetail.do?ID=163970&boardType=tags)  
+[Kafka 메시지에 스키마를 정의해 보자 : Apache Avro](https://medium.com/team-joon/%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%97%90-%EC%8A%A4%ED%82%A4%EB%A7%88%EB%A5%BC-%EC%A0%95%EC%9D%98%ED%95%B4-%EB%B3%B4%EC%9E%90-apache-avro-7162e250ae69)

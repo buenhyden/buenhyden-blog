@@ -1,7 +1,7 @@
 ---
 title: RDBMS
-description: "관계형 데이터베이스"
-summary: "관계형 데이터베이스"
+description: 관계형 데이터베이스
+summary: 관계형 데이터베이스
 series:
   - Databases
 categories:
@@ -11,6 +11,8 @@ tags:
   - RDBMS
 authors:
   - Hyunyoun Jo
+date: 2024-01-03T22:18:00
+lastmod: 2024-01-03T22:18:00
 ---
 
 ![RDBMS](media/images/rdbms.png "https://en.m.wikipedia.org/wiki/File:RDBMS_structure.png")
@@ -22,4 +24,5 @@ authors:
 ## Reference
 
 [관계형 데이터베이스(RDB)란 무엇인가요?](https://yozm.wishket.com/magazine/detail/675/)  
-[비전공자도 이해할수있는 DB와 SQL](https://www.whatap.io/ko/blog/141/index.html)
+[비전공자도 이해할수있는 DB와 SQL](https://www.whatap.io/ko/blog/141/index.html)  
+[SQL 쿼리 속도를 높이는 9가지 방법](https://www.itworld.co.kr/news/319554)

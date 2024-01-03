@@ -6,9 +6,6 @@ summary: Linux 권한 설정 Command
 linkTitle: Linux Permission Command
 series:
   - Operating System
-  - OS
-series:
-  - Operating System
 categories:
   - Operating System
   - Linux
@@ -16,7 +13,7 @@ tags:
   - Command
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-09T06:18:01.690Z
+lastmod: 2024-01-03T22:50:47
 draft: false
 featured: true
 ---

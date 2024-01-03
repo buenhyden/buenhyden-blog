@@ -11,8 +11,12 @@
             "id": "58c4b53c8e5a9174",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/programming/programming-languages/javascript/nodejs/_index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -85,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/programming/programming-languages/javascript/nodejs/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/programming/programming-languages/javascript/nodejs/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/programming/programming-languages/javascript/nodejs/_index.md"
+              }
             }
           },
           {
@@ -185,64 +192,63 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-day-planner:Timeline": false,
-      "notion-like-tables:Create loom": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create loom": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "58c4b53c8e5a9174",
   "lastOpenFiles": [
-    "_Templates/Posts-Templates.md",
-    "content/Untitled.md",
-    "content/about/index.md",
-    "_Templates/NotesTemplates.md",
-    "_Templates",
+    "public/posts/computer-science/security/authorization/page/1/index.html",
+    "public/posts/computer-science/security/authorization/page/1",
+    "public/posts/computer-science/security/authorization/page",
+    "public/posts/computer-science/security/authorization/index.xml",
+    "public/posts/computer-science/security/authorization/index.html",
+    "public/posts/computer-science/security/authorization",
+    "public/tags/patterns/page/1/index.html",
+    "public/tags/patterns/page/1",
+    "public/tags/patterns/page",
+    "public/tags/patterns/index.xml",
+    "public/tags/patterns/index.html",
+    "content/posts/programming/programming-languages/javascript/nodejs/nextjs/_index.md",
+    "content/posts/programming/programming-languages/javascript/nodejs/nestjs/_index.md",
+    "content/posts/programming/programming-languages/javascript/nodejs/expressjs/_index.md",
+    "content/posts/programming/programming-languages/javascript/JestJS/_index.md",
+    "content/posts/programming/programming-languages/javascript/javascript-packages/_index.md",
+    "content/posts/programming/programming-languages/javascript/angular/_index.md",
+    "content/posts/programming/programming-languages/java/_index.md",
+    "content/posts/programming/programming-languages/java/spring/_index.md",
+    "content/posts/programming/programming-languages/go/_index.md",
+    "content/posts/programming/programming-languages/dart/_index.md",
+    "content/posts/programming/programming-languages/dart/flutter/_index.md",
+    "content/posts/programming/programming-languages/kotlin/_index.md",
+    "content/posts/programming/programming-languages/python/_index.md",
+    "content/posts/programming/programming-languages/python/python-packages/_index.md",
+    "content/posts/programming/programming-languages/python/python-packages/data-analysis-and-manipulation/_index.md",
+    "content/posts/programming/programming-languages/typescript/typescript-packages/_index.md",
+    "content/posts/programming/programming-languages/typescript/_index.md",
+    "content/posts/programming/programming-languages/_index.md",
+    "content/posts/programming/programming-paradigm/_index.md",
+    "content/posts/programming/programming-basics/_index.md",
+    "content/posts/programming/programming-basics/폴더-구조.md",
+    "content/posts/programming/_index.md",
+    "content/posts/frontend/_index.md",
+    "content/posts/frontend/web-browser/_index.md",
+    "content/posts/frontend/styling/_index.md",
+    "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_1320x0_resize_box_3.png",
+    "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_1024x0_resize_box_3.png",
+    "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_660x0_resize_box_3.png",
+    "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_330x0_resize_box_3.png",
+    "resources/_gen/images/mariadb_hu9f274a49fc8c839c7f320f2382fdde67_4439_1320x0_resize_box_3.png",
+    "resources/_gen/images/mariadb_hu9f274a49fc8c839c7f320f2382fdde67_4439_1024x0_resize_box_3.png",
+    "resources/_gen/images/mariadb_hu9f274a49fc8c839c7f320f2382fdde67_4439_660x0_resize_box_3.png",
+    "resources/_gen/images/mariadb_hu9f274a49fc8c839c7f320f2382fdde67_4439_330x0_resize_box_3.png",
     "resources/_gen/images/python_hu1c40d569e06993026ae2d64f86ec7f2f_25994_1320x0_resize_box_3.png",
     "resources/_gen/images/kotlin_hu9b80bf116db3012adfe1ccbed6f57832_3852_1320x0_resize_box_3.png",
-    "resources/_gen/images/python_hu1c40d569e06993026ae2d64f86ec7f2f_25994_1024x0_resize_box_3.png",
-    "resources/_gen/images/vue-js_hu94d67033f2aa8eb3ea99363797320da1_12346_1320x0_resize_box_3.png",
-    "resources/_gen/images/kotlin_hu9b80bf116db3012adfe1ccbed6f57832_3852_1024x0_resize_box_3.png",
-    "resources/_gen/images/python_hu1c40d569e06993026ae2d64f86ec7f2f_25994_660x0_resize_box_3.png",
-    "resources/_gen/images/vue-js_hu94d67033f2aa8eb3ea99363797320da1_12346_1024x0_resize_box_3.png",
-    "resources/_gen/images/react_hu340ff314f8e244d641b140f1eabd37cc_86774_1320x0_resize_q75_box.jpeg",
-    "resources/_gen/images/kotlin_hu9b80bf116db3012adfe1ccbed6f57832_3852_660x0_resize_box_3.png",
-    "resources/_gen/images/python_hu1c40d569e06993026ae2d64f86ec7f2f_25994_330x0_resize_box_3.png",
-    "resources/_gen/images/posts/ai",
-    "resources/_gen/images/posts/backend",
-    "resources/_gen/images/posts/computer-science",
-    "resources/_gen/images/posts/data",
-    "resources/_gen/images/posts/dev-ops",
-    "resources/_gen/images/posts/frontend",
-    "resources/_gen/images/posts/programming",
-    "resources/_gen/images/posts/statistics",
-    "resources/_gen/images/posts",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/starter-template/index.zh-hant.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/starter-template/index.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/starter-template/index.zh-hans.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/hugo-module/index.zh-hant.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/hugo-module/index.zh-hans.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/hugo-module/index.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/git-submodule/index.zh-hans.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/git-submodule/index.zh-hant.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/getting-started/installation/git-submodule/index.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/social-links/index.zh-hant.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/social-links/index.zh-hans.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/social-links/index.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/reward/index.zh-hant.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/reward/index.zh-hans.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/reward/index.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/repository/index.zh-hant.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/repository/index.zh-hans.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/repository/index.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/funding/index.zh-hant.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/funding/index.zh-hans.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/funding/index.md",
-    "themes/hugo-theme-bootstrap/exampleSite/content/docs/widgets/comments/index.zh-hant.md",
     "무제 파일.canvas"
   ]
 }

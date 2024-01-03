@@ -1,7 +1,7 @@
 ---
 title: Customizing Git
 date: 2023-10-31T12:46:00+09:00
-description: null
+description: 
 linkTitle: Customizing Git
 series:
   - Continuous Integration(CI)
@@ -12,7 +12,7 @@ categories:
   - Version Control
 tags:
   - Git
-lastmod: 2023-12-10T03:12:44.971Z
+lastmod: 2024-01-03T00:12:18
 draft: false
 featured: true
 ---

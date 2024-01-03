@@ -1,17 +1,18 @@
 ---
 title: Application Monitoring
 date: 2023-11-04T12:52:00+09:00
-description: null
-summary: ""
+description: " the process of monitoring an application's performance, availability, and end-user experience to ensure the application is functioning properly"
+summary: " the process of monitoring an application's performance, availability, and end-user experience to ensure the application is functioning properly"
 linkTitle: Application Monitoring
-series:  
+series:
   - Management for Infrastructure
 categories:
   - Dev Ops
   - Management for Infrastructure
 tags:
-  - Application Monitoring
-lastmod: 2023-12-16T19:17:53.973Z
+  - Application
+  - Monitoring
+lastmod: 2024-01-03T23:21:59
 featured: true
 ---
 

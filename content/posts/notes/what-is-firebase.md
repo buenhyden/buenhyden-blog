@@ -1,8 +1,8 @@
 ---
 title: What is Firebase
 linkTitle: What is Firebase
-description: "모바일 및 웹 애플리케이션 개발 플랫폼"
-summary: "모바일 및 웹 애플리케이션 개발 플랫폼"
+description: 모바일 및 웹 애플리케이션 개발 플랫폼
+summary: 모바일 및 웹 애플리케이션 개발 플랫폼
 date: 2023-11-19T01:55:32.485Z
 series:
   - Backend
@@ -13,7 +13,7 @@ tags:
   - Firebase
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-10T04:01:20.250Z
+lastmod: 2024-01-02T22:16:38
 draft: false
 featured: true
 ---

@@ -11,7 +11,7 @@ categories:
 tags:
   - Single Sign On
   - SSO
-lastmod: 2023-12-13T07:24:23.598Z
+lastmod: 2024-01-03T23:01:59
 draft: false
 featured: true
 authors:

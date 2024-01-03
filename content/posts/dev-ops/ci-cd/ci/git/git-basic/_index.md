@@ -11,7 +11,7 @@ categories:
   - Version Control
 tags:
   - Git
-lastmod: 2023-12-10T03:12:45.174Z
+lastmod: 2024-01-03T00:11:57
 draft: false
 featured: true
 ---

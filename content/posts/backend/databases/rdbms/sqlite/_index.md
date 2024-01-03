@@ -12,8 +12,7 @@ categories:
   - RDBMS
 tags:
   - SQLite
-lastmod: 2023-12-10T04:39:24.980Z
-linkTitle: SQLite
+lastmod: 2024-01-03T22:29:17
 draft: false
 featured: true
 authors:

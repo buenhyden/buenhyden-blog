@@ -12,7 +12,7 @@ categories:
   - RDBMS
 tags:
   - MySQL
-lastmod: 2023-12-10T04:39:36.674Z
+lastmod: 2024-01-03T22:29:06
 draft: false
 featured: true
 authors:

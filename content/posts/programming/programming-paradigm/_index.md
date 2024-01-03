@@ -8,9 +8,10 @@ series:
 categories:
   - Programming
   - Programming Paradigm
-lastmod: 2023-12-10T04:05:26.649Z
+lastmod: 2024-01-03T23:39:41
 draft: false
 featured: true
+summary: 전체적인 프로그래밍 방식
 ---
 
 ![Programming Paradigm](media/images/prg-paradigms.png "https://commons.wikimedia.org/wiki/Category:Programming_language_by_paradigm?uselang=ko")

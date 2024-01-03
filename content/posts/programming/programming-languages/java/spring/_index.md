@@ -1,7 +1,7 @@
 ---
 title: Spring
 description: 자바 플랫폼을 위한 오픈 소스 애플리케이션 프레임워크
-summary: "자바 플랫폼을 위한 오픈 소스 애플리케이션 프레임워크"
+summary: 자바 플랫폼을 위한 오픈 소스 애플리케이션 프레임워크
 linkTitle: Spring
 series:
   - Programming Language
@@ -11,7 +11,7 @@ categories:
   - Java
 tags:
   - Spring
-lastmod: 2023-12-10T04:10:59.246Z
+lastmod: 2024-01-03T23:40:19
 date: 2023-11-11T14:08:43.930Z
 featured: true
 ---

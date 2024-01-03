@@ -3,7 +3,7 @@ title: chocolatey
 date: 2023-11-20T20:26:05.655Z
 linkTitle: chocolatey
 description: 윈도우 소프트웨어를 위한 머신 수준의 명령 줄 패키지 관리자이자 인스톨러
-summary:
+summary: 
 draft: false
 series:
   - Operating System
@@ -14,7 +14,7 @@ tags:
   - chocolatey
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-09T06:18:18.112Z
+lastmod: 2024-01-03T22:51:07
 featured: true
 ---
 

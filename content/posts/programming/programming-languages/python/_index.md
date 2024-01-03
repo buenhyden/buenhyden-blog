@@ -9,9 +9,9 @@ series:
 categories:
   - Programming Language
   - Programming
-tags:  
+tags:
   - Python
-lastmod: 2023-12-10T04:06:00.948Z
+lastmod: 2024-01-03T23:40:05
 keywords:
   - Programming Language
   - Python

@@ -1,8 +1,8 @@
 ---
 title: Influx DB
 date: 2023-12-09T06:14:08.284Z
-description: "인플럭스데이터가 개발한 오픈 소스 시계열 데이터베이스"
-summary: "인플럭스데이터가 개발한 오픈 소스 시계열 데이터베이스"
+description: 인플럭스데이터가 개발한 오픈 소스 시계열 데이터베이스
+summary: 인플럭스데이터가 개발한 오픈 소스 시계열 데이터베이스
 linkTitle: Influx DB
 series:
   - Databases
@@ -14,7 +14,7 @@ categories:
 tags:
   - InfluxDB
 draft: false
-lastmod: 2023-12-17T06:03:34.742Z
+lastmod: 2024-01-03T22:28:57
 featured: true
 authors:
   - Hyunyoun Jo

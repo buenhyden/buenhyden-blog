@@ -4,7 +4,7 @@ linkTitle: OSI-7-layers
 description: OSI 모형(Open Systems Interconnection Reference Model)은 국제표준화기구(ISO)에서 개발한 모델로, 컴퓨터 네트워크 프로토콜 디자인과 통신을 계층으로 나누어 설명한 것
 summary: OSI 모형(Open Systems Interconnection Reference Model)은 국제표준화기구(ISO)에서 개발한 모델로, 컴퓨터 네트워크 프로토콜 디자인과 통신을 계층으로 나누어 설명한 것
 date: 2023-11-25T11:51:01.478Z
-lastmod: 2023-12-10T15:45:22.473Z
+lastmod: 2024-01-03T22:47:30
 series:
   - Network Basic
 categories:

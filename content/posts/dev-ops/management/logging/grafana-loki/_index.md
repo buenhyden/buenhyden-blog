@@ -1,8 +1,8 @@
 ---
 title: Grafana Loki
 date: 2023-11-04T12:52:00+09:00
-description: null
-summary: ""
+description: a log aggregation system designed to store and query logs from all your applications and infrastructure
+summary: a log aggregation system designed to store and query logs from all your applications and infrastructure
 linkTitle: Grafana Loki
 series:
   - Management for Infrastructure
@@ -11,8 +11,9 @@ categories:
   - Management for Infrastructure
   - Logging
 tags:
-  - Grafana Loki
-lastmod: 2023-12-15T00:51:02.135Z
+  - Grafana
+  - Loki
+lastmod: 2024-01-03T23:25:12
 draft: false
 featured: true
 ---

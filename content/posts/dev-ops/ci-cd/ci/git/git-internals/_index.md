@@ -1,7 +1,7 @@
 ---
 title: Git Internals
 date: 2023-10-31T12:46:00+09:00
-description: null
+description: 
 linkTitle: Git Internals
 series:
   - Continuous Integration(CI)
@@ -12,7 +12,7 @@ categories:
   - Version Control
 tags:
   - Git
-lastmod: 2023-12-10T03:12:45.022Z
+lastmod: 2024-01-03T00:11:46
 draft: false
 featured: true
 ---

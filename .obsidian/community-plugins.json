@@ -26,8 +26,9 @@
   "obsidian-checklist-plugin",
   "obsidian-banners",
   "obsidian-sortable",
-  "periodic-notes",
   "make-md",
   "obsidian-custom-frames",
-  "editing-toolbar"
+  "editing-toolbar",
+  "update-time-on-edit",
+  "obsidian-auto-link-title"
 ]

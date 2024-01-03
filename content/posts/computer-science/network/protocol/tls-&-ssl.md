@@ -4,7 +4,7 @@ description: 보안 소켓 계층(SSL)은 네트워크상의 두 디바이스 �
 summary: 보안 소켓 계층(SSL)은 네트워크상의 두 디바이스 또는 애플리케이션 간에 보안 연결을 생성하는 통신 프로토콜 또는 규칙 세트이고, 전송 계층 보안(TLS)은 기존 SSL 취약성을 수정하는 업그레이드된 SSL 버전
 linkTitle: TLS & SSL
 date: 2023-11-12T10:25:14.475Z
-lastmod: 2023-12-10T16:01:04.886Z
+lastmod: 2024-01-03T22:50:27
 series:
   - Protocol
 categories:

@@ -12,7 +12,7 @@ categories:
   - RDBMS
 tags:
   - PostgreSQL
-lastmod: 2023-12-10T04:39:31.480Z
+lastmod: 2024-01-03T22:29:15
 draft: false
 featured: true
 authors:

@@ -1,17 +1,17 @@
 ---
 title: Observability
 date: 2023-11-26T05:43:29.037Z
-description: ""
-summary: ""
+description: 오직 시스템의 외부 출력만을 이용해서 시스템의 현재 상태를 이해할 수 있는 능력
+summary: 오직 시스템의 외부 출력만을 이용해서 시스템의 현재 상태를 이해할 수 있는 능력
 linkTitle: Observability
-series:  
+series:
   - Management for Infrastructure
 categories:
   - Dev Ops
   - Management for Infrastructure
 tags:
   - Observability
-lastmod: 2023-12-16T19:15:02.976Z
+lastmod: 2024-01-03T23:27:01
 featured: true
 ---
 

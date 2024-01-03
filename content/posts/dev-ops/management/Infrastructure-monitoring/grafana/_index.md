@@ -1,10 +1,10 @@
 ---
 title: Grafana
 date: 2023-11-04T12:52:00+09:00
-description: null
-summary: ""
+description: 멀티플랫폼 오픈 소스 애널리틱스 및 인터랙티브 시각화 웹 애플리케이션
+summary: 멀티플랫폼 오픈 소스 애널리틱스 및 인터랙티브 시각화 웹 애플리케이션
 linkTitle: Grafana
-series:  
+series:
   - Management for Infrastructure
 categories:
   - Dev Ops
@@ -12,7 +12,7 @@ categories:
   - Infrastructure Monitoring
 tags:
   - Grafana
-lastmod: 2023-12-10T03:12:45.884Z
+lastmod: 2024-01-03T23:22:41
 draft: false
 featured: true
 ---

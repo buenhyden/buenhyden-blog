@@ -1,7 +1,7 @@
 ---
 title: Databases
-description: "여러 사람이 공유하여 사용할 목적으로 체계화해 통합, 관리하는 데이터의 집합"
-summary: "여러 사람이 공유하여 사용할 목적으로 체계화해 통합, 관리하는 데이터의 집합"
+description: 여러 사람이 공유하여 사용할 목적으로 체계화해 통합, 관리하는 데이터의 집합
+summary: 여러 사람이 공유하여 사용할 목적으로 체계화해 통합, 관리하는 데이터의 집합
 series:
   - Databases
 categories:
@@ -9,6 +9,8 @@ categories:
   - Databases
 authors:
   - Hyunyoun Jo
+date: 2024-01-02T02:06:07
+lastmod: 2024-01-03T22:29:34
 ---
 
 ## 데이터베이스는

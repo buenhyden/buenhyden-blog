@@ -1,7 +1,7 @@
 ---
 title: data analysis and manipulation tool
-description: "data analysis and manipulation tool"
-summary: "data analysis and manipulation tool"
+description: data analysis and manipulation tool
+summary: data analysis and manipulation tool
 linkTitle: data analysis and manipulation tool
 series:
   - Programming
@@ -18,7 +18,7 @@ tags:
   - Programming Language
   - Python
   - Data Manipulation
-lastmod: 2023-12-10T04:06:10.286Z
+lastmod: 2024-01-03T23:40:01
 date: 2023-11-19T06:37:34.850Z
 draft: false
 keywords:

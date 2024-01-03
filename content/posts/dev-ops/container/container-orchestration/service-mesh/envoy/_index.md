@@ -1,8 +1,8 @@
 ---
 title: Envoy
 date: 2023-11-05T01:46:00+09:00
-description: ""
-summary: ""
+description: open source edge and service proxy, designed for cloud-native applications
+summary: open source edge and service proxy, designed for cloud-native applications
 linkTitle: Envoy
 series:
   - Container Orchestration(CO)
@@ -11,9 +11,9 @@ categories:
   - Container
   - Container Orchestration(CO)
   - Service Mesh
-tags:  
+tags:
   - Envoy
-lastmod: 2023-12-10T03:12:46.458Z
+lastmod: 2024-01-03T23:17:34
 draft: false
 featured: true
 ---

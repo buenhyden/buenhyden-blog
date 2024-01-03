@@ -10,7 +10,7 @@ categories:
   - Software Development Methodology
 tags:
   - Object-Oriented Development
-lastmod: 2023-12-09T06:19:09.703Z
+lastmod: 2024-01-03T23:06:44
 draft: false
 featured: true
 authors:

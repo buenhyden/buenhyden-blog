@@ -10,7 +10,7 @@ categories:
   - Dev Ops
   - CI/CD
   - Continuous Integration(CI)
-lastmod: 2023-12-10T03:12:44.921Z
+lastmod: 2024-01-03T23:16:23
 draft: false
 featured: true
 ---

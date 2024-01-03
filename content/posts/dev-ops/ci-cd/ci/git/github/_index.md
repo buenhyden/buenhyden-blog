@@ -1,10 +1,8 @@
 ---
 title: Github
 date: 2023-10-31T12:46:00+09:00
-description: null
+description: 
 linkTitle: Github
-series:
-  - Git
 series:
   - Continuous Integration(CI)
 categories:
@@ -14,7 +12,7 @@ categories:
   - Version Control
 tags:
   - Git
-lastmod: 2023-12-10T03:12:45.095Z
+lastmod: 2024-01-03T00:11:11
 draft: false
 featured: true
 ---

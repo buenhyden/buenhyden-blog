@@ -4,7 +4,7 @@ linkTitle: CIDR
 description: Classless Inter-Domain Routing 으로 클래스 없는 도메인간 라우팅 기법
 summary: Classless Inter-Domain Routing 으로 클래스 없는 도메인간 라우팅 기법
 date: 2023-11-26T04:16:37.828Z
-lastmod: 2023-12-09T06:00:19.807Z
+lastmod: 2024-01-03T22:45:27
 series:
   - Network Basic
 categories:

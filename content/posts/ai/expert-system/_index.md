@@ -10,7 +10,7 @@ categories:
   - AI
 tags:
   - Expert System
-lastmod: 2023-12-10T15:46:34.546Z
+lastmod: 2024-01-02T02:06:07
 draft: false
 featured: true
 authors:

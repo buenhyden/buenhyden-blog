@@ -1,8 +1,8 @@
 ---
 title: Vector Database
 date: 2023-12-17T06:45:34.601Z
-description: "정보를 벡터로 저장하는 데이터베이스"
-summary: "정보를 벡터로 저장하는 데이터베이스"
+description: 정보를 벡터로 저장하는 데이터베이스
+summary: 정보를 벡터로 저장하는 데이터베이스
 linkTitle: Vector Database
 series:
   - Databases
@@ -12,7 +12,7 @@ categories:
 tags:
   - VDBMS
   - Vector Databases
-lastmod: 2023-12-17T06:51:05.283Z
+lastmod: 2024-01-03T22:29:26
 featured: true
 authors:
   - Hyunyoun Jo

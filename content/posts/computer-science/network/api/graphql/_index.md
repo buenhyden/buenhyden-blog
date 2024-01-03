@@ -11,7 +11,7 @@ categories:
   - Network
 tags:
   - GraphQL
-lastmod: 2023-12-10T02:43:30.194Z
+lastmod: 2024-01-03T22:42:28
 draft: false
 featured: true
 authors:

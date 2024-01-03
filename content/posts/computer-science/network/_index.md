@@ -8,7 +8,7 @@ series:
   - Protocol
 categories:
   - Protocol
-lastmod: 2023-12-17T03:04:47.738Z
+lastmod: 2024-01-03T22:50:38
 featured: true
 authors:
   - Hyunyoun Jo

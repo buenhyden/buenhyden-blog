@@ -1,8 +1,8 @@
 ---
 title: MongoDB
 date: 2023-11-19T11:11:13.822Z
-description: "크로스 플랫폼 도큐먼트 지향 데이터베이스 시스템"
-summary: "크로스 플랫폼 도큐먼트 지향 데이터베이스 시스템"
+description: 크로스 플랫폼 도큐먼트 지향 데이터베이스 시스템
+summary: 크로스 플랫폼 도큐먼트 지향 데이터베이스 시스템
 linkTitle: MongoDB
 series:
   - Databases
@@ -13,7 +13,7 @@ categories:
   - Document DBs
 tags:
   - MongoDB
-lastmod: 2023-12-17T05:27:47.147Z
+lastmod: 2024-01-03T22:28:19
 draft: false
 featured: true
 authors:

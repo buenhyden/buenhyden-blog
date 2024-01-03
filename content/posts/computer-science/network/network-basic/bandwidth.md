@@ -4,7 +4,7 @@ linkTitle: Bandwidth
 description: 특정한 기능을 수행할 수 있는 주파수의 범위
 summary: 특정한 기능을 수행할 수 있는 주파수의 범위
 date: 2023-11-25T12:37:01.427Z
-lastmod: 2023-12-09T06:00:14.991Z
+lastmod: 2024-01-03T22:45:24
 series:
   - Network Basic
 categories:

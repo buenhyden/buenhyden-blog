@@ -4,7 +4,7 @@ description: 인터넷을 통해 이메일 메시지를 보내고 받는 데 사
 summary: 인터넷을 통해 이메일 메시지를 보내고 받는 데 사용되는 통신 프로토콜
 linkTitle: SMTP
 date: 2023-11-12T10:24:40.807Z
-lastmod: 2023-12-10T16:00:51.378Z
+lastmod: 2024-01-03T22:50:20
 series:
   - Protocol
 categories:

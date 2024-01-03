@@ -11,7 +11,7 @@ tags:
   - Hugo
 authors:
   - Hyunyoun Jo
-lastmod: 2023-12-10T04:01:43.261Z
+lastmod: 2024-01-02T22:16:32
 draft: false
 featured: true
 ---
