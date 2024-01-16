@@ -2,6 +2,14 @@
   "recentFiles": [
     {
       "basename": "_index",
+      "path": "content/posts/computer-science/network/api/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/computer-science/qa-engineering/_index.md"
+    },
+    {
+      "basename": "_index",
       "path": "content/posts/programming/programming-languages/javascript/nodejs/_index.md"
     },
     {
@@ -191,14 +199,6 @@
     {
       "basename": "_index",
       "path": "content/posts/dev-ops/management/logging/promtail/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/logging/grafana-loki/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/logging/fluentd/_index.md"
     }
   ],
   "omittedPaths": [],

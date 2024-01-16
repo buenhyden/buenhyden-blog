@@ -37,3 +37,4 @@ authors:
 [API 보안: 필수 도구와 방어 사례로 API 공격을 뚫지 않는 방법](https://nginxstore.com/blog/nginx/api-%eb%b3%b4%ec%95%88-%ed%95%84%ec%88%98-%eb%8f%84%ea%b5%ac%ec%99%80-%eb%b0%a9%ec%96%b4-%ec%82%ac%eb%a1%80%eb%a1%9c-api-%ea%b3%b5%ea%b2%a9%ec%9d%84-%eb%9a%ab%ec%a7%80-%ec%95%8a%eb%8a%94-%eb%b0%a9/)  
 [실시간 API 보안의 중요성](https://nginxstore.com/blog/api-gateway/%ec%8b%a4%ec%8b%9c%ea%b0%84-api-%eb%b3%b4%ec%95%88%ec%9d%98-%ec%a4%91%ec%9a%94%ec%84%b1/)  
 [API 개발자 경험이 중요한 이유](https://nginxstore.com/blog/api-gateway/api-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ea%b2%bd%ed%97%98%ec%9d%b4-%ec%a4%91%ec%9a%94%ed%95%9c-%ec%9d%b4%ec%9c%a0/)
+[REST API의 이해와 설계-#3 API 보안](https://bcho.tistory.com/955)

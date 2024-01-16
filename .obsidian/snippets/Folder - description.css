@@ -1,0 +1,122 @@
+/*
+author: Corellan
+source: https://discord.com/channels/686053708261228577/702656734631821413/1120300422565994516
+*/
+
+/* ╔════════════════════════════════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
+/* ║ Obsidian Add-On                                                                                                    ║ */
+/* ╠══════════════════════════╦═════════════════════════════════════════════════════════════════════════════════════════╣ */
+/* ║ Name:                    ║ CreArts Folder-Description                                                              ║ */
+/* ║ Version:                 ║ 1.0.0                                                                                   ║ */
+/* ║ Author:                  ║ Corellan                                                                                ║ */
+/* ║ License:                 ║ MIT                                                                                     ║ */
+/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+
+/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
+/* ║ Custom CSS               ║ Vars                                                                                    ║ */
+/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+
+:root {
+  --folder-comments-height: 32px;
+}
+
+/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
+/* ║ Custom CSS               ║ General                                                                                 ║ */
+/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+
+.tree-item-inner::after {
+  position: absolute;
+  font-size: 10px;  
+  bottom: 1px;
+  left: 25px;
+  opacity: 40%;
+}
+
+.tree-item .nav-folder:not(.is-collapsed) .tree-item-inner::after {
+  color: var(--custom-color-primary);
+  opacity: 100;
+}
+
+/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
+/* ║ Custom CSS               ║ Plugins                                                                                    ║ */
+/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+
+.nav-folder-title[data-count]::after {
+  align-self: start;
+}
+
+/* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
+/* ║ Custom CSS               ║ Pseudo                                                                                  ║ */
+/* ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝ */
+
+/* Documents */
+[data-path="Documents"] .tree-item-inner {
+  height: var(--folder-comments-height);
+}
+
+[data-path="Documents"] .tree-item-inner::after {
+  content: "Important Files & Information";
+}
+
+/* Work */
+[data-path="Works"] .tree-item-inner {
+  height: var(--folder-comments-height);
+}
+
+[data-path="Works"] .tree-item-inner::after {
+  content: "Projects & Meeting Notes related Work";
+}
+
+/* Bookmarks */
+[data-path="Bookmarks"] .tree-item-inner {
+  height: var(--folder-comments-height);
+}
+
+[data-path="Bookmarks"] .tree-item-inner::after {
+  content: "Saved web links";
+}
+
+/* Documents */
+[data-path="Diary"] .tree-item-inner {
+  height: var(--folder-comments-height);
+}
+
+[data-path="Diary"] .tree-item-inner::after {
+  content: "My Personal notes";
+}
+
+/* Journal */
+[data-path="Journal"] .tree-item-inner {
+  height: var(--folder-comments-height);
+}
+
+[data-path="Journal"] .tree-item-inner::after {
+  content: "Paper Management";
+}
+
+/* Personal */
+[data-path="Personal"] .tree-item-inner {
+  height: var(--folder-comments-height);
+}
+
+[data-path="Personal"] .tree-item-inner::after {
+  content: "My Personal Task & Notes";
+}
+
+/* Attachments */
+[data-path="Attachments"] .tree-item-inner {
+  height: var(--folder-comments-height);
+}
+
+[data-path="Attachments"] .tree-item-inner::after {
+  content: "Files & Resources";
+}
+
+/* Templates */
+[data-path="_templates"] .tree-item-inner {
+  height: var(--folder-comments-height);
+}
+
+[data-path="_templates"] .tree-item-inner::after {
+  content: "My Custom Tempaltes";
+}

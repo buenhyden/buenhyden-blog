@@ -11,7 +11,6 @@
   "obsidian-style-settings",
   "obsidian-outliner",
   "tag-wrangler",
-  "obsidian-day-planner",
   "omnisearch",
   "nldates-obsidian",
   "notion-like-tables",
@@ -28,7 +27,7 @@
   "obsidian-sortable",
   "make-md",
   "obsidian-custom-frames",
+  "obsidian-auto-link-title",
   "editing-toolbar",
-  "update-time-on-edit",
-  "obsidian-auto-link-title"
+  "open-vscode"
 ]
