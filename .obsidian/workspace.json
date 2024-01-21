@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5daa1bf816c16347",
+        "id": "51040a0667f760c0",
         "type": "tabs",
         "children": [
           {
-            "id": "ff25ca6a2762b82d",
+            "id": "17541d10461d02d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/computer-science/network/api/_index.md",
+                "file": "content/posts/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/computer-science/network/api/_index.md",
+                "file": "content/posts/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/computer-science/network/api/_index.md",
+                "file": "content/posts/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,29 +144,21 @@
             }
           },
           {
-            "id": "df366c3b23e6d34b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "content/posts/computer-science/network/api/_index.md"
-              }
-            }
-          },
-          {
-            "id": "88485a69d738c3d9",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "724a719b494f7024",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "df366c3b23e6d34b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/_index.md"
+              }
             }
           },
           {
@@ -178,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,22 +193,35 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "ff25ca6a2762b82d",
+  "active": "17541d10461d02d0",
   "lastOpenFiles": [
+    "content/posts/statistics/_index.md",
+    "themes/blowfish/exampleSite/content/users/technicaldc.github.io/index.md",
+    "themes/blowfish/exampleSite/content/users/technicaldc.github.io/feature.jpg",
+    "themes/blowfish/exampleSite/content/users/technicaldc.github.io",
+    "themes/blowfish/exampleSite/content/users/fm126.top/index.md",
+    "themes/blowfish/exampleSite/content/users/fm126.top/feature.jpg",
+    "themes/blowfish/exampleSite/content/users/fm126.top",
+    "themes/blowfish/exampleSite/content/users/datatodroids.tech/index.md",
+    "themes/blowfish/exampleSite/content/users/datatodroids.tech/feature.jpg",
+    "themes/blowfish/exampleSite/content/users/datatodroids.tech",
+    "themes/blowfish/exampleSite/content/users/binarydigit.cafe/index.md",
+    "themes/blowfish/exampleSite/content/users/binarydigit.cafe/feature.jpg",
+    "themes/blowfish/exampleSite/content/users/binarydigit.cafe",
+    "themes/blowfish/assets/js/zen-mode.js",
+    "themes/blowfish/assets/js/shortcodes/gallery.js",
+    "themes/blowfish/assets/js/shortcodes",
+    "themes/blowfish/assets/icons/expand.svg",
+    "themes/blowfish/assets/icons/bluesky.svg",
+    "themes/blowfish/assets/css/components/zen-mode.css",
+    "themes/blowfish/assets/css/components",
+    "_Templates/Posts-Templates.md",
+    "content/posts/computer-science/network/api/_index.md",
     "content/Management Contents.md",
     "content/posts/computer-science/qa-engineering/_index.md",
     "Untitled database.md",
     "content/posts/programming/programming-languages/javascript/nodejs/_index.md",
     "public/posts/computer-science/security/authorization/page/1/index.html",
-    "public/posts/computer-science/security/authorization/page/1",
-    "public/posts/computer-science/security/authorization/page",
-    "public/posts/computer-science/security/authorization/index.xml",
-    "public/posts/computer-science/security/authorization/index.html",
-    "public/posts/computer-science/security/authorization",
-    "public/tags/patterns/page/1/index.html",
-    "public/tags/patterns/page/1",
-    "public/tags/patterns/page",
-    "public/tags/patterns/index.xml",
     "content/posts/programming/programming-languages/javascript/nodejs/nextjs/_index.md",
     "content/posts/programming/programming-languages/javascript/nodejs/nestjs/_index.md",
     "content/posts/programming/programming-languages/javascript/nodejs/expressjs/_index.md",
@@ -232,23 +237,10 @@
     "content/posts/programming/programming-languages/python/_index.md",
     "content/posts/programming/programming-languages/python/python-packages/_index.md",
     "content/posts/programming/programming-languages/python/python-packages/data-analysis-and-manipulation/_index.md",
-    "content/posts/programming/programming-languages/typescript/typescript-packages/_index.md",
-    "content/posts/programming/programming-languages/typescript/_index.md",
-    "content/posts/programming/programming-languages/_index.md",
-    "content/posts/programming/programming-paradigm/_index.md",
-    "content/posts/programming/programming-basics/_index.md",
-    "content/posts/programming/programming-basics/폴더-구조.md",
-    "content/posts/programming/_index.md",
     "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_1320x0_resize_box_3.png",
     "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_1024x0_resize_box_3.png",
     "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_660x0_resize_box_3.png",
     "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_330x0_resize_box_3.png",
-    "resources/_gen/images/mariadb_hu9f274a49fc8c839c7f320f2382fdde67_4439_1320x0_resize_box_3.png",
-    "resources/_gen/images/mariadb_hu9f274a49fc8c839c7f320f2382fdde67_4439_1024x0_resize_box_3.png",
-    "resources/_gen/images/mariadb_hu9f274a49fc8c839c7f320f2382fdde67_4439_660x0_resize_box_3.png",
-    "resources/_gen/images/mariadb_hu9f274a49fc8c839c7f320f2382fdde67_4439_330x0_resize_box_3.png",
-    "resources/_gen/images/python_hu1c40d569e06993026ae2d64f86ec7f2f_25994_1320x0_resize_box_3.png",
-    "resources/_gen/images/kotlin_hu9b80bf116db3012adfe1ccbed6f57832_3852_1320x0_resize_box_3.png",
     "무제 파일.canvas"
   ]
 }

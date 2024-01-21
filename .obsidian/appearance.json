@@ -16,10 +16,10 @@
     "[ui] Floating Tab Header mini",
     "table",
     "Tags - hide hash symbol",
-    "Calendar",
     "[ui] Top fade",
     "[ui] Tab Header on bottom",
-    "[ui] Translucent Tab Header"
+    "[ui] Translucent Tab Header",
+    "Calendar"
   ],
   "theme": "obsidian",
   "nativeMenus": false,

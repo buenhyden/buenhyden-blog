@@ -2,6 +2,22 @@
   "recentFiles": [
     {
       "basename": "_index",
+      "path": "content/posts/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/statistics/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "basename": "Posts-Templates",
+      "path": "_Templates/Posts-Templates.md"
+    },
+    {
+      "basename": "_index",
       "path": "content/posts/computer-science/network/api/_index.md"
     },
     {
@@ -183,22 +199,6 @@
     {
       "basename": "_index",
       "path": "content/posts/dev-ops/management/observability/open-telemetry/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/observability/datadog/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/monitoring/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/logging/telegraf/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/logging/promtail/_index.md"
     }
   ],
   "omittedPaths": [],
