@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/computer-science/network/api/_index.md",
+                "file": "content/posts/dev-ops/management/observability/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CI",
+                "query": "keyclo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/computer-science/network/api/_index.md",
+                "file": "content/posts/dev-ops/management/observability/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/computer-science/network/api/_index.md",
+                "file": "content/posts/dev-ops/management/observability/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/computer-science/network/api/_index.md"
+                "file": "content/posts/dev-ops/management/observability/_index.md"
               }
             }
           },
@@ -203,8 +203,11 @@
   },
   "active": "ff25ca6a2762b82d",
   "lastOpenFiles": [
-    "content/Management Contents.md",
     "content/posts/computer-science/qa-engineering/_index.md",
+    "content/posts/computer-science/security/single-sign-on/keycloak/_index.md",
+    "content/posts/dev-ops/container/container-orchestration/kubernetes/_index.md",
+    "content/posts/computer-science/network/api/_index.md",
+    "content/Management Contents.md",
     "Untitled database.md",
     "content/posts/programming/programming-languages/javascript/nodejs/_index.md",
     "public/posts/computer-science/security/authorization/page/1/index.html",
@@ -236,9 +239,6 @@
     "content/posts/programming/programming-languages/typescript/_index.md",
     "content/posts/programming/programming-languages/_index.md",
     "content/posts/programming/programming-paradigm/_index.md",
-    "content/posts/programming/programming-basics/_index.md",
-    "content/posts/programming/programming-basics/폴더-구조.md",
-    "content/posts/programming/_index.md",
     "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_1320x0_resize_box_3.png",
     "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_1024x0_resize_box_3.png",
     "resources/_gen/images/mysql_hufef552f6a25e80935281e7f953641641_28185_660x0_resize_box_3.png",

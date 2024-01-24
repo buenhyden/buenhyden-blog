@@ -40,3 +40,7 @@ featured: true
 [SSO란(by 김정석님)](https://medium.com/twolinecode/sso%EB%9E%80-by-%EA%B9%80%EC%A0%95%EC%84%9D%EB%8B%98-62b5cc0da90d)  
 [자습서-Keycloak 설치 구성](https://nginxstore.com/blog/keycloak/%EC%9E%90%EC%8A%B5%EC%84%9C-keycloak-%EC%84%A4%EC%B9%98-%EA%B5%AC%EC%84%B1/)  
 [Keycloak 인증 서비스 개요](https://nginxstore.com/blog/keycloak/keycloak-%ec%9d%b8%ec%a6%9d-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b0%9c%ec%9a%94/)
+
+[신원확인, 통합인증관리 오픈소스 ‘키클락’을 알아보자 | 요즘IT](https://yozm.wishket.com/magazine/detail/2425/)
+[키클락 구성을 위한 기나긴 사전 작업 한번에 보기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2427/)
+[키클락을 활용한 통합 인증 실습하기 | 요즘IT](https://yozm.wishket.com/magazine/detail/2429/)

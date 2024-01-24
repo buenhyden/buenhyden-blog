@@ -29,3 +29,7 @@ featured: true
 [Grafana Monitoring 스택 LGTM 구성기 (Loki, Mimir, Tempo)](https://nyyang.tistory.com/175)  
 [모니터링에서 옵저버빌리티까지, IT 모니터링의 진화](https://www.whatap.io/ko/blog/184/index.html)  
 [Observability 톺아보기](https://www.whatap.io/ko/blog/103/index.html)
+[OpenTelemetry, Grafana, Loki, Tempo, Prometheus를 활용한 Flask Observability 구성하기 | by Paul | Medium](https://medium.com/@dudwls96/opentelemetry-grafana-loki-tempo-prometheus%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-flask-observability-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-9efc01495287)
+[OpenTelemetry, Grafana, Loki, Tempo, Prometheus를 활용한 Golang Observability 구성하기 | by Paul | Medium](https://medium.com/@dudwls96/opentelemetry-grafana-loki-tempo-prometheus%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-golang-observability-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-3cf148039c1c)
+[OpenTelemetry, Grafana, Loki, Tempo, Prometheus를 활용한 Spring Boot Observability 구성하기 | by Paul | Medium](https://medium.com/@dudwls96/opentelemetry-grafana-loki-tempo-prometheus%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-spring-boot-observability-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-f977df45bb70)
+[\[EKS\] 로그 시스템 Loki 도입을 위한 몇가지 운영 팁](https://nyyang.tistory.com/167)

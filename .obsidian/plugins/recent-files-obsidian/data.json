@@ -2,11 +2,23 @@
   "recentFiles": [
     {
       "basename": "_index",
-      "path": "content/posts/computer-science/network/api/_index.md"
+      "path": "content/posts/dev-ops/management/observability/_index.md"
     },
     {
       "basename": "_index",
       "path": "content/posts/computer-science/qa-engineering/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/computer-science/security/single-sign-on/keycloak/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/dev-ops/container/container-orchestration/kubernetes/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "content/posts/computer-science/network/api/_index.md"
     },
     {
       "basename": "_index",
@@ -178,10 +190,6 @@
     },
     {
       "basename": "_index",
-      "path": "content/posts/dev-ops/management/observability/_index.md"
-    },
-    {
-      "basename": "_index",
       "path": "content/posts/dev-ops/management/observability/open-telemetry/_index.md"
     },
     {
@@ -191,14 +199,6 @@
     {
       "basename": "_index",
       "path": "content/posts/dev-ops/management/monitoring/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/logging/telegraf/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/logging/promtail/_index.md"
     }
   ],
   "omittedPaths": [],
