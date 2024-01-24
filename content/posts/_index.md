@@ -18,3 +18,5 @@ lastmod: 2024-01-02T21:02:17
 {{< typeit tag=h2 lifeLike=true >}}
 공부한 것들을 기록해보자
 {{< /typeit >}}
+
+[GitHub - minnsane/TeachYourselfCS-KR: 컴퓨터 과학 스스로 학습하기 https://teachyourselfcs.com](https://github.com/minnsane/TeachYourselfCS-KR)

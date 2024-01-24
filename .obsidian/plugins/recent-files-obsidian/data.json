@@ -1,9 +1,6 @@
 {
   "recentFiles": [
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/observability/_index.md"
-    },
+
     {
       "basename": "_index",
       "path": "content/posts/computer-science/qa-engineering/_index.md"
@@ -191,6 +188,7 @@
     {
       "basename": "_index",
       "path": "content/posts/dev-ops/management/observability/open-telemetry/_index.md"
+<<<<<<< HEAD
     },
     {
       "basename": "_index",
@@ -199,6 +197,8 @@
     {
       "basename": "_index",
       "path": "content/posts/dev-ops/management/monitoring/_index.md"
+=======
+>>>>>>> bdb5f028c3469a95ef95700627cf51c681878b60
     }
   ],
   "omittedPaths": [],
