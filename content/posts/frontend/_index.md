@@ -60,3 +60,8 @@ lastmod: 2024-01-03T23:39:07
 [리액트 바깥의 프론트엔드(1) : 리액트 등장부터 애플리케이션 구성](https://yozm.wishket.com/magazine/detail/2357/)  
 [리액트 바깥의 프론트엔드(2) : 리액트 밖 생태계와 도구 선택법](https://yozm.wishket.com/magazine/detail/2358/)  
 [SPA란? 웹 개발 트렌드 SPA의 특징부터 구현 방법까지 모두 알려드립니다!](https://www.elancer.co.kr/blog/view?seq=214)
+[\[JS\] 클라이언트 사이드 렌더링(CSR), 서버 사이드 렌더링(SSR) 이해하기 — Contributor9](https://adjh54.tistory.com/53)
+[\[FE\] CSR(Client-Side-Rendering) vs SSR(Server-Side-Rendering) (feat. React를 중점으로)](https://velog.io/@longroadhome/FE-CSRClient-Side-Rendering-vs-SSRServer-Side-Rendering-feat.-React%EB%A5%BC-%EC%A4%91%EC%A0%90%EC%9C%BC%EB%A1%9C)
+[NAVER D2(# 어서 와, SSR은 처음이지? - 도입 편)](https://d2.naver.com/helloworld/7804182)
+[NAVER D2(# 어서 와, SSR은 처음이지? - 개발 편)](https://d2.naver.com/helloworld/2177909)
+

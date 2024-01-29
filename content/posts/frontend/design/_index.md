@@ -39,3 +39,5 @@ lastmod: 2024-01-03T23:33:21
 [2024년 웹 디자인 트렌드 8가지](https://www.openads.co.kr/content/contentDetail?contsId=12127)
 [Design Systems Database](https://designsystems.surf/)
 [Frontend Design | Brad Frost](https://bradfrost.com/blog/post/frontend-design/)
+[Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/)
+

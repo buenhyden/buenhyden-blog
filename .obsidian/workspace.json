@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "87de2ab4b14e6f94",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee8d8ed482cbf50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5ffa73987b37efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/dev-ops/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef79b89c8c6fd011",
+    "type": "split",
+    "children": [
+      {
+        "id": "3143545d7828a137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ee0bf9cc22a678",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "acfa1c1ad6f343fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74993ba1ba42009f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rendering",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f1f08cb30d4af86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f32c302458f3f5b4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24f863622a3c7bdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f4ff02ac99ed7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf38d9f5693053a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c022dea3d4660003",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/dev-ops/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a84a0532ac5a6caa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/dev-ops/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "995f451fe23f66f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf9a247d70f11cf5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/dev-ops/_index.md"
+              }
+            }
+          },
+          {
+            "id": "5014fe24fded9318",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "notion-like-tables:Create loom": false,
+      "omnisearch:Omnisearch": false,
+      "open-vscode:VSCode": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b5ffa73987b37efd",
+  "lastOpenFiles": [
+    "public/tags/data/page/1/index.html",
+    "public/tags/data/page/1",
+    "public/tags/data/page",
+    "public/tags/data/index.xml",
+    "public/tags/data/index.html",
+    "public/tags/data",
+    "public/categories/rpc/page/1/index.html",
+    "public/categories/rpc/page/1",
+    "public/categories/rpc/page",
+    "public/categories/rpc/index.xml",
+    "public/categories/rpc/index.html",
+    "public/media/images/google-protocol-buffers-xenonstack_hu0175c7d52918ba1db1f680ef8d1ac199_12058_660x0_resize_q75_h2_box_2.webp",
+    "public/media/images/google-protocol-buffers-xenonstack_hu0175c7d52918ba1db1f680ef8d1ac199_12058_330x0_resize_q75_h2_box_2.webp",
+    "resources/_gen/images/posts/statistics/featured_hu84bcfdc4c929c73fa0c18a607a01eccd_73422_1200x0_resize_q75_h2_box_2.webp",
+    "resources/_gen/images/posts/programming/featured_hu6f4ebc45538964d5f3bd43e604962ee0_128374_1200x0_resize_q75_h2_box_2.webp",
+    "resources/_gen/images/google-protocol-buffers-xenonstack_hu0175c7d52918ba1db1f680ef8d1ac199_12058_1320x0_resize_q75_h2_box_2.webp",
+    "resources/_gen/images/Apache_Thrift_architecture_hu842de2ca04f544dadf9661033647259c_122921_1320x0_resize_box_3.png",
+    "resources/_gen/images/posts/frontend/featured_hu5ec516b1e0e39dc8fe08effa3200d3ea_443523_1200x0_resize_box_3.png",
+    "resources/_gen/images/google-protocol-buffers-xenonstack_hu0175c7d52918ba1db1f680ef8d1ac199_12058_1024x0_resize_q75_h2_box_2.webp",
+    "resources/_gen/images/Apache_Thrift_architecture_hu842de2ca04f544dadf9661033647259c_122921_1024x0_resize_box_3.png",
+    "resources/_gen/images/google-protocol-buffers-xenonstack_hu0175c7d52918ba1db1f680ef8d1ac199_12058_660x0_resize_q75_h2_box_2.webp",
+    "content/posts/dev-ops/ci-cd/ci/git/_index.md",
+    "content/posts/dev-ops/ci-cd/ci/git/branching/_index.md",
+    "content/posts/backend/databases/nosql/key-value/redis/_index.md",
+    "content/posts/programming/_index.md",
+    "content/posts/data/data-engineering/airflow/_index.md",
+    "content/posts/data/_index.md",
+    "content/posts/programming/programming-languages/kotlin/_index.md",
+    "content/posts/computer-science/qa-engineering/_index.md",
+    "content/posts/frontend/design/_index.md",
+    "content/posts/frontend/_index.md",
+    "themes/hugo-theme-bootstrap/exampleSite/content/docs/advanced/purgecss/index.md",
+    "content/posts/programming/programming-languages/javascript/nodejs/nestjs/_index.md",
+    "content/posts/programming/programming-languages/javascript/react/_index.md"
+  ]
+}

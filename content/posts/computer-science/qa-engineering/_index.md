@@ -68,3 +68,4 @@ featured: true
 [Browser Stack 알아가기](https://techblog.gccompany.co.kr/broswer-stack-%EC%95%8C%EC%95%84%EA%B0%80%EA%B8%B0-ec97e09b510d)  
 [초보 개발자를 위한 디버깅 비법](https://www.whatap.io/ko/blog/145/index.html)  
 [Little's Law와 성능 테스트](https://www.whatap.io/ko/blog/63/index.html)
+[가독성 좋은 테스트 코드를 작성하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/2435/)

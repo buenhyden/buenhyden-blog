@@ -40,3 +40,4 @@ lastmod: 2024-01-03T23:32:23
 [DevOps 기능](https://cloud.google.com/architecture/devops?hl=ko)  
 [DevOps 안내서 넓고 얕은 DevOps 도입기](https://subicura.com/devops/)  
 [스타트업을 위한 최상의 데브옵스는 노옵스!](https://www.whatap.io/ko/blog/4/index.html)
+[2024년 DevOps 트렌드 5가지 알아보기 | InfoGrab, DevOps 전문 기술 기업 | 인포그랩 | GitLab기반 DevSecOps 구축,컨설팅,교육,기술지원 서비스 제공](https://insight.infograb.net/blog/2024/01/17/2024-devops-trends/)

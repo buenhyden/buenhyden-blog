@@ -39,3 +39,5 @@ authors:
 [Redis 101](https://dabeen.medium.com/redis-101-6dd36bca2ac)  
 [[Database] Redis에 대해 알아보자 (Redis 컬렉션, Sentinel, Cluster, 운영시 장애 포인트)](https://loosie.tistory.com/803)  
 [키-값 데이터베이스: Redis란 무엇입니까?](https://appmaster.io/ko/blog/ki-gabs-deiteobeiseu-redisneun-mueosibnigga)
+[\[이것이 레디스다 #2\] 레디스 설치(Cluster mode)](https://devocean.sk.com/blog/techBoardDetail.do?ID=165603&boardType=techBlog)
+[\[이것이 레디스다 #1\] 레디스 설치(Single, Master-Slave)](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=165057&searchData=&subIndex=)

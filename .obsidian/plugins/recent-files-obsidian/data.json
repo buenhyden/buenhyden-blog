@@ -1,109 +1,20 @@
 {
   "recentFiles": [
-
     {
       "basename": "_index",
-      "path": "content/posts/computer-science/qa-engineering/_index.md"
+      "path": "content/posts/dev-ops/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/posts/computer-science/security/single-sign-on/keycloak/_index.md"
+      "path": "content/posts/dev-ops/ci-cd/ci/git/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/posts/dev-ops/container/container-orchestration/kubernetes/_index.md"
+      "path": "content/posts/dev-ops/ci-cd/ci/git/branching/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/posts/computer-science/network/api/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/javascript/nodejs/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/javascript/nodejs/nextjs/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/javascript/nodejs/nestjs/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/javascript/nodejs/expressjs/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/javascript/JestJS/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/javascript/javascript-packages/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/javascript/angular/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/java/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/java/spring/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/go/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/dart/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/dart/flutter/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/kotlin/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/python/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/python/python-packages/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/python/python-packages/data-analysis-and-manipulation/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/typescript/typescript-packages/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/typescript/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-languages/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-paradigm/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/programming/programming-basics/_index.md"
-    },
-    {
-      "basename": "폴더-구조",
-      "path": "content/posts/programming/programming-basics/폴더-구조.md"
+      "path": "content/posts/backend/databases/nosql/key-value/redis/_index.md"
     },
     {
       "basename": "_index",
@@ -111,47 +22,19 @@
     },
     {
       "basename": "_index",
-      "path": "content/posts/frontend/_index.md"
+      "path": "content/posts/data/data-engineering/airflow/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/posts/frontend/web-browser/_index.md"
+      "path": "content/posts/data/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/posts/frontend/styling/_index.md"
+      "path": "content/posts/programming/programming-languages/kotlin/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/posts/frontend/styling/css/tailwind-css/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/frontend/styling/styled-component/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/frontend/styling/sass/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/frontend/styling/css/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/frontend/styling/css/bootstrap/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/frontend/pwa/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/frontend/htmx/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/frontend/html/_index.md"
+      "path": "content/posts/computer-science/qa-engineering/_index.md"
     },
     {
       "basename": "_index",
@@ -159,46 +42,19 @@
     },
     {
       "basename": "_index",
-      "path": "content/posts/frontend/design/ux/_index.md"
+      "path": "content/posts/frontend/_index.md"
+    },
+    {
+      "basename": "index",
+      "path": "themes/hugo-theme-bootstrap/exampleSite/content/docs/advanced/purgecss/index.md"
     },
     {
       "basename": "_index",
-      "path": "content/posts/frontend/design/ui/_index.md"
+      "path": "content/posts/programming/programming-languages/javascript/nodejs/nestjs/_index.md"
     },
     {
       "basename": "_index",
-      "path": "content/posts/dev-ops/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/open-tracing/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/open-tracing/zipkin/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/open-tracing/jaeger/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/observability/open-telemetry/_index.md"
-<<<<<<< HEAD
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/observability/datadog/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "content/posts/dev-ops/management/monitoring/_index.md"
-=======
->>>>>>> bdb5f028c3469a95ef95700627cf51c681878b60
+      "path": "content/posts/programming/programming-languages/javascript/react/_index.md"
     }
   ],
   "omittedPaths": [],

@@ -28,3 +28,7 @@ featured: true
 [Kotlin Official Homepage](https://kotlinlang.org/)  
 [Java 개발자의 Kotlin 기본 문법 정복기](https://velog.io/@joshuara7235/Java-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-Kotlin-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-%EA%B8%B0%EB%B3%B8%EA%B8%B0)  
 [Kotlin: 초보 앱 개발자를 위한 단계별 가이드](https://appmaster.io/ko/blog/kotlin-dangyebyeol-gaideu)
+[\[Kotlin\] Scope 함수 하나하나 이해하기 - 02](https://devocean.sk.com/blog/techBoardDetail.do?ID=165528&boardType=techBlog)
+[\[Kotlin\] Scope 함수 기본 이해하기 - 01](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=165527&searchData=&subIndex=)
+[\[Kotlin\] 함수와 Lambda 알아보기](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=165526&searchData=&subIndex=)
+

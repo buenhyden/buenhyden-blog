@@ -36,3 +36,4 @@ lastmod: 2024-01-03T23:39:14
 [프로그래밍 용어 '멱등성(Idempotent)' 알아보기](https://yozm.wishket.com/magazine/detail/2106/)  
 [개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/)  
 [멀티 스레드 프로그래밍 #1](https://www.whatap.io/ko/blog/164/index.html)
+[Python, Javascript, Go, Java 언어의 Data Structure 활용 방법 비교](https://devocean.sk.com/blog/techBoardDetail.do?ID=164614&boardType=techBlog&searchData=&page=&subIndex=%EC%B5%9C%EC%8B%A0+%EA%B8%B0%EC%88%A0+%EB%B8%94%EB%A1%9C%EA%B7%B8)

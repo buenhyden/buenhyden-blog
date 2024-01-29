@@ -28,3 +28,4 @@ summary: 데이터 공학 파이프라인을 위한 오픈 소스 워크플로 �
 [[에어플로우] 아파치 에어플로우(Apache Airflow)란?](https://6mini.github.io/data%20engineering/2021/12/29/airflow/)  
 [로컬 Airflow on K8S 구축에 Vault 곁들이기 - Airflow 개발 환경 고도화](https://blog.doctor-cha.com/buliding-local-airflow-and-apply-vault)  
 [Airflow 환경 Docker compose로 containerization하기](https://medium.com/naver-place-dev/airflow-%ED%99%98%EA%B2%BD-docker-compose%EB%A1%9C-containerization%ED%95%98%EA%B8%B0-4770addae789)
+[AIP-39: Airflow ＇schedule\_interval＇의 변신, 그리고 ＇execution\_date＇의 종말](https://devocean.sk.com/blog/techBoardDetail.do?ID=164718&boardType=techScrap&searchData=&page=&subIndex=)

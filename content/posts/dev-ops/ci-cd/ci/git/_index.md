@@ -36,3 +36,4 @@ featured: true
 [Git 기본 정복 실전 연습 – 1편 : 정의와 개념](https://www.hanl.tech/blog/git-%ea%b8%b0%eb%b3%b8-%ec%a0%95%eb%b3%b5-%ec%8b%a4%ec%a0%84-%ec%97%b0%ec%8a%b5-1%ed%8e%b8-%ec%a0%95%ec%9d%98%ec%99%80-%ea%b0%9c%eb%85%90/)  
 [Git 기본 정복 실전 연습 – 2편 : 기본명령어](https://www.hanl.tech/blog/git-%ea%b8%b0%eb%b3%b8-%ec%a0%95%eb%b3%b5-%ec%8b%a4%ec%a0%84-%ec%97%b0%ec%8a%b5-2%ed%8e%b8-%ea%b8%b0%eb%b3%b8%eb%aa%85%eb%a0%b9%ec%96%b4/)  
 [Git 실전 연습 1편 + 2편 개봉!](https://www.hanl.tech/blog/git-%ea%b8%b0%eb%b3%b8-%ec%a0%95%eb%b3%b5-%ec%8b%a4%ec%a0%84-%ec%97%b0%ec%8a%b5-1%ed%8e%b8-2%ed%8e%b8-%ea%b0%9c%eb%b4%89/)
+[Git Branch 전략 비교 - Git Flow vs GitHub Flow](https://devocean.sk.com/blog/techBoardDetail.do?ID=165571&boardType=techBlog)
