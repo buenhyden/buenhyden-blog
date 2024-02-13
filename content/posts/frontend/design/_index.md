@@ -40,4 +40,4 @@ lastmod: 2024-01-03T23:33:21
 [Design Systems Database](https://designsystems.surf/)
 [Frontend Design | Brad Frost](https://bradfrost.com/blog/post/frontend-design/)
 [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/)
-
+[AI를 활용한 UX/UI 디자인 시스템 설계 및 적용](https://brunch.co.kr/@ghidesigner/125)

@@ -38,3 +38,4 @@ authors:
 [실시간 API 보안의 중요성](https://nginxstore.com/blog/api-gateway/%ec%8b%a4%ec%8b%9c%ea%b0%84-api-%eb%b3%b4%ec%95%88%ec%9d%98-%ec%a4%91%ec%9a%94%ec%84%b1/)  
 [API 개발자 경험이 중요한 이유](https://nginxstore.com/blog/api-gateway/api-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ea%b2%bd%ed%97%98%ec%9d%b4-%ec%a4%91%ec%9a%94%ed%95%9c-%ec%9d%b4%ec%9c%a0/)
 [REST API의 이해와 설계-#3 API 보안](https://bcho.tistory.com/955)
+[URL의 구성요소는 무엇인가요?  |  Articles  |  web.dev](https://web.dev/articles/url-parts?hl=ko)

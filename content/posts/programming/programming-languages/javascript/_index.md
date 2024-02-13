@@ -50,3 +50,4 @@ featured: true
 [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)  
 [▲ GN⁺: 현대적인 JavaScript 프레임워크의 작동 원리를 직접 만들면서 배우기](https://news.hada.io/topic?id=12164)  
 [[JS]DOM 쉽게 이해하기!! 고척스카이돔 아닙니다](https://kingofbackend.tistory.com/25?category=913227)
+[javascript - callback, promise, async & await, 비동기 활용하기](https://velog.io/@qlgks1/javascript-callback-promise-async-await-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
